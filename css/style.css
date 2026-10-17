@@ -210,3 +210,8 @@ header,header.s{background:#fff!important;box-shadow:0 2px 14px rgba(10,29,63,.1
 .wtb td.g{background:#eef4fc;color:var(--navy);font-weight:700;width:140px}
 .wtb td.y{text-align:center;font-weight:800;color:var(--blue);font-size:17px;width:90px}
 @media(max-width:700px){.wk{grid-template-columns:1fr}}
+/* ===== nội dung động ===== */
+.news .nimg{width:100%;height:180px;object-fit:cover;border-radius:10px;margin-bottom:14px}
+.prj{background:#fff;border:1px solid var(--line);border-radius:16px;overflow:hidden}.prj img{width:100%;height:210px;object-fit:cover;display:block}
+.prj .pb{padding:20px}.prj small{color:var(--blue);font-weight:700}.prj h3{color:var(--navy);margin:6px 0;font-size:19px}.prj em{display:block;color:var(--mut);font-size:14px;margin-bottom:8px}.prj p{color:var(--mut);font-size:15px}
+.job{background:#fff;border:1px solid var(--line);border-radius:16px;padding:24px;display:flex;flex-direction:column;gap:8px;align-items:flex-start}.job h3{color:var(--navy)}.job small{color:var(--blue);font-weight:700}.job p{color:var(--mut)}

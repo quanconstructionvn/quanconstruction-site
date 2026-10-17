@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 Disallow: /hr/
+Disallow: /admin/
 Sitemap: https://quanconstruction.biz.vn/sitemap.xml

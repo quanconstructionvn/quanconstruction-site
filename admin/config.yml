@@ -1,0 +1,74 @@
+# Người tạo: Quang Mai Phú
+backend:
+  name: github
+  repo: quanconstructionvn/quanconstruction-site
+  branch: main
+  commit_messages:
+    create: "Thêm {{collection}} – {{slug}} (quản trị web)"
+    update: "Cập nhật {{collection}} – {{slug}} (quản trị web)"
+    delete: "Xóa {{collection}} – {{slug}} (quản trị web)"
+site_url: https://quanconstruction.biz.vn
+display_url: https://quanconstruction.biz.vn
+locale: vi
+media_folder: img/uploads
+public_folder: /img/uploads
+collections:
+  - name: tin-tuc
+    label: Tin tức
+    label_singular: Tin
+    files:
+      - name: tin-tuc
+        label: Danh sách tin tức
+        file: content/tin-tuc.json
+        format: json
+        fields:
+          - label: Các bài tin
+            name: items
+            widget: list
+            label_singular: bài tin
+            summary: "{{fields.date}} – {{fields.title}}"
+            fields:
+              - { label: Ngày đăng, name: date, widget: string, hint: "Ví dụ: 03/04/2026" }
+              - { label: Tiêu đề, name: title, widget: string }
+              - { label: Tóm tắt ngắn, name: summary, widget: text }
+              - { label: Nội dung đầy đủ, name: body, widget: text, required: false }
+              - { label: Ảnh minh họa, name: image, widget: image, required: false }
+  - name: cong-trinh
+    label: Công trình
+    files:
+      - name: cong-trinh
+        label: Danh sách công trình
+        file: content/cong-trinh.json
+        format: json
+        fields:
+          - label: Các công trình
+            name: items
+            widget: list
+            label_singular: công trình
+            summary: "{{fields.category}} – {{fields.title}}"
+            fields:
+              - { label: Tên công trình, name: title, widget: string }
+              - { label: Loại công trình, name: category, widget: select, options: ["Dân dụng", "Công nghiệp", "Nhôm kính"] }
+              - { label: Địa điểm, name: location, widget: string, required: false }
+              - { label: Năm thực hiện, name: year, widget: string, required: false }
+              - { label: Mô tả ngắn, name: summary, widget: text }
+              - { label: Ảnh công trình, name: image, widget: image, required: false }
+  - name: tuyen-dung
+    label: Tuyển dụng
+    files:
+      - name: tuyen-dung
+        label: Vị trí đang tuyển
+        file: content/tuyen-dung.json
+        format: json
+        fields:
+          - label: Các vị trí
+            name: items
+            widget: list
+            label_singular: vị trí
+            summary: "{{fields.title}}"
+            fields:
+              - { label: Vị trí, name: title, widget: string }
+              - { label: Số lượng, name: quantity, widget: string, required: false }
+              - { label: Nơi làm việc, name: place, widget: string, required: false }
+              - { label: Mô tả công việc / yêu cầu, name: desc, widget: text }
+              - { label: Hạn nộp hồ sơ, name: deadline, widget: string, required: false }

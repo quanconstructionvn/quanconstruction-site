@@ -17,4 +17,5 @@ var EXEC="https://script.google.com/macros/s/AKfycbxeHVkmtZW-s8Rh3kkJuW7T6iyUBig
 var f=document.getElementById('f');f.src=EXEC;document.getElementById('d').href=EXEC;
 f.onload=function(){document.getElementById('ld').style.display='none';document.getElementById('fb').style.display='none'};
 setTimeout(function(){document.getElementById('fb').style.zIndex=9},4000);
+if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('sw.js',{scope:'/hr/'}).catch(function(){})})}
 </script></body></html>

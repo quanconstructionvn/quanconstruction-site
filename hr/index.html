@@ -13,7 +13,7 @@ iframe{position:fixed;inset:0;width:100%;height:100%;border:0;background:#fff}
 <div id="fb">Không mở được? <a id="d" target="_blank" rel="noopener">Mở trực tiếp</a></div>
 <script>
 // DÁN link /exec của Apps Script vào đây:
-var EXEC="DÁN_LINK_EXEC_VÀO_ĐÂY";
+var EXEC="https://script.google.com/macros/s/AKfycbxeHVkmtZW-s8Rh3kkJuW7T6iyUBig4-1-4rxOk7RgiSeOSglru6XPoLREV2Ktmvve1/exec";
 var f=document.getElementById('f');f.src=EXEC;document.getElementById('d').href=EXEC;
 f.onload=function(){document.getElementById('ld').style.display='none';document.getElementById('fb').style.display='none'};
 setTimeout(function(){document.getElementById('fb').style.zIndex=9},4000);

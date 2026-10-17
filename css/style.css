@@ -220,3 +220,18 @@ header,header.s{background:#fff!important;box-shadow:0 2px 14px rgba(10,29,63,.1
 .tb a.lg:hover{background:var(--amber);color:var(--navy);border-color:var(--amber)}
 .lgs{display:flex;align-items:center;justify-content:center;gap:8px;margin-top:14px;font-size:13px;font-weight:700}
 .lgs a{padding:2px 6px!important;margin:0!important;opacity:.6;border-radius:4px}.lgs a.on{opacity:1;background:var(--amber);color:var(--navy)!important}.lgs i{opacity:.4;font-style:normal}
+/* Người tạo: Quang Mai Phú – nút chọn ngôn ngữ dạng cờ, đặt góc dưới menu */
+.lgs{display:flex;gap:8px;justify-content:center;margin-top:14px;font-size:13px}
+.lgs i{display:none}
+.lgs a,.lgs a.on{display:inline-flex!important;align-items:center;gap:8px;padding:7px 12px!important;margin:0!important;border:1.5px solid rgba(255,255,255,.35);border-radius:999px;font-weight:700;opacity:.75;background:transparent;color:inherit!important;text-transform:none!important;letter-spacing:0!important;transition:.2s}
+.lgs a:hover{opacity:1;transform:translateY(-1px)}
+.lgs a.on{opacity:1;background:#fff!important;border-color:var(--amber);box-shadow:0 0 0 2px var(--amber)}
+.lgs .fl{width:22px;height:15px;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.18);flex:none}
+.lgs a.on span{color:var(--navy)}
+@media(min-width:1001px){
+ .lgs{position:fixed;left:0;bottom:0;width:230px;margin:0;padding:14px 12px;background:#fff;border-top:1px solid var(--line);z-index:5}
+ .lgs a{border-color:var(--line);color:var(--navy)!important;opacity:1;background:#f4f7fc}
+ .lgs a.on{background:#fff!important}
+ header nav{padding-bottom:70px}
+}
+@media(max-width:1000px){.lgs a{color:#fff!important;opacity:.9}.lgs a.on{color:var(--navy)!important}}

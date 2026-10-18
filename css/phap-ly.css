@@ -1,0 +1,80 @@
+/* Người tạo: Quang Mai Phú – Trang Tra cứu pháp luật xây dựng (phap-ly.html) */
+.pl-tools{display:flex;gap:12px;flex-wrap:wrap;align-items:stretch;background:#fff;border:1px solid var(--line);border-radius:16px;padding:14px;box-shadow:0 10px 30px rgba(10,29,63,.07);margin-top:-46px;position:relative;z-index:3}
+.pl-tools input,.pl-tools select{margin:0;flex:1 1 260px;font-size:16px}
+.pl-tools select{flex:0 1 230px}
+.pl-tools .btn{padding:13px 24px}
+.pl-hint{font-size:13.5px;color:var(--mut);margin:12px 4px 0}
+.pl-hint button{background:none;border:0;color:var(--blue);font:inherit;font-weight:600;cursor:pointer;padding:0 4px;text-decoration:underline dotted}
+.pl-chips{display:flex;gap:8px;flex-wrap:wrap;margin:26px 0 8px}
+.pl-chips button{border:1.5px solid var(--line);background:#fff;border-radius:999px;padding:7px 14px;font:inherit;font-size:13.5px;font-weight:600;color:var(--navy);cursor:pointer}
+.pl-chips button b{color:var(--blue);margin-right:6px;font-weight:800}
+.pl-chips button[aria-pressed="true"]{background:var(--navy);border-color:var(--navy);color:#fff}
+.pl-chips button[aria-pressed="true"] b{color:var(--amber)}
+.pl-meta{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font-size:13.5px;color:var(--mut);margin:6px 2px 18px}
+.pl-meta label{display:inline-flex;gap:6px;align-items:center;font-weight:500;color:var(--mut);margin:0;font-size:13.5px}
+.pl-meta input{width:auto;margin:0}
+.pl-grp{margin-top:34px}
+.pl-grp h2{display:flex;align-items:baseline;gap:12px;font-size:21px;color:var(--navy);margin-bottom:14px}
+.pl-grp h2 span{font-size:13px;font-weight:800;color:#fff;background:var(--blue);border-radius:6px;padding:3px 9px;letter-spacing:.04em}
+.pl-grp h2 small{font-size:13px;font-weight:500;color:var(--mut)}
+.pl-list{border:1px solid var(--line);border-radius:14px;overflow:hidden;background:#fff}
+.pl-row{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:10px 18px;padding:16px 18px;border-top:1px solid var(--line);align-items:center}
+.pl-row:first-child{border-top:0}
+.pl-row .sh2{font-weight:800;color:var(--navy);font-size:15.5px}
+.pl-row .sh2 em{font-style:normal;font-weight:600;color:var(--blue);font-size:12px;background:#eaf1fb;border-radius:4px;padding:1px 7px;margin-left:8px;vertical-align:2px}
+.pl-row p{color:#33425f;font-size:14.5px;margin-top:2px}
+.pl-row .mt{display:flex;gap:6px 14px;flex-wrap:wrap;font-size:12.5px;color:var(--mut);margin-top:6px}
+.pl-row .act{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+.pl-row .act a,.pl-row .act button{font:inherit;font-size:13.5px;font-weight:700;border-radius:8px;padding:8px 14px;text-decoration:none;cursor:pointer;white-space:nowrap}
+.pl-row .act .rd{background:var(--navy);color:#fff;border:0}
+.pl-row .act .rd:hover{background:var(--blue)}
+.pl-row .act .ex{border:1.5px solid var(--line);color:var(--navy);background:#fff}
+.pl-row .act .ex:hover{border-color:var(--blue);color:var(--blue)}
+.st{display:inline-block;font-size:11.5px;font-weight:700;border-radius:999px;padding:1px 9px}
+.st.con{background:#e3f3ea;color:#1c7448}.st.het{background:#eef1f5;color:#6b778b;text-decoration:line-through}.st.chua{background:#e3ebf8;color:#14509a}.st.mp{background:#fdf1dc;color:#9a5b00}
+@media(max-width:700px){.pl-row{grid-template-columns:1fr}.pl-row .act{justify-content:flex-start}}
+/* kết quả tìm kiếm */
+.pl-res{margin-top:28px}
+.pl-res h2{font-size:20px;color:var(--navy);margin-bottom:12px}
+.pl-hit{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin-bottom:10px;cursor:pointer;font:inherit;color:inherit;transition:.15s}
+.pl-hit:hover{border-color:var(--blue);box-shadow:0 8px 22px rgba(10,29,63,.08)}
+.pl-hit .t{font-weight:800;color:var(--navy)}
+.pl-hit .v{font-size:12.5px;color:var(--blue);font-weight:700;margin-bottom:2px}
+.pl-hit .s{font-family:"Noto Serif",Georgia,serif;font-size:14.5px;color:#46546f;margin-top:4px}
+mark{background:#ffe7a8;color:inherit;border-radius:2px;padding:0 1px}
+.pl-empty{border:2px dashed #b9c8de;border-radius:16px;padding:30px;text-align:center;color:var(--mut);background:#fff}
+.pl-empty b{display:block;color:var(--navy);margin-bottom:4px}
+.pl-load{display:flex;gap:10px;align-items:center;color:var(--mut);padding:14px 2px}
+.spin{width:18px;height:18px;border:2.5px solid var(--line);border-top-color:var(--blue);border-radius:50%;animation:spn .8s linear infinite;flex:none}
+@keyframes spn{to{transform:rotate(360deg)}}
+.pl-note{background:#fff8e6;border:1px solid #f5d98f;border-radius:14px;padding:18px 20px;color:#5a4a1e;font-size:14.5px;margin-top:40px}
+.pl-note b{color:#7a5a00}
+/* trình đọc văn bản */
+.rd-ov{position:fixed;inset:0;z-index:100;background:rgba(10,29,63,.55);display:flex;justify-content:center;align-items:stretch;padding:24px}
+.rd-ov[hidden]{display:none}
+.rdbox{background:#fff;border-radius:18px;width:min(1180px,100%);display:grid;grid-template-rows:auto minmax(0,1fr);overflow:hidden;box-shadow:0 30px 80px rgba(0,0,0,.35)}
+.rd-hd{display:flex;gap:14px;align-items:flex-start;padding:18px 22px;border-bottom:1px solid var(--line)}
+.rd-hd h2{font-size:19px;color:var(--navy)}
+.rd-hd p{font-size:13.5px;color:var(--mut);margin-top:2px}
+.rd-hd .sp{flex:1}
+.rd-hd button,.rd-hd a{font:inherit;font-size:13.5px;font-weight:700;border-radius:8px;padding:8px 14px;cursor:pointer;text-decoration:none;white-space:nowrap;border:1.5px solid var(--line);background:#fff;color:var(--navy)}
+.rd-hd .x{background:var(--navy);color:#fff;border-color:var(--navy)}
+.rd-bd{display:grid;grid-template-columns:290px minmax(0,1fr);min-height:0}
+.rd-toc{border-right:1px solid var(--line);overflow-y:auto;padding:10px 8px;background:#f8fafd}
+.rd-toc input{margin:4px 4px 8px;width:calc(100% - 8px);padding:9px 11px;font-size:14px}
+.rd-toc a{display:block;padding:6px 10px;border-radius:7px;font-size:13.5px;color:#33425f;text-decoration:none;line-height:1.4}
+.rd-toc a:hover,.rd-toc a.on{background:#e3ebf8;color:var(--blue)}
+.rd-toc .ch{font-size:11.5px;font-weight:800;letter-spacing:.05em;text-transform:uppercase;color:var(--blue);padding:12px 10px 4px}
+.rd-tx{overflow-y:auto;padding:26px clamp(18px,4vw,48px) 60px;font-family:"Noto Serif",Georgia,serif;font-size:16px;line-height:1.8;color:#1d2a44}
+.rd-tx article{padding:18px 0;border-top:1px solid #eef2f8;scroll-margin-top:12px}
+.rd-tx article:first-child{border-top:0}
+.rd-tx article.hl{background:linear-gradient(90deg,#fff8e6,transparent 70%);margin:0 -16px;padding:18px 16px;border-radius:10px}
+.rd-tx h3{font-family:"Be Vietnam Pro",system-ui,sans-serif;font-size:16.5px;color:var(--navy);margin-bottom:8px;display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.rd-tx h3 button{margin-left:auto;font:600 12.5px "Be Vietnam Pro",system-ui,sans-serif;color:var(--blue);background:#eaf1fb;border:0;border-radius:6px;padding:4px 10px;cursor:pointer}
+.rd-tx .bd{white-space:pre-wrap;overflow-wrap:anywhere}
+.rd-tx .chp{font-family:"Be Vietnam Pro",system-ui,sans-serif;font-weight:800;color:var(--blue);font-size:13px;letter-spacing:.06em;text-transform:uppercase;margin:26px 0 4px}
+.rd-src{font-family:"Be Vietnam Pro",system-ui,sans-serif;font-size:13px;color:var(--mut);border-top:1px dashed var(--line);margin-top:30px;padding-top:14px}
+@media(max-width:860px){.rd-ov{padding:0}.rdbox{border-radius:0}.rd-bd{grid-template-columns:1fr}.rd-toc{display:none}.rd-hd{flex-wrap:wrap}}
+.pl-toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--navy);color:#fff;padding:10px 18px;border-radius:10px;font-size:14px;z-index:120}
+.pl-toast[hidden]{display:none}
+@media(max-width:560px){.pl-tools select,.pl-tools .btn{flex:1 1 100%}.pl-tools .btn{justify-content:center}}

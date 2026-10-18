@@ -1,5 +1,6 @@
 /* Người tạo: Quang Mai Phú – Tra cứu pháp luật xây dựng, nhà ở & đất đai (Quan Construction)
    Cập nhật 18/10/2026 (Quang Mai Phú): thêm nhóm D–H (đất đai, nhà ở, quy hoạch, thuế phí, xử phạt), lọc lĩnh vực, Hành trình pháp lý một ngôi nhà
+   Cập nhật 18/10/2026 (Quang Mai Phú): gửi sự kiện thống kê xem_van_ban, search (Google Analytics)
    Dữ liệu: phap-ly/danh-muc.json + phap-ly/van-ban/<id>.json (mỗi điều: [số điều, tiêu đề, nội dung, chương])
    Nguồn toàn văn: Cổng Pháp luật quốc gia (phapluat.gov.vn) */
 (function(){
@@ -55,6 +56,7 @@ function loadText(id){if(S.texts[id])return Promise.resolve(S.texts[id]);
     var arts=a.map(function(x){return{dieu:x[0],tieuDe:x[1],noiDung:x[2],chuong:x[3],lawId:id,_f:fold(x[1]+" "+x[2]),_t:fold(x[1])}});S.texts[id]=arts;return arts})}
 var cur=null;
 function openDoc(id,dieu){var l=S.byId[id];if(!l)return;
+  if(window.qcTk)qcTk("xem_van_ban",{van_ban:name(l),dieu:dieu?String(dieu):"",nhom:l.nhom});
   $("#rdT").textContent=name(l);$("#rdS").textContent=l.ten+" · Hiệu lực "+fmt(l.hieuLucTu)+(l.hieuLucDen?" → "+fmt(l.hieuLucDen):"");
   var lk=$("#rdLink");if(l.linkCong){lk.href=l.linkCong;lk.hidden=false}else lk.hidden=true;
   $("#rdTx").innerHTML='<div class="pl-load"><span class="spin"></span>Đang tải toàn văn…</div>';$("#rdToc").innerHTML="";
@@ -96,6 +98,7 @@ function search(){var q=$("#plQ").value.trim();var box=$("#plRes");
   if(!q){box.innerHTML="";box.hidden=true;$("#plCat").hidden=false;return}
   box.hidden=false;$("#plCat").hidden=true;
   var scope=$("#plScope").value;
+  if(window.qcTk)qcTk("search",{search_term:q});
   var area=$("#plArea").value;
   var laws=S.laws.filter(function(l){return l.soDieu>0&&(scope==="all"||status(l)==="con")&&(area==="all"||(area==="nha")===!!NHA[l.nhom])});
   box.innerHTML='<div class="pl-load"><span class="spin"></span>Đang tìm trong '+laws.length+' văn bản…</div>';

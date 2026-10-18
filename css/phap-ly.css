@@ -78,3 +78,17 @@ mark{background:#ffe7a8;color:inherit;border-radius:2px;padding:0 1px}
 .pl-toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--navy);color:#fff;padding:10px 18px;border-radius:10px;font-size:14px;z-index:120}
 .pl-toast[hidden]{display:none}
 @media(max-width:560px){.pl-tools select,.pl-tools .btn{flex:1 1 100%}.pl-tools .btn{justify-content:center}}
+/* Cập nhật 18/10/2026 – Quang Mai Phú: Hành trình pháp lý một ngôi nhà */
+.pl-tools select#plArea{flex:0 1 210px}
+.ht{margin:34px 0 6px;padding:0}
+.ht h2{font-size:23px;color:var(--navy)}
+.ht-sub{color:var(--mut);font-size:14.5px;margin:4px 0 16px}
+.ht-g{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+.ht-g>li{background:#fff;border:1px solid var(--line);border-radius:14px;padding:16px 18px;position:relative}
+.ht-n{width:30px;height:30px;border-radius:50%;background:var(--navy);color:var(--amber);font-weight:800;display:grid;place-items:center;font-size:14px;margin-bottom:8px}
+.ht-g h3{font-size:16.5px;color:var(--navy);margin-bottom:4px}
+.ht-g p{font-size:13.5px;color:var(--mut);margin-bottom:8px}
+.ht-g ul{list-style:none;margin:0;padding:0}
+.ht-g ul li{border-top:1px dashed var(--line)}
+.ht-g ul a{display:block;padding:7px 0;font-size:13.5px;color:#26406b;text-decoration:none;line-height:1.45}
+.ht-g ul a:hover{color:var(--blue);text-decoration:underline}

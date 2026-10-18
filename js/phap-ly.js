@@ -1,4 +1,5 @@
-/* Người tạo: Quang Mai Phú – Tra cứu pháp luật xây dựng (Quan Construction)
+/* Người tạo: Quang Mai Phú – Tra cứu pháp luật xây dựng, nhà ở & đất đai (Quan Construction)
+   Cập nhật 18/10/2026 (Quang Mai Phú): thêm nhóm D–H (đất đai, nhà ở, quy hoạch, thuế phí, xử phạt), lọc lĩnh vực, Hành trình pháp lý một ngôi nhà
    Dữ liệu: phap-ly/danh-muc.json + phap-ly/van-ban/<id>.json (mỗi điều: [số điều, tiêu đề, nội dung, chương])
    Nguồn toàn văn: Cổng Pháp luật quốc gia (phapluat.gov.vn) */
 (function(){
@@ -9,7 +10,8 @@ var fold=function(s){return String(s||"").normalize("NFD").replace(/[̀-ͯ]/g,""
 var p2=function(n){return(n<10?"0":"")+n};
 var d=new Date(),TODAY=d.getFullYear()+"-"+p2(d.getMonth()+1)+"-"+p2(d.getDate());
 var fmt=function(x){return x?x.split("-").reverse().join("/"):"—"};
-var GROUPS=[["A","A","Nền tảng pháp lý – Văn bản Luật"],["B1","B.I","Quản lý hoạt động xây dựng"],["B2","B.II","Quản lý chi phí đầu tư xây dựng"],["B3","B.III","Quản lý hợp đồng xây dựng"],["B4","B.IV","Quản lý chất lượng, thi công và bảo trì"],["B5","B.V","Quản lý vật liệu xây dựng"],["B6","B.VI","Năng lực, hệ thống thông tin & CSDL"],["B7","B.VII","Thanh toán – Quyết toán vốn đầu tư dự án"],["C","C","Pháp luật dân sự, thương mại, đấu thầu"]];
+var GROUPS=[["A","A","Nền tảng pháp lý – Văn bản Luật"],["B1","B.I","Quản lý hoạt động xây dựng"],["B2","B.II","Quản lý chi phí đầu tư xây dựng"],["B3","B.III","Quản lý hợp đồng xây dựng"],["B4","B.IV","Quản lý chất lượng, thi công và bảo trì"],["B5","B.V","Quản lý vật liệu xây dựng"],["B6","B.VI","Năng lực, hệ thống thông tin & CSDL"],["B7","B.VII","Thanh toán – Quyết toán vốn đầu tư dự án"],["C","C","Pháp luật dân sự, thương mại, đấu thầu"],["D","D","Đất đai & Giấy chứng nhận (sổ đỏ)"],["E","E","Nhà ở & kinh doanh bất động sản"],["F","F","Quy hoạch đô thị và nông thôn"],["G","G","Công chứng, thuế & lệ phí nhà đất"],["H","H","Xử phạt vi phạm hành chính"]];
+var NHA={D:1,E:1,F:1,G:1,H:1};
 var GM={};GROUPS.forEach(function(g){GM[g[0]]=g});
 var S={laws:[],byId:{},texts:{},group:"all",showOld:false};
 function status(l){if(l.hieuLucTu&&TODAY<l.hieuLucTu)return"chua";if(l.hieuLucDen&&TODAY>=l.hieuLucDen)return"het";return"con"}
@@ -94,7 +96,8 @@ function search(){var q=$("#plQ").value.trim();var box=$("#plRes");
   if(!q){box.innerHTML="";box.hidden=true;$("#plCat").hidden=false;return}
   box.hidden=false;$("#plCat").hidden=true;
   var scope=$("#plScope").value;
-  var laws=S.laws.filter(function(l){return l.soDieu>0&&(scope==="all"||status(l)==="con")});
+  var area=$("#plArea").value;
+  var laws=S.laws.filter(function(l){return l.soDieu>0&&(scope==="all"||status(l)==="con")&&(area==="all"||(area==="nha")===!!NHA[l.nhom])});
   box.innerHTML='<div class="pl-load"><span class="spin"></span>Đang tìm trong '+laws.length+' văn bản…</div>';
   Promise.all(laws.map(function(l){return loadText(l.id).catch(function(){return[]})})).then(function(all){
     var ts=terms(q),sn=fold(q).trim(),hits=[];
@@ -109,6 +112,7 @@ function search(){var q=$("#plQ").value.trim();var box=$("#plRes");
     $("#plBack").onclick=function(){$("#plQ").value="";search()};
   });
 }
+$$("#hanh-trinh a[data-vb]").forEach(function(a){a.onclick=function(e){if(!S.byId[a.dataset.vb])return;e.preventDefault();openDoc(a.dataset.vb,a.dataset.dieu)}});
 $("#plForm").onsubmit=function(e){e.preventDefault();search()};
 $$("#plEx button").forEach(function(b){b.onclick=function(){$("#plQ").value=b.textContent;search()}});
 })();

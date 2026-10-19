@@ -25,7 +25,7 @@ function copy(t){var ok=function(){toast("Đã sao chép")};if(navigator.clipboa
   function fb(){var a=document.createElement("textarea");a.value=t;document.body.appendChild(a);a.select();try{document.execCommand("copy");ok()}catch(e){toast("Hãy bôi đen để sao chép")}a.remove()}}
 
 /* ---------- Danh mục ---------- */
-fetch("phap-ly/danh-muc.json").then(function(r){return r.json()}).then(function(j){
+fetch("phap-ly/danh-muc.json?t="+Math.floor(Date.now()/36e5)).then(function(r){return r.json()}).then(function(j){
   S.laws=j.vanBan;S.laws.forEach(function(l){S.byId[l.id]=l});
   $("#plUpd").textContent=fmt(j.capNhat);
   renderChips();renderList();openFromUrl();

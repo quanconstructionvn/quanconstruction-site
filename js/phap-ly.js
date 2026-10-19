@@ -1,5 +1,6 @@
 /* Người tạo: Quang Mai Phú – Tra cứu pháp luật xây dựng, nhà ở & đất đai (Quan Construction)
    Cập nhật 18/10/2026 (Quang Mai Phú): thêm nhóm D–H (đất đai, nhà ở, quy hoạch, thuế phí, xử phạt), lọc lĩnh vực, Hành trình pháp lý một ngôi nhà
+   Cập nhật 19/10/2026 (Quang Mai Phú): thêm nhóm I Kiến trúc, J PCCC & CNCH; lọc "Quy hoạch, kiến trúc & PCCC"
    Cập nhật 18/10/2026 (Quang Mai Phú): gửi sự kiện thống kê xem_van_ban, search (Google Analytics)
    Dữ liệu: phap-ly/danh-muc.json + phap-ly/van-ban/<id>.json (mỗi điều: [số điều, tiêu đề, nội dung, chương])
    Nguồn toàn văn: Cổng Pháp luật quốc gia (phapluat.gov.vn) */
@@ -11,8 +12,9 @@ var fold=function(s){return String(s||"").normalize("NFD").replace(/[̀-ͯ]/g,""
 var p2=function(n){return(n<10?"0":"")+n};
 var d=new Date(),TODAY=d.getFullYear()+"-"+p2(d.getMonth()+1)+"-"+p2(d.getDate());
 var fmt=function(x){return x?x.split("-").reverse().join("/"):"—"};
-var GROUPS=[["A","A","Nền tảng pháp lý – Văn bản Luật"],["B1","B.I","Quản lý hoạt động xây dựng"],["B2","B.II","Quản lý chi phí đầu tư xây dựng"],["B3","B.III","Quản lý hợp đồng xây dựng"],["B4","B.IV","Quản lý chất lượng, thi công và bảo trì"],["B5","B.V","Quản lý vật liệu xây dựng"],["B6","B.VI","Năng lực, hệ thống thông tin & CSDL"],["B7","B.VII","Thanh toán – Quyết toán vốn đầu tư dự án"],["C","C","Pháp luật dân sự, thương mại, đấu thầu"],["D","D","Đất đai & Giấy chứng nhận (sổ đỏ)"],["E","E","Nhà ở & kinh doanh bất động sản"],["F","F","Quy hoạch đô thị và nông thôn"],["G","G","Công chứng, thuế & lệ phí nhà đất"],["H","H","Xử phạt vi phạm hành chính"]];
-var NHA={D:1,E:1,F:1,G:1,H:1};
+var GROUPS=[["A","A","Nền tảng pháp lý – Văn bản Luật"],["B1","B.I","Quản lý hoạt động xây dựng"],["B2","B.II","Quản lý chi phí đầu tư xây dựng"],["B3","B.III","Quản lý hợp đồng xây dựng"],["B4","B.IV","Quản lý chất lượng, thi công và bảo trì"],["B5","B.V","Quản lý vật liệu xây dựng"],["B6","B.VI","Năng lực, hệ thống thông tin & CSDL"],["B7","B.VII","Thanh toán – Quyết toán vốn đầu tư dự án"],["C","C","Pháp luật dân sự, thương mại, đấu thầu"],["D","D","Đất đai & Giấy chứng nhận (sổ đỏ)"],["E","E","Nhà ở & kinh doanh bất động sản"],["F","F","Quy hoạch đô thị và nông thôn"],["G","G","Công chứng, thuế & lệ phí nhà đất"],["H","H","Xử phạt vi phạm hành chính"],["I","I","Kiến trúc"],["J","J","Phòng cháy, chữa cháy & cứu nạn, cứu hộ"]];
+var AREA={D:"nha",E:"nha",G:"nha",H:"nha",F:"kt",I:"kt",J:"kt"};
+function dl(d){d=String(d==null?"":d);return /^\d+[a-zđ]?$/i.test(d)?"Điều "+d:(/^PL\s/.test(d)?"Phụ lục "+d.slice(3):(/^P\d+$/.test(d)?"Phần "+d.slice(1):"Mục "+d))}
 var GM={};GROUPS.forEach(function(g){GM[g[0]]=g});
 var S={laws:[],byId:{},texts:{},group:"all",showOld:false};
 function status(l){if(l.hieuLucTu&&TODAY<l.hieuLucTu)return"chua";if(l.hieuLucDen&&TODAY>=l.hieuLucDen)return"het";return"con"}
@@ -64,14 +66,14 @@ function openDoc(id,dieu){var l=S.byId[id];if(!l)return;
   loadText(id).then(function(arts){cur={l:l,arts:arts};
     var ch="",toc='<input type="search" id="rdF" placeholder="Lọc theo tên điều…" aria-label="Lọc điều">',tx="";
     arts.forEach(function(a){if(a.chuong&&a.chuong!==ch){ch=a.chuong;toc+='<div class="ch">'+esc(ch.split(" – ")[0])+'</div>';tx+='<div class="chp">'+esc(ch)+'</div>'}
-      toc+='<a href="#d'+esc(a.dieu)+'" data-d="'+esc(a.dieu)+'">Điều '+esc(a.dieu)+'. '+esc(a.tieuDe)+'</a>';
-      tx+='<article id="d'+esc(a.dieu)+'"><h3>Điều '+esc(a.dieu)+'. '+esc(a.tieuDe)+'<button type="button" data-cp="'+esc(a.dieu)+'">Sao chép trích dẫn</button></h3><div class="bd">'+esc(a.noiDung)+'</div></article>'});
-    tx+='<div class="rd-src">Nguồn toàn văn: Cổng Pháp luật quốc gia (phapluat.gov.vn). Văn bản trình bày theo từng Điều, chưa gồm phụ lục, biểu mẫu. Khi sử dụng chính thức, vui lòng đối chiếu bản gốc trên Cổng.</div>';
+      toc+='<a href="#d'+esc(a.dieu)+'" data-d="'+esc(a.dieu)+'">'+esc(dl(a.dieu))+'. '+esc(a.tieuDe)+'</a>';
+      tx+='<article id="d'+esc(a.dieu)+'"><h3>'+esc(dl(a.dieu))+'. '+esc(a.tieuDe)+'<button type="button" data-cp="'+esc(a.dieu)+'">Sao chép trích dẫn</button></h3><div class="bd">'+esc(a.noiDung)+'</div></article>'});
+    tx+='<div class="rd-src">Nguồn toàn văn: Cổng Pháp luật quốc gia (phapluat.gov.vn). Văn bản trình bày theo từng Điều (quy chuẩn kỹ thuật theo từng mục); có thể chưa gồm phụ lục, biểu mẫu, bản vẽ. Khi sử dụng chính thức, vui lòng đối chiếu bản gốc trên Cổng.</div>';
     $("#rdToc").innerHTML=toc;$("#rdTx").innerHTML=tx;
     $$("#rdToc a").forEach(function(a){a.onclick=function(e){e.preventDefault();go(a.dataset.d)}});
     $("#rdF").oninput=function(){var q=fold(this.value);$$("#rdToc a").forEach(function(a){a.hidden=q&&fold(a.textContent).indexOf(q)<0})};
     $$("#rdTx [data-cp]").forEach(function(b){b.onclick=function(){var a=arts.filter(function(x){return x.dieu===b.dataset.cp})[0];
-      copy("Điều "+a.dieu+". "+a.tieuDe+"\n"+a.noiDung+"\n(Trích "+name(l)+" – "+l.ten+"; nguồn: Cổng Pháp luật quốc gia)")}});
+      copy(dl(a.dieu)+". "+a.tieuDe+"\n"+a.noiDung+"\n(Trích "+name(l)+" – "+l.ten+"; nguồn: Cổng Pháp luật quốc gia)")}});
     setUrl(id,dieu);if(dieu)go(dieu);else $("#rdTx").scrollTop=0;
   }).catch(function(){$("#rdTx").innerHTML='<div class="pl-empty"><b>Không tải được toàn văn</b>Vui lòng thử lại hoặc mở trên Cổng Pháp luật quốc gia.</div>'});
 }
@@ -100,7 +102,7 @@ function search(){var q=$("#plQ").value.trim();var box=$("#plRes");
   var scope=$("#plScope").value;
   if(window.qcTk)qcTk("search",{search_term:q});
   var area=$("#plArea").value;
-  var laws=S.laws.filter(function(l){return l.soDieu>0&&(scope==="all"||status(l)==="con")&&(area==="all"||(area==="nha")===!!NHA[l.nhom])});
+  var laws=S.laws.filter(function(l){return l.soDieu>0&&(scope==="all"||status(l)==="con")&&(area==="all"||area===(AREA[l.nhom]||"xd"))});
   box.innerHTML='<div class="pl-load"><span class="spin"></span>Đang tìm trong '+laws.length+' văn bản…</div>';
   Promise.all(laws.map(function(l){return loadText(l.id).catch(function(){return[]})})).then(function(all){
     var ts=terms(q),sn=fold(q).trim(),hits=[];
@@ -110,7 +112,7 @@ function search(){var q=$("#plQ").value.trim();var box=$("#plRes");
     if(!hits.length){box.innerHTML='<div class="pl-empty"><b>Không tìm thấy kết quả</b>Thử dùng thuật ngữ trong văn bản, ví dụ "tạm ứng hợp đồng", "bảo lãnh thực hiện hợp đồng".</div>';return}
     box.innerHTML='<h2>'+hits.length+' điều luật phù hợp nhất với “'+esc(q)+'”</h2><button type="button" class="btn g" id="plBack" style="padding:8px 16px;margin-bottom:14px">← Về danh mục văn bản</button>'+hits.map(function(h){var a=h.a,l=S.byId[a.lawId];
       var full=a.tieuDe+" "+a.noiDung,f=a._f,pos=-1;ts.forEach(function(t){var i=f.indexOf(t);if(i>=0&&(pos<0||t.indexOf(" ")>0))pos=i});var st=Math.max(0,pos-90);
-      return'<button type="button" class="pl-hit" data-l="'+esc(a.lawId)+'" data-d="'+esc(a.dieu)+'"><div class="v">'+esc(name(l))+' · '+STL[status(l)]+'</div><div class="t">Điều '+esc(a.dieu)+'. '+hl(a.tieuDe,ts)+'</div><div class="s">'+(st?"…":"")+hl(full.slice(st,st+280),ts)+'…</div></button>'}).join("");
+      return'<button type="button" class="pl-hit" data-l="'+esc(a.lawId)+'" data-d="'+esc(a.dieu)+'"><div class="v">'+esc(name(l))+' · '+STL[status(l)]+'</div><div class="t">'+esc(dl(a.dieu))+'. '+hl(a.tieuDe,ts)+'</div><div class="s">'+(st?"…":"")+hl(full.slice(st,st+280),ts)+'…</div></button>'}).join("");
     $$("#plRes .pl-hit").forEach(function(b){b.onclick=function(){openDoc(b.dataset.l,b.dataset.d)}});
     $("#plBack").onclick=function(){$("#plQ").value="";search()};
   });

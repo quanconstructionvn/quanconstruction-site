@@ -1,54 +1,97 @@
-/* Người tạo: Quang Mai Phú – Trang Tra cứu pháp luật xây dựng (phap-ly.html) */
-.pl-tools{display:flex;gap:12px;flex-wrap:wrap;align-items:stretch;background:#fff;border:1px solid var(--line);border-radius:16px;padding:14px;box-shadow:0 10px 30px rgba(10,29,63,.07);margin-top:-46px;position:relative;z-index:3}
-.pl-tools input,.pl-tools select{margin:0;flex:1 1 260px;font-size:16px}
-.pl-tools select{flex:0 1 230px}
-.pl-tools .btn{padding:13px 24px}
-.pl-hint{font-size:13.5px;color:var(--mut);margin:12px 4px 0}
-.pl-hint button{background:none;border:0;color:var(--blue);font:inherit;font-weight:600;cursor:pointer;padding:0 4px;text-decoration:underline dotted}
-.pl-chips{display:flex;gap:8px;flex-wrap:wrap;margin:26px 0 8px}
-.pl-chips button{border:1.5px solid var(--line);background:#fff;border-radius:999px;padding:7px 14px;font:inherit;font-size:13.5px;font-weight:600;color:var(--navy);cursor:pointer}
-.pl-chips button b{color:var(--blue);margin-right:6px;font-weight:800}
-.pl-chips button[aria-pressed="true"]{background:var(--navy);border-color:var(--navy);color:#fff}
-.pl-chips button[aria-pressed="true"] b{color:var(--amber)}
-.pl-meta{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font-size:13.5px;color:var(--mut);margin:6px 2px 18px}
-.pl-meta label{display:inline-flex;gap:6px;align-items:center;font-weight:500;color:var(--mut);margin:0;font-size:13.5px}
-.pl-meta input{width:auto;margin:0}
-.pl-grp{margin-top:34px}
-.pl-grp h2{display:flex;align-items:baseline;gap:12px;font-size:21px;color:var(--navy);margin-bottom:14px}
-.pl-grp h2 span{font-size:13px;font-weight:800;color:#fff;background:var(--blue);border-radius:6px;padding:3px 9px;letter-spacing:.04em}
-.pl-grp h2 small{font-size:13px;font-weight:500;color:var(--mut)}
-.pl-list{border:1px solid var(--line);border-radius:14px;overflow:hidden;background:#fff}
-.pl-row{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:10px 18px;padding:16px 18px;border-top:1px solid var(--line);align-items:center}
-.pl-row:first-child{border-top:0}
-.pl-row .sh2{font-weight:800;color:var(--navy);font-size:15.5px}
-.pl-row .sh2 em{font-style:normal;font-weight:600;color:var(--blue);font-size:12px;background:#eaf1fb;border-radius:4px;padding:1px 7px;margin-left:8px;vertical-align:2px}
-.pl-row p{color:#33425f;font-size:14.5px;margin-top:2px}
-.pl-row .mt{display:flex;gap:6px 14px;flex-wrap:wrap;font-size:12.5px;color:var(--mut);margin-top:6px}
-.pl-row .act{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
-.pl-row .act a,.pl-row .act button{font:inherit;font-size:13.5px;font-weight:700;border-radius:8px;padding:8px 14px;text-decoration:none;cursor:pointer;white-space:nowrap}
-.pl-row .act .rd{background:var(--navy);color:#fff;border:0}
-.pl-row .act .rd:hover{background:var(--blue)}
-.pl-row .act .ex{border:1.5px solid var(--line);color:var(--navy);background:#fff}
-.pl-row .act .ex:hover{border-color:var(--blue);color:var(--blue)}
+/* Người tạo: Quang Mai Phú – Trang Tra cứu pháp luật (phap-ly.html)
+   Cập nhật 19/10/2026 (Quang Mai Phú): giao diện mới gọn gàng – tìm kiếm, 3 thẻ lĩnh vực, hành trình theo bước, danh mục gọn */
+.pl-vh{position:absolute;left:-9999px}
+.pl-ph{padding-bottom:84px}
+.pl-ph p{max-width:640px}
+.pl-main{padding-top:0}
+/* ô tìm kiếm */
+.pl-search{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:14px;padding:8px 8px 8px 16px;box-shadow:0 12px 32px rgba(10,29,63,.08);margin-top:-52px;position:relative;z-index:3}
+.pl-ico{width:20px;height:20px;flex:none;fill:none;stroke:var(--mut);stroke-width:2;stroke-linecap:round}
+.pl-search input{flex:1;min-width:0;border:0;margin:0;padding:12px 4px;font-size:16px;background:transparent;box-shadow:none;outline:none}
+.pl-search select{flex:0 0 auto;width:auto;margin:0;border:0;border-left:1px solid var(--line);border-radius:0;padding:10px 12px;font-size:14px;color:var(--mut);background-color:transparent}
+.pl-search .btn{padding:12px 26px;border-radius:10px}
+.pl-sug{display:flex;flex-wrap:wrap;gap:6px 8px;align-items:center;margin:14px 2px 0;font-size:13.5px;color:var(--mut)}
+.pl-sug button{border:1px solid var(--line);background:#fff;border-radius:999px;padding:5px 12px;font:inherit;font-size:13px;color:var(--navy);cursor:pointer}
+.pl-sug button:hover{border-color:var(--blue);color:var(--blue)}
+/* thanh chọn cách tra */
+.pl-tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin:34px 0 22px;overflow-x:auto;scrollbar-width:none}
+.pl-tabs::-webkit-scrollbar{display:none}
+.pl-tabs button{flex:none;background:none;border:0;border-bottom:3px solid transparent;padding:12px 16px;font:inherit;font-weight:700;font-size:15px;color:var(--mut);cursor:pointer;margin-bottom:-1px}
+.pl-tabs button[aria-selected="true"]{color:var(--navy);border-bottom-color:var(--amber)}
+.pl-view{min-height:320px}
+/* thẻ lĩnh vực */
+.pl-areas{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.pl-area{display:flex;flex-direction:column;gap:8px;text-align:left;background:#fff;border:1px solid var(--line);border-radius:16px;padding:22px;cursor:pointer;font:inherit;color:inherit;transition:.15s}
+.pl-area:hover{border-color:var(--blue);box-shadow:0 10px 26px rgba(10,29,63,.08);transform:translateY(-2px)}
+.pl-area .ic{width:44px;height:44px;border-radius:12px;background:#eaf1fb;display:grid;place-items:center;margin-bottom:6px}
+.pl-area .ic svg{width:24px;height:24px;fill:none;stroke:var(--blue);stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.pl-area b{font-size:18px;color:var(--navy)}
+.pl-area span{font-size:14px;color:var(--mut);line-height:1.5}
+.pl-area small{margin-top:auto;padding-top:10px;font-size:13px;font-weight:700;color:var(--blue)}
+/* đường dẫn & danh sách nhóm */
+.pl-crumb{display:flex;flex-wrap:wrap;align-items:center;gap:6px;font-size:14px;color:var(--mut);margin-bottom:16px}
+.pl-crumb button{background:none;border:0;padding:0;font:inherit;color:var(--blue);font-weight:600;cursor:pointer}
+.pl-crumb b{color:var(--navy)}
+.pl-groups{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.pl-group{display:flex;justify-content:space-between;align-items:center;gap:12px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 18px;cursor:pointer;font:inherit;text-align:left;color:var(--navy);font-weight:600}
+.pl-group:hover{border-color:var(--blue)}
+.pl-group em{font-style:normal;font-size:13px;font-weight:600;color:var(--mut);white-space:nowrap}
+.pl-group em:after{content:" ›";color:var(--blue);font-size:16px}
+/* danh sách văn bản gọn */
+.pl-docs{background:#fff;border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.pl-doc{display:flex;align-items:center;gap:14px;padding:14px 18px;border-top:1px solid var(--line)}
+.pl-doc:first-child{border-top:0}
+.pl-doc .m{flex:1;min-width:0}
+.pl-doc .n{font-weight:700;color:var(--navy);font-size:15px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.pl-doc .t{color:#3b4a66;font-size:14px;margin-top:2px;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.pl-doc .a{display:flex;gap:6px;flex:none}
+.pl-doc .a button,.pl-doc .a a{font:inherit;font-size:13.5px;font-weight:700;border-radius:8px;padding:8px 14px;text-decoration:none;cursor:pointer;white-space:nowrap;border:1.5px solid var(--line);background:#fff;color:var(--navy)}
+.pl-doc .a .rd{background:var(--navy);border-color:var(--navy);color:#fff}
+.pl-doc .a .rd:hover{background:var(--blue);border-color:var(--blue)}
+.pl-doc .a a:hover{border-color:var(--blue);color:var(--blue)}
 .st{display:inline-block;font-size:11.5px;font-weight:700;border-radius:999px;padding:1px 9px}
-.st.con{background:#e3f3ea;color:#1c7448}.st.het{background:#eef1f5;color:#6b778b;text-decoration:line-through}.st.chua{background:#e3ebf8;color:#14509a}.st.mp{background:#fdf1dc;color:#9a5b00}
-@media(max-width:700px){.pl-row{grid-template-columns:1fr}.pl-row .act{justify-content:flex-start}}
+.st.con{background:#e3f3ea;color:#1c7448}.st.het{background:#eef1f5;color:#6b778b}.st.chua{background:#e3ebf8;color:#14509a}
+.pl-bar{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;justify-content:space-between;margin-bottom:14px}
+.pl-bar input[type=search]{flex:1 1 260px;margin:0;font-size:15px}
+.pl-bar label{display:inline-flex;gap:6px;align-items:center;margin:0;font-size:13.5px;font-weight:500;color:var(--mut)}
+.pl-bar label input{width:auto;margin:0}
+.pl-bar .c{font-size:13.5px;color:var(--mut)}
+/* hành trình */
+.pl-steps{display:flex;gap:8px;overflow-x:auto;padding-bottom:4px;margin-bottom:18px;scrollbar-width:thin}
+.pl-steps button{flex:none;display:flex;align-items:center;gap:8px;background:#fff;border:1px solid var(--line);border-radius:999px;padding:8px 16px 8px 8px;font:inherit;font-size:14px;font-weight:600;color:var(--mut);cursor:pointer}
+.pl-steps button i{font-style:normal;width:26px;height:26px;border-radius:50%;background:#eef2f8;color:var(--navy);display:grid;place-items:center;font-size:13px;font-weight:800}
+.pl-steps button[aria-current="step"]{border-color:var(--navy);color:var(--navy)}
+.pl-steps button[aria-current="step"] i{background:var(--navy);color:var(--amber)}
+.pl-step{background:#fff;border:1px solid var(--line);border-radius:16px;padding:24px}
+.pl-step h3{font-size:20px;color:var(--navy)}
+.pl-step>p{color:var(--mut);margin:4px 0 14px}
+.pl-step ul{list-style:none;margin:0;padding:0}
+.pl-step li a{display:flex;gap:12px;align-items:baseline;padding:11px 0;border-top:1px dashed var(--line);text-decoration:none;color:#26406b;font-size:14.5px}
+.pl-step li:first-child a{border-top:0}
+.pl-step li a b{flex:none;font-size:12px;color:var(--blue);background:#eaf1fb;border-radius:6px;padding:2px 8px;min-width:58px;text-align:center}
+.pl-step li a:hover{color:var(--blue)}
+.pl-nav{display:flex;justify-content:space-between;margin-top:18px;gap:10px}
+.pl-nav button{font:inherit;font-weight:700;font-size:14px;border-radius:10px;padding:10px 18px;cursor:pointer;border:1.5px solid var(--line);background:#fff;color:var(--navy)}
+.pl-nav button.p{background:var(--navy);border-color:var(--navy);color:#fff}
+.pl-nav button:disabled{visibility:hidden}
 /* kết quả tìm kiếm */
-.pl-res{margin-top:28px}
-.pl-res h2{font-size:20px;color:var(--navy);margin-bottom:12px}
-.pl-hit{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin-bottom:10px;cursor:pointer;font:inherit;color:inherit;transition:.15s}
-.pl-hit:hover{border-color:var(--blue);box-shadow:0 8px 22px rgba(10,29,63,.08)}
-.pl-hit .t{font-weight:800;color:var(--navy)}
+.pl-res h2{font-size:18px;color:var(--navy);margin-bottom:4px}
+.pl-res .sub{font-size:13.5px;color:var(--mut);margin-bottom:14px}
+.pl-hit{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 18px;margin-bottom:10px;cursor:pointer;font:inherit;color:inherit;transition:.15s}
+.pl-hit:hover{border-color:var(--blue)}
 .pl-hit .v{font-size:12.5px;color:var(--blue);font-weight:700;margin-bottom:2px}
-.pl-hit .s{font-family:"Noto Serif",Georgia,serif;font-size:14.5px;color:#46546f;margin-top:4px}
+.pl-hit .t{font-weight:700;color:var(--navy)}
+.pl-hit .s{font-size:14px;color:#46546f;margin-top:4px}
 mark{background:#ffe7a8;color:inherit;border-radius:2px;padding:0 1px}
-.pl-empty{border:2px dashed #b9c8de;border-radius:16px;padding:30px;text-align:center;color:var(--mut);background:#fff}
+.pl-empty{border:1.5px dashed #b9c8de;border-radius:14px;padding:28px;text-align:center;color:var(--mut);background:#fff}
 .pl-empty b{display:block;color:var(--navy);margin-bottom:4px}
 .pl-load{display:flex;gap:10px;align-items:center;color:var(--mut);padding:14px 2px}
 .spin{width:18px;height:18px;border:2.5px solid var(--line);border-top-color:var(--blue);border-radius:50%;animation:spn .8s linear infinite;flex:none}
 @keyframes spn{to{transform:rotate(360deg)}}
-.pl-note{background:#fff8e6;border:1px solid #f5d98f;border-radius:14px;padding:18px 20px;color:#5a4a1e;font-size:14.5px;margin-top:40px}
-.pl-note b{color:#7a5a00}
+.pl-foot{font-size:13px;color:var(--mut);margin-top:36px;padding-top:16px;border-top:1px solid var(--line)}
+@media(max-width:860px){.pl-areas{grid-template-columns:1fr}.pl-groups{grid-template-columns:1fr}}
+@media(max-width:600px){.pl-search{flex-wrap:wrap;padding:8px}.pl-search .pl-ico{display:none}.pl-search input{flex:1 1 100%;padding:10px 8px}.pl-search select{flex:1;border-left:0;border-top:1px solid var(--line);padding:10px 8px}.pl-search .btn{flex:none}
+  .pl-tabs button{padding:12px 12px;font-size:14.5px}.pl-tabs .lg{display:none}.pl-tabs button:first-child:first-letter{text-transform:uppercase}.pl-sug button:nth-of-type(n+4){display:none}.pl-doc{flex-wrap:wrap}.pl-doc .a{width:100%}.pl-doc .a .rd{flex:1;text-align:center}.pl-step{padding:18px}.pl-area{padding:18px}}
 /* trình đọc văn bản */
 .rd-ov{position:fixed;inset:0;z-index:100;background:rgba(10,29,63,.55);display:flex;justify-content:center;align-items:stretch;padding:24px}
 .rd-ov[hidden]{display:none}
@@ -78,17 +121,3 @@ mark{background:#ffe7a8;color:inherit;border-radius:2px;padding:0 1px}
 .pl-toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--navy);color:#fff;padding:10px 18px;border-radius:10px;font-size:14px;z-index:120}
 .pl-toast[hidden]{display:none}
 @media(max-width:560px){.pl-tools select,.pl-tools .btn{flex:1 1 100%}.pl-tools .btn{justify-content:center}}
-/* Cập nhật 18/10/2026 – Quang Mai Phú: Hành trình pháp lý một ngôi nhà */
-.pl-tools select#plArea{flex:0 1 210px}
-.ht{margin:34px 0 6px;padding:0}
-.ht h2{font-size:23px;color:var(--navy)}
-.ht-sub{color:var(--mut);font-size:14.5px;margin:4px 0 16px}
-.ht-g{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
-.ht-g>li{background:#fff;border:1px solid var(--line);border-radius:14px;padding:16px 18px;position:relative}
-.ht-n{width:30px;height:30px;border-radius:50%;background:var(--navy);color:var(--amber);font-weight:800;display:grid;place-items:center;font-size:14px;margin-bottom:8px}
-.ht-g h3{font-size:16.5px;color:var(--navy);margin-bottom:4px}
-.ht-g p{font-size:13.5px;color:var(--mut);margin-bottom:8px}
-.ht-g ul{list-style:none;margin:0;padding:0}
-.ht-g ul li{border-top:1px dashed var(--line)}
-.ht-g ul a{display:block;padding:7px 0;font-size:13.5px;color:#26406b;text-decoration:none;line-height:1.45}
-.ht-g ul a:hover{color:var(--blue);text-decoration:underline}

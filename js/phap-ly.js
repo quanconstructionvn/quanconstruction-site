@@ -73,9 +73,9 @@ function oldToggle(){return'<label><input type="checkbox" class="pl-old"'+(S.sho
 function bindOld(v){var c=$(".pl-old",v);if(c)c.onchange=function(){S.showOld=c.checked;render()}}
 function docList(xs){if(!xs.length)return'<div class="pl-empty"><b>Không có văn bản phù hợp</b>Thử từ khóa khác hoặc bật “Hiện cả văn bản hết hiệu lực”.</div>';
   return'<div class="pl-docs">'+xs.map(function(l){var st=status(l);
-    return'<div class="pl-doc"><div class="m"><div class="n">'+esc(name(l))+(st!=="con"?' <span class="st '+st+'">'+STL[st]+'</span>':"")+'</div><div class="t">'+esc(l.ten)+'</div></div><div class="a">'+
+    return'<div class="pl-doc"><div class="m"><div class="n">'+(l.soDieu>0?'<a href="phap-ly/'+esc(l.id)+'.html" data-read="'+esc(l.id)+'" style="color:inherit;text-decoration:none">'+esc(name(l))+'</a>':esc(name(l)))+(st!=="con"?' <span class="st '+st+'">'+STL[st]+'</span>':"")+'</div><div class="t">'+esc(l.ten)+'</div></div><div class="a">'+
       (l.soDieu>0?'<button type="button" class="rd" data-read="'+esc(l.id)+'">Đọc</button>':"")+(l.linkCong?'<a href="'+esc(l.linkCong)+'" target="_blank" rel="noopener" title="Mở bản gốc trên Cổng Pháp luật quốc gia">Bản gốc ↗</a>':"")+'</div></div>'}).join("")+'</div>'}
-function bindDocs(v){$$("[data-read]",v).forEach(function(b){b.onclick=function(){openDoc(b.dataset.read)}})}
+function bindDocs(v){$$("[data-read]",v).forEach(function(b){b.onclick=function(e){if(e.ctrlKey||e.metaKey)return;e.preventDefault();openDoc(b.dataset.read)}})}
 function renderAll(v){
   v.innerHTML='<div class="pl-bar"><input type="search" id="plAllQ" placeholder="Lọc theo số hiệu hoặc tên văn bản, ví dụ 210/2026" value="'+esc(S.allQ)+'" aria-label="Lọc văn bản">'+oldToggle()+'</div><div id="plAllList"></div>';
   var draw=function(){var q=fold(S.allQ.trim());var xs=S.laws.filter(function(l){return live(l)&&(!q||fold(name(l)+" "+l.ten).indexOf(q)>=0)});
@@ -86,7 +86,7 @@ function renderAll(v){
 function renderJourney(v){var s=JOURNEY[S.step];
   v.innerHTML='<div class="pl-steps" role="list">'+JOURNEY.map(function(x,i){return'<button type="button" data-s="'+i+'"'+(i===S.step?' aria-current="step"':"")+'><i>'+(i+1)+'</i>'+esc(x.t)+'</button>'}).join("")+'</div>'+
    '<div class="pl-step"><h3>Bước '+(S.step+1)+'. '+esc(s.t)+'</h3><p>'+esc(s.m)+'</p><ul>'+s.l.map(function(x){var p=x[2].split(" – ");var ten=p.length>1?p.slice(1).join(" – "):x[2];var src=p.length>1?p[0]:"";
-     return'<li><a href="?vb='+esc(x[0])+'&amp;dieu='+esc(x[1])+'" data-vb="'+esc(x[0])+'" data-dieu="'+esc(x[1])+'"><b>'+esc(src)+'</b><span>'+esc(ten)+'</span></a></li>'}).join("")+'</ul>'+
+     return'<li><a href="phap-ly/'+esc(x[0])+'.html#d'+esc(String(x[1]).replace(/\s+/g,'-'))+'" data-vb="'+esc(x[0])+'" data-dieu="'+esc(x[1])+'"><b>'+esc(src)+'</b><span>'+esc(ten)+'</span></a></li>'}).join("")+'</ul>'+
    '<div class="pl-nav"><button type="button" data-go="-1"'+(S.step?"":" disabled")+'>← Bước trước</button><button type="button" class="p" data-go="1"'+(S.step<JOURNEY.length-1?"":" disabled")+'>Bước tiếp theo →</button></div></div>';
   $$("[data-s]",v).forEach(function(b){b.onclick=function(){S.step=+b.dataset.s;render()}});
   $$("[data-go]",v).forEach(function(b){b.onclick=function(){S.step+= +b.dataset.go;render()}});

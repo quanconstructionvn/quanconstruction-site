@@ -1,35 +1,21 @@
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="author" content="Quang Mai Phú – Quan Construction">
-<meta name="robots" content="noindex">
-<title>Quản lý Dự án – Quan Construction</title>
-<style>
-  :root{--b:#14509a;--b2:#1f86c8}
-  body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;background:linear-gradient(155deg,#0c2a5e,#14509a 55%,#1e86c8);color:#fff;padding:20px;box-sizing:border-box}
-  .c{background:#fff;color:#14233f;border-radius:18px;padding:28px 24px;max-width:420px;width:100%;text-align:center;box-shadow:0 20px 60px rgba(0,0,0,.25)}
-  h1{font-size:22px;margin:6px 0 8px;color:var(--b)}
-  p{color:#5b6b86;margin:0 0 18px;line-height:1.5}
-  a.btn{display:block;background:linear-gradient(90deg,var(--b),var(--b2));color:#fff;text-decoration:none;font-weight:700;padding:14px;border-radius:12px}
-  small{display:block;margin-top:16px;color:#8a98b0}
-</style>
-</head>
-<body>
-<!-- Cổng vào app Quản lý Dự án trên website công ty. Người lập: Quang Mai Phú.
-     Sau khi triển khai Apps Script, dán đường dẫn ứng dụng web vào APP_URL bên dưới. -->
-<div class="c">
-  <h1>Quản lý Dự án</h1>
-  <p>Đăng nhập bằng Mã nhân viên và PIN của app Nhân sự.</p>
-  <a class="btn" id="go" href="#">Mở ứng dụng</a>
-  <small>Quan Construction · An toàn – tiết kiệm – chất lượng – tiến độ – bền vững</small>
-</div>
+<!doctype html><!-- Người tạo: Quang Mai Phú -->
+<html lang="vi"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Quan Construction – Quản lý dự án</title><meta name="robots" content="noindex">
+<link rel="manifest" href="manifest.json?v=4"><link rel="icon" href="icon-192.png?v=4"><link rel="apple-touch-icon" href="apple-touch-icon.png?v=4">
+<meta name="theme-color" content="#ffffff"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="QC Dự án"><meta name="apple-mobile-web-app-status-bar-style" content="default">
+<style>html,body{margin:0;height:100%;background:#14509a;font-family:system-ui,sans-serif}
+iframe{position:fixed;inset:0;width:100%;height:100%;border:0;background:#fff}
+#ld{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;color:#fff}
+#fb{position:fixed;bottom:12px;left:0;right:0;text-align:center;font-size:13px}#fb a{color:#fff}</style></head><body>
+<div id="ld">Đang tải ứng dụng quản lý dự án…</div>
+<iframe id="f" allow="geolocation; camera; clipboard-write" title="QC Dự án"></iframe>
+<div id="fb">Không mở được? <a id="d" target="_blank" rel="noopener">Mở trực tiếp</a></div>
 <script>
-  var APP_URL = 'https://script.google.com/macros/s/AKfycbyW2rwlxDsi-nZgfXYHpn2fdjDCyvzkMYiL9_pSAGCGBswwlELSa76LD_vls2Ushzf2Jw/exec';   // vd: https://script.google.com/macros/s/AKfy…/exec
-  var a = document.getElementById('go');
-  a.href = APP_URL;
-  if (/^https:\/\/script\.google\.com\//.test(APP_URL)) setTimeout(function () { location.href = APP_URL; }, 600);
-</script>
-</body>
-</html>
+// Link /exec của app Quản lý dự án (Apps Script). Khi tạo triển khai MỚI thì dán link mới vào đây:
+var EXEC="https://script.google.com/macros/s/AKfycbyW2rwlxDsi-nZgfXYHpn2fdjDCyvzkMYiL9_pSAGCGBswwlELSa76LD_vls2Ushzf2Jw/exec";
+var f=document.getElementById('f');var q=location.search||'';f.src=EXEC+q;document.getElementById('d').href=EXEC+q;
+f.onload=function(){document.getElementById('ld').style.display='none';document.getElementById('fb').style.display='none'};
+setTimeout(function(){document.getElementById('fb').style.zIndex=9},4000);
+if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('sw.js',{scope:'/du-an/'}).catch(function(){})})}
+</script></body></html>

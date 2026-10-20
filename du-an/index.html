@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="Quang Mai Phú – Quan Construction">
+<meta name="robots" content="noindex">
+<title>Quản lý Dự án – Quan Construction</title>
+<style>
+  :root{--b:#14509a;--b2:#1f86c8}
+  body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;background:linear-gradient(155deg,#0c2a5e,#14509a 55%,#1e86c8);color:#fff;padding:20px;box-sizing:border-box}
+  .c{background:#fff;color:#14233f;border-radius:18px;padding:28px 24px;max-width:420px;width:100%;text-align:center;box-shadow:0 20px 60px rgba(0,0,0,.25)}
+  h1{font-size:22px;margin:6px 0 8px;color:var(--b)}
+  p{color:#5b6b86;margin:0 0 18px;line-height:1.5}
+  a.btn{display:block;background:linear-gradient(90deg,var(--b),var(--b2));color:#fff;text-decoration:none;font-weight:700;padding:14px;border-radius:12px}
+  small{display:block;margin-top:16px;color:#8a98b0}
+</style>
+</head>
+<body>
+<!-- Cổng vào app Quản lý Dự án trên website công ty. Người lập: Quang Mai Phú.
+     Sau khi triển khai Apps Script, dán đường dẫn ứng dụng web vào APP_URL bên dưới. -->
+<div class="c">
+  <h1>Quản lý Dự án</h1>
+  <p>Đăng nhập bằng Mã nhân viên và PIN của app Nhân sự.</p>
+  <a class="btn" id="go" href="#">Mở ứng dụng</a>
+  <small>Quan Construction · An toàn – tiết kiệm – chất lượng – tiến độ – bền vững</small>
+</div>
+<script>
+  var APP_URL = 'https://script.google.com/macros/s/AKfycbyW2rwlxDsi-nZgfXYHpn2fdjDCyvzkMYiL9_pSAGCGBswwlELSa76LD_vls2Ushzf2Jw/exec';   // vd: https://script.google.com/macros/s/AKfy…/exec
+  var a = document.getElementById('go');
+  a.href = APP_URL;
+  if (/^https:\/\/script\.google\.com\//.test(APP_URL)) setTimeout(function () { location.href = APP_URL; }, 600);
+</script>
+</body>
+</html>

@@ -161,7 +161,14 @@ def main():
     lst.append("</ul>")
     faq = "".join(f'<details class="pl-faq-i"><summary>{esc(q)}</summary><p>{esc(a)} <a href="phap-ly/{i}.html{"#" + aid(d) if d else ""}">Đọc điều luật →</a></p></details>'
                   for q, i, d, a in FAQ if i in keep)
-    seo = (f'<!--SEO-LIST--><section class="w pl-seo"><h2>Câu hỏi thường gặp về thủ tục xây dựng, nhà đất</h2>{faq}'
+    bvh = ""
+    try:
+        import importlib.util as _iu
+        _sp = _iu.spec_from_file_location("bai_viet", P("_cong-cu", "bai-viet.py")); _bv = _iu.module_from_spec(_sp); _sp.loader.exec_module(_bv)
+        bvh = '<h2 style="margin-top:26px">Bài viết hướng dẫn</h2><ul class="pl-bv">' + "".join(f'<li><a href="tin-tuc/{b["slug"]}.html">{esc(b["title"])}</a></li>' for b in _bv.BAI) + "</ul>"
+    except Exception:
+        pass
+    seo = (f'<!--SEO-LIST--><section class="w pl-seo"><h2>Câu hỏi thường gặp về thủ tục xây dựng, nhà đất</h2>{faq}{bvh}'
            f'<details class="pl-all"><summary>Danh mục toàn văn {len(made)} văn bản pháp luật</summary>{"".join(lst)}</details></section><!--/SEO-LIST-->')
     hub = re.sub(r"<!--SEO-LIST-->.*?(<!--/SEO-LIST-->|</section>)", lambda m: seo, hub, count=1, flags=re.S)
     faqld = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [

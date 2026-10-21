@@ -33,6 +33,7 @@ collections:
               - { label: Tóm tắt ngắn, name: summary, widget: text }
               - { label: Nội dung đầy đủ, name: body, widget: text, required: false }
               - { label: Ảnh minh họa, name: image, widget: image, required: false }
+              - { label: Liên kết bài viết, name: link, widget: string, required: false, hint: "Không bắt buộc. Ví dụ: /tin-tuc/ten-bai.html – bấm tiêu đề sẽ mở trang này" }
               - { label: Tiêu đề (English), name: title_en, widget: string, required: false, hint: "Không bắt buộc. Bỏ trống thì bài sẽ không hiện ở bản tiếng Anh" }
               - { label: Tóm tắt (English), name: summary_en, widget: text, required: false }
   - name: cong-trinh

@@ -129,3 +129,4 @@ mark{background:#ffe7a8;color:inherit;border-radius:2px;padding:0 1px}
 .pl-all{margin-top:22px}.pl-all h3{font-size:15px;color:var(--navy);margin:14px 0 6px}
 .pl-all ul{columns:2;column-gap:28px;list-style:none;padding:0;margin:0}.pl-all li{break-inside:avoid;margin:0 0 6px;font-size:14px;color:#3b4a66}
 @media(max-width:700px){.pl-all ul{columns:1}}
+.pl-bv{list-style:none;padding:0;margin:0}.pl-bv li{border-top:1px dashed var(--line);padding:10px 0}.pl-bv li:first-child{border-top:0}.pl-bv a{font-weight:600}

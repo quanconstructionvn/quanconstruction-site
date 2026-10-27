@@ -11,9 +11,9 @@
 | 6 | Thủ tục sang tên sổ đỏ khi mua bán đất | 31-2024-qh15 Đ45; 46-2024-qh15 Đ44; 101-2024-nd-cp Đ29, 37 | chờ |
 | 7 | Chuyển đất nông nghiệp lên đất ở (thổ cư) | 31-2024-qh15 Đ121, 227; 103-2024-nd-cp Đ8 | chờ |
 | 8 | Thời gian giải quyết thủ tục đất đai | 101-2024-nd-cp Đ22 | chờ |
-| 9 | Xây nhà không phép, sai phép bị phạt thế nào (2026) | 339-2026-nd-cp Đ25, 85 | chờ |
-| 10 | Điều kiện khởi công xây dựng nhà ở | 135-2025-qh15 Đ48; 207-2026-nd-cp Đ10, 12; 339-2026-nd-cp Đ21 | chờ |
-| 11 | Điều chỉnh, gia hạn giấy phép xây dựng | 217-2026-nd-cp Đ54, 63 | chờ |
+| 9 | Xây nhà không phép, sai phép bị phạt thế nào (2026) | 339-2026-nd-cp Đ25, 85 | đã đăng (27/10/2026) |
+| 10 | Điều kiện khởi công xây dựng nhà ở | 135-2025-qh15 Đ48; 207-2026-nd-cp Đ10, 12; 339-2026-nd-cp Đ21 | đã đăng (27/10/2026) |
+| 11 | Điều chỉnh, gia hạn giấy phép xây dựng | 217-2026-nd-cp Đ54, 63 | đã đăng (27/10/2026) |
 | 12 | Ai được tự thiết kế nhà ở? Khi nào phải thuê đơn vị thiết kế | 207-2026-nd-cp Đ10; 40-2019-qh14 Đ21 | chờ |
 | 13 | Yêu cầu phòng cháy chữa cháy đối với nhà ở | 55-2024-qh15 Đ20 | chờ |
 | 14 | Nhà ở kết hợp kinh doanh phải đáp ứng PCCC gì | 55-2024-qh15 Đ21; 105-2025-nd-cp | chờ |

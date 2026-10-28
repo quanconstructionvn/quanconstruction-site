@@ -3,4 +3,5 @@ Allow: /
 Disallow: /hr/
 Disallow: /admin/
 Disallow: /du-an/
+Disallow: /khach-hang/
 Sitemap: https://quanconstruction.biz.vn/sitemap.xml

@@ -1,0 +1,21 @@
+<!doctype html><!-- Người tạo: Quang Mai Phú -->
+<html lang="vi"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Quan Construction – Khách hàng</title><meta name="robots" content="noindex">
+<link rel="manifest" href="manifest.json?v=4"><link rel="icon" href="icon-192.png?v=4"><link rel="apple-touch-icon" href="apple-touch-icon.png?v=4">
+<meta name="theme-color" content="#ffffff"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="QC Khách hàng"><meta name="apple-mobile-web-app-status-bar-style" content="default">
+<style>html,body{margin:0;height:100%;background:#14509a;font-family:system-ui,sans-serif}
+iframe{position:fixed;inset:0;width:100%;height:100%;border:0;background:#fff}
+#ld{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;color:#fff}
+#fb{position:fixed;bottom:12px;left:0;right:0;text-align:center;font-size:13px}#fb a{color:#fff}</style></head><body>
+<div id="ld">Đang tải trang khách hàng…</div>
+<iframe id="f" allow="geolocation; camera; clipboard-write" title="QC Khách hàng"></iframe>
+<div id="fb">Không mở được? <a id="d" target="_blank" rel="noopener">Mở trực tiếp</a></div>
+<script>
+// Cổng khách hàng: cùng link /exec của app Quản lý dự án, luôn kèm tham số kh (mã QR dự án). Người tạo: Quang Mai Phú
+var EXEC="https://script.google.com/macros/s/AKfycbyW2rwlxDsi-nZgfXYHpn2fdjDCyvzkMYiL9_pSAGCGBswwlELSa76LD_vls2Ushzf2Jw/exec";
+var f=document.getElementById('f');var q=location.search||''; if(!/[?&]kh=/.test(q)) q=(q?q+'&':'?')+'kh=';f.src=EXEC+q;document.getElementById('d').href=EXEC+q;
+f.onload=function(){document.getElementById('ld').style.display='none';document.getElementById('fb').style.display='none'};
+setTimeout(function(){document.getElementById('fb').style.zIndex=9},4000);
+if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('sw.js',{scope:'/khach-hang/'}).catch(function(){})})}
+</script></body></html>

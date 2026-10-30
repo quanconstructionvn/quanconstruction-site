@@ -33,3 +33,5 @@
 | 28 | Quyết toán và thanh lý hợp đồng xây dựng | 210-2026-nd-cp (điều về quyết toán, thanh lý) | chờ |
 | 29 | Mật độ xây dựng, khoảng lùi nhà ở theo QCVN 01:2026 (từ 2027) | 46-2026-tt-bxd mục 2.5 | chờ |
 | 30 | Chứng chỉ hành nghề kiến trúc: điều kiện, thủ tục | 40-2019-qh14 Đ21, 26–29; 85-2020-nd-cp Đ27, 28 | chờ |
+
+> Ghi chú 30/10/2026 (Quang Mai Phú): tạm chưa soạn chủ đề 5–8 (đất đai) vì toàn văn NĐ 101/2024/NĐ-CP trong thư viện là bản gốc, còn ghi thẩm quyền "cấp huyện"; thư viện chưa có NĐ 151/2025/NĐ-CP (phân định thẩm quyền theo chính quyền 2 cấp) và bản hợp nhất. Nạp bổ sung các văn bản này rồi mới soạn.

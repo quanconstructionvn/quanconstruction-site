@@ -236,3 +236,6 @@ header,header.s{background:#fff!important;box-shadow:0 2px 14px rgba(10,29,63,.1
 }
 @media(max-width:1000px){.lgs a{color:#fff!important;opacity:.9}.lgs a.on{color:var(--navy)!important}}
 .cp{padding-right:72px}
+
+/* Người chỉnh sửa: Quang Mai Phú – trang dịch vụ và bài CMS */
+.seo-article{max-width:900px;line-height:1.85;overflow-wrap:anywhere}.seo-article h2{margin:28px 0 12px;color:var(--navy);font-size:24px}.seo-article p,.seo-article ul,.seo-article ol{margin:0 0 18px}.seo-article ul,.seo-article ol{padding-left:24px}.seo-article a:not(.btn){color:var(--blue);text-decoration:underline}

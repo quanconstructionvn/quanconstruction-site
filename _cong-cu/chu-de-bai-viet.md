@@ -17,10 +17,10 @@
 | 12 | Ai được tự thiết kế nhà ở? Khi nào phải thuê đơn vị thiết kế | 207-2026-nd-cp Đ10; 40-2019-qh14 Đ21 | đã đăng (28/10/2026) |
 | 13 | Yêu cầu phòng cháy chữa cháy đối với nhà ở | 55-2024-qh15 Đ20; 105-2025-nd-cp Đ13, 14, 25, 27 | đã đăng (29/10/2026) |
 | 14 | Nhà ở kết hợp kinh doanh phải đáp ứng PCCC gì | 55-2024-qh15 Đ21; 105-2025-nd-cp | đã đăng (30/10/2026) |
-| 15 | Thẩm định thiết kế PCCC: công trình nào phải làm | 55-2024-qh15 Đ17; 105-2025-nd-cp Đ6–9; 70-2025-tt-btc | chờ |
+| 15 | Thẩm định thiết kế PCCC: công trình nào phải làm | 55-2024-qh15 Đ17; 105-2025-nd-cp Đ6–9; 70-2025-tt-btc | đã đăng (10/11/2026) |
 | 16 | Điều kiện nhà ở được mua bán, tặng cho | 27-2023-qh15 Đ160 | đã đăng (03/11/2026) |
 | 17 | Công chứng hợp đồng mua bán nhà đất | 27-2023-qh15 Đ164; 46-2024-qh15 Đ44 | đã đăng (04/11/2026) |
-| 18 | Mua nhà hình thành trong tương lai cần biết gì | 29-2023-qh15 Đ24, 26 | chờ |
+| 18 | Mua nhà hình thành trong tương lai cần biết gì | 29-2023-qh15 Đ24, 26 | đã đăng (10/11/2026) |
 | 19 | Thuế thu nhập cá nhân khi bán nhà đất | 109-2025-qh15 Đ14 (kiểm tra hiệu lực) | chờ |
 | 20 | Những trường hợp không được cấp sổ đỏ | 31-2024-qh15 Đ151 | chờ |
 | 21 | Tiền sử dụng đất khi cấp sổ đỏ | 103-2024-nd-cp Đ9, 10, 11 | chờ |

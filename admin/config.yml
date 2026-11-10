@@ -31,8 +31,9 @@ collections:
               - { label: Ngày đăng, name: date, widget: string, hint: "Ví dụ: 03/04/2026" }
               - { label: Tiêu đề, name: title, widget: string }
               - { label: Tóm tắt ngắn, name: summary, widget: text }
-              - { label: Nội dung đầy đủ, name: body, widget: text, required: false }
+              - { label: Nội dung đầy đủ, name: body, widget: text, required: false, hint: "Văn bản thuần; dòng trống tách đoạn. Có nội dung sẽ tự tạo trang khi triển khai. Bài cũ để trống sẽ giữ nguyên HTML." }
               - { label: Ảnh minh họa, name: image, widget: image, required: false }
+              - { label: Slug bài viết, name: slug, widget: string, required: false, pattern: ["^[a-z0-9]+(-[a-z0-9]+)*$", "Dùng chữ thường không dấu, số và dấu gạch ngang"], hint: "Ví dụ: cach-doc-bang-boq. Giữ nguyên sau khi xuất bản; bỏ trống để tạo từ tiêu đề." }
               - { label: Liên kết bài viết, name: link, widget: string, required: false, hint: "Không bắt buộc. Ví dụ: /tin-tuc/ten-bai.html – bấm tiêu đề sẽ mở trang này" }
               - { label: Tiêu đề (English), name: title_en, widget: string, required: false, hint: "Không bắt buộc. Bỏ trống thì bài sẽ không hiện ở bản tiếng Anh" }
               - { label: Tóm tắt (English), name: summary_en, widget: text, required: false }

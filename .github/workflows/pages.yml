@@ -66,7 +66,7 @@ jobs:
             }
             core.info('Migration deployment status: ' + state.data.status);
             const active = ['queued', 'pending', 'deployment_in_progress', 'syncing_files', 'updating_pages', 'waiting', 'canceling'];
-            if (active.includes(state.data.status)) {
+            if (active.includes(state.data.status) || state.data.status === 'deployment_cancelled') {
               await github.request('POST /repos/{owner}/{repo}/pages/deployments/{pages_deployment_id}/cancel', args);
               for (let attempt = 0; attempt < 12; attempt++) {
                 await new Promise(resolve => setTimeout(resolve, 5000));

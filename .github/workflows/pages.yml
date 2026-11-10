@@ -51,6 +51,31 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      # Người chỉnh sửa: Quang Mai Phú – giải phóng lượt Pages cũ bị kẹt khi chuyển nguồn.
+      - name: Clear blocked migration deployment
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const args = {...context.repo, pages_deployment_id: '1621f86799f1c7c171a1db092a2275b3ea1697fa'};
+            let state;
+            try {
+              state = await github.request('GET /repos/{owner}/{repo}/pages/deployments/{pages_deployment_id}', args);
+            } catch (error) {
+              if (error.status === 404) return;
+              throw error;
+            }
+            core.info('Migration deployment status: ' + state.data.status);
+            const active = ['queued', 'pending', 'deployment_in_progress', 'syncing_files', 'updating_pages', 'waiting', 'canceling'];
+            if (active.includes(state.data.status)) {
+              await github.request('POST /repos/{owner}/{repo}/pages/deployments/{pages_deployment_id}/cancel', args);
+              for (let attempt = 0; attempt < 12; attempt++) {
+                await new Promise(resolve => setTimeout(resolve, 5000));
+                const result = await github.request('GET /repos/{owner}/{repo}/pages/deployments/{pages_deployment_id}', args);
+                core.info('Migration deployment status: ' + result.data.status);
+                if (!active.includes(result.data.status)) return;
+              }
+              core.setFailed('Old Pages deployment has not released its lock after cancellation.');
+            }
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

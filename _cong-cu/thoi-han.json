@@ -1,0 +1,8 @@
+{
+  "nguoiTao": "Quang Mai Phú",
+  "ghiChu": "Các thời hạn cần theo dõi của website. Ngày định dạng YYYY-MM-DD. Công cụ kiểm tra hằng tuần cảnh báo trước 60 ngày.",
+  "muc": [
+    {"ten": "Tên miền quanconstruction.biz.vn", "het_han": "", "noi_gia_han": "Nhà đăng ký tên miền .vn (anh Phú bổ sung tên nhà đăng ký)"},
+    {"ten": "Chứng chỉ SSL (HTTPS) – GitHub Pages tự gia hạn", "het_han": "", "noi_gia_han": "GitHub → Settings → Pages → Enforce HTTPS"}
+  ]
+}

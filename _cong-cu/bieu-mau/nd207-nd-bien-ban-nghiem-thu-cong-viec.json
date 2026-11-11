@@ -1,0 +1,162 @@
+{
+ "ma": "nd207-nd-bien-ban-nghiem-thu-cong-viec",
+ "ten": "Biên bản nghiệm thu công việc xây dựng",
+ "nhom": "Thi công – nghiệm thu (NĐ 207/2026, theo nội dung bắt buộc)",
+ "nguon": "khoản 4, 5 Điều 22 Nghị định 207/2026/NĐ-CP",
+ "loai": "noi-dung",
+ "can_cu": [
+  [
+   "207-2026-nd-cp",
+   "22",
+   "khoản 4, 5 Điều 22"
+  ]
+ ],
+ "dung_khi": "Nghiệm thu từng công việc (hoặc nhiều công việc của một hạng mục theo trình tự thi công) tại công trường; giám sát nghiệm thu trong không quá 24 giờ kể từ khi nhận đề nghị của nhà thầu.",
+ "khoi": [
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "……………………………",
+     "(Tên công trình/dự án)"
+    ],
+    "ngay": "……, ngày … tháng … năm ……"
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BIÊN BẢN NGHIỆM THU CÔNG VIỆC XÂY DỰNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "1. Tên công việc được nghiệm thu:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   {
+    "t": "2. Thời gian và địa điểm nghiệm thu:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "Thời gian: bắt đầu … giờ … ngày … tháng … năm ……; kết thúc … giờ … ngày … tháng … năm ……"
+  ],
+  [
+   "p",
+   "Địa điểm: ……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   {
+    "t": "3. Thành phần ký biên bản nghiệm thu:",
+    "b": true
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Chức vụ / vai trò",
+     "Họ và tên",
+     "Chữ ký"
+    ],
+    "dong": [
+     [
+      "Người trực tiếp giám sát thi công xây dựng của chủ đầu tư",
+      "",
+      ""
+     ],
+     [
+      "Người trực tiếp phụ trách kỹ thuật thi công của nhà thầu thi công xây dựng hoặc của nhà thầu chính",
+      "",
+      ""
+     ],
+     [
+      "Người trực tiếp phụ trách kỹ thuật thi công của nhà thầu phụ (trường hợp có nhà thầu chính)",
+      "",
+      ""
+     ]
+    ],
+    "rong": [
+     5,
+     3,
+     2
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "4. Kết luận nghiệm thu:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "– Chấp nhận / không chấp nhận nghiệm thu: ……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "– Đồng ý cho triển khai các công việc tiếp theo: ……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "– Yêu cầu sửa chữa, hoàn thiện công việc đã thực hiện: ……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "– Các yêu cầu khác (nếu có): ……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   {
+    "t": "5. Chữ ký, họ và tên, chức vụ của người ký biên bản nghiệm thu:",
+    "b": true
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI TRỰC TIẾP GIÁM SÁT THI CÔNG XÂY DỰNG CỦA CHỦ ĐẦU TƯ",
+     "(Ký, ghi rõ họ tên, chức vụ)"
+    ],
+    [
+     "NGƯỜI TRỰC TIẾP PHỤ TRÁCH KỸ THUẬT THI CÔNG CỦA NHÀ THẦU",
+     "(Ký, ghi rõ họ tên, chức vụ)"
+    ]
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "6. Phụ lục kèm theo (nếu có):",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "……………………………………………………………………………………"
+  ],
+  [
+   "ghi_chu",
+   [
+    "Ghi chú: Hợp đồng EPC, hợp đồng chìa khóa trao tay, nhà thầu liên danh: thành phần ký theo khoản 6, 7, 8 Điều 22 Nghị định 207/2026/NĐ-CP. Biên bản lập cho từng công việc hoặc lập chung cho nhiều công việc của một hạng mục công trình theo trình tự thi công (khoản 4 Điều 22)."
+   ]
+  ]
+ ]
+}

@@ -1035,3 +1035,44 @@ TRANG = [
         ],
     },
 ]
+
+
+# ---- Trang Biểu mẫu: dựng tự động từ _cong-cu/bieu-mau-danh-sach.json (tạo bởi _cong-cu/tao-bieu-mau.py) ----
+def _bieu_mau():
+    import json, os
+    f = os.path.join(os.path.dirname(os.path.abspath(__file__)), "bieu-mau-danh-sach.json")
+    ds = json.load(open(f, encoding="utf-8")) if os.path.exists(f) else []
+    thu_tu = ["Thẩm định", "Thi công", "Thanh toán", "Quyết toán"]
+    nhom = sorted({m["nhom"] for m in ds}, key=lambda n: next((i for i, k in enumerate(thu_tu) if n.startswith(k)), 9))
+    tai = lambda m: " · ".join(f'<a href="/so-tay-xay-dung/bieu-mau/{m["ma"]}.{e}" download>{t}</a>' for e, t in (("pdf", "PDF"), ("docx", "Word"), ("xlsx", "Excel")))
+    body = [
+        ("p", f"Trang này tập hợp <b>{len(ds)} biểu mẫu</b> lấy từ phụ lục của nghị định, thông tư đang có hiệu lực, mỗi mẫu có đủ 3 bản <b>PDF, Word, Excel</b> để in hoặc điền trên máy. Nội dung mẫu chép nguyên văn từ văn bản pháp luật, không thêm bớt; số hiệu mẫu, phụ lục và văn bản nguồn ghi ngay trên từng mẫu."),
+        ("p", "Với một số giấy tờ pháp luật <b>không ban hành khung mẫu</b> mà chỉ quy định nội dung bắt buộc (ví dụ biên bản nghiệm thu công việc), mẫu được trình bày đúng và chỉ gồm các nội dung bắt buộc đó, có ghi rõ trên đầu mẫu: “Pháp luật không ban hành mẫu – trình bày theo nội dung bắt buộc tại …”."),
+    ]
+    for n in nhom:
+        ms = [m for m in ds if m["nhom"] == n]
+        body.append(("h2", n))
+        body.append(("table", {"cot": ["Biểu mẫu", "Dùng khi", "Nguồn – căn cứ", "Tải về"], "dong": [
+            [f'<b>{m["ten"]}</b>' + (" <i>(theo nội dung bắt buộc)</i>" if m["loai"] == "noi-dung" else ""), m["dung_khi"],
+             m["nguon"] + "<br>" + "; ".join(L(i, d, t) for i, d, t in m["can_cu"]), tai(m)] for m in ms]}))
+    body += [
+        ("h2", "Mẫu đang chờ bổ sung"),
+        ("p", "Các mẫu sau có trong văn bản pháp luật nhưng thư viện của chúng tôi chưa có toàn văn phụ lục, sẽ được bổ sung khi nạp đủ văn bản gốc từ Cổng Pháp luật quốc gia:"),
+        ("ul", [
+            "Phụ lục II Nghị định 217/2026/NĐ-CP: đơn đề nghị cấp, điều chỉnh, gia hạn, cấp lại giấy phép xây dựng và mẫu giấy phép xây dựng; các Mẫu số 09–17 Phụ lục I (quyết định phê duyệt dự án, thiết kế, phiếu bổ sung hồ sơ…).",
+            "Các phụ lục của Nghị định 207/2026/NĐ-CP: nhật ký thi công, mẫu dấu bản vẽ hoàn công, báo cáo giám sát, thông báo khởi công, báo cáo hoàn thành thi công, thông báo kết quả kiểm tra công tác nghiệm thu.",
+            "Mẫu thanh toán vốn đầu tư công (Nghị định 254/2025/NĐ-CP); Mẫu số 10–12/QTDA Thông tư 73/2026/TT-BTC.",
+        ]),
+        ("p", "Muốn tạo các hồ sơ này tự động từ dữ liệu công trường (nhật ký, phiếu yêu cầu nghiệm thu, biên bản, bộ hồ sơ hoàn thành), có thể dùng phần mềm <b>QC Quản lý dự án</b> của Quan Construction – <a href=\"/lien-he.html\">liên hệ</a> để được giới thiệu. Xem thêm " + '<a href="/so-tay-xay-dung/ho-so-chat-luong-nghiem-thu.html">hồ sơ chất lượng và nghiệm thu</a>' + "."),
+        ("note", "Biểu mẫu chép từ văn bản pháp luật để tham khảo và sử dụng; khi văn bản được sửa đổi, thay thế thì dùng mẫu mới. Một số văn bản nguồn đang ở trạng thái hết hiệu lực một phần – xem tình trạng tại từng văn bản trong thư viện. Bảng nhiều cột được dựng lại từ toàn văn nên bố cục có thể khác bản in của cơ quan ban hành; nội dung chữ giữ nguyên."),
+    ]
+    for t in TRANG:
+        if t["slug"] == "bieu-mau":
+            t["body"] = body
+            t["title"] = "Biểu mẫu xây dựng theo nghị định, thông tư: PDF, Word, Excel"
+            t["desc"] = "Biểu mẫu chép nguyên văn từ phụ lục nghị định, thông tư: thẩm định dự án, nghiệm thu, thanh toán, quyết toán vốn. Tải miễn phí bản PDF, Word, Excel."
+            t["summary"] = f"{len(ds)} biểu mẫu lấy từ phụ lục văn bản pháp luật, mỗi mẫu đủ 3 bản PDF, Word, Excel."
+            t["lead"] = "Mẫu chép nguyên văn từ phụ lục nghị định, thông tư – ghi rõ số hiệu mẫu và văn bản nguồn."
+
+
+_bieu_mau()

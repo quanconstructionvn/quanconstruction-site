@@ -1,0 +1,227 @@
+{
+ "ma": "nd347-m17",
+ "ten": "Ủy nhiệm chi (không kèm theo nộp ngân sách nhà nước)",
+ "nhom": "Thanh toán vốn qua Kho bạc (NĐ 347/2025/NĐ-CP)",
+ "nguon": "Mẫu số 17 (ký hiệu C4-02a/KB) Phụ lục ban hành kèm theo Nghị định 347/2025/NĐ-CP",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "347-2025-nd-cp",
+   "6",
+   "Điều 6 Nghị định 347/2025/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Chứng từ đề nghị chi gửi Kho bạc Nhà nước nơi giao dịch theo thủ tục tại Điều 6 Nghị định 347/2025/NĐ-CP (thanh toán các khoản chi thường xuyên; chi chương trình mục tiêu quốc gia, chương trình mục tiêu từ nguồn sự nghiệp… – gồm cả chi theo hợp đồng có biên bản nghiệm thu). Lưu ý: Cổng Pháp luật quốc gia chưa ghi ngày hiệu lực của Nghị định 347/2025/NĐ-CP (ban hành 29/12/2025). Dùng cho khoản chi từ tài khoản tiền gửi và các nguồn theo điểm b khoản 3 Điều 6.",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 17\nKý hiệu: C4-02a/KB"
+  ],
+  [
+   "p",
+   {
+    "t": "Số chứng từ....\nMã QR code\n(nếu có)\nKhông ghi vào khu vực này",
+    "can": "right"
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "ỦY NHIỆM CHI",
+    "Chuyển khoản □ Tiền mặt □",
+    "Lập ngày …. tháng …. năm ….."
+   ]
+  ],
+  [
+   "p",
+   "Đơn vị trả tiền:"
+  ],
+  [
+   "p",
+   "Địa chỉ:"
+  ],
+  [
+   "p",
+   "Tài khoản: …………………………….. Tại Kho bạc Nhà nước:"
+  ],
+  [
+   "p",
+   "Mã nhà tài trợ:"
+  ],
+  [
+   "p",
+   "Quyết định phê duyệt kết quả lựa chọn nhà thầu số ……… ngày … tháng …. năm ………2"
+  ],
+  [
+   "p",
+   "Hợp đồng hoặc Quyết định hỗ trợ/trợ cấp/đặt hàng/giao nhiệm vụ số …. ngày ... tháng ... năm ... tổng số tiền: …………………. ký với đơn vị/tổ chức/cá nhân: 2;"
+  ],
+  [
+   "p",
+   "Quy định về mức tạm ứng tại Hợp đồng hoặc Quyết định đặt hàng/giao nhiệm vụ:"
+  ],
+  [
+   "p",
+   "Văn bản/Biên bản nghiệm thu số ……….. ngày …… tháng …. năm …. tổng số tiền:\nký với đơn vị/tổ chức/cá nhân: 2"
+  ],
+  [
+   "p",
+   "Nội dung thanh toán chung:"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Nội dung thanh toán3",
+     "Hóa đơn – Số",
+     "Hóa đơn – Ngày",
+     "Chứng từ – Số",
+     "Chứng từ – Ngày",
+     "Mã nguồn ngân sách",
+     "Niên độ ngân sách",
+     "Số tiền"
+    ],
+    "rong": [
+     3,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     2
+    ],
+    "dong": [
+     [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)",
+      "(5)",
+      "(6)",
+      "(7)",
+      "(8)"
+     ],
+     [
+      ""
+     ],
+     [
+      "Tổng cộng:"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "Tổng số tiền ghi bằng chữ: ……………………………………………"
+  ],
+  [
+   "p",
+   "Đơn vị/cá nhân nhận tiền: ………………….Mã số thuế: ……….…"
+  ],
+  [
+   "p",
+   "Tài khoản: ………………………………………………………………"
+  ],
+  [
+   "p",
+   "Tại Kho bạc Nhà nước/ngân hàng: …………………………………."
+  ],
+  [
+   "p",
+   "Hoặc người nhận tiền mặt: ……………………………………………"
+  ],
+  [
+   "p",
+   "Số căn cước công dân/căn cước: …………………………….……."
+  ],
+  [
+   "p",
+   "Ngày cấp: …………………………………………………………….."
+  ],
+  [
+   "p",
+   "Nơi cấp: ……………………………………………………………….."
+  ],
+  [
+   "p",
+   {
+    "t": "PHẦN KHO BẠC\nNHÀ NƯỚC GHI",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "1. Nợ tài khoản: …………\nCó tài khoản: ……………...\n2. Nợ tài khoản: …………\nCó tài khoản: …………….\nMã địa bàn hành chính: ...."
+  ],
+  [
+   "p",
+   "Ngân hàng/Kho bạc Nhà nước nơi nhận tiền mặt: …"
+  ],
+  [
+   "p",
+   {
+    "t": "KHO BẠC NHÀ NƯỚC\nNgày.... tháng.... năm....",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "Thủ quỹ",
+     "(Ký tên)"
+    ],
+    [
+     "Kế toán",
+     "(Ký tên)"
+    ],
+    [
+     "Kiểm soát",
+     "(Ký tên)"
+    ],
+    [
+     "Lãnh đạo Kho bạc Nhà nước nơi giao dịch",
+     "(Ký tên, đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "Ngày.... tháng.... năm….\nĐƠN VỊ TRẢ TIỀN\nNgày.... tháng.... năm ….",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "Người nhận tiền",
+     "(Ký, ghi họ tên)"
+    ],
+    [
+     "Kế toán trưởng",
+     "(Ký, ghi họ tên)"
+    ],
+    [
+     "Chủ tài khoản",
+     "(Ký, ghi họ tên, đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "__________________________",
+    "Ghi chú:",
+    "1 Thực hiện theo quy định tại Điều 28 Nghị định số 118/2025/NĐ-CP, Điều 13 Thông tư số 03/2025/TT-VPCP và các văn bản sửa đổi, bổ sung hoặc thay thế (nếu có).",
+    "2 Bỏ trống trong trường hợp khoản chi không có Quyết định phê duyệt kết quả lựa chọn nhà thầu, Hợp đồng, Quyết định hỗ trợ/trợ cấp/đặt hàng/giao nhiệm vụ, văn bản/Biên bản nghiệm thu.",
+    "3 Đối với khoản chi có yêu cầu bảo mật: ghi \"Khoản chi có yêu cầu bảo mật\" kèm theo nội dung thanh toán.",
+    "Trường hợp là chứng từ điện tử thì thực hiện theo quy định của pháp luật về giao dịch điện tử và quy định của pháp luật có liên quan."
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "ma": "nd347-m10",
+ "ten": "Giấy đề nghị thanh toán tạm ứng",
+ "nhom": "Thanh toán vốn qua Kho bạc (NĐ 347/2025/NĐ-CP)",
+ "nguon": "Mẫu số 10 (ký hiệu C2-03/NS) Phụ lục ban hành kèm theo Nghị định 347/2025/NĐ-CP",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "347-2025-nd-cp",
+   "6",
+   "Điều 6 Nghị định 347/2025/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Chứng từ đề nghị chi gửi Kho bạc Nhà nước nơi giao dịch theo thủ tục tại Điều 6 Nghị định 347/2025/NĐ-CP (thanh toán các khoản chi thường xuyên; chi chương trình mục tiêu quốc gia, chương trình mục tiêu từ nguồn sự nghiệp… – gồm cả chi theo hợp đồng có biên bản nghiệm thu). Lưu ý: Cổng Pháp luật quốc gia chưa ghi ngày hiệu lực của Nghị định 347/2025/NĐ-CP (ban hành 29/12/2025). Dùng để đề nghị Kho bạc chuyển số đã tạm ứng thành thực chi.",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 10\nKý hiệu: C2-03/NS"
+  ],
+  [
+   "p",
+   {
+    "t": "Số chứng từ…...….\nNăm ngân sách:….\nMã QR code (nếu có)\nKhông ghi vào khu vực này\nMã số hồ sơ:….(1)…..",
+    "can": "right"
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "GIẤY ĐỀ NGHỊ THANH TOÁN TẠM ỨNG"
+   ]
+  ],
+  [
+   "p",
+   "Đơn vị:……………………………………………………………… Mã chương: ……………………."
+  ],
+  [
+   "p",
+   "Địa chỉ: ……………………………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "Tài khoản:…………………………… Tại Kho bạc Nhà nước: ………………………………………"
+  ],
+  [
+   "p",
+   "Tên chương trình mục tiêu, dự án:…………… Mã chương trình mục tiêu, dự án: ………………"
+  ],
+  [
+   "p",
+   "Căn cứ số dư tạm ứng đến ngày ... tháng ... năm...; Biên bản nghiệm thu số ngày... tháng... năm...; Danh sách nhận tiền ngày.... tháng.... năm....; Đề nghị Kho bạc Nhà nước thanh toán số tiền đã tạm ứng thành thực chi theo chi tiết sau:"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Nội dung thanh toán (2)",
+     "Hóa đơn – Số",
+     "Hóa đơn – Ngày",
+     "Chứng từ – Số",
+     "Chứng từ – Ngày",
+     "Mã nội dung kinh tế",
+     "Mã ngành kinh tế",
+     "Mã nguồn ngân sách nhà nước",
+     "Số dư tạm ứng",
+     "Số đề nghị thanh toán"
+    ],
+    "rong": [
+     3,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     2
+    ],
+    "dong": [
+     [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Đã tạm ứng",
+      "Đề nghị thanh toán"
+     ],
+     [
+      ""
+     ],
+     [
+      "Tổng cộng:"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "Tổng số đề nghị thanh toán ghi bằng chữ:…………………………………………………."
+  ],
+  [
+   "p",
+   {
+    "t": "Ngày…. tháng…. năm….",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "Kế toán trưởng",
+     "(Ký, ghi họ tên)"
+    ],
+    [
+     "Thủ trưởng đơn vị",
+     "(Ký, ghi họ tên, đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "PHẦN KHO BẠC NHÀ NƯỚC GHI",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "Đồng ý thanh toán tổng số tiền ghi bằng chữ: ………………………\n…………………………………………………………………………….."
+  ],
+  [
+   "p",
+   {
+    "t": "PHẦN KHO BẠC NHÀ NƯỚC GHI",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "Nợ tài khoản……………\nCó tài khoản……………\nMã địa bàn hành chính:...."
+  ],
+  [
+   "ky",
+   [
+    [
+     "Kế toán",
+     "(Ký tên)"
+    ],
+    [
+     "Kiểm soát",
+     "(Ký tên)"
+    ],
+    [
+     "Lãnh đạo Kho bạc Nhà nước nơi giao dịch",
+     "(Ký tên, đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "__________________________",
+    "Ghi chú: Trường hợp là chứng từ điện tử thì thực hiện theo quy định của pháp luật về giao dịch điện tử và các quy định của pháp luật khác có liên quan.",
+    "(1) Thực hiện theo quy định tại Điều 28 Nghị định số 118/2025/NĐ-CP, Điều 13 Thông tư số 03/2025/TT-VPCP và các văn bản sửa đổi, bổ sung hoặc thay thế (nếu có).",
+    "(2) Đối với khoản chi có yêu cầu bảo mật: ghi \"Khoản chi có yêu cầu bảo mật\" kèm theo nội dung thanh toán."
+   ]
+  ]
+ ]
+}

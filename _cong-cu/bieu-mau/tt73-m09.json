@@ -1,0 +1,188 @@
+{
+ "ma": "tt73-m09",
+ "ten": "Báo cáo kết quả phê duyệt tổng quyết toán vốn đầu tư dự án quan trọng quốc gia",
+ "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+ "nguon": "Mẫu số 09/QTDA ban hành kèm theo Thông tư 73/2026/TT-BTC",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "73-2026-tt-btc",
+   "4",
+   "khoản 3 Điều 4 Thông tư 73/2026/TT-BTC"
+  ],
+  [
+   "193-2026-nd-cp",
+   "5",
+   "khoản 1 Điều 5 Nghị định 193/2026/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Báo cáo Thủ tướng Chính phủ kết quả phê duyệt tổng quyết toán dự án quan trọng quốc gia (khoản 3 Điều 4 Thông tư 73/2026/TT-BTC).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 09/QTDA"
+  ],
+  [
+   "p",
+   {
+    "t": "(kèm theo Thông tư số 73/2026/TT-BTC\nngày 25 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "ĐƠN VỊ TỔNG HỢP BÁO CÁO",
+     "_______",
+     "Số: .../BC-QTDA"
+    ],
+    "ngay": "..., ngày ... tháng ... năm ..."
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BÁO CÁO",
+    "Kết quả phê duyệt tổng quyết toán vốn đầu tư\ndự án quan trọng quốc gia",
+    "______________"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "Kính gửi: Thủ tướng Chính phủ.",
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "Tên dự án: ..."
+  ],
+  [
+   "p",
+   "Quyết định phê duyệt dự án: số ... ngày ... tháng ... năm ... của ..."
+  ],
+  [
+   "p",
+   "Quy mô công trình chính: ..."
+  ],
+  [
+   "p",
+   "Thời gian khởi công - hoàn thành công trình chính: ... - ..."
+  ],
+  [
+   "p",
+   "Tổng mức đầu tư được phê duyệt theo Quyết định số ... ngày ... tháng ... năm ... của ... là: ..."
+  ],
+  [
+   "p",
+   "Tổng mức đầu tư điều chỉnh theo Quyết định số ... ngày ... tháng ... năm ... của ... là: ..."
+  ],
+  [
+   "p",
+   "Đơn vị tổng hợp báo cáo (bộ, cơ quan trung ương và địa phương giao quản lý dự án thành phần chính hoặc làm đầu mối tổng hợp dự án): ..."
+  ],
+  [
+   "p",
+   "Đơn vị phê duyệt quyết toán các dự án thành phần, tiểu dự án, gồm: ..."
+  ],
+  [
+   "p",
+   "Kết quả phê duyệt quyết toán toàn bộ dự án:"
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị: triệu đồng",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Số TT",
+     "Nội dung",
+     "Chủ đầu tư",
+     "Tổng mức đầu tư được phê duyệt hoặc điều chỉnh lần cuối của dự án",
+     "Giá trị quyết toán do chủ đầu tư đề nghị",
+     "Số vốn đã giải ngân",
+     "Quyết định phê duyệt quyết toán – Số, ngày, tháng, năm",
+     "Quyết định phê duyệt quyết toán – Giá trị được phê duyệt",
+     "Quyết định phê duyệt quyết toán – Người ký, chức vụ",
+     "Ghi chú"
+    ],
+    "rong": [
+     1,
+     3,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "dong": [
+     [
+      "",
+      "Tổng số (1+2+3)"
+     ],
+     [
+      "1",
+      "Dự án chính"
+     ],
+     [
+      "",
+      "- ..."
+     ],
+     [
+      "",
+      "- ..."
+     ],
+     [
+      "2",
+      "Dự án thành phần, tiểu dự án"
+     ],
+     [
+      "",
+      "- ..."
+     ],
+     [
+      "",
+      "- ..."
+     ],
+     [
+      "3",
+      "Dự án thành phần, tiểu dự án"
+     ],
+     [
+      "",
+      "- ..."
+     ],
+     [
+      "",
+      "- ..."
+     ]
+    ]
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "Nơi nhận:",
+     "(Ghi theo quy định tại khoản 1 Điều 5 Nghị định số 193/2026/NĐ-CP ngày 01/6/2026 của Chính phủ)"
+    ],
+    [
+     "THỦ TRƯỞNG ĐƠN VỊ TỔNG HỢP BÁO CÁO",
+     "(Ký, đóng dấu, ghi rõ họ tên)"
+    ]
+   ]
+  ]
+ ]
+}

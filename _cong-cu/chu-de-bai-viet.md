@@ -73,8 +73,62 @@
 | 68 | Điều kiện tách thửa, hợp thửa đất 2026 theo Luật Đất đai 2024 | 31-2024-qh15 Đ45, 133, 220 | hẹn đăng 28/12/2026 |
 | 69 | Điều chỉnh quy hoạch khi nào? Người dân góp ý quy hoạch thế nào | 47-2024-qh15 Đ3, 37, 45, 46, 47, 50, 52; 144-2025-qh15 Đ1 | hẹn đăng 29/12/2026 |
 | 70 | Luật Công chứng sửa đổi từ 01/01/2027: những điểm mới cần biết | 04-2026-qh16 Đ1, 2, 3; 46-2024-qh15 Đ3 | hẹn đăng 30/12/2026 |
+| 71 | Quy định mới về nhà đất, xây dựng có hiệu lực từ năm 2027 | 04-2026-qh16 Đ1, 2; 46-2026-tt-bxd Đ2, 2.5, 2.8, 5.4; 64-2025-tt-btc Đ1, 4 | hẹn đăng 04/01/2027 |
+| 72 | Phí thẩm định thiết kế, dự toán, PCCC từ 2027: hết giảm 50% | 64-2025-tt-btc Đ1, 4; 27-2023-tt-btc Đ2, 4; 28-2023-tt-btc Đ4 | hẹn đăng 11/01/2027 |
+| 73 | Có 300 triệu mua nhà thế nào? 5 cách dùng đòn bẩy an toàn | 91-2015-qh13 Đ209, 218, 299, 317, 468; 100-2024-nd-cp Đ48; 261-2025-nd-cp Đ1 | hẹn đăng 18/01/2027 |
+| 74 | Quy trình xây nhà từ A đến Z 2027: 10 bước cho chủ nhà lần đầu | 217-2026-nd-cp Đ55; 207-2026-nd-cp Đ10; 135-2025-qh15 Đ43, 48, 57, 58, 88 | hẹn đăng 25/01/2027 |
+| 75 | Chọn móng nhà: móng đơn, móng băng, móng bè hay móng cọc? | 207-2026-nd-cp Đ10 | hẹn đăng 01/02/2027 |
+| 76 | Chống thấm sàn mái, sân thượng, nhà vệ sinh: làm đúng từ đầu | 207-2026-nd-cp Đ10 | hẹn đăng 08/02/2027 |
+| 77 | Thiết kế nhà ống mặt tiền 4–5 m: bố trí công năng hợp lý | 91-2015-qh13 Đ250, 251; 46-2026-tt-bxd Đ2.5; 207-2026-nd-cp Đ10 | hẹn đăng 15/02/2027 |
+| 78 | Thiết kế nhà cấp 4, nhà vườn nông thôn 2027: gọn, đẹp, tiết kiệm | 135-2025-qh15 Đ43; 207-2026-nd-cp Đ10; 46-2026-tt-bxd Đ4.5 | hẹn đăng 22/02/2027 |
+| 79 | Lập ngân sách xây nhà từ A đến Z: các khoản chủ nhà cần tính | 206-2026-nd-cp Đ2, 5, 12; 207-2026-nd-cp Đ10; 33-vbhn-btc Đ10 | hẹn đăng 01/03/2027 |
+| 80 | Chứng chỉ hành nghề xây dựng từ 01/03/2027: chức danh nào còn cần? | 24-2026-qh16 Đ2; 135-2025-qh15 Đ88, 90; 212-2026-nd-cp Đ27, 28, 38, 55 | hẹn đăng 08/03/2027 |
+| 81 | Thừa kế nhà đất không có di chúc: ai được hưởng, chia thế nào? | 91-2015-qh13 Đ611, 612, 620, 621, 623, 649; 46-2024-qh15 Đ59; 31-2024-qh15 Đ27 | hẹn đăng 15/03/2027 |
+| 82 | Khảo sát địa chất trước khi xây nhà: có cần không, làm thế nào? | 135-2025-qh15 Đ21, 22, 37; 207-2026-nd-cp Đ10 | hẹn đăng 22/03/2027 |
+| 83 | Nứt tường nhà: phân loại vết nứt, nguyên nhân, khi nào nguy hiểm | 207-2026-nd-cp Đ42 | hẹn đăng 29/03/2027 |
+| 84 | Giếng trời và thông gió tự nhiên cho nhà phố: làm sao cho đúng | 91-2015-qh13 Đ250 | hẹn đăng 05/04/2027 |
+| 85 | Thiết kế nhà ở kết hợp kinh doanh 2027: mặt tiền, lối đi, kho hàng | 55-2024-qh15 Đ20, 21; 46-2026-tt-bxd Đ2.5; 207-2026-nd-cp Đ10 | hẹn đăng 12/04/2027 |
+| 86 | Cách tính tiền trả góp mua nhà hằng tháng và tỷ lệ nợ an toàn | 91-2015-qh13 Đ470 | hẹn đăng 19/04/2027 |
+| 87 | Chống nóng mái nhà và tường hướng Tây: giải pháp hiệu quả | 135-2025-qh15 Đ43 | hẹn đăng 26/04/2027 |
+| 88 | Đọc báo giá xây nhà trọn gói: hạng mục hay bị bỏ sót gây phát sinh | 210-2026-nd-cp Đ4, 6, 8, 11, 23 | hẹn đăng 03/05/2027 |
+| 89 | Xây nhà mùa mưa 2027: lưu ý kỹ thuật và an toàn thi công | 135-2025-qh15 Đ50, 59; 207-2026-nd-cp Đ10, 17 | hẹn đăng 10/05/2027 |
+| 90 | Lập di chúc để lại nhà đất: hình thức hợp pháp và những lưu ý | 91-2015-qh13 Đ625, 627, 628, 630, 631, 632; 46-2024-qh15 Đ44, 58, 61 | hẹn đăng 17/05/2027 |
+| 91 | Chọn nhà thầu xây nhà uy tín 2027: checklist trước khi ký | 135-2025-qh15 Đ10, 82, 88; 212-2026-nd-cp Đ41; 24-2026-qh16 Đ2 | hẹn đăng 24/05/2027 |
+| 92 | Lỗi thi công cột, dầm, sàn bê tông cốt thép chủ nhà nên biết | 207-2026-nd-cp Đ10, 22 | hẹn đăng 31/05/2027 |
+| 93 | Nâng tầng nhà cũ: kiểm tra kết cấu, móng và giấy phép xây dựng | 207-2026-nd-cp Đ10; 135-2025-qh15 Đ43; 217-2026-nd-cp Đ50, 51, 55, 61 | hẹn đăng 07/06/2027 |
+| 94 | Cầu thang trong nhà: vị trí, kiểu dáng, an toàn cho người già, trẻ nhỏ | 207-2026-nd-cp Đ10 | hẹn đăng 14/06/2027 |
+| 95 | Hồ sơ thiết kế nhà ở gồm những bản vẽ gì? Cách đọc cho chủ nhà | 217-2026-nd-cp Đ60; 207-2026-nd-cp Đ10 | hẹn đăng 21/06/2027 |
+| 96 | Lãi suất thả nổi sau ưu đãi khi vay mua nhà: tính trước để không vỡ nợ | 91-2015-qh13 Đ299, 468, 470; 261-2025-nd-cp Đ1 | hẹn đăng 28/06/2027 |
+| 97 | Xây nhà trọn gói hay khoán nhân công: so sánh ưu, nhược điểm | 210-2026-nd-cp Đ6, 8; 91-2015-qh13 Đ398; 207-2026-nd-cp Đ10 | hẹn đăng 05/07/2027 |
+| 98 | Nhà đất chung của vợ chồng: đứng tên một người có sao không? | 91-2015-qh13 Đ210, 212, 213, 218, 612, 651; 31-2024-qh15 Đ27, 135; 253-2026-nd-cp Đ18 | hẹn đăng 12/07/2027 |
+| 99 | Bê tông xây nhà: đổ, đầm, bảo dưỡng đúng cách; tươi hay trộn tay? | 41-2026-tt-bxd Đ12; 207-2026-nd-cp Đ22 | hẹn đăng 19/07/2027 |
+| 100 | Nhà xuống cấp: khi nào gia cố, sửa chữa, khi nào nên xây lại? | 135-2025-qh15 Đ43, 65; 207-2026-nd-cp Đ42, 43; 217-2026-nd-cp Đ61 | hẹn đăng 26/07/2027 |
+| 101 | Thiết kế nhà cho gia đình 3 thế hệ: riêng tư mà vẫn gắn kết | 207-2026-nd-cp Đ10 | hẹn đăng 02/08/2027 |
+| 102 | Ban công, ô văng, mái đón nhô ra đường: quy định theo QCVN 01:2026 | 46-2026-tt-bxd Đ2, 1.4, 2.5, 2.6, 5.4 | hẹn đăng 09/08/2027 |
+| 103 | Vay mua nhà ở xã hội: điều kiện, mức vay 80% và cách tính trả nợ | 27-2023-qh15 Đ77, 78; 100-2024-nd-cp Đ46, 48; 261-2025-nd-cp Đ1 | hẹn đăng 16/08/2027 |
+| 104 | Chia đợt thanh toán cho nhà thầu theo tiến độ để giảm rủi ro | 135-2025-qh15 Đ87; 210-2026-nd-cp Đ12, 20, 28, 29 | hẹn đăng 23/08/2027 |
+| 105 | Diện tích chiếm đất, chiều cao nhà tính thế nào theo QCVN 01:2026 | 46-2026-tt-bxd Đ2, P5, 1.4, 2.5, 2.6, 5.4 | hẹn đăng 30/08/2027 |
+| 106 | Thế chấp sổ đỏ vay ngân hàng: quyền của người vay và rủi ro | 91-2015-qh13 Đ299, 300, 303, 307, 317, 318; 31-2024-qh15 Đ27; 253-2026-nd-cp Đ57 | hẹn đăng 06/09/2027 |
+| 107 | An toàn lao động khi xây nhà ở 2027: chủ nhà và nhà thầu làm gì? | 135-2025-qh15 Đ10, 51, 59; 207-2026-nd-cp Đ10, 15, 17, 49; 339-2026-nd-cp Đ23 | hẹn đăng 13/09/2027 |
+| 108 | Thép xây nhà: chọn mua, kiểm tra và nghiệm thu cốt thép | 41-2026-tt-bxd Đ3; 207-2026-nd-cp Đ14, 22 | hẹn đăng 20/09/2027 |
+| 109 | Nhà tiết kiệm năng lượng: hướng nhà, che nắng, điện mặt trời áp mái | 46-2026-tt-bxd Đ2.5 | hẹn đăng 27/09/2027 |
+| 110 | Tầng lửng, tum thang, sân thượng có tính là tầng không? (2027) | 34-2026-tt-bxd Đ3, 4, 5; 207-2026-nd-cp Đ10; 135-2025-qh15 Đ43 | hẹn đăng 04/10/2027 |
+| 111 | Mua đất xây nhà hay mua nhà có sẵn? So sánh chi phí, thời gian, rủi ro | 207-2026-nd-cp Đ10; 135-2025-qh15 Đ43; 31-2024-qh15 Đ45 | hẹn đăng 11/10/2027 |
+| 112 | Chi phí ẩn khi xây nhà: thủ tục, điện nước, hàng xóm, nội thất | 207-2026-nd-cp Đ10; 33-vbhn-btc Đ10; 206-2026-nd-cp Đ12 | hẹn đăng 18/10/2027 |
+| 113 | Xây nhà ở nông thôn theo QCVN 01:2026: chọn đất, khoảng lùi 6 m | 46-2026-tt-bxd Đ2, 2.5, 4.1, 4.4, 4.5 | hẹn đăng 25/10/2027 |
+| 114 | Lối đi chung, ranh giới, mốc giới nhà liền kề theo Bộ luật Dân sự | 91-2015-qh13 Đ175, 176, 247, 248, 254, 256 | hẹn đăng 01/11/2027 |
+| 115 | Nhận bàn giao nhà mới xây 2027: kiểm tra gì trước khi trả đợt cuối? | 135-2025-qh15 Đ42, 57, 58, 61; 207-2026-nd-cp Đ30; 339-2026-nd-cp Đ23 | hẹn đăng 08/11/2027 |
+| 116 | Xây nhà trên đất yếu, đất ao hồ san lấp: rủi ro và cách xử lý | 135-2025-qh15 Đ21; 207-2026-nd-cp Đ10 | hẹn đăng 15/11/2027 |
+| 117 | Nhà bị lún, nghiêng: dấu hiệu, nguyên nhân và hướng xử lý | 207-2026-nd-cp Đ42; 135-2025-qh15 Đ43 | hẹn đăng 22/11/2027 |
+| 118 | Phong thủy nhà ở dưới góc nhìn kiến trúc: nên giữ gì, bớt lo gì | 91-2015-qh13 Đ174, 175, 250; 46-2026-tt-bxd Đ2.5 | hẹn đăng 29/11/2027 |
+| 119 | Quỹ dự phòng, bảo hiểm và kế hoạch B khi vay mua nhà | 91-2015-qh13 Đ299, 317, 468, 470; 261-2025-nd-cp Đ1 | hẹn đăng 06/12/2027 |
+| 120 | Tiết kiệm chi phí xây nhà mà không giảm chất lượng: 7 cách | 207-2026-nd-cp Đ10; 210-2026-nd-cp Đ23; 33-vbhn-btc Đ10 | hẹn đăng 13/12/2027 |
+| 121 | Chỗ đỗ ô tô cho nhà ở riêng lẻ theo QCVN 01:2026: 1,2 chỗ/căn | 46-2026-tt-bxd Đ2, 1.4, 1.5, 2.8 | hẹn đăng 20/12/2027 |
+| 122 | Xây nhà sát ranh: mái, nước mưa, nước thải sang nhà hàng xóm | 91-2015-qh13 Đ174, 175, 176, 248, 250, 251 | hẹn đăng 27/12/2027 |
 
 > Ghi chú 30/10/2026 (Quang Mai Phú): tạm chưa soạn chủ đề 5–8 (đất đai) vì toàn văn NĐ 101/2024/NĐ-CP trong thư viện là bản gốc, còn ghi thẩm quyền "cấp huyện"; thư viện chưa có NĐ 151/2025/NĐ-CP (phân định thẩm quyền theo chính quyền 2 cấp) và bản hợp nhất. Nạp bổ sung các văn bản này rồi mới soạn.
 
 
 > Ghi chú 11/11/2026 (Quang Mai Phú): soạn sẵn 50 bài đăng mỗi ngày 12/11–31/12/2026; bài "hẹn đăng" tự lên web 00:05 đúng ngày (GitHub Actions chạy _cong-cu/tao-bai-viet.py). Chủ đề #21 chưa soạn: toàn văn Điều 10, 11 NĐ 103/2024 trong thư viện bị mất công thức tính tiền sử dụng đất – thay bằng bài "Mua bán đất không sang tên bị phạt". Muốn hoãn một bài: sửa "date" trong _cong-cu/bai-viet.py.
+
+> Ghi chú 11/11/2026 (Quang Mai Phú): soạn sẵn 52 bài năm 2027, đăng thứ Hai hằng tuần (04/01–27/12/2027), đi sâu kết cấu, kiến trúc, tài chính – mẹo, xen pháp lý. Lịch đăng xem _cong-cu/lich-dang.md (GitHub Actions cập nhật ngày 1 và 15 hằng tháng để giữ lịch tự đăng hoạt động).

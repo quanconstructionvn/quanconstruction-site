@@ -1,0 +1,965 @@
+{
+"ma": "checklist-thanh-tra",
+"nhom": [
+{
+"ten": "1. Pháp lý dự án của chủ đầu tư",
+"muc": [
+{
+"ten": "Văn bản về chủ trương đầu tư xây dựng dự án (hoặc văn bản phê duyệt thông tin dự án)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d35\">điểm a khoản 2 Điều 35 NĐ 217/2026</a>"
+},
+{
+"ten": "Văn bản chấp thuận/quyết định phê duyệt và bản vẽ quy hoạch sử dụng làm căn cứ lập dự án",
+"don_vi": "Cơ quan có thẩm quyền",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d26\">Điều 26 NĐ 217/2026</a>; <a href=\"/phap-ly/217-2026-nd-cp.html#d35\">điểm d khoản 2 Điều 35</a>"
+},
+{
+"ten": "Văn bản phê duyệt phương án thiết kế kiến trúc qua thi tuyển và bản vẽ kèm theo (nếu có yêu cầu thi tuyển)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d35\">điểm c khoản 2 Điều 35 NĐ 217/2026</a>"
+},
+{
+"ten": "Văn bản thỏa thuận, xác nhận đấu nối hạ tầng kỹ thuật; văn bản chấp thuận độ cao công trình (nếu có)",
+"don_vi": "Cơ quan có thẩm quyền",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d35\">điểm đ khoản 2 Điều 35 NĐ 217/2026</a>"
+},
+{
+"ten": "Nhiệm vụ thiết kế xây dựng được chủ đầu tư phê duyệt",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d17\">Điều 17 NĐ 217/2026</a>"
+},
+{
+"ten": "Tờ trình thẩm định Báo cáo nghiên cứu khả thi (Mẫu số 01 Phụ lục I)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d35\">khoản 2 Điều 35 NĐ 217/2026</a>"
+},
+{
+"ten": "Thông báo kết quả thẩm định Báo cáo nghiên cứu khả thi/Báo cáo kinh tế – kỹ thuật",
+"don_vi": "Cơ quan có thẩm quyền",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d38\">Điều 38 NĐ 217/2026</a>; <a href=\"/phap-ly/135-2025-qh15.html#d26\">Điều 26 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Báo cáo kết quả thẩm tra thiết kế (công trình bắt buộc thẩm tra)",
+"don_vi": "Tư vấn thẩm tra",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d35\">Điều 35 NĐ 217/2026</a>; <a href=\"/phap-ly/135-2025-qh15.html#d26\">khoản 5 Điều 26 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Quyết định phê duyệt dự án, quyết định đầu tư xây dựng",
+"don_vi": "Người quyết định đầu tư",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d39\">Điều 39 NĐ 217/2026</a>; <a href=\"/phap-ly/135-2025-qh15.html#d28\">Điều 28 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Quyết định phê duyệt điều chỉnh dự án (nếu có)",
+"don_vi": "Người quyết định đầu tư",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d40\">Điều 40 NĐ 217/2026</a>"
+},
+{
+"ten": "Văn bản thẩm định tổng mức đầu tư và quyết định phê duyệt tổng mức đầu tư",
+"don_vi": "Cơ quan thẩm định / người quyết định đầu tư",
+"can_cu": "<a href=\"/phap-ly/206-2026-nd-cp.html#d7\">Điều 7</a>; <a href=\"/phap-ly/206-2026-nd-cp.html#d9\">Điều 9 NĐ 206/2026</a>"
+},
+{
+"ten": "Quyết định thành lập Ban quản lý dự án hoặc văn bản giao/ thuê tư vấn quản lý dự án; thông báo nhiệm vụ, quyền hạn của bộ máy quản lý dự án",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d44\">Điều 44</a>; <a href=\"/phap-ly/217-2026-nd-cp.html#d46\">Điều 46 NĐ 217/2026</a>"
+},
+{
+"ten": "Giấy tờ hợp pháp về đất đai để cấp giấy phép xây dựng",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d55\">Điều 55 NĐ 217/2026</a>"
+},
+{
+"ten": "Giấy phép xây dựng (trường hợp phải có) và hồ sơ đề nghị cấp phép kèm bản vẽ được đóng dấu",
+"don_vi": "Cơ quan có thẩm quyền",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d43\">Điều 43 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/217-2026-nd-cp.html#d56\">Điều 56 NĐ 217/2026</a>"
+},
+{
+"ten": "Giấy phép xây dựng điều chỉnh, gia hạn (nếu có)",
+"don_vi": "Cơ quan có thẩm quyền",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d63\">Điều 63 NĐ 217/2026</a>"
+},
+{
+"ten": "Công khai nội dung giấy phép xây dựng tại địa điểm thi công trong suốt quá trình thi công",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d66\">khoản 2 Điều 66 NĐ 217/2026</a>"
+},
+{
+"ten": "Biên bản bàn giao mặt bằng xây dựng (toàn bộ hoặc từng phần) cho nhà thầu",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d48\">điểm a khoản 1 Điều 48 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d12\">khoản 3 Điều 12 NĐ 207/2026</a>"
+},
+{
+"ten": "Thông báo khởi công xây dựng gửi cơ quan quản lý nhà nước về xây dựng tại địa phương (Phụ lục V NĐ 207/2026)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d48\">điểm đ khoản 1 Điều 48 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d12\">khoản 2 Điều 12 NĐ 207/2026</a>"
+},
+{
+"ten": "Văn bản thẩm định thiết kế về phòng cháy và chữa cháy (công trình thuộc diện thẩm định)",
+"don_vi": "Cơ quan Công an / cơ quan chuyên môn",
+"can_cu": "<a href=\"/phap-ly/55-2024-qh15.html#d17\">Điều 17 Luật PCCC và CNCH</a>; <a href=\"/phap-ly/105-2025-nd-cp.html#d9\">Điều 9 NĐ 105/2025</a>"
+},
+{
+"ten": "Giấy phép môi trường hoặc hồ sơ đăng ký môi trường (đối tượng phải có)",
+"don_vi": "Cơ quan có thẩm quyền",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d29\">khoản 4 Điều 29 NĐ 207/2026</a>"
+}
+]
+},
+{
+"ten": "2. Khảo sát – thiết kế",
+"muc": [
+{
+"ten": "Nhiệm vụ khảo sát xây dựng được phê duyệt",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d11\">Điều 11 NĐ 217/2026</a>"
+},
+{
+"ten": "Phương án kỹ thuật khảo sát xây dựng được phê duyệt",
+"don_vi": "Nhà thầu khảo sát",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d12\">Điều 12 NĐ 217/2026</a>"
+},
+{
+"ten": "Báo cáo kết quả khảo sát xây dựng (đủ nội dung theo quy định)",
+"don_vi": "Nhà thầu khảo sát",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d14\">Điều 14 NĐ 217/2026</a>"
+},
+{
+"ten": "Văn bản phê duyệt Báo cáo kết quả khảo sát xây dựng",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d15\">Điều 15 NĐ 217/2026</a>"
+},
+{
+"ten": "Biên bản nghiệm thu kết quả khảo sát xây dựng",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d10\">khoản 4 Điều 10 NĐ 217/2026</a>"
+},
+{
+"ten": "Hồ sơ thiết kế cơ sở/thiết kế sơ bộ trong Báo cáo nghiên cứu khả thi",
+"don_vi": "Tư vấn thiết kế",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d20\">Điều 20 NĐ 217/2026</a>"
+},
+{
+"ten": "Hồ sơ thiết kế kỹ thuật (nếu có)",
+"don_vi": "Tư vấn thiết kế",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d22\">Điều 22 NĐ 217/2026</a>"
+},
+{
+"ten": "Hồ sơ thiết kế bản vẽ thi công được phê duyệt của phần công trình khởi công",
+"don_vi": "Tư vấn thiết kế",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d23\">Điều 23 NĐ 217/2026</a>; <a href=\"/phap-ly/135-2025-qh15.html#d48\">điểm c khoản 1 Điều 48 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Chỉ dẫn kỹ thuật",
+"don_vi": "Tư vấn thiết kế",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d24\">Điều 24 NĐ 217/2026</a>"
+},
+{
+"ten": "Quy cách hồ sơ thiết kế: thuyết minh, bản vẽ, khung tên, chữ ký, dấu của nhà thầu thiết kế",
+"don_vi": "Tư vấn thiết kế",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d18\">Điều 18 NĐ 217/2026</a>"
+},
+{
+"ten": "Kết quả thẩm định thiết kế xây dựng triển khai sau khi dự án được phê duyệt",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d41\">Điều 41 NĐ 217/2026</a>"
+},
+{
+"ten": "Quyết định phê duyệt thiết kế xây dựng triển khai sau khi dự án được phê duyệt (kèm dự toán)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d42\">Điều 42 NĐ 217/2026</a>"
+},
+{
+"ten": "Hồ sơ điều chỉnh thiết kế và văn bản thẩm định, phê duyệt điều chỉnh (nếu có)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d43\">Điều 43 NĐ 217/2026</a>"
+},
+{
+"ten": "Biên bản nghiệm thu hồ sơ thiết kế xây dựng",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d25\">khoản 3 Điều 25 NĐ 217/2026</a>"
+},
+{
+"ten": "Văn bản thẩm định, thẩm tra dự toán xây dựng",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/206-2026-nd-cp.html#d16\">Điều 16 NĐ 206/2026</a>"
+},
+{
+"ten": "Quyết định phê duyệt dự toán xây dựng; quyết định điều chỉnh dự toán (nếu có)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/206-2026-nd-cp.html#d17\">Điều 17</a>; <a href=\"/phap-ly/206-2026-nd-cp.html#d18\">Điều 18 NĐ 206/2026</a>"
+},
+{
+"ten": "Báo cáo đánh giá việc thực hiện giám sát tác giả khi hoàn thành thi công",
+"don_vi": "Tư vấn thiết kế",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d21\">khoản 1 Điều 21 NĐ 207/2026</a>"
+},
+{
+"ten": "Văn bản giải thích, làm rõ thiết kế; ý kiến của nhà thầu thiết kế về các vướng mắc trong thi công",
+"don_vi": "Tư vấn thiết kế",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d21\">khoản 2 Điều 21 NĐ 207/2026</a>"
+}
+]
+},
+{
+"ten": "3. Lựa chọn nhà thầu – hợp đồng",
+"muc": [
+{
+"ten": "Dự toán gói thầu xây dựng và giá gói thầu",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/206-2026-nd-cp.html#d13\">Điều 13</a>; <a href=\"/phap-ly/206-2026-nd-cp.html#d15\">Điều 15 NĐ 206/2026</a>"
+},
+{
+"ten": "Văn bản thông báo trúng thầu hoặc chỉ định thầu",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d82\">điểm b khoản 5 Điều 82 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Đơn dự thầu, hồ sơ dự thầu/hồ sơ đề xuất của nhà thầu",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d82\">khoản 5 Điều 82 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Hồ sơ mời thầu hoặc hồ sơ yêu cầu",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d82\">điểm e khoản 5 Điều 82 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Biên bản đàm phán hợp đồng",
+"don_vi": "Chủ đầu tư, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d82\">điểm i khoản 5 Điều 82 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Hợp đồng thi công xây dựng đã ký trước khi khởi công (kèm điều kiện chung, điều kiện cụ thể)",
+"don_vi": "Chủ đầu tư, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d48\">điểm d khoản 1 Điều 48 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/135-2025-qh15.html#d82\">khoản 4 Điều 82</a>"
+},
+{
+"ten": "Hợp đồng tư vấn khảo sát, thiết kế, giám sát, quản lý dự án",
+"don_vi": "Chủ đầu tư, nhà thầu tư vấn",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d82\">Điều 82 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Thông tin hợp đồng: số, tên gói thầu, đại diện, mã số thuế, tài khoản, thành viên liên danh",
+"don_vi": "Chủ đầu tư, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d7\">khoản 2 Điều 7 NĐ 210/2026</a>"
+},
+{
+"ten": "Bảo đảm thực hiện hợp đồng (thư bảo lãnh/ đặt cọc) <i>(dự án đầu tư công, PPP)</i>",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d83\">Điều 83 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/210-2026-nd-cp.html#d13\">Điều 13 NĐ 210/2026</a>"
+},
+{
+"ten": "Bảo lãnh tạm ứng (hợp đồng có giá trị tạm ứng trên 01 tỷ đồng) <i>(dự án đầu tư công, PPP)</i>",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d12\">điểm c khoản 3 Điều 12 NĐ 210/2026</a>"
+},
+{
+"ten": "Phụ lục hợp đồng, văn bản sửa đổi, bổ sung hợp đồng",
+"don_vi": "Chủ đầu tư, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d84\">Điều 84 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/210-2026-nd-cp.html#d22\">Điều 22 NĐ 210/2026</a>"
+},
+{
+"ten": "Hồ sơ điều chỉnh khối lượng, đơn giá, giá hợp đồng (nếu có)",
+"don_vi": "Chủ đầu tư, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d23\">Điều 23</a>; <a href=\"/phap-ly/210-2026-nd-cp.html#d24\">Điều 24 NĐ 210/2026</a>"
+},
+{
+"ten": "Hồ sơ điều chỉnh thời gian, tiến độ thực hiện hợp đồng (nếu có)",
+"don_vi": "Chủ đầu tư, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d25\">Điều 25 NĐ 210/2026</a>"
+},
+{
+"ten": "Hợp đồng thầu phụ (nếu có)",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d19\">Điều 19 NĐ 210/2026</a>"
+},
+{
+"ten": "Văn bản khiếu nại và giải quyết khiếu nại trong thực hiện hợp đồng (nếu có)",
+"don_vi": "Chủ đầu tư, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d21\">Điều 21 NĐ 210/2026</a>"
+},
+{
+"ten": "Văn bản tạm dừng, chấm dứt hợp đồng (nếu có)",
+"don_vi": "Chủ đầu tư, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d85\">Điều 85 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/210-2026-nd-cp.html#d26\">Điều 26</a>; <a href=\"/phap-ly/210-2026-nd-cp.html#d27\">Điều 27 NĐ 210/2026</a>"
+},
+{
+"ten": "Hồ sơ thưởng, phạt vi phạm hợp đồng, bồi thường thiệt hại (nếu có)",
+"don_vi": "Chủ đầu tư, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d86\">Điều 86 Luật Xây dựng 2025</a>"
+}
+]
+},
+{
+"ten": "4. Năng lực các bên",
+"muc": [
+{
+"ten": "Thông tin năng lực hoạt động xây dựng của tổ chức đã tự công khai trên csdlhdxd.gov.vn (nhà thầu thi công, tư vấn)",
+"don_vi": "Các nhà thầu",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">khoản 6 Điều 88 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/212-2026-nd-cp.html#d41\">Điều 41 NĐ 212/2026</a>"
+},
+{
+"ten": "Chứng chỉ hành nghề của chủ nhiệm khảo sát xây dựng",
+"don_vi": "Nhà thầu khảo sát",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">khoản 1 Điều 88 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/212-2026-nd-cp.html#d27\">Điều 27 NĐ 212/2026</a>"
+},
+{
+"ten": "Chứng chỉ hành nghề của chủ nhiệm, chủ trì thiết kế",
+"don_vi": "Tư vấn thiết kế",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">khoản 1 Điều 88 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/212-2026-nd-cp.html#d28\">Điều 28 NĐ 212/2026</a>"
+},
+{
+"ten": "Chứng chỉ hành nghề của chủ nhiệm, chủ trì thẩm tra thiết kế",
+"don_vi": "Tư vấn thẩm tra",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">khoản 1 Điều 88 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Chứng chỉ hành nghề giám sát thi công xây dựng của giám sát trưởng, giám sát viên",
+"don_vi": "Tư vấn giám sát",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">khoản 1 Điều 88 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d20\">khoản 2 Điều 20 NĐ 207/2026</a>"
+},
+{
+"ten": "Chứng chỉ hành nghề của người chủ trì xác định, thẩm tra, quản lý chi phí",
+"don_vi": "Tư vấn chi phí",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">khoản 1 Điều 88 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Hồ sơ chứng minh điều kiện năng lực, kinh nghiệm của chỉ huy trưởng công trường",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">khoản 2 Điều 88 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/212-2026-nd-cp.html#d38\">Điều 38 NĐ 212/2026</a>"
+},
+{
+"ten": "Hồ sơ năng lực của giám đốc quản lý dự án và cá nhân phụ trách chuyên môn của Ban QLDA/ tư vấn QLDA",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">khoản 2 Điều 88</a>; <a href=\"/phap-ly/217-2026-nd-cp.html#d46\">khoản 2 Điều 46 NĐ 217/2026</a>"
+},
+{
+"ten": "Hồ sơ năng lực của người chủ trì kiểm định xây dựng (nếu có kiểm định)",
+"don_vi": "Đơn vị kiểm định",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">khoản 2 Điều 88 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Giấy phép hoạt động xây dựng của nhà thầu nước ngoài (nếu có)",
+"don_vi": "Nhà thầu nước ngoài",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">khoản 3 Điều 88 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/212-2026-nd-cp.html#d43\">Điều 43 NĐ 212/2026</a>"
+},
+{
+"ten": "Sơ đồ tổ chức, hệ thống quản lý thi công xây dựng của nhà thầu (chỉ huy trưởng, kỹ thuật, QA/QC, an toàn, khối lượng, hồ sơ)",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">khoản 2 Điều 15 NĐ 207/2026</a>"
+},
+{
+"ten": "Thông báo hệ thống quản lý thi công, nhiệm vụ quyền hạn của các cá nhân giám sát của chủ đầu tư",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d16\">khoản 3 Điều 16 NĐ 207/2026</a>"
+},
+{
+"ten": "Biên bản/ văn bản kiểm tra sự phù hợp năng lực nhà thầu (nhân lực, thiết bị, hệ thống QLCL) so với hồ sơ dự thầu, hợp đồng",
+"don_vi": "Tư vấn giám sát",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">điểm a khoản 1 Điều 20 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ tổ chức giám sát: hệ thống quản lý chất lượng, an toàn; danh sách giám sát trưởng, giám sát viên tại công trường",
+"don_vi": "Tư vấn giám sát",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">khoản 2 Điều 20 NĐ 207/2026</a>"
+},
+{
+"ten": "Đề xuất giải pháp giám sát, quy trình kiểm soát chất lượng, khối lượng, tiến độ, an toàn, môi trường của nhà thầu giám sát",
+"don_vi": "Tư vấn giám sát",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d56\">khoản 3 Điều 56 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Bằng cấp, đào tạo chuyên ngành an toàn lao động/kỹ thuật xây dựng của người quản lý an toàn (nhà thầu, chủ đầu tư)",
+"don_vi": "Nhà thầu, chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">khoản 5 Điều 15</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d16\">khoản 3 Điều 16 NĐ 207/2026</a>"
+}
+]
+},
+{
+"ten": "5. Thi công – an toàn – môi trường – PCCC công trường",
+"muc": [
+{
+"ten": "Biển báo công trình tại lối ra vào công trường đủ nội dung (tên, quy mô, ngày khởi công/hoàn thành, chủ đầu tư, phối cảnh)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d13\">khoản 1 Điều 13 NĐ 207/2026</a>; <a href=\"/phap-ly/135-2025-qh15.html#d49\">khoản 1 Điều 49 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Rào chắn công trường, biển chỉ dẫn sơ đồ tổng mặt bằng, an toàn, phòng chống cháy nổ",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d13\">khoản 2 Điều 13 NĐ 207/2026</a>"
+},
+{
+"ten": "Tổng mặt bằng bố trí công trường phù hợp biện pháp thi công được chấp thuận",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d13\">điểm b khoản 2 Điều 13 NĐ 207/2026</a>"
+},
+{
+"ten": "Biện pháp thi công được chủ đầu tư chấp thuận",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">điểm b khoản 3 Điều 15 NĐ 207/2026</a>"
+},
+{
+"ten": "Biện pháp bảo đảm an toàn trong thi công (có thể lập riêng) được chấp thuận",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">điểm b khoản 3 Điều 15 NĐ 207/2026</a>; <a href=\"/phap-ly/135-2025-qh15.html#d51\">khoản 3 Điều 51 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Hồ sơ xác định vùng nguy hiểm và biện pháp an toàn trong vùng nguy hiểm; kết quả rà soát định kỳ, đột xuất",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d51\">khoản 3 Điều 51 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d15\">khoản 4 Điều 15 NĐ 207/2026</a>"
+},
+{
+"ten": "Báo cáo biện pháp an toàn gửi cơ quan chuyên môn về xây dựng (vùng nguy hiểm vượt ngoài công trường)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d51\">khoản 4 Điều 51 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d16\">khoản 8 Điều 16 NĐ 207/2026</a>"
+},
+{
+"ten": "Tiến độ thi công tổng thể và chi tiết được chủ đầu tư chấp thuận",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">điểm c khoản 3 Điều 15</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d19\">Điều 19 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ điều chỉnh tiến độ thi công (nếu có)",
+"don_vi": "Chủ đầu tư, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d19\">khoản 3 Điều 19 NĐ 207/2026</a>"
+},
+{
+"ten": "Kết quả kiểm định máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn trước khi đưa vào sử dụng",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d51\">khoản 5 Điều 51 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Biện pháp bảo vệ môi trường trong thi công (không khí, nước, chất thải rắn, tiếng ồn)",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d52\">khoản 1 Điều 52 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Hồ sơ tập kết, xử lý chất thải xây dựng; an toàn cho người và phương tiện ra vào công trường",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d49\">khoản 3 Điều 49 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Hợp đồng/ chứng nhận bảo hiểm công trình trong thời gian xây dựng (công trình thuộc diện bắt buộc)",
+"don_vi": "Chủ đầu tư (hoặc nhà thầu được giao)",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d10\">điểm a khoản 1 Điều 10 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Bảo hiểm cho người lao động thi công trên công trường và bảo hiểm trách nhiệm dân sự với bên thứ ba",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d10\">điểm c khoản 1 Điều 10 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/210-2026-nd-cp.html#d20\">khoản 1 Điều 20 NĐ 210/2026</a>"
+},
+{
+"ten": "Bảo hiểm trách nhiệm nghề nghiệp tư vấn khảo sát, thiết kế (công trình từ cấp II trở lên)",
+"don_vi": "Nhà thầu tư vấn",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d10\">điểm b khoản 1 Điều 10 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Hồ sơ sử dụng chi phí an toàn trong thi công đúng mục đích",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">khoản 12 Điều 15 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ dừng thi công khi phát hiện sai sót chất lượng, nguy cơ tai nạn và biện pháp khắc phục (nếu có)",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">khoản 9 Điều 15 NĐ 207/2026</a>"
+},
+{
+"ten": "Văn bản tạm dừng, đình chỉ thi công của chủ đầu tư do vi phạm an toàn (nếu có)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d51\">khoản 2 Điều 51 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Quyết định lắp đặt thiết bị giám sát công trường (nếu chủ đầu tư quyết định)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d13\">khoản 3 Điều 13 NĐ 207/2026</a>"
+},
+{
+"ten": "Báo cáo sự cố công trình (nếu xảy ra) gửi trong 24 giờ",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d45\">Điều 45 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ sự cố: biên bản kiểm tra hiện trường, tài liệu thiết kế – thi công liên quan, hồ sơ giám định, tài liệu giải quyết (nếu có)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d48\">Điều 48 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ khai báo, báo cáo sự cố do máy, thiết bị thi công (nếu có)",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d49\">Điều 49</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d50\">Điều 50 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ quan trắc công trình trong thi công: đề cương được chấp thuận, kết quả từng chu kỳ (khi phải quan trắc)",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d7\">Điều 7 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ trắc đạc, quan trắc theo yêu cầu thiết kế",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">khoản 10 Điều 15 NĐ 207/2026</a>"
+}
+]
+},
+{
+"ten": "6. Giám sát thi công",
+"muc": [
+{
+"ten": "Văn bản chấp thuận kế hoạch thí nghiệm, kiểm tra, kiểm định, chạy thử, quan trắc của nhà thầu",
+"don_vi": "Tư vấn giám sát",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">điểm b khoản 1 Điều 20</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d15\">điểm a khoản 3 Điều 15 NĐ 207/2026</a>"
+},
+{
+"ten": "Văn bản chấp thuận biện pháp kiểm tra, kiểm soát chất lượng vật liệu, sản phẩm, cấu kiện, thiết bị",
+"don_vi": "Tư vấn giám sát",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">điểm b khoản 1 Điều 20 NĐ 207/2026</a>"
+},
+{
+"ten": "Văn bản chấp thuận kế hoạch kiểm tra, nghiệm thu công việc, giai đoạn, hoàn thành",
+"don_vi": "Tư vấn giám sát",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">điểm d khoản 3 Điều 15</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d20\">điểm b khoản 1 Điều 20 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ kiểm tra việc tổ chức thi công so với biện pháp thi công, biện pháp an toàn đã chấp thuận",
+"don_vi": "Tư vấn giám sát",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">điểm c khoản 1 Điều 20 NĐ 207/2026</a>"
+},
+{
+"ten": "Văn bản kiểm tra, chấp thuận vật liệu, cấu kiện, thiết bị sử dụng cho công trình",
+"don_vi": "Tư vấn giám sát",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">điểm d khoản 1 Điều 20 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ giám sát an toàn, biện pháp bảo đảm an toàn công trình lân cận, công tác quan trắc",
+"don_vi": "Tư vấn giám sát",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">điểm e khoản 1 Điều 20 NĐ 207/2026</a>"
+},
+{
+"ten": "Văn bản đề nghị chủ đầu tư điều chỉnh thiết kế khi phát hiện sai sót (nếu có)",
+"don_vi": "Tư vấn giám sát",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">điểm g khoản 1 Điều 20 NĐ 207/2026</a>"
+},
+{
+"ten": "Văn bản yêu cầu nhà thầu tạm dừng thi công (nếu có)",
+"don_vi": "Tư vấn giám sát",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">điểm h khoản 1 Điều 20 NĐ 207/2026</a>"
+},
+{
+"ten": "Biên bản kiểm tra phòng thí nghiệm, công tác lấy mẫu, lưu mẫu, thí nghiệm",
+"don_vi": "Tư vấn giám sát",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">điểm i khoản 1 Điều 20 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ đánh giá kết quả thí nghiệm vật liệu, kết quả quan trắc phục vụ nghiệm thu",
+"don_vi": "Tư vấn giám sát",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">điểm i khoản 1 Điều 20 NĐ 207/2026</a>"
+},
+{
+"ten": "Biên bản xác nhận khối lượng thi công hoàn thành",
+"don_vi": "Tư vấn giám sát, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d18\">khoản 2 Điều 18</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d20\">điểm l khoản 1 Điều 20 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ xử lý, phê duyệt khối lượng phát sinh ngoài thiết kế, dự toán (nếu có)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d18\">khoản 3 Điều 18 NĐ 207/2026</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d16\">khoản 5 Điều 16</a>"
+},
+{
+"ten": "Xác nhận bản vẽ hoàn công",
+"don_vi": "Tư vấn giám sát",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">điểm l khoản 1 Điều 20 NĐ 207/2026</a>"
+},
+{
+"ten": "Biên bản kiểm tra, đánh giá sự phù hợp giữa thực tế thi công với thiết kế được thẩm định, giấy phép xây dựng",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d16\">khoản 6 Điều 16 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ thí nghiệm đối chứng, kiểm định chất lượng (khi thuộc trường hợp phải thực hiện)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d8\">Điều 8</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d16\">khoản 9 Điều 16 NĐ 207/2026</a>"
+},
+{
+"ten": "Kết quả kiểm định xây dựng, thử nghiệm khả năng chịu lực của kết cấu (nếu có)",
+"don_vi": "Đơn vị kiểm định",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d8\">khoản 2 Điều 8 NĐ 207/2026</a>"
+},
+{
+"ten": "Báo cáo của nhà thầu thi công về tiến độ, chất lượng, khối lượng, an toàn theo hợp đồng",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">khoản 15 Điều 15 NĐ 207/2026</a>"
+}
+]
+},
+{
+"ten": "7. Vật liệu – thí nghiệm – kiểm định",
+"muc": [
+{
+"ten": "Hợp đồng cung ứng ghi rõ số lượng, chủng loại, yêu cầu kỹ thuật của vật liệu, sản phẩm, cấu kiện, thiết bị",
+"don_vi": "Bên giao thầu",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">điểm a khoản 4 Điều 14 NĐ 207/2026</a>"
+},
+{
+"ten": "Thông tin vật liệu nhập khẩu trong hợp đồng: chủng loại, thông số, nhà sản xuất, nơi sản xuất, chứng từ xuất xứ",
+"don_vi": "Chủ đầu tư, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">khoản 5 Điều 14 NĐ 207/2026</a>"
+},
+{
+"ten": "Chứng nhận chất lượng của nhà sản xuất",
+"don_vi": "Nhà thầu cung ứng",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">điểm a khoản 7 Điều 14 NĐ 207/2026</a>"
+},
+{
+"ten": "Chứng từ chứng minh xuất xứ (vật liệu nhập khẩu)",
+"don_vi": "Nhà thầu cung ứng",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">điểm b khoản 7 Điều 14 NĐ 207/2026</a>"
+},
+{
+"ten": "Giấy chứng nhận hợp quy và thông báo tiếp nhận công bố hợp quy (vật liệu thuộc nhóm rủi ro cao, trung bình)",
+"don_vi": "Nhà thầu cung ứng",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">điểm c khoản 7 Điều 14 NĐ 207/2026</a>; <a href=\"/phap-ly/41-2026-tt-bxd.html#d12\">Điều 12 TT 41/2026/TT-BXD</a>"
+},
+{
+"ten": "Công bố tiêu chuẩn áp dụng, thông tin truy xuất nguồn gốc của vật liệu xây dựng",
+"don_vi": "Nhà thầu cung ứng",
+"can_cu": "<a href=\"/phap-ly/41-2026-tt-bxd.html#d5\">khoản 1 Điều 5 TT 41/2026/TT-BXD</a>"
+},
+{
+"ten": "Nhãn hàng hóa vật liệu xây dựng",
+"don_vi": "Nhà thầu cung ứng",
+"can_cu": "<a href=\"/phap-ly/41-2026-tt-bxd.html#d4\">Điều 4 TT 41/2026/TT-BXD</a>"
+},
+{
+"ten": "Kết quả thí nghiệm, thử nghiệm, kiểm định vật liệu, sản phẩm, cấu kiện, thiết bị trong quá trình thi công",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">điểm đ khoản 7 Điều 14 NĐ 207/2026</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d15\">khoản 7 Điều 15</a>"
+},
+{
+"ten": "Biên bản nghiệm thu vật liệu, sản phẩm, cấu kiện, thiết bị trước khi đưa vào sử dụng",
+"don_vi": "Tư vấn giám sát, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">khoản 6 Điều 14 NĐ 207/2026</a>"
+},
+{
+"ten": "Quy trình sản xuất, thí nghiệm, kiểm soát chất lượng của cấu kiện, thiết bị chế tạo theo yêu cầu riêng của thiết kế (đã được chấp thuận)",
+"don_vi": "Nhà thầu chế tạo",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">khoản 2 Điều 14 NĐ 207/2026</a>"
+},
+{
+"ten": "Biên bản kiểm tra, nghiệm thu cấu kiện, thiết bị chế tạo trước khi bàn giao",
+"don_vi": "Nhà thầu chế tạo",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">điểm c khoản 2 Điều 14 NĐ 207/2026</a>"
+},
+{
+"ten": "Quy trình vận hành, khai thác, quy trình bảo trì của vật liệu, thiết bị (nếu có)",
+"don_vi": "Nhà thầu cung ứng",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">khoản 3 Điều 14 NĐ 207/2026</a>"
+},
+{
+"ten": "Văn bản chấp thuận thay đổi chủng loại, nguồn gốc xuất xứ vật liệu, thiết bị (nếu có)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">khoản 8 Điều 14 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ năng lực phòng thí nghiệm chuyên ngành xây dựng (của nhà thầu hoặc thuê)",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d6\">khoản 1 Điều 6</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d15\">khoản 7 Điều 15 NĐ 207/2026</a>"
+},
+{
+"ten": "Kế hoạch tổ chức thí nghiệm được chấp thuận; hồ sơ lấy mẫu có giám sát",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d6\">khoản 3, 4 Điều 6 NĐ 207/2026</a>"
+},
+{
+"ten": "Kết quả thí nghiệm, kiểm tra chạy thử đơn động, liên động trước khi đề nghị nghiệm thu",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">khoản 10 Điều 15 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ quản lý chất lượng vật liệu, sản phẩm, cấu kiện, thiết bị do bên giao thầu lập",
+"don_vi": "Bên giao thầu",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">điểm d khoản 4, khoản 7 Điều 14 NĐ 207/2026</a>"
+}
+]
+},
+{
+"ten": "8. Nghiệm thu – quản lý chất lượng",
+"muc": [
+{
+"ten": "Đề nghị nghiệm thu công việc của nhà thầu (giám sát nghiệm thu trong 24 giờ)",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">khoản 3 Điều 22 NĐ 207/2026</a>"
+},
+{
+"ten": "Văn bản thông báo lý do không đồng ý nghiệm thu (nếu có)",
+"don_vi": "Tư vấn giám sát",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">khoản 3 Điều 22 NĐ 207/2026</a>"
+},
+{
+"ten": "Biên bản nghiệm thu công việc xây dựng phần ngầm (móng, cọc, tầng hầm)",
+"don_vi": "Tư vấn giám sát, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">khoản 4, 5 Điều 22 NĐ 207/2026</a>"
+},
+{
+"ten": "Biên bản nghiệm thu công việc xây dựng phần thân, kết cấu (cốt thép, cốp pha, bê tông…)",
+"don_vi": "Tư vấn giám sát, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">khoản 4, 5 Điều 22 NĐ 207/2026</a>"
+},
+{
+"ten": "Biên bản nghiệm thu công việc xây dựng phần hoàn thiện",
+"don_vi": "Tư vấn giám sát, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">khoản 4, 5 Điều 22 NĐ 207/2026</a>"
+},
+{
+"ten": "Biên bản nghiệm thu công việc lắp đặt thiết bị, hệ thống kỹ thuật (điện, nước, PCCC…)",
+"don_vi": "Tư vấn giám sát, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">khoản 4, 5 Điều 22 NĐ 207/2026</a>"
+},
+{
+"ten": "Biên bản nghiệm thu có chữ ký kỹ thuật thi công của nhà thầu phụ (trường hợp có nhà thầu chính)",
+"don_vi": "Nhà thầu phụ",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">điểm c khoản 5 Điều 22 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ kiểm tra của nhà thầu chính đối với phần việc do nhà thầu phụ thực hiện",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">khoản 11 Điều 15 NĐ 207/2026</a>"
+},
+{
+"ten": "Biên bản nghiệm thu giai đoạn thi công hoặc bộ phận công trình (có giám sát trưởng ký)",
+"don_vi": "Chủ đầu tư, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d23\">Điều 23 NĐ 207/2026</a>"
+},
+{
+"ten": "Biên bản nghiệm thu hoàn thành hạng mục công trình, công trình (đủ các nội dung bắt buộc, có đánh giá PCCC)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d24\">khoản 5, 6 Điều 24 NĐ 207/2026</a>"
+},
+{
+"ten": "Biên bản nghiệm thu một phần công trình đưa vào khai thác (nếu có)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d24\">khoản 2 Điều 24 NĐ 207/2026</a>"
+},
+{
+"ten": "Biên bản nghiệm thu có điều kiện, nêu tồn tại và thời hạn khắc phục (nếu có)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d24\">khoản 3 Điều 24 NĐ 207/2026</a>"
+},
+{
+"ten": "Kết quả nghiệm thu về phòng cháy và chữa cháy của chủ đầu tư và khai báo trên Cơ sở dữ liệu PCCC trước khi đưa vào hoạt động",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/347-2026-nd-cp.html#d16\">Điều 16 NĐ 347/2026 (sửa điểm đ khoản 1 Điều 12 NĐ 105/2025)</a>"
+},
+{
+"ten": "Nhật ký thi công xây dựng công trình (Phụ lục II NĐ 207/2026)",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">khoản 13 Điều 15 NĐ 207/2026</a>"
+},
+{
+"ten": "Bản vẽ hoàn công (Phụ lục II NĐ 207/2026)",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">khoản 13 Điều 15 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ quản lý chất lượng các công việc phù hợp thời gian thực hiện thực tế tại công trường",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">khoản 8 Điều 15 NĐ 207/2026</a>"
+},
+{
+"ten": "Văn bản chấp thuận kết quả nghiệm thu của cơ quan có thẩm quyền (công trình thuộc diện kiểm tra công tác nghiệm thu)",
+"don_vi": "Cơ quan có thẩm quyền",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d25\">Điều 25</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d29\">khoản 2 Điều 29 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ phục vụ kiểm tra công tác nghiệm thu trong quá trình thi công và khi hoàn thành (nếu thuộc diện kiểm tra)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d27\">Điều 27 NĐ 207/2026</a>; <a href=\"/phap-ly/135-2025-qh15.html#d57\">khoản 4 Điều 57 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Báo cáo hoàn thành thi công xây dựng hạng mục/công trình (Phụ lục VI NĐ 207/2026, nếu thuộc diện kiểm tra)",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d27\">Điều 27 NĐ 207/2026</a>"
+},
+{
+"ten": "Báo cáo về công tác giám sát thi công: định kỳ/theo giai đoạn và báo cáo hoàn thành (Phụ lục IVa, IVb NĐ 207/2026)",
+"don_vi": "Tư vấn giám sát",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">khoản 3 Điều 20 NĐ 207/2026</a>"
+}
+]
+},
+{
+"ten": "9. Thanh toán – quyết toán",
+"muc": [
+{
+"ten": "Hồ sơ tạm ứng: hợp đồng có hiệu lực, bảo lãnh tạm ứng (nếu phải có), kế hoạch giải phóng mặt bằng/biên bản bàn giao mặt bằng",
+"don_vi": "Chủ đầu tư, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d12\">khoản 3 Điều 12 NĐ 210/2026</a>"
+},
+{
+"ten": "Biên bản nghiệm thu khối lượng, công việc hoàn thành trong giai đoạn thanh toán <i>(dự án đầu tư công, PPP)</i>",
+"don_vi": "Chủ đầu tư, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d29\">Điều 29 NĐ 210/2026</a>"
+},
+{
+"ten": "Bảng tính giá trị công việc phát sinh, công việc chưa có đơn giá (nếu có) <i>(dự án đầu tư công, PPP)</i>",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d29\">khoản 2, 3, 4 Điều 29 NĐ 210/2026</a>"
+},
+{
+"ten": "Bảng tính đơn giá, giá đã điều chỉnh (hợp đồng đơn giá điều chỉnh) <i>(dự án đầu tư công, PPP)</i>",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d29\">điểm b khoản 4 Điều 29 NĐ 210/2026</a>"
+},
+{
+"ten": "Đề nghị thanh toán của nhà thầu (giá trị hoàn thành, phát sinh, giảm trừ tạm ứng, giá trị đề nghị)",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d29\">Điều 29 NĐ 210/2026</a>"
+},
+{
+"ten": "Hồ sơ thanh toán có xác nhận của đại diện bên giao thầu/tư vấn và bên nhận thầu",
+"don_vi": "Chủ đầu tư, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d29\">khoản 1 Điều 29 NĐ 210/2026</a>"
+},
+{
+"ten": "Biên bản nghiệm thu hoàn thành toàn bộ công việc thuộc phạm vi hợp đồng và công việc phát sinh <i>(dự án đầu tư công, PPP)</i>",
+"don_vi": "Chủ đầu tư, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d30\">điểm a khoản 2 Điều 30 NĐ 210/2026</a>"
+},
+{
+"ten": "Bảng tính giá trị quyết toán hợp đồng (quyết toán A – B) <i>(dự án đầu tư công, PPP)</i>",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d30\">điểm b khoản 2 Điều 30 NĐ 210/2026</a>"
+},
+{
+"ten": "Hồ sơ hoàn công, nhật ký thi công kèm hồ sơ quyết toán hợp đồng <i>(dự án đầu tư công, PPP)</i>",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d30\">điểm c khoản 2 Điều 30 NĐ 210/2026</a>"
+},
+{
+"ten": "Biên bản thanh lý hợp đồng xây dựng",
+"don_vi": "Chủ đầu tư, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d31\">Điều 31 NĐ 210/2026</a>; <a href=\"/phap-ly/135-2025-qh15.html#d87\">Điều 87 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Tờ trình đề nghị phê duyệt quyết toán vốn đầu tư dự án (nêu việc chấp hành kết luận thanh tra, kiểm toán nếu có) <i>(dự án vốn nhà nước, PPP)</i>",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/193-2026-nd-cp.html#d7\">điểm a khoản 1 Điều 7 NĐ 193/2026</a>"
+},
+{
+"ten": "Mẫu biểu báo cáo quyết toán (Mẫu 01–09/QTDA Thông tư 73/2026/TT-BTC) <i>(dự án vốn nhà nước, PPP)</i>",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/193-2026-nd-cp.html#d6\">Điều 6 NĐ 193/2026</a>; <a href=\"/phap-ly/73-2026-tt-btc.html#d4\">Điều 4 TT 73/2026/TT-BTC</a>"
+},
+{
+"ten": "Các văn bản pháp lý của dự án kèm hồ sơ quyết toán <i>(dự án vốn nhà nước, PPP)</i>",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/193-2026-nd-cp.html#d7\">điểm c khoản 1 Điều 7 NĐ 193/2026</a>"
+},
+{
+"ten": "Hồ sơ quyết toán từng hợp đồng: hợp đồng, phụ lục, biên bản nghiệm thu, quyết toán A – B, thanh lý <i>(dự án vốn nhà nước, PPP)</i>",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/193-2026-nd-cp.html#d7\">điểm d khoản 1 Điều 7 NĐ 193/2026</a>"
+},
+{
+"ten": "Văn bản bàn giao đưa vào khai thác, sử dụng (nếu có) trong hồ sơ quyết toán <i>(dự án vốn nhà nước, PPP)</i>",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/193-2026-nd-cp.html#d7\">điểm e khoản 1 Điều 7 NĐ 193/2026</a>"
+},
+{
+"ten": "Báo cáo kiểm toán của đơn vị kiểm toán độc lập (nếu thuê kiểm toán) <i>(dự án vốn nhà nước, PPP)</i>",
+"don_vi": "Kiểm toán độc lập",
+"can_cu": "<a href=\"/phap-ly/193-2026-nd-cp.html#d7\">điểm g khoản 1 Điều 7</a>; <a href=\"/phap-ly/193-2026-nd-cp.html#d9\">Điều 9 NĐ 193/2026</a>"
+},
+{
+"ten": "Báo cáo kết quả thẩm tra quyết toán và quyết định phê duyệt quyết toán <i>(dự án vốn nhà nước, PPP)</i>",
+"don_vi": "Cơ quan có thẩm quyền",
+"can_cu": "<a href=\"/phap-ly/193-2026-nd-cp.html#d19\">Điều 19 NĐ 193/2026</a>"
+}
+]
+},
+{
+"ten": "10. Bàn giao – bảo hành – bảo trì – lưu trữ",
+"muc": [
+{
+"ten": "Hồ sơ hoàn thành công trình xây dựng (Phụ lục VII NĐ 207/2026), lập bằng tiếng Việt",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d28\">khoản 1, 2 Điều 28 NĐ 207/2026</a>"
+},
+{
+"ten": "Bản gốc và bản sao điện tử hồ sơ hoàn thành công trình được lưu trữ",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d28\">khoản 4 Điều 28 NĐ 207/2026</a>; <a href=\"/phap-ly/135-2025-qh15.html#d42\">khoản 1 Điều 42 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Hồ sơ lưu trữ phần việc của từng nhà thầu",
+"don_vi": "Các nhà thầu",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d42\">khoản 1 Điều 42 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Biên bản bàn giao hạng mục công trình, công trình xây dựng",
+"don_vi": "Chủ đầu tư, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d58\">Điều 58 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d30\">khoản 1 Điều 30 NĐ 207/2026</a>"
+},
+{
+"ten": "Tài liệu nhà thầu bàn giao: bản vẽ hoàn công, quy trình vận hành, quy trình bảo trì, danh mục thiết bị, phụ tùng, vật tư dự trữ",
+"don_vi": "Nhà thầu thi công, cung ứng thiết bị",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d30\">khoản 2 Điều 30 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ phục vụ quản lý, sử dụng công trình (Phụ lục X NĐ 207/2026) bàn giao chủ sở hữu/chủ quản lý sử dụng",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d30\">khoản 5 Điều 30 NĐ 207/2026</a>"
+},
+{
+"ten": "Thỏa thuận bảo hành trong hợp đồng: thời hạn, biện pháp, giá trị, hoàn trả tiền bảo hành",
+"don_vi": "Chủ đầu tư, nhà thầu",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d32\">khoản 2 Điều 32 NĐ 207/2026</a>; <a href=\"/phap-ly/210-2026-nd-cp.html#d20\">khoản 2 Điều 20 NĐ 210/2026</a>"
+},
+{
+"ten": "Bảo đảm bảo hành/ tiền bảo hành (mức tối thiểu với công trình vốn nhà nước)",
+"don_vi": "Nhà thầu thi công",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d32\">khoản 7 Điều 32 NĐ 207/2026</a>"
+},
+{
+"ten": "Thông báo yêu cầu bảo hành và hồ sơ thực hiện bảo hành (nếu có hư hỏng)",
+"don_vi": "Chủ đầu tư / chủ sở hữu",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d33\">Điều 33 NĐ 207/2026</a>"
+},
+{
+"ten": "Xác nhận của chủ đầu tư hoàn thành trách nhiệm bảo hành trước khi hoàn trả tiền bảo hành",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d32\">khoản 2 Điều 32 NĐ 207/2026</a>"
+},
+{
+"ten": "Quy trình bảo trì công trình xây dựng được phê duyệt",
+"don_vi": "Nhà thầu thiết kế / chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d34\">Điều 34 NĐ 207/2026</a>; <a href=\"/phap-ly/135-2025-qh15.html#d65\">Điều 65 Luật Xây dựng 2025</a>"
+},
+{
+"ten": "Kế hoạch bảo trì công trình hằng năm",
+"don_vi": "Chủ sở hữu / chủ quản lý sử dụng",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d35\">Điều 35 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ kiểm tra, bảo dưỡng, sửa chữa công trình theo quy trình bảo trì",
+"don_vi": "Chủ sở hữu / chủ quản lý sử dụng",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d36\">Điều 36 NĐ 207/2026</a>"
+},
+{
+"ten": "Hồ sơ PCCC của cơ sở khi đưa vào hoạt động (phiếu thông tin PC01, nội quy, văn bản thẩm định thiết kế PCCC, phương án chữa cháy PC06, bản vẽ hoàn công hệ thống PCCC…)",
+"don_vi": "Người đứng đầu cơ sở",
+"can_cu": "<a href=\"/phap-ly/105-2025-nd-cp.html#d4\">Điều 4 NĐ 105/2025</a>"
+},
+{
+"ten": "Giấy chứng nhận bảo hiểm cháy, nổ bắt buộc (cơ sở phải mua)",
+"don_vi": "Người đứng đầu cơ sở",
+"can_cu": "<a href=\"/phap-ly/105-2025-nd-cp.html#d4\">điểm i khoản 1 Điều 4 NĐ 105/2025</a>"
+},
+{
+"ten": "Văn bản ghi nhận đã đáp ứng điều kiện đưa công trình vào khai thác, sử dụng",
+"don_vi": "Chủ đầu tư",
+"can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d29\">Điều 29 NĐ 207/2026</a>"
+}
+]
+}
+]
+}

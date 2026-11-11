@@ -1,0 +1,305 @@
+{
+"cau": [
+{
+"q": "Việc khởi công xây dựng nhà ở riêng lẻ của hộ gia đình, cá nhân chỉ cần đáp ứng điều kiện nào?",
+"a": [
+"Có giấy phép xây dựng và hợp đồng với tư vấn giám sát",
+"Có thiết kế được cơ quan chuyên môn thẩm định",
+"Có giấy phép xây dựng theo quy định và được xây dựng trên đất ở hợp pháp",
+"Có thông báo khởi công gửi Ủy ban nhân dân cấp xã"
+],
+"dung": 2,
+"loai": "pl",
+"giai_thich": "Điều kiện khởi công nhà ở riêng lẻ tại <a href=\"/phap-ly/135-2025-qh15.html#d48\">khoản 3 Điều 48 Luật Xây dựng 2025</a>."
+},
+{
+"q": "Chủ nhà xây nhà ở riêng lẻ có phải gửi thông báo khởi công tới cơ quan quản lý nhà nước về xây dựng không?",
+"a": [
+"Có, trước 03 ngày làm việc",
+"Có, trước 07 ngày",
+"Chỉ khi nhà từ 03 tầng trở lên",
+"Không, Luật loại trừ nhà ở riêng lẻ của hộ gia đình, cá nhân"
+],
+"dung": 3,
+"loai": "pl",
+"giai_thich": "Điểm đ khoản 1 <a href=\"/phap-ly/135-2025-qh15.html#d48\">Điều 48 Luật Xây dựng 2025</a> trừ công trình nhà ở riêng lẻ của hộ gia đình, cá nhân."
+},
+{
+"q": "Nhà ở riêng lẻ được miễn giấy phép xây dựng khi nào?",
+"a": [
+"Dưới 07 tầng, tổng diện tích sàn dưới 500 m², không thuộc các khu vực quy hoạch, khu vực có quy chế quản lý kiến trúc theo Luật",
+"Dưới 03 tầng ở bất kỳ khu vực nào",
+"Diện tích sàn dưới 1.000 m² trong đô thị",
+"Mọi nhà ở nông thôn"
+],
+"dung": 0,
+"loai": "pl",
+"giai_thich": "Trường hợp miễn phép tại <a href=\"/phap-ly/135-2025-qh15.html#d43\">điểm g khoản 2 Điều 43 Luật Xây dựng 2025</a>."
+},
+{
+"q": "Loại giấy phép nào KHÔNG có trong các loại giấy phép xây dựng theo Luật Xây dựng 2025?",
+"a": [
+"Giấy phép xây dựng mới",
+"Giấy phép hoàn công",
+"Giấy phép sửa chữa, cải tạo, di dời công trình",
+"Giấy phép xây dựng có thời hạn"
+],
+"dung": 1,
+"loai": "pl",
+"giai_thich": "Các loại giấy phép xây dựng tại <a href=\"/phap-ly/135-2025-qh15.html#d43\">khoản 1 Điều 43 Luật Xây dựng 2025</a>."
+},
+{
+"q": "Cơ quan nào cấp giấy phép xây dựng cho công trình nhà ở riêng lẻ của hộ gia đình, cá nhân (trừ trường hợp tại khoản 2)?",
+"a": [
+"Sở Xây dựng",
+"Ủy ban nhân dân cấp tỉnh",
+"Ủy ban nhân dân cấp xã nơi có công trình",
+"Bộ Xây dựng"
+],
+"dung": 2,
+"loai": "pl",
+"giai_thich": "Thẩm quyền cấp phép tại <a href=\"/phap-ly/217-2026-nd-cp.html#d53\">khoản 1 Điều 53 Nghị định 217/2026/NĐ-CP</a>."
+},
+{
+"q": "Chủ sở hữu nhà ở riêng lẻ được tự tổ chức thiết kế khi nhà đồng thời đáp ứng điều kiện nào?",
+"a": [
+"Dưới 5 tầng và tổng diện tích sàn dưới 500 m²",
+"Dưới 7 tầng và có không quá 01 tầng hầm",
+"Mọi nhà ở riêng lẻ ở nông thôn",
+"Dưới 3 tầng, không có tầng hầm, tổng diện tích sàn nhỏ hơn 250 m², chiều cao dưới 12 m"
+],
+"dung": 3,
+"loai": "pl",
+"giai_thich": "Điều kiện tự thiết kế tại <a href=\"/phap-ly/207-2026-nd-cp.html#d10\">điểm a Điều 10 Nghị định 207/2026/NĐ-CP</a> (khoản quy định về nhà ở riêng lẻ)."
+},
+{
+"q": "Nhà ở riêng lẻ từ 7 tầng trở lên hoặc có từ 02 tầng hầm trở lên, yêu cầu về thiết kế là gì?",
+"a": [
+"Phải do tổ chức, cá nhân có chuyên môn, kinh nghiệm thiết kế và hồ sơ phải tuân thủ tiêu chuẩn, quy chuẩn về phòng cháy, chữa cháy",
+"Chủ nhà được tự thiết kế nếu có cam kết an toàn",
+"Chỉ cần bản vẽ mặt bằng do chủ nhà lập",
+"Phải do Sở Xây dựng thiết kế"
+],
+"dung": 0,
+"loai": "pl",
+"giai_thich": "Quy định tại <a href=\"/phap-ly/207-2026-nd-cp.html#d10\">điểm c (nhà ở riêng lẻ) Điều 10 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"q": "Bảo hiểm công trình trong thời gian xây dựng (đối với công trình thuộc diện bắt buộc) do ai mua?",
+"a": [
+"Nhà thầu thi công bắt buộc phải tự mua",
+"Chủ đầu tư mua; chủ đầu tư có quyền giao nhà thầu mua",
+"Tư vấn giám sát mua",
+"Cơ quan cấp giấy phép xây dựng mua"
+],
+"dung": 1,
+"loai": "pl",
+"giai_thich": "Quy định tại <a href=\"/phap-ly/135-2025-qh15.html#d10\">điểm a khoản 1 Điều 10 Luật Xây dựng 2025</a>."
+},
+{
+"q": "Bảo hiểm trách nhiệm nghề nghiệp tư vấn xây dựng là bắt buộc đối với công việc nào?",
+"a": [
+"Mọi công việc tư vấn của mọi cấp công trình",
+"Chỉ công việc giám sát thi công",
+"Khảo sát, thiết kế xây dựng của công trình từ cấp II trở lên, do nhà thầu tư vấn mua",
+"Chỉ công trình cấp đặc biệt"
+],
+"dung": 2,
+"loai": "pl",
+"giai_thich": "Quy định tại <a href=\"/phap-ly/135-2025-qh15.html#d10\">điểm b khoản 1 Điều 10 Luật Xây dựng 2025</a>."
+},
+{
+"q": "Bên nhận thầu KHÔNG có quyền yêu cầu bên giao thầu chứng minh năng lực tài chính hoặc bảo đảm thanh toán đối với hợp đồng xây dựng nào?",
+"a": [
+"Hợp đồng tại dự án đầu tư kinh doanh",
+"Hợp đồng xây nhà ở của hộ gia đình",
+"Hợp đồng tại dự án sử dụng vốn tư nhân",
+"Hợp đồng xây dựng tại dự án đầu tư công"
+],
+"dung": 3,
+"loai": "pl",
+"giai_thich": "Ngoại lệ tại <a href=\"/phap-ly/135-2025-qh15.html#d83\">khoản 3 Điều 83 Luật Xây dựng 2025</a>."
+},
+{
+"q": "Trường hợp nào sau đây KHÔNG phải là trường hợp được tạm dừng thực hiện hợp đồng xây dựng theo Luật Xây dựng 2025?",
+"a": [
+"Bên nhận thầu muốn dồn nhân lực cho một gói thầu khác",
+"Một bên vi phạm nghiêm trọng nghĩa vụ hợp đồng",
+"Sự kiện bất khả kháng",
+"Theo yêu cầu của cơ quan nhà nước có thẩm quyền"
+],
+"dung": 0,
+"loai": "pl",
+"giai_thich": "Các trường hợp tạm dừng tại <a href=\"/phap-ly/135-2025-qh15.html#d85\">khoản 1 Điều 85 Luật Xây dựng 2025</a> (còn có trường hợp thay đổi pháp luật ảnh hưởng trực tiếp)."
+},
+{
+"q": "Lĩnh vực nào sau đây Luật Xây dựng 2025 yêu cầu cá nhân hành nghề độc lập phải có chứng chỉ hành nghề?",
+"a": [
+"Kinh doanh vật liệu xây dựng",
+"Giám sát thi công xây dựng",
+"Vận chuyển phế thải xây dựng",
+"Cho thuê giàn giáo, cốp pha"
+],
+"dung": 1,
+"loai": "pl",
+"giai_thich": "Lĩnh vực hành nghề độc lập phải có chứng chỉ tại <a href=\"/phap-ly/135-2025-qh15.html#d90\">Điều 90 Luật Xây dựng 2025</a>."
+},
+{
+"q": "Hoạt động nào sau đây KHÔNG yêu cầu chứng chỉ hành nghề theo Nghị định 212/2026/NĐ-CP?",
+"a": [
+"Giám sát thi công phần kết cấu khung bê tông cốt thép",
+"Thiết kế kết cấu công trình cấp III",
+"Giám sát công tác hoàn thiện như trát, ốp lát, sơn, lắp đặt cửa không ảnh hưởng kết cấu chịu lực",
+"Khảo sát địa chất công trình"
+],
+"dung": 2,
+"loai": "pl",
+"giai_thich": "Các trường hợp không yêu cầu chứng chỉ tại <a href=\"/phap-ly/212-2026-nd-cp.html#d27\">điểm c khoản 3 Điều 27 Nghị định 212/2026/NĐ-CP</a>."
+},
+{
+"q": "Hồ sơ đề nghị cấp chứng chỉ hành nghề không đầy đủ, cơ quan có thẩm quyền phải thông báo một lần bằng văn bản trong thời hạn nào?",
+"a": [
+"02 ngày làm việc",
+"10 ngày làm việc",
+"30 ngày",
+"05 ngày làm việc kể từ ngày cá nhân nộp hồ sơ"
+],
+"dung": 3,
+"loai": "pl",
+"giai_thich": "Quy định tại <a href=\"/phap-ly/212-2026-nd-cp.html#d30\">khoản 5 Điều 30 Nghị định 212/2026/NĐ-CP</a>."
+},
+{
+"q": "Trường hợp cấp mới chứng chỉ hành nghề, cơ quan có thẩm quyền cấp chứng chỉ trong thời hạn nào?",
+"a": [
+"06 ngày làm việc kể từ ngày có thông báo kết quả đánh giá hồ sơ đủ điều kiện",
+"05 ngày làm việc kể từ ngày nhận hồ sơ",
+"11 ngày làm việc kể từ ngày nhận hồ sơ",
+"20 ngày kể từ ngày nhận hồ sơ"
+],
+"dung": 0,
+"loai": "pl",
+"giai_thich": "Thời hạn cấp tại <a href=\"/phap-ly/212-2026-nd-cp.html#d30\">điểm a khoản 2 Điều 30 Nghị định 212/2026/NĐ-CP</a> (cấp lại 05 ngày làm việc; chuyển đổi 11 ngày làm việc)."
+},
+{
+"q": "Cá nhân giả mạo giấy tờ trong hồ sơ đề nghị cấp chứng chỉ hành nghề chỉ được nộp lại hồ sơ sau bao lâu?",
+"a": [
+"03 tháng",
+"12 tháng kể từ ngày có văn bản thông báo của cơ quan có thẩm quyền",
+"06 tháng",
+"Vĩnh viễn không được nộp lại"
+],
+"dung": 1,
+"loai": "pl",
+"giai_thich": "Quy định tại <a href=\"/phap-ly/212-2026-nd-cp.html#d30\">khoản 6 Điều 30 Nghị định 212/2026/NĐ-CP</a>."
+},
+{
+"q": "Theo Nghị định 212/2026/NĐ-CP, năng lực hành nghề của cá nhân khi xét cấp chứng chỉ được đánh giá như thế nào?",
+"a": [
+"Bằng bài thi sát hạch trắc nghiệm đạt từ 80 điểm",
+"Bằng phỏng vấn trực tiếp tại Bộ Xây dựng",
+"Theo tiêu chí đáp ứng điều kiện chung và điều kiện kinh nghiệm nghề nghiệp, có kết quả đánh giá hồ sơ của Hội đồng xét cấp",
+"Chỉ căn cứ bằng tốt nghiệp đại học"
+],
+"dung": 2,
+"loai": "pl",
+"giai_thich": "Quy định tại <a href=\"/phap-ly/212-2026-nd-cp.html#d30\">khoản 3, 4 Điều 30 Nghị định 212/2026/NĐ-CP</a>."
+},
+{
+"q": "Theo Nghị định 339/2026/NĐ-CP, thẩm quyền phạt tiền của các chức danh đối với cá nhân được xác định thế nào so với tổ chức?",
+"a": [
+"Bằng thẩm quyền đối với tổ chức",
+"Gấp đôi thẩm quyền đối với tổ chức",
+"Do Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định riêng",
+"Bằng một nửa thẩm quyền xử phạt đối với tổ chức"
+],
+"dung": 3,
+"loai": "pl",
+"giai_thich": "Quy định tại <a href=\"/phap-ly/339-2026-nd-cp.html#d5\">khoản 6 Điều 5 Nghị định 339/2026/NĐ-CP</a>."
+},
+{
+"q": "Ngay sau khi xảy ra sự cố công trình, chủ đầu tư phải thông báo bằng biện pháp nhanh nhất cho cơ quan nào?",
+"a": [
+"Ủy ban nhân dân cấp xã nơi xảy ra sự cố và cơ quan cấp trên của mình (nếu có)",
+"Bộ Xây dựng",
+"Cơ quan công an cấp tỉnh",
+"Sở Tài chính"
+],
+"dung": 0,
+"loai": "pl",
+"giai_thich": "Quy định tại <a href=\"/phap-ly/207-2026-nd-cp.html#d45\">khoản 1 Điều 45 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"q": "Theo Luật Xây dựng 2025, ai có trách nhiệm tổ chức nghiệm thu công trình xây dựng?",
+"a": [
+"Nhà thầu thi công",
+"Chủ đầu tư",
+"Tư vấn giám sát",
+"Cơ quan cấp giấy phép xây dựng"
+],
+"dung": 1,
+"loai": "pl",
+"giai_thich": "Quy định tại <a href=\"/phap-ly/135-2025-qh15.html#d57\">khoản 3 Điều 57 Luật Xây dựng 2025</a>."
+},
+{
+"q": "Việc bàn giao công trình xây dựng phải được thể hiện thế nào?",
+"a": [
+"Chỉ cần thông báo miệng",
+"Phải công chứng",
+"Phải được lập thành biên bản",
+"Phải đăng báo"
+],
+"dung": 2,
+"loai": "pl",
+"giai_thich": "Quy định tại <a href=\"/phap-ly/135-2025-qh15.html#d58\">khoản 2 Điều 58 Luật Xây dựng 2025</a>."
+},
+{
+"q": "Nội dung bảo hành công trình xây dựng theo Luật Xây dựng 2025 gồm những việc gì?",
+"a": [
+"Bảo dưỡng định kỳ trong suốt thời hạn sử dụng",
+"Nâng cấp, mở rộng công trình",
+"Bồi thường toàn bộ giá trị công trình",
+"Khắc phục, sửa chữa, thay thế thiết bị hư hỏng, khiếm khuyết"
+],
+"dung": 3,
+"loai": "pl",
+"giai_thich": "Quy định tại <a href=\"/phap-ly/135-2025-qh15.html#d64\">khoản 1 Điều 64 Luật Xây dựng 2025</a>."
+},
+{
+"q": "Chi phí sửa chữa hư hỏng phát sinh trong thời gian bảo hành (do lỗi của nhà thầu) do ai chịu?",
+"a": [
+"Nhà thầu thực hiện bảo hành chịu mọi chi phí liên quan",
+"Chủ đầu tư chịu",
+"Chia đôi giữa chủ đầu tư và nhà thầu",
+"Tư vấn giám sát chịu"
+],
+"dung": 0,
+"loai": "pl",
+"giai_thich": "Quy định tại <a href=\"/phap-ly/207-2026-nd-cp.html#d33\">khoản 2 Điều 33 Nghị định 207/2026/NĐ-CP</a>; nhà thầu được từ chối khi hư hỏng không do lỗi của mình hoặc do bất khả kháng (khoản 3)."
+},
+{
+"q": "Các bên thỏa thuận có trả lãi nhưng không xác định rõ lãi suất và có tranh chấp thì lãi suất được xác định thế nào?",
+"a": [
+"Bằng 100% mức giới hạn",
+"Bằng 50% mức lãi suất giới hạn tại khoản 1 Điều 468 Bộ luật Dân sự tại thời điểm trả nợ",
+"Bằng lãi suất tiền gửi không kỳ hạn",
+"Không phải trả lãi"
+],
+"dung": 1,
+"loai": "pl",
+"giai_thich": "Quy định tại <a href=\"/phap-ly/91-2015-qh13.html#d468\">khoản 2 Điều 468 Bộ luật Dân sự</a>."
+},
+{
+"q": "Quy định sửa đổi khoản 1, 2 Điều 88 Luật Xây dựng (về năng lực, chứng chỉ) theo Luật 24/2026/QH16 có hiệu lực từ ngày nào?",
+"a": [
+"01/01/2027",
+"01/07/2026",
+"01/03/2027",
+"15/09/2026"
+],
+"dung": 2,
+"loai": "pl",
+"giai_thich": "Luật 24/2026/QH16 có hiệu lực từ 01/03/2027 (trừ một số khoản từ 01/01/2027) và sửa đổi khoản 1, 2 Điều 88 Luật Xây dựng (<a href=\"/phap-ly/24-2026-qh16.html#d2\">khoản 1, 4 Điều 2 Luật 24/2026/QH16</a>)."
+}
+],
+"dat": null
+}

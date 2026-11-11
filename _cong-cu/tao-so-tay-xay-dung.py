@@ -3,7 +3,7 @@
 # Tạo nhánh "Sổ tay xây dựng" cho dân xây dựng & văn phòng (QA/QC, QS, CCM, Giám sát):
 #   /so-tay-xay-dung.html (trang chủ nhánh) và /so-tay-xay-dung/<slug>.html từ dữ liệu _cong-cu/so-tay-xay-dung.py.
 # Chạy từ thư mục gốc website:  python3 _cong-cu/tao-so-tay-xay-dung.py
-# Khối nội dung: ("h2", chữ) | ("h3", chữ) | ("p", html) | ("ul"/"ol", [html,...]) | ("note", html)
+# Khối nội dung: ("st", [kiểu, file.json]) = công cụ tương tác (js/so-tay-tuong-tac.js) | ("h2", chữ) | ("h3", chữ) | ("p", html) | ("ul"/"ol", [html,...]) | ("note", html)
 #                | ("table", {"cot": [...], "dong": [[html,...], ...]}) | ("faq", [(câu hỏi, trả lời html), ...]) | ("html", html thô)
 import json, os, re, html, importlib.util
 
@@ -55,6 +55,10 @@ def block(k, v):
                 + "".join("<tr>" + "".join(f"<td>{c}</td>" for c in r) + "</tr>" for r in v["dong"]) + "</tbody></table></div>")
     if k == "faq": return '<div class="cs-faq">' + "".join(f"<details><summary>{esc(q)}</summary><div>{a}</div></details>" for q, a in v) + "</div>"
     if k == "html": return v
+    if k == "st":  # công cụ tương tác: [kiểu, file JSON trong _cong-cu/so-tay-du-lieu/]
+        d = open(P("_cong-cu", "so-tay-du-lieu", v[1]), encoding="utf-8").read().replace("</", "<\\/")
+        return (f'<script type="application/json" data-st="{v[0]}">{d}</script>'
+                '<noscript><p>Công cụ này cần bật JavaScript.</p></noscript><script src="/js/so-tay-tuong-tac.js?v=1" defer></script>')
     raise ValueError(k)
 
 

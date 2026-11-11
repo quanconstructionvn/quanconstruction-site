@@ -1076,3 +1076,28 @@ def _bieu_mau():
 
 
 _bieu_mau()
+
+
+# ---- Đợt 1 (11/11/2026): trang công cụ tương tác + hỏi đáp mở rộng; dữ liệu trong _cong-cu/so-tay-du-lieu/ ----
+def _dot_1():
+    import json, os
+    d = os.path.join(os.path.dirname(os.path.abspath(__file__)), "so-tay-du-lieu")
+    for t in json.load(open(os.path.join(d, "trang-moi.json"), encoding="utf-8")):
+        t["body"] = [tuple(b) for b in t["body"]]
+        TRANG[:] = [x for x in TRANG if x["slug"] != t["slug"]]
+        TRANG.append(t)
+    them = json.load(open(os.path.join(d, "hoi-dap-them.json"), encoding="utf-8"))
+    hd = next(x for x in TRANG if x["slug"] == "hoi-dap-tinh-huong")
+    if not hd.get("_da_them"):
+        cuoi = hd["body"].pop() if hd["body"][-1][0] == "note" else None
+        for ten, qs in them:
+            hd["body"] += [("h2", ten), ("faq", [tuple(q) for q in qs])]
+        if cuoi: hd["body"].append(cuoi)
+        n = sum(len(v) for k, v in hd["body"] if k == "faq")
+        hd["title"] = f"{n} tình huống hỏi đáp quản lý dự án, chi phí, hợp đồng 2026"
+        hd["summary"] = f"{n} tình huống thực tế về dự toán, định mức, giá, hợp đồng, thanh quyết toán, nghiệm thu, giấy phép, năng lực – trả lời ngắn kèm điều luật."
+        hd["desc"] = f"{n} tình huống hỏi đáp về dự toán, định mức, giá, hợp đồng, thanh quyết toán, nghiệm thu, giấy phép, chứng chỉ – trả lời ngắn kèm điều luật 2026."
+        hd["_da_them"] = True
+
+
+_dot_1()

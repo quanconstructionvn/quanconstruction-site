@@ -1,0 +1,305 @@
+{
+"cau": [
+{
+"q": "Cơ quan nào tổ chức thực hiện việc cấp chứng chỉ hành nghề hoạt động xây dựng cho cá nhân theo Nghị định 212/2026/NĐ-CP?",
+"a": [
+"Bộ Xây dựng",
+"Ủy ban nhân dân cấp tỉnh (có thể phân cấp, ủy quyền theo pháp luật về tổ chức chính quyền địa phương)",
+"Hội nghề nghiệp xây dựng",
+"Ủy ban nhân dân cấp xã nơi cư trú"
+],
+"dung": 1,
+"loai": "pl",
+"giai_thich": "Thẩm quyền cấp tại <a href=\"/phap-ly/212-2026-nd-cp.html#d31\">khoản 1 Điều 31 Nghị định 212/2026/NĐ-CP</a>; Bộ Xây dựng chỉ trực tiếp thu hồi khi chứng chỉ cấp sai mà cơ quan cấp không thu hồi (khoản 2)."
+},
+{
+"q": "Loại bảo hiểm bắt buộc nào do nhà thầu thi công xây dựng mua?",
+"a": [
+"Bảo hiểm công trình trong thời gian xây dựng",
+"Bảo hiểm trách nhiệm nghề nghiệp tư vấn xây dựng",
+"Bảo hiểm cho người lao động thi công trên công trường và bảo hiểm trách nhiệm dân sự đối với bên thứ ba",
+"Bảo hiểm cháy nổ cho công trình sau khi bàn giao"
+],
+"dung": 2,
+"loai": "pl",
+"giai_thich": "Phân công mua bảo hiểm bắt buộc tại <a href=\"/phap-ly/135-2025-qh15.html#d10\">khoản 1 Điều 10 Luật Xây dựng 2025</a>."
+},
+{
+"q": "Theo Bộ luật Dân sự 2015, lãi suất do các bên thỏa thuận (trừ trường hợp luật khác quy định khác) không được vượt quá mức nào?",
+"a": [
+"10%/năm",
+"12%/năm",
+"150% lãi suất cơ bản",
+"20%/năm của khoản tiền vay"
+],
+"dung": 3,
+"loai": "pl",
+"giai_thich": "Giới hạn lãi suất thỏa thuận tại <a href=\"/phap-ly/91-2015-qh13.html#d468\">khoản 1 Điều 468 Bộ luật Dân sự</a>; lãi chậm trả tiền áp dụng theo <a href=\"/phap-ly/91-2015-qh13.html#d357\">Điều 357</a>."
+},
+{
+"q": "Đối với công trình tại dự án đầu tư công, dự án PPP, mức phạt hợp đồng xây dựng tối đa là bao nhiêu?",
+"a": [
+"Không vượt quá 12% giá trị phần hợp đồng bị vi phạm",
+"Không vượt quá 8% tổng giá hợp đồng",
+"Không vượt quá 12% tổng giá hợp đồng",
+"Không vượt quá 20% giá trị phần hợp đồng bị vi phạm"
+],
+"dung": 0,
+"loai": "pl",
+"giai_thich": "Mức trần 12% tại <a href=\"/phap-ly/135-2025-qh15.html#d86\">khoản 3 Điều 86 Luật Xây dựng 2025</a>; ngoài tiền phạt còn có thể phải bồi thường thiệt hại."
+},
+{
+"q": "Theo Luật Xây dựng 2025, việc giám sát thi công xây dựng đối với công trình nhà ở riêng lẻ của hộ gia đình, cá nhân được quy định thế nào?",
+"a": [
+"Bắt buộc phải thuê tư vấn giám sát",
+"Được khuyến khích thực hiện",
+"Bị cấm, do chủ nhà tự quản lý",
+"Chỉ bắt buộc khi nhà từ 03 tầng trở lên"
+],
+"dung": 1,
+"loai": "pl",
+"giai_thich": "Luật khuyến khích giám sát thi công nhà ở riêng lẻ (<a href=\"/phap-ly/135-2025-qh15.html#d56\">khoản 1 Điều 56 Luật Xây dựng 2025</a>)."
+},
+{
+"q": "Hợp đồng thuộc dự án đầu tư công: bên giao thầu không thanh toán đủ giá trị giai đoạn đã thống nhất quá bao lâu kể từ hết hạn thanh toán thì bên nhận thầu được tạm dừng thực hiện hợp đồng (nếu không có thỏa thuận khác)?",
+"a": [
+"Quá 14 ngày",
+"Quá 56 ngày",
+"Quá 28 ngày",
+"Quá 90 ngày"
+],
+"dung": 2,
+"loai": "cm",
+"giai_thich": "Căn cứ tạm dừng tại <a href=\"/phap-ly/210-2026-nd-cp.html#d26\">điểm a khoản 2 Điều 26 Nghị định 210/2026/NĐ-CP</a>."
+},
+{
+"q": "Bên nhận thầu liên tục không thực hiện công việc theo hợp đồng bao nhiêu ngày (trừ khi có thỏa thuận khác) thì được coi là vi phạm nghiêm trọng, bên giao thầu có quyền hủy bỏ hoặc đơn phương chấm dứt hợp đồng?",
+"a": [
+"28 ngày liên tục",
+"30 ngày liên tục",
+"90 ngày liên tục",
+"56 ngày liên tục"
+],
+"dung": 3,
+"loai": "cm",
+"giai_thich": "Các trường hợp vi phạm nghiêm trọng tại <a href=\"/phap-ly/210-2026-nd-cp.html#d27\">khoản 2 Điều 27 Nghị định 210/2026/NĐ-CP</a>."
+},
+{
+"q": "Thời hạn thanh lý hợp đồng xây dựng thuộc dự án đầu tư công, dự án PPP là bao lâu?",
+"a": [
+"Tối đa 45 ngày kể từ khi hoàn thành nghĩa vụ hoặc chấm dứt hợp đồng; quy mô lớn, phức tạp tối đa 90 ngày",
+"Tối đa 60 ngày; quy mô lớn tối đa 120 ngày",
+"Tối đa 30 ngày trong mọi trường hợp",
+"Tối đa 15 ngày làm việc"
+],
+"dung": 0,
+"loai": "cm",
+"giai_thich": "Thời hạn thanh lý tại <a href=\"/phap-ly/210-2026-nd-cp.html#d31\">điểm b khoản 3 Điều 31 Nghị định 210/2026/NĐ-CP</a>."
+},
+{
+"q": "Tài liệu nào sau đây thuộc thành phần hồ sơ quyết toán hợp đồng thi công xây dựng (dự án đầu tư công, PPP)?",
+"a": [
+"Báo cáo nghiên cứu khả thi và quyết định phê duyệt dự án",
+"Biên bản nghiệm thu hoàn thành toàn bộ công việc, bảng tính giá trị quyết toán A - B, hồ sơ hoàn công và nhật ký thi công",
+"Giấy phép xây dựng và thông báo khởi công",
+"Quyết định chủ trương đầu tư và kế hoạch vốn"
+],
+"dung": 1,
+"loai": "cm",
+"giai_thich": "Thành phần hồ sơ quyết toán hợp đồng tại <a href=\"/phap-ly/210-2026-nd-cp.html#d30\">khoản 2 Điều 30 Nghị định 210/2026/NĐ-CP</a>."
+},
+{
+"q": "Hợp đồng trọn gói được áp dụng phổ biến trong trường hợp nào?",
+"a": [
+"Khi chưa có thiết kế và chưa xác định được khối lượng",
+"Khi công việc là thuê chuyên gia tính theo thời gian",
+"Khi lựa chọn nhà thầu, giao kết hợp đồng đã đủ điều kiện xác định rõ khối lượng và đơn giá hoặc giá, ít khả năng thay đổi khối lượng và rủi ro biến động giá",
+"Chỉ khi giá trị hợp đồng dưới 01 tỷ đồng"
+],
+"dung": 2,
+"loai": "cm",
+"giai_thich": "Phạm vi áp dụng hợp đồng trọn gói tại <a href=\"/phap-ly/210-2026-nd-cp.html#d11\">điểm a khoản 3 Điều 11 Nghị định 210/2026/NĐ-CP</a>."
+},
+{
+"q": "Hợp đồng EC (Engineering - Construction) là hợp đồng để thực hiện công việc gì?",
+"a": [
+"Thiết kế và cung cấp vật tư, thiết bị",
+"Cung cấp vật tư, thiết bị và thi công xây dựng",
+"Tư vấn quản lý dự án và giám sát thi công",
+"Thiết kế và thi công xây dựng công trình"
+],
+"dung": 3,
+"loai": "cm",
+"giai_thich": "Định nghĩa hợp đồng EC tại <a href=\"/phap-ly/210-2026-nd-cp.html#d6\">điểm đ khoản 1 Điều 6 Nghị định 210/2026/NĐ-CP</a> (EP là thiết kế – cung cấp; PC là cung cấp – thi công)."
+},
+{
+"q": "Với hợp đồng theo đơn giá cố định thuộc dự án đầu tư công, khối lượng các công việc đã có đơn giá trong hợp đồng được thanh toán theo khối lượng nào?",
+"a": [
+"Khối lượng hoàn thành thực tế (tăng hoặc giảm so với hợp đồng) được nghiệm thu",
+"Khối lượng ghi trong hợp đồng, không phụ thuộc thực tế",
+"Khối lượng trong dự toán được duyệt",
+"Chỉ điều chỉnh khi chênh lệch trên 20%"
+],
+"dung": 0,
+"loai": "cm",
+"giai_thich": "Điều chỉnh khối lượng hợp đồng đơn giá cố định, đơn giá điều chỉnh tại <a href=\"/phap-ly/210-2026-nd-cp.html#d23\">điểm b khoản 2 Điều 23 Nghị định 210/2026/NĐ-CP</a>."
+},
+{
+"q": "Theo Luật Xây dựng 2025, việc sửa đổi hợp đồng xây dựng phải đáp ứng yêu cầu nào?",
+"a": [
+"Có thể thỏa thuận miệng nếu hai bên đồng ý",
+"Áp dụng trong thời gian hợp đồng có hiệu lực và phải thực hiện bằng văn bản",
+"Chỉ được sửa đổi sau khi quyết toán hợp đồng",
+"Phải được cơ quan cấp giấy phép xây dựng chấp thuận"
+],
+"dung": 1,
+"loai": "cm",
+"giai_thich": "Yêu cầu sửa đổi hợp đồng tại <a href=\"/phap-ly/135-2025-qh15.html#d84\">khoản 1 Điều 84 Luật Xây dựng 2025</a>."
+},
+{
+"q": "Phương thức nào sau đây KHÔNG được Luật Xây dựng 2025 nêu là phương thức giải quyết tranh chấp hợp đồng xây dựng?",
+"a": [
+"Tự thương lượng, hòa giải",
+"Trọng tài",
+"Cơ quan cấp giấy phép xây dựng ra quyết định giải quyết tranh chấp",
+"Tòa án"
+],
+"dung": 2,
+"loai": "cm",
+"giai_thich": "Các phương thức: thương lượng, hòa giải, mô hình xử lý tranh chấp theo thông lệ quốc tế, trọng tài hoặc Tòa án (<a href=\"/phap-ly/135-2025-qh15.html#d86\">điểm a khoản 5 Điều 86 Luật Xây dựng 2025</a>)."
+},
+{
+"q": "Nội dung nào sau đây KHÔNG thuộc điều kiện khởi công xây dựng công trình theo khoản 1 Điều 48 Luật Xây dựng 2025?",
+"a": [
+"Có mặt bằng xây dựng để bàn giao toàn bộ hoặc từng phần",
+"Có giấy phép xây dựng theo quy định",
+"Có thiết kế bản vẽ thi công của phần công trình khởi công đã được phê duyệt",
+"Đã quyết toán hợp đồng tư vấn thiết kế"
+],
+"dung": 3,
+"loai": "cm",
+"giai_thich": "Điều kiện khởi công tại <a href=\"/phap-ly/135-2025-qh15.html#d48\">khoản 1 Điều 48 Luật Xây dựng 2025</a>."
+},
+{
+"q": "Thời hạn khởi công công trình kể từ ngày được cấp hoặc gia hạn giấy phép xây dựng là bao lâu?",
+"a": [
+"Không quá 12 tháng",
+"Không quá 06 tháng",
+"Không quá 24 tháng",
+"Không giới hạn"
+],
+"dung": 0,
+"loai": "cm",
+"giai_thich": "Thời hạn khởi công tại <a href=\"/phap-ly/217-2026-nd-cp.html#d49\">khoản 10 Điều 49 Nghị định 217/2026/NĐ-CP</a>."
+},
+{
+"q": "Mỗi giấy phép xây dựng được gia hạn tối đa mấy lần, mỗi lần bao lâu?",
+"a": [
+"Tối đa 01 lần, 12 tháng",
+"Tối đa 02 lần, mỗi lần 12 tháng",
+"Tối đa 03 lần, mỗi lần 06 tháng",
+"Không giới hạn số lần, mỗi lần 06 tháng"
+],
+"dung": 1,
+"loai": "cm",
+"giai_thich": "Gia hạn giấy phép xây dựng tại <a href=\"/phap-ly/217-2026-nd-cp.html#d63\">Điều 63 Nghị định 217/2026/NĐ-CP</a>."
+},
+{
+"q": "Thời gian cấp giấy phép xây dựng mới cho công trình nhà ở riêng lẻ là bao lâu kể từ ngày nhận đủ hồ sơ hợp lệ?",
+"a": [
+"05 ngày làm việc",
+"15 ngày",
+"07 ngày làm việc",
+"20 ngày"
+],
+"dung": 2,
+"loai": "cm",
+"giai_thich": "Thời gian cấp phép nhà ở riêng lẻ tại <a href=\"/phap-ly/217-2026-nd-cp.html#d54\">Điều 54 Nghị định 217/2026/NĐ-CP</a>."
+},
+{
+"q": "Chỉ số giá xây dựng theo yếu tố chi phí gồm những chỉ số nào?",
+"a": [
+"Chỉ số giá phần xây dựng, phần thiết bị, phần chi phí khác",
+"Chỉ số giá theo loại công trình dân dụng, công nghiệp",
+"Chỉ số giá tiêu dùng và chỉ số giá sản xuất",
+"Chỉ số giá vật liệu xây dựng công trình, chỉ số giá nhân công xây dựng, chỉ số giá máy và thiết bị thi công"
+],
+"dung": 3,
+"loai": "cm",
+"giai_thich": "Phân loại chỉ số giá tại <a href=\"/phap-ly/206-2026-nd-cp.html#d23\">khoản 2 Điều 23 Nghị định 206/2026/NĐ-CP</a>; chỉ số theo cơ cấu chi phí gồm phần xây dựng, thiết bị, chi phí khác."
+},
+{
+"q": "Định mức dự toán được hiểu là gì?",
+"a": [
+"Mức hao phí cần thiết về vật liệu, nhân công, máy và thiết bị thi công để hoàn thành một đơn vị khối lượng công tác xây dựng",
+"Đơn giá của một đơn vị khối lượng công tác xây dựng",
+"Tỷ lệ phần trăm chi phí chung trên chi phí trực tiếp",
+"Giá vật liệu do địa phương công bố hằng tháng"
+],
+"dung": 0,
+"loai": "cm",
+"giai_thich": "Khái niệm định mức dự toán tại <a href=\"/phap-ly/206-2026-nd-cp.html#d19\">điểm a khoản 3 Điều 19 Nghị định 206/2026/NĐ-CP</a>."
+},
+{
+"q": "Dự toán xây dựng do chủ đầu tư tổ chức lập được thẩm định khi nào?",
+"a": [
+"Sau khi ký hợp đồng thi công",
+"Cùng với việc thẩm định thiết kế xây dựng triển khai sau khi dự án được phê duyệt",
+"Khi lập Báo cáo nghiên cứu tiền khả thi",
+"Khi quyết toán vốn đầu tư dự án hoàn thành"
+],
+"dung": 1,
+"loai": "cm",
+"giai_thich": "Thời điểm thẩm định dự toán tại <a href=\"/phap-ly/206-2026-nd-cp.html#d16\">khoản 1 Điều 16 Nghị định 206/2026/NĐ-CP</a>."
+},
+{
+"q": "Điều kiện nào sau đây KHÔNG phải là điều kiện để chủ đầu tư tổ chức nghiệm thu hoàn thành hạng mục công trình, công trình?",
+"a": [
+"Công việc đã thi công đầy đủ theo hồ sơ thiết kế được phê duyệt",
+"Nghiệm thu công việc, giai đoạn đã thực hiện đầy đủ",
+"Đã phê duyệt quyết toán vốn đầu tư dự án hoàn thành",
+"Kết quả thí nghiệm, kiểm định, chạy thử bảo đảm yêu cầu kỹ thuật"
+],
+"dung": 2,
+"loai": "cm",
+"giai_thich": "Điều kiện nghiệm thu hoàn thành tại <a href=\"/phap-ly/207-2026-nd-cp.html#d24\">khoản 1 Điều 24 Nghị định 207/2026/NĐ-CP</a>; quyết toán vốn thực hiện sau khi bàn giao."
+},
+{
+"q": "Hệ thống quản lý thi công xây dựng mà nhà thầu thi công phải lập và thông báo cho chủ đầu tư cần nêu rõ nội dung gì?",
+"a": [
+"Danh sách nhà cung cấp vật liệu và giá mua",
+"Báo cáo tài chính 03 năm gần nhất của nhà thầu",
+"Quy trình bảo trì công trình",
+"Sơ đồ tổ chức và trách nhiệm của từng cá nhân đối với công tác quản lý thi công (chỉ huy trưởng, phụ trách kỹ thuật, chất lượng, an toàn, khối lượng, tiến độ, hồ sơ)"
+],
+"dung": 3,
+"loai": "cm",
+"giai_thich": "Yêu cầu về hệ thống quản lý thi công tại <a href=\"/phap-ly/207-2026-nd-cp.html#d15\">khoản 2 Điều 15 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"q": "Ai có trách nhiệm bảo trì công trình xây dựng trong quá trình khai thác, sử dụng?",
+"a": [
+"Chủ sở hữu hoặc chủ quản lý, sử dụng công trình",
+"Nhà thầu thi công xây dựng",
+"Tư vấn giám sát",
+"Cơ quan cấp giấy phép xây dựng"
+],
+"dung": 0,
+"loai": "cm",
+"giai_thich": "Trách nhiệm bảo trì tại <a href=\"/phap-ly/135-2025-qh15.html#d65\">khoản 2 Điều 65 Luật Xây dựng 2025</a>."
+},
+{
+"q": "Hồ sơ phục vụ quản lý, sử dụng công trình xây dựng phải được lưu trữ trong thời gian tối thiểu bao lâu?",
+"a": [
+"05 năm",
+"Bằng thời hạn sử dụng công trình theo quy định",
+"10 năm",
+"Đến khi hết thời hạn bảo hành"
+],
+"dung": 1,
+"loai": "cm",
+"giai_thich": "Thời gian lưu trữ tại <a href=\"/phap-ly/135-2025-qh15.html#d42\">khoản 2 Điều 42 Luật Xây dựng 2025</a>; chủ đầu tư lưu hồ sơ thẩm định và hồ sơ hoàn thành công trình (khoản 1)."
+}
+],
+"dat": null
+}

@@ -1,0 +1,305 @@
+{
+"cau": [
+{
+"q": "Theo Luật Xây dựng 2025, trong quá trình thi công, công trình xây dựng phải được giám sát về những nội dung nào?",
+"a": [
+"Chất lượng và tiến độ thi công",
+"Chất lượng, khối lượng, tiến độ, an toàn lao động và bảo vệ môi trường",
+"Chất lượng, khối lượng và giá trị thanh toán",
+"Tiến độ, an toàn lao động và phòng cháy, chữa cháy"
+],
+"dung": 1,
+"loai": "pl",
+"giai_thich": "Khoản 1 <a href=\"/phap-ly/135-2025-qh15.html#d56\">Điều 56 Luật Xây dựng 2025</a> quy định công trình phải được giám sát về chất lượng, khối lượng, tiến độ, an toàn lao động và bảo vệ môi trường."
+},
+{
+"q": "Việc giám sát thi công đối với công trình nhà ở riêng lẻ của hộ gia đình, cá nhân được Luật Xây dựng 2025 quy định thế nào?",
+"a": [
+"Được khuyến khích thực hiện",
+"Bắt buộc phải thuê tổ chức giám sát có chứng chỉ năng lực",
+"Bắt buộc khi nhà từ 3 tầng trở lên",
+"Không được phép tự giám sát"
+],
+"dung": 0,
+"loai": "pl",
+"giai_thich": "Khoản 1 <a href=\"/phap-ly/135-2025-qh15.html#d56\">Điều 56 Luật Xây dựng 2025</a>: khuyến khích việc giám sát thi công xây dựng đối với công trình nhà ở riêng lẻ của hộ gia đình, cá nhân."
+},
+{
+"q": "Chủ thể nào có trách nhiệm tổ chức nghiệm thu công trình xây dựng?",
+"a": [
+"Nhà thầu thi công xây dựng",
+"Nhà thầu giám sát thi công xây dựng",
+"Cơ quan chuyên môn về xây dựng",
+"Chủ đầu tư"
+],
+"dung": 3,
+"loai": "pl",
+"giai_thich": "Khoản 3 <a href=\"/phap-ly/135-2025-qh15.html#d57\">Điều 57 Luật Xây dựng 2025</a>: chủ đầu tư có trách nhiệm tổ chức nghiệm thu công trình xây dựng; tổ chức, cá nhân tham gia nghiệm thu chịu trách nhiệm về sản phẩm do mình xác nhận."
+},
+{
+"q": "Công trình xảy ra sự cố chỉ được tiếp tục thi công xây dựng khi nào?",
+"a": [
+"Khi chủ đầu tư và nhà thầu thống nhất bằng biên bản",
+"Sau 30 ngày kể từ ngày xảy ra sự cố",
+"Khi được cơ quan nhà nước có thẩm quyền giải quyết sự cố cho phép",
+"Khi nhà thầu đã nộp đủ tiền bồi thường thiệt hại"
+],
+"dung": 2,
+"loai": "pl",
+"giai_thich": "Khoản 3 <a href=\"/phap-ly/135-2025-qh15.html#d55\">Điều 55 Luật Xây dựng 2025</a>: công trình có sự cố chỉ được thi công xây dựng hoặc tiếp tục vận hành, khai thác, sử dụng khi được cơ quan nhà nước có thẩm quyền giải quyết sự cố cho phép."
+},
+{
+"q": "Nhà thầu thi công xây dựng có quyền dừng thi công trong trường hợp nào?",
+"a": [
+"Bất cứ khi nào chưa nhận được tiền tạm ứng đợt sau",
+"Khi có nguy cơ gây mất an toàn cho người và công trình hoặc bên giao thầu không thực hiện đúng cam kết trong hợp đồng",
+"Khi giá vật liệu tăng so với dự toán",
+"Khi giám sát chưa ký nhật ký thi công trong ngày"
+],
+"dung": 1,
+"loai": "pl",
+"giai_thich": "Điểm d khoản 1 <a href=\"/phap-ly/135-2025-qh15.html#d61\">Điều 61 Luật Xây dựng 2025</a> quy định quyền dừng thi công khi có nguy cơ gây mất an toàn cho người và công trình hoặc bên giao thầu không thực hiện đúng cam kết trong hợp đồng."
+},
+{
+"q": "Kể từ khi nhận được đề nghị nghiệm thu công việc xây dựng của nhà thầu, người giám sát phải thực hiện nghiệm thu trong thời gian tối đa bao lâu?",
+"a": [
+"Không quá 24 giờ",
+"Không quá 12 giờ",
+"Không quá 48 giờ",
+"Không quá 03 ngày làm việc"
+],
+"dung": 0,
+"loai": "cm",
+"giai_thich": "Khoản 3 <a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Điều 22 Nghị định 207/2026/NĐ-CP</a>: nghiệm thu trong khoảng thời gian không quá 24 giờ; nếu không đồng ý nghiệm thu phải thông báo lý do bằng văn bản cho nhà thầu."
+},
+{
+"q": "Người giám sát công tác hoàn thiện như trát, ốp lát, sơn, lắp đặt cửa (không ảnh hưởng kết cấu chịu lực) có bắt buộc phải có chứng chỉ hành nghề theo Nghị định 212/2026/NĐ-CP không?",
+"a": [
+"Bắt buộc có chứng chỉ hạng III trở lên",
+"Bắt buộc có chứng chỉ giám sát kết cấu",
+"Chỉ cần chứng chỉ khi công trình dùng vốn nhà nước",
+"Không yêu cầu phải có chứng chỉ hành nghề"
+],
+"dung": 3,
+"loai": "cm",
+"giai_thich": "Điểm c khoản 3 <a href=\"/phap-ly/212-2026-nd-cp.html#d27\">Điều 27 Nghị định 212/2026/NĐ-CP</a>: không yêu cầu chứng chỉ hành nghề khi giám sát công tác hoàn thiện như trát, ốp lát, sơn, lắp đặt cửa và các công việc không ảnh hưởng đến kết cấu chịu lực."
+},
+{
+"q": "Trường hợp có nhà thầu chính và nhà thầu phụ (không áp dụng EPC, chìa khóa trao tay), thành phần ký biên bản nghiệm thu công việc xây dựng gồm những ai?",
+"a": [
+"Người đại diện theo pháp luật của chủ đầu tư và chỉ huy trưởng nhà thầu chính",
+"Giám sát trưởng, chủ nhiệm thiết kế và chỉ huy trưởng",
+"Người trực tiếp giám sát của chủ đầu tư, người trực tiếp phụ trách kỹ thuật của nhà thầu chính và của nhà thầu phụ",
+"Chỉ người trực tiếp giám sát của chủ đầu tư và kỹ thuật nhà thầu chính"
+],
+"dung": 2,
+"loai": "cm",
+"giai_thich": "Khoản 5 <a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Điều 22 Nghị định 207/2026/NĐ-CP</a> quy định thành phần ký gồm người trực tiếp giám sát của chủ đầu tư; người trực tiếp phụ trách kỹ thuật của nhà thầu (hoặc nhà thầu chính); người trực tiếp phụ trách kỹ thuật của nhà thầu phụ khi có nhà thầu chính."
+},
+{
+"q": "Biên bản nghiệm thu công việc xây dựng được lập như thế nào?",
+"a": [
+"Bắt buộc lập riêng cho từng công việc, không được lập chung",
+"Lập cho từng công việc hoặc lập chung cho nhiều công việc của một hạng mục công trình theo trình tự thi công",
+"Lập chung cho toàn bộ công trình khi kết thúc thi công",
+"Chỉ lập khi có yêu cầu của cơ quan chuyên môn về xây dựng"
+],
+"dung": 1,
+"loai": "cm",
+"giai_thich": "Khoản 4 <a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Điều 22 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"q": "Vật liệu, sản phẩm, cấu kiện, thiết bị phải được ai nghiệm thu trước khi đưa vào sử dụng cho công trình?",
+"a": [
+"Người giám sát thi công xây dựng của chủ đầu tư",
+"Nhà cung cấp vật liệu",
+"Phòng thí nghiệm chuyên ngành xây dựng",
+"Chủ nhiệm thiết kế"
+],
+"dung": 0,
+"loai": "cm",
+"giai_thich": "Khoản 6 <a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Điều 14 Nghị định 207/2026/NĐ-CP</a>: vật liệu, sản phẩm, cấu kiện, thiết bị phải được người giám sát thi công xây dựng của chủ đầu tư nghiệm thu trước khi đưa vào sử dụng; kết quả lập thành biên bản."
+},
+{
+"q": "Nội dung nào KHÔNG thuộc các nội dung chủ yếu của biên bản nghiệm thu vật liệu, sản phẩm, cấu kiện, thiết bị theo Nghị định 207/2026/NĐ-CP?",
+"a": [
+"Tên, chủng loại, khối lượng, số sê-ri (nếu có) của từng lô",
+"Thời gian, địa điểm, thành phần ký, kết luận nghiệm thu",
+"Chữ ký, họ và tên, chức vụ của người ký biên bản",
+"Giá mua và chứng từ thanh toán của lô vật liệu"
+],
+"dung": 3,
+"loai": "cm",
+"giai_thich": "Khoản 6 <a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Điều 14 Nghị định 207/2026/NĐ-CP</a> liệt kê: tên, chủng loại, khối lượng, số sê-ri; thời gian, địa điểm, thành phần ký, kết luận; yêu cầu khác; chữ ký, họ tên, chức vụ; phụ lục. Không có nội dung giá mua."
+},
+{
+"q": "Khi tổ chức nghiệm thu giai đoạn thi công hoặc bộ phận công trình, thành phần tham gia bắt buộc phải có ai?",
+"a": [
+"Đại diện cơ quan chuyên môn về xây dựng",
+"Chủ nhiệm thiết kế",
+"Giám sát trưởng",
+"Người đại diện theo pháp luật của chủ đầu tư"
+],
+"dung": 2,
+"loai": "cm",
+"giai_thich": "Khoản 3 <a href=\"/phap-ly/207-2026-nd-cp.html#d23\">Điều 23 Nghị định 207/2026/NĐ-CP</a>: thành phần tham gia nghiệm thu bao gồm giám sát trưởng và các thành phần khác do chủ đầu tư và các nhà thầu tự thỏa thuận."
+},
+{
+"q": "Trường hợp nào dưới đây được Nghị định 207/2026/NĐ-CP nêu là trường hợp chủ đầu tư và nhà thầu có thể thỏa thuận tổ chức nghiệm thu giai đoạn?",
+"a": [
+"Khi mỗi công việc xây dựng hoàn thành",
+"Khi kết thúc một gói thầu xây dựng",
+"Khi nhận được đề nghị thanh toán tạm ứng",
+"Khi có quyết định thanh tra"
+],
+"dung": 1,
+"loai": "cm",
+"giai_thich": "Khoản 1 <a href=\"/phap-ly/207-2026-nd-cp.html#d23\">Điều 23 Nghị định 207/2026/NĐ-CP</a>: khi kết thúc một giai đoạn thi công hoặc một bộ phận công trình cần đánh giá chất lượng trước khi chuyển giai đoạn; khi kết thúc một gói thầu xây dựng."
+},
+{
+"q": "Điều kiện nào KHÔNG thuộc điều kiện để chủ đầu tư nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng?",
+"a": [
+"Đã quyết toán xong hợp đồng thi công xây dựng",
+"Công việc đã thi công đầy đủ theo hồ sơ thiết kế được phê duyệt",
+"Kết quả thí nghiệm, quan trắc, kiểm định, chạy thử đạt yêu cầu thiết kế",
+"Tuân thủ quy định về phòng cháy, chữa cháy, bảo vệ môi trường"
+],
+"dung": 0,
+"loai": "cm",
+"giai_thich": "Khoản 1 <a href=\"/phap-ly/207-2026-nd-cp.html#d24\">Điều 24 Nghị định 207/2026/NĐ-CP</a> nêu 4 điều kiện: thi công đầy đủ theo thiết kế; đã nghiệm thu công việc, giai đoạn đầy đủ; kết quả thí nghiệm, kiểm định đạt; tuân thủ PCCC, môi trường và pháp luật chuyên ngành. Quyết toán hợp đồng không phải điều kiện."
+},
+{
+"q": "Biên bản nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng phải có nội dung nào liên quan đến phòng cháy, chữa cháy?",
+"a": [
+"Giấy chứng nhận nghiệm thu PCCC do cơ quan Công an cấp",
+"Bản cam kết mua bảo hiểm cháy nổ",
+"Danh sách đội PCCC cơ sở của nhà thầu",
+"Đánh giá sự phù hợp của việc thi công so với thiết kế đã được thẩm định về phòng cháy và chữa cháy"
+],
+"dung": 3,
+"loai": "cm",
+"giai_thich": "Điểm đ khoản 5 <a href=\"/phap-ly/207-2026-nd-cp.html#d24\">Điều 24 Nghị định 207/2026/NĐ-CP</a> yêu cầu đánh giá sự phù hợp của việc thi công theo thiết kế đã được thẩm định về PCCC (khoảng cách, đường giao thông chữa cháy, thoát nạn, bậc chịu lửa, ngăn cháy, chống khói…)."
+},
+{
+"q": "Chủ đầu tư được quyết định nghiệm thu có điều kiện hạng mục công trình, công trình khi nào?",
+"a": [
+"Còn thiếu một số hạng mục kết cấu chịu lực sẽ làm sau",
+"Chưa có kết quả thí nghiệm vật liệu",
+"Thi công cơ bản hoàn thành theo thiết kế nhưng còn tồn tại không ảnh hưởng khả năng chịu lực, thời hạn sử dụng, công năng",
+"Khi nhà thầu đề nghị để được thanh toán sớm"
+],
+"dung": 2,
+"loai": "cm",
+"giai_thich": "Khoản 3 <a href=\"/phap-ly/207-2026-nd-cp.html#d24\">Điều 24 Nghị định 207/2026/NĐ-CP</a>; biên bản phải nêu rõ tồn tại cần khắc phục, thời gian hoàn thành và giới hạn phạm vi sử dụng (nếu có)."
+},
+{
+"q": "Ai có trách nhiệm lập nhật ký thi công xây dựng công trình và bản vẽ hoàn công?",
+"a": [
+"Nhà thầu giám sát thi công xây dựng",
+"Nhà thầu thi công xây dựng",
+"Chủ đầu tư",
+"Nhà thầu thiết kế"
+],
+"dung": 1,
+"loai": "cm",
+"giai_thich": "Khoản 13 <a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Điều 15 Nghị định 207/2026/NĐ-CP</a> (theo Phụ lục II của Nghị định); điểm h khoản 2 <a href=\"/phap-ly/135-2025-qh15.html#d61\">Điều 61 Luật Xây dựng 2025</a> cũng quy định nhà thầu lập bản vẽ hoàn công. Người giám sát kiểm tra, xác nhận bản vẽ hoàn công."
+},
+{
+"q": "Người giám sát được yêu cầu nhà thầu tạm dừng thi công trong trường hợp nào?",
+"a": [
+"Chất lượng thi công không bảo đảm yêu cầu kỹ thuật hoặc biện pháp thi công không bảo đảm an toàn",
+"Nhà thầu chậm nộp báo cáo tuần",
+"Chủ đầu tư chưa thanh toán đợt trước",
+"Khi thời tiết nắng nóng trên 35 độ C"
+],
+"dung": 0,
+"loai": "cm",
+"giai_thich": "Điểm h khoản 1 <a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Điều 20 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"q": "Khi phát hiện sai sót, bất hợp lý về thiết kế trong quá trình thi công, người giám sát thi công phải làm gì?",
+"a": [
+"Tự điều chỉnh bản vẽ và yêu cầu nhà thầu làm theo",
+"Yêu cầu nhà thầu tự sửa thiết kế",
+"Chấp nhận thi công theo thiết kế rồi ghi chú vào nhật ký",
+"Đề nghị chủ đầu tư tổ chức điều chỉnh thiết kế"
+],
+"dung": 3,
+"loai": "cm",
+"giai_thich": "Điểm g khoản 1 <a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Điều 20 Nghị định 207/2026/NĐ-CP</a>; nhà thầu thiết kế giám sát tác giả phối hợp điều chỉnh thiết kế theo <a href=\"/phap-ly/207-2026-nd-cp.html#d21\">Điều 21</a>."
+},
+{
+"q": "Thí nghiệm đối chứng trong quá trình thi công được thực hiện trong trường hợp nào?",
+"a": [
+"Bắt buộc với mọi lô vật liệu",
+"Chỉ khi có yêu cầu của cơ quan thanh tra",
+"Khi được quy định trong chỉ dẫn kỹ thuật, thiết kế, hợp đồng hoặc khi vật liệu, sản phẩm có dấu hiệu không bảo đảm chất lượng",
+"Chỉ với công trình cấp đặc biệt"
+],
+"dung": 2,
+"loai": "cm",
+"giai_thich": "Khoản 1 <a href=\"/phap-ly/207-2026-nd-cp.html#d8\">Điều 8 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"q": "Với công trình sử dụng vốn đầu tư công, vốn ngân sách nhà nước, tổ chức giám sát thi công xây dựng phải đáp ứng yêu cầu nào?",
+"a": [
+"Phải là đơn vị sự nghiệp công lập",
+"Độc lập với các nhà thầu thi công và nhà thầu chế tạo, cung ứng vật liệu, thiết bị cho công trình",
+"Phải có trụ sở tại địa phương nơi xây dựng",
+"Được góp vốn vào nhà thầu thi công tối đa 30%"
+],
+"dung": 1,
+"loai": "cm",
+"giai_thich": "Điểm a khoản 5 <a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Điều 20 Nghị định 207/2026/NĐ-CP</a> (áp dụng cho công trình vốn đầu tư công, vốn ngân sách nhà nước)."
+},
+{
+"q": "Với công trình vốn đầu tư công, tổ chức giám sát thi công có được tham gia kiểm định chất lượng công trình do chính mình giám sát không?",
+"a": [
+"Không được",
+"Được, nếu chủ đầu tư đồng ý bằng văn bản",
+"Được, nếu có phòng thí nghiệm hợp chuẩn",
+"Được, với công trình cấp III, IV"
+],
+"dung": 0,
+"loai": "cm",
+"giai_thich": "Điểm b khoản 5 <a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Điều 20 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"q": "Theo Nghị định 339/2026/NĐ-CP, với cùng một hành vi vi phạm (trừ các trường hợp ngoại lệ được liệt kê), mức phạt tiền đối với cá nhân so với tổ chức như thế nào?",
+"a": [
+"Bằng mức phạt đối với tổ chức",
+"Bằng hai lần mức phạt đối với tổ chức",
+"Bằng một phần ba mức phạt đối với tổ chức",
+"Bằng một nửa mức phạt đối với tổ chức"
+],
+"dung": 3,
+"loai": "cm",
+"giai_thich": "Điểm a khoản 4 <a href=\"/phap-ly/339-2026-nd-cp.html#d5\">Điều 5 Nghị định 339/2026/NĐ-CP</a>: mức phạt trong Nghị định là mức áp dụng cho tổ chức; cá nhân bằng một nửa."
+},
+{
+"q": "Trường hợp chủ đầu tư hoặc nhà thầu EPC tự thực hiện đồng thời giám sát và thi công, quy định yêu cầu gì?",
+"a": [
+"Không cần giám sát vì đã tự thi công",
+"Phải thuê cơ quan chuyên môn về xây dựng giám sát thay",
+"Phải thành lập bộ phận giám sát thi công độc lập với bộ phận trực tiếp thi công",
+"Chỉ cần chỉ huy trưởng ký thay giám sát"
+],
+"dung": 2,
+"loai": "cm",
+"giai_thich": "Khoản 4 <a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Điều 20 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"q": "Khi xảy ra sự cố công trình trong thi công, chủ đầu tư phải gửi báo cáo bằng văn bản tới Ủy ban nhân dân cấp tỉnh trong thời hạn nào?",
+"a": [
+"Trong vòng 03 ngày làm việc",
+"Trong vòng 24 giờ kể từ khi xảy ra sự cố",
+"Trong vòng 07 ngày",
+"Sau khi có kết quả giám định nguyên nhân"
+],
+"dung": 1,
+"loai": "cm",
+"giai_thich": "Khoản 2 <a href=\"/phap-ly/207-2026-nd-cp.html#d45\">Điều 45 Nghị định 207/2026/NĐ-CP</a>; ngay sau khi xảy ra sự cố phải thông báo bằng biện pháp nhanh nhất cho UBND cấp xã (khoản 1)."
+}
+],
+"dat": null
+}

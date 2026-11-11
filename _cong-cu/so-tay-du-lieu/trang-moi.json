@@ -1,0 +1,308 @@
+[
+{
+"slug": "ban-do-cong-viec",
+"nhom": "cong-cu",
+"ngan": "Bản đồ công việc",
+"title": "Bản đồ công việc dự án xây dựng 2026: từng bước, hồ sơ, căn cứ",
+"desc": "Bản đồ công việc tương tác: 21 việc từ chuẩn bị dự án đến bảo trì, lọc theo nguồn vốn, checklist từng bước, hồ sơ và căn cứ luật 2026; lưu tiến độ, xuất Excel.",
+"summary": "Công cụ “Hôm nay cần làm gì?” cho chủ đầu tư, ban QLDA, nhà thầu: 21 công việc theo 5 giai đoạn, mỗi việc có bước làm, hồ sơ và điều luật.",
+"lead": "Chọn loại dự án, mở từng công việc để xem bước làm, hồ sơ, biểu mẫu và điều luật – đánh dấu tiến độ, giao người phụ trách, đặt hạn.",
+"ngay": "2026-11-11",
+"body": [
+[
+"p",
+"Bản đồ chia vòng đời dự án thành 5 giai đoạn với 21 công việc chính, từ chuẩn bị dự án, thẩm định, cấp phép, thi công đến quyết toán, bảo hành, bảo trì. Chọn loại dự án (vốn đầu tư công, vốn nhà nước ngoài đầu tư công, vốn khác hoặc nhà ở riêng lẻ) để chỉ hiện việc áp dụng. Mỗi công việc có 4 phần: bước làm theo trình tự, hồ sơ cần có, biểu mẫu – hướng dẫn và điều luật căn cứ, kèm ô trạng thái, người phụ trách, hạn hoàn thành."
+],
+[
+"st",
+[
+"ban-do",
+"ban-do.json"
+]
+],
+[
+"h2",
+"Cách dùng"
+],
+[
+"ul",
+[
+"Chọn <b>loại dự án</b> và <b>giai đoạn</b> để lọc; gõ từ khóa (ví dụ “bảo lãnh”, “PCCC”) để tìm nhanh.",
+"Mở từng công việc, tích các bước đã làm, chọn trạng thái <b>Đang thực hiện / Đang vướng / Đã hoàn thành / Không áp dụng</b>, ghi người phụ trách và hạn.",
+"Tiến độ được <b>lưu trên trình duyệt của máy đang dùng</b> (không gửi lên máy chủ); đổi máy hoặc xóa dữ liệu trình duyệt sẽ mất – hãy bấm <b>Xuất Excel (CSV)</b> để lưu lại.",
+"Bấm <b>In</b> để in toàn bộ bản đồ làm phiếu theo dõi họp giao ban."
+]
+],
+[
+"note",
+"Bản đồ tóm tắt trình tự theo Luật Xây dựng 2025 và các nghị định 2026 để tham khảo, không thay thế văn bản pháp luật. Các mức tạm ứng, bảo đảm, bảo hành, thời hạn quyết toán vốn chỉ bắt buộc với dự án vốn nhà nước/PPP theo đúng phạm vi từng điều. Thủ tục chủ trương đầu tư, kế hoạch vốn theo Luật Đầu tư công và nghị định hướng dẫn Luật Đấu thầu chưa có trong thư viện của chúng tôi. Luật Đấu thầu 2023, Luật PCCC 2024, NĐ 105/2025 đang ở trạng thái hết hiệu lực một phần."
+]
+]
+},
+{
+"slug": "checklist-ho-so-thanh-tra",
+"nhom": "ho-so",
+"ngan": "Checklist hồ sơ thanh tra",
+"title": "Checklist hồ sơ khi thanh tra, kiểm tra công trình xây dựng 2026",
+"desc": "Danh mục hồ sơ cần có khi thanh tra, kiểm tra công trình: pháp lý, thiết kế, hợp đồng, năng lực, an toàn, nghiệm thu, quyết toán. Đánh dấu, in, xuất Excel.",
+"summary": "Checklist tương tác hơn 180 hồ sơ chia 10 nhóm, mỗi hồ sơ ghi đơn vị lập và điều luật quy định; đánh dấu Có/Thiếu, in hoặc xuất Excel.",
+"lead": "Rà soát hồ sơ trước khi đoàn thanh tra, kiểm tra, kiểm toán làm việc – mỗi dòng dẫn tới đúng điều luật.",
+"ngay": "2026-11-11",
+"body": [
+[
+"p",
+"Checklist dưới đây tập hợp các hồ sơ, tài liệu mà pháp luật xây dựng hiện hành yêu cầu chủ đầu tư, nhà thầu và tư vấn phải lập, lưu giữ – là những thứ đoàn thanh tra, kiểm tra, kiểm toán thường đề nghị cung cấp. Mỗi dòng ghi đơn vị lập và điều luật quy định. Anh chị đánh dấu <b>Có / Thiếu / Không áp dụng</b>, ghi chú, rồi in hoặc xuất Excel; dữ liệu chỉ lưu trên trình duyệt của máy đang dùng."
+],
+[
+"st",
+[
+"checklist",
+"checklist-thanh-tra.json"
+]
+],
+[
+"h2",
+"Cách dùng khi chuẩn bị thanh tra, kiểm tra"
+],
+[
+"ul",
+[
+"Lọc nhanh bằng ô tìm kiếm hoặc chọn “chỉ hiện hồ sơ thiếu/chưa đánh dấu” để biết còn phải bổ sung gì.",
+"Đánh dấu <b>Không áp dụng</b> cho hồ sơ không thuộc dự án (ví dụ dự án không dùng vốn nhà nước thì các dòng ghi “dự án vốn nhà nước, PPP” về thành phần hồ sơ thanh toán, quyết toán là mức tham khảo).",
+"Sắp xếp hồ sơ thực tế theo đúng thứ tự 10 nhóm để đoàn kiểm tra dễ tra cứu; bản gốc để riêng, bản sao có xác nhận để giao nộp.",
+"Hồ sơ quản lý chất lượng phải phù hợp thời gian thực hiện thực tế tại công trường – không “làm bù” biên bản sau khi bị yêu cầu.",
+"Xuất Excel để giao việc bổ sung cho từng bộ phận (ban QLDA, giám sát, nhà thầu) và theo dõi đến khi đủ."
+]
+],
+[
+"p",
+"Xem thêm: <a href=\"/so-tay-xay-dung/ho-so-chat-luong-nghiem-thu.html\">hồ sơ chất lượng và nghiệm thu</a>, <a href=\"/so-tay-xay-dung/bieu-mau.html\">biểu mẫu tải về</a>."
+],
+[
+"note",
+"Danh mục để tham khảo, tổng hợp từ Luật Xây dựng 2025 và các nghị định, thông tư hướng dẫn trong thư viện; không thay thế yêu cầu cụ thể của đoàn thanh tra, kiểm tra hay quy định chuyên ngành khác (đầu tư công, đấu thầu, an toàn vệ sinh lao động, bảo vệ môi trường). Phụ lục II, IV, V, VI, VII, X của Nghị định 207/2026/NĐ-CP (nhật ký, báo cáo, danh mục hồ sơ hoàn thành) chưa có toàn văn trong thư viện nên chỉ nêu tên. Một số văn bản đang ở trạng thái hết hiệu lực một phần (Luật PCCC và CNCH 2024, NĐ 105/2025/NĐ-CP) – xem tình trạng tại từng văn bản."
+]
+]
+},
+{
+"slug": "thuat-ngu",
+"nhom": "cong-cu",
+"ngan": "Thuật ngữ Anh – Việt",
+"title": "Thuật ngữ quản lý dự án xây dựng Anh – Việt: QS, QA/QC, hợp đồng",
+"desc": "Tra nhanh hơn 170 thuật ngữ Anh – Việt về quản lý dự án, dự toán, hợp đồng FIDIC, đấu thầu, QA/QC, an toàn, tiến độ, BIM; dẫn định nghĩa trong luật Việt Nam.",
+"summary": "Từ điển thuật ngữ Anh – Việt cho kỹ sư, QS, QA/QC, giám sát, có ô tìm kiếm và dẫn tới định nghĩa trong luật khi có.",
+"lead": "Gõ tiếng Anh hoặc tiếng Việt để tra; thuật ngữ có định nghĩa trong luật được dẫn tới đúng điều.",
+"ngay": "2026-11-11",
+"body": [
+[
+"p",
+"Hồ sơ dự án, hợp đồng FIDIC, báo cáo của tư vấn nước ngoài dùng rất nhiều thuật ngữ tiếng Anh. Trang này tập hợp các thuật ngữ thường gặp, chia theo 10 nhóm: quản lý dự án, chi phí – QS, hợp đồng, đấu thầu, thiết kế – hồ sơ, chất lượng – QA/QC, an toàn – môi trường, tiến độ, BIM và vận hành – bảo trì. Gõ từ cần tìm vào ô tìm kiếm hoặc chọn nhóm để lọc."
+],
+[
+"st",
+[
+"thuat-ngu",
+"thuat-ngu.json"
+]
+],
+[
+"note",
+"Định nghĩa do Quan Construction biên soạn để tham khảo. Thuật ngữ có ghi “Theo …” được đối chiếu với định nghĩa trong văn bản pháp luật (Luật Xây dựng 2025, Luật Đấu thầu 2023 – đang hết hiệu lực một phần, các Nghị định 207, 210, 212, 217/2026); khi có khác biệt, áp dụng đúng văn bản pháp luật. Thuật ngữ hợp đồng quốc tế (FIDIC) dùng theo thỏa thuận trong từng hợp đồng."
+]
+]
+},
+{
+"slug": "trac-nghiem",
+"nhom": "cong-cu",
+"ngan": "Trắc nghiệm ôn tập",
+"title": "Trắc nghiệm ôn tập QLDA, giám sát, định giá xây dựng 2026",
+"desc": "Đề trắc nghiệm ôn tập 25 câu về quản lý dự án, giám sát thi công, định giá và pháp luật xây dựng 2026, chấm điểm ngay, có đáp án và căn cứ điều luật.",
+"summary": "5 đề ôn tập 25 câu, chấm điểm ngay trên trình duyệt, mỗi câu có giải thích và dẫn điều luật.",
+"lead": "Làm đề trên điện thoại hoặc máy tính, nộp bài để xem điểm, đáp án và căn cứ từng câu.",
+"ngay": "2026-11-11",
+"body": [
+[
+"p",
+"Mỗi đề gồm 25 câu (5 câu pháp luật, 20 câu chuyên môn; riêng đề pháp luật toàn câu pháp luật). Chọn đáp án, bấm <b>Nộp bài</b> để xem điểm; mỗi câu hiện đáp án đúng, giải thích và đường dẫn tới điều luật trong thư viện."
+],
+[
+"table",
+{
+"cot": [
+"Đề",
+"Nội dung"
+],
+"dong": [
+[
+"<a href=\"/so-tay-xay-dung/trac-nghiem-quan-ly-du-an-de-1.html\"><b>Trắc nghiệm QLDA – Đề 1</b></a>",
+"25 câu ôn tập quản lý dự án (5 câu pháp luật, 20 câu chuyên môn), chấm điểm ngay, có giải thích và dẫn điều luật."
+],
+[
+"<a href=\"/so-tay-xay-dung/trac-nghiem-quan-ly-du-an-de-2.html\"><b>Trắc nghiệm QLDA – Đề 2</b></a>",
+"Đề 2 gồm 25 câu ôn tập quản lý dự án (5 câu pháp luật, 20 câu chuyên môn), có đáp án và điều luật căn cứ."
+],
+[
+"<a href=\"/so-tay-xay-dung/trac-nghiem-phap-luat-xay-dung-de-1.html\"><b>Trắc nghiệm pháp luật XD – Đề 1</b></a>",
+"25 câu ôn tập pháp luật xây dựng theo Luật Xây dựng 2025 và các nghị định 2026, có đáp án và điều luật căn cứ."
+],
+[
+"<a href=\"/so-tay-xay-dung/trac-nghiem-giam-sat-thi-cong-de-1.html\"><b>Trắc nghiệm giám sát – Đề 1</b></a>",
+"25 câu trắc nghiệm ôn tập giám sát thi công xây dựng (5 câu pháp luật, 20 câu chuyên môn), chấm điểm ngay, có giải thích và liên kết điều luật."
+],
+[
+"<a href=\"/so-tay-xay-dung/trac-nghiem-dinh-gia-xay-dung-de-1.html\"><b>Trắc nghiệm định giá – Đề 1</b></a>",
+"25 câu trắc nghiệm ôn tập định giá xây dựng (5 câu pháp luật, 20 câu chuyên môn) theo Luật Xây dựng 2025, Nghị định 206/2026, 210/2026, 193/2026."
+]
+]
+}
+],
+[
+"h2",
+"Chứng chỉ hành nghề hiện còn thi sát hạch không?"
+],
+[
+"p",
+"Theo <a href=\"/phap-ly/135-2025-qh15.html#d89\">Điều 89 Luật Xây dựng 2025</a>, điều kiện cấp chứng chỉ hành nghề gồm trình độ chuyên môn và thời gian, kinh nghiệm phù hợp. Theo <a href=\"/phap-ly/212-2026-nd-cp.html#d30\">khoản 3, 4 Điều 30 Nghị định 212/2026/NĐ-CP</a>, năng lực được đánh giá qua hồ sơ theo điều kiện chung và kinh nghiệm nghề nghiệp, Hội đồng xét cấp đánh giá rồi cơ quan có thẩm quyền quyết định cấp. Các văn bản hiện hành trong thư viện không quy định bài sát hạch, số câu hay điểm đạt, nên các đề ở đây chỉ để ôn tập kiến thức, không chấm “đạt/không đạt”."
+],
+[
+"note",
+"Các đề là đề ôn tập kiến thức do Quan Construction soạn từ văn bản pháp luật đang có hiệu lực, không phải đề thi chính thức của cơ quan nhà nước. Đáp án có thể thay đổi khi văn bản được sửa đổi."
+]
+]
+},
+{
+"slug": "trac-nghiem-quan-ly-du-an-de-1",
+"nhom": "cong-cu",
+"ngan": "Trắc nghiệm QLDA – Đề 1",
+"title": "Trắc nghiệm quản lý dự án xây dựng 2026 – Đề 1 (25 câu)",
+"desc": "Đề ôn tập 25 câu trắc nghiệm quản lý dự án xây dựng theo Luật Xây dựng 2025 và nghị định 2026: trình tự, chi phí, hợp đồng, nghiệm thu, có đáp án.",
+"summary": "25 câu ôn tập quản lý dự án (5 câu pháp luật, 20 câu chuyên môn), chấm điểm ngay, có giải thích và dẫn điều luật.",
+"lead": "Ôn tập kiến thức quản lý dự án theo văn bản 2026 – chấm điểm và giải thích ngay trên trình duyệt.",
+"ngay": "2026-11-11",
+"body": [
+[
+"p",
+"Chọn một đáp án cho mỗi câu, bấm <b>Nộp bài</b> để xem kết quả, đáp án đúng và giải thích kèm điều luật. Đề có 25 câu; điểm quy đổi thang 100. Kết quả chỉ để tự đánh giá, không lưu và không gửi đi đâu."
+],
+[
+"st",
+[
+"trac-nghiem",
+"trac-nghiem-quan-ly-du-an-de-1.json"
+]
+],
+[
+"note",
+"Đề ôn tập kiến thức do Quan Construction soạn từ văn bản pháp luật hiện hành, KHÔNG phải đề thi chính thức. Theo Luật Xây dựng 2025 và Nghị định 212/2026/NĐ-CP, chứng chỉ hành nghề được xét cấp trên cơ sở đánh giá hồ sơ về trình độ chuyên môn và kinh nghiệm, không quy định bài sát hạch (<a href=\"/phap-ly/135-2025-qh15.html#d89\">Điều 89 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/212-2026-nd-cp.html#d30\">khoản 3, 4 Điều 30 Nghị định 212/2026/NĐ-CP</a>). Các mức tạm ứng, bảo đảm, thời hạn thanh toán, quyết toán, bảo hành tối thiểu chỉ bắt buộc với dự án đầu tư công, PPP hoặc vốn ngân sách nhà nước theo đúng phạm vi từng điều. Luật Đấu thầu 2023, Luật Thương mại 2005 và một số văn bản đang hết hiệu lực một phần."
+]
+]
+},
+{
+"slug": "trac-nghiem-quan-ly-du-an-de-2",
+"nhom": "cong-cu",
+"ngan": "Trắc nghiệm QLDA – Đề 2",
+"title": "Trắc nghiệm quản lý dự án xây dựng 2026 – Đề 2 (25 câu)",
+"desc": "Đề ôn tập 25 câu trắc nghiệm quản lý dự án: hợp đồng xây dựng, giấy phép, định mức, chỉ số giá, nghiệm thu, bảo trì theo văn bản 2026, có đáp án.",
+"summary": "Đề 2 gồm 25 câu ôn tập quản lý dự án (5 câu pháp luật, 20 câu chuyên môn), có đáp án và điều luật căn cứ.",
+"lead": "Đề ôn tập thứ hai, không trùng câu với Đề 1 – tập trung hợp đồng, cấp phép, chi phí và nghiệm thu.",
+"ngay": "2026-11-11",
+"body": [
+[
+"p",
+"Chọn một đáp án cho mỗi câu, bấm <b>Nộp bài</b> để xem kết quả, đáp án đúng và giải thích kèm điều luật. Đề có 25 câu; điểm quy đổi thang 100. Kết quả chỉ để tự đánh giá, không lưu và không gửi đi đâu."
+],
+[
+"st",
+[
+"trac-nghiem",
+"trac-nghiem-quan-ly-du-an-de-2.json"
+]
+],
+[
+"note",
+"Đề ôn tập kiến thức do Quan Construction soạn từ văn bản pháp luật hiện hành, KHÔNG phải đề thi chính thức. Theo Luật Xây dựng 2025 và Nghị định 212/2026/NĐ-CP, chứng chỉ hành nghề được xét cấp trên cơ sở đánh giá hồ sơ về trình độ chuyên môn và kinh nghiệm, không quy định bài sát hạch (<a href=\"/phap-ly/135-2025-qh15.html#d89\">Điều 89 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/212-2026-nd-cp.html#d30\">khoản 3, 4 Điều 30 Nghị định 212/2026/NĐ-CP</a>). Các mức tạm ứng, bảo đảm, thời hạn thanh toán, quyết toán, bảo hành tối thiểu chỉ bắt buộc với dự án đầu tư công, PPP hoặc vốn ngân sách nhà nước theo đúng phạm vi từng điều. Luật Đấu thầu 2023, Luật Thương mại 2005 và một số văn bản đang hết hiệu lực một phần."
+]
+]
+},
+{
+"slug": "trac-nghiem-phap-luat-xay-dung-de-1",
+"nhom": "cong-cu",
+"ngan": "Trắc nghiệm pháp luật XD – Đề 1",
+"title": "Trắc nghiệm pháp luật xây dựng 2026 – Đề 1 (25 câu)",
+"desc": "25 câu trắc nghiệm pháp luật xây dựng 2026: giấy phép, khởi công, thiết kế nhà ở, bảo hiểm, chứng chỉ hành nghề, nghiệm thu, bảo hành, có giải thích.",
+"summary": "25 câu ôn tập pháp luật xây dựng theo Luật Xây dựng 2025 và các nghị định 2026, có đáp án và điều luật căn cứ.",
+"lead": "Ôn nhanh các quy định pháp luật xây dựng hay gặp – chấm điểm và giải thích ngay.",
+"ngay": "2026-11-11",
+"body": [
+[
+"p",
+"Chọn một đáp án cho mỗi câu, bấm <b>Nộp bài</b> để xem kết quả, đáp án đúng và giải thích kèm điều luật. Đề có 25 câu; điểm quy đổi thang 100. Kết quả chỉ để tự đánh giá, không lưu và không gửi đi đâu."
+],
+[
+"st",
+[
+"trac-nghiem",
+"trac-nghiem-phap-luat-xay-dung-de-1.json"
+]
+],
+[
+"note",
+"Đề ôn tập kiến thức do Quan Construction soạn từ văn bản pháp luật hiện hành, KHÔNG phải đề thi chính thức. Theo Luật Xây dựng 2025 và Nghị định 212/2026/NĐ-CP, chứng chỉ hành nghề được xét cấp trên cơ sở đánh giá hồ sơ về trình độ chuyên môn và kinh nghiệm, không quy định bài sát hạch (<a href=\"/phap-ly/135-2025-qh15.html#d89\">Điều 89 Luật Xây dựng 2025</a>; <a href=\"/phap-ly/212-2026-nd-cp.html#d30\">khoản 3, 4 Điều 30 Nghị định 212/2026/NĐ-CP</a>). Các mức tạm ứng, bảo đảm, thời hạn thanh toán, quyết toán, bảo hành tối thiểu chỉ bắt buộc với dự án đầu tư công, PPP hoặc vốn ngân sách nhà nước theo đúng phạm vi từng điều. Luật Đấu thầu 2023, Luật Thương mại 2005 và một số văn bản đang hết hiệu lực một phần."
+]
+]
+},
+{
+"slug": "trac-nghiem-giam-sat-thi-cong-de-1",
+"nhom": "cong-cu",
+"ngan": "Trắc nghiệm giám sát – Đề 1",
+"title": "Trắc nghiệm giám sát thi công xây dựng 2026 – Đề 1 (25 câu)",
+"desc": "Đề ôn tập 25 câu về giám sát thi công xây dựng: nội dung giám sát, nghiệm thu vật liệu, công việc, hoàn thành, sự cố, có đáp án và căn cứ Nghị định 207/2026.",
+"summary": "25 câu trắc nghiệm ôn tập giám sát thi công xây dựng (5 câu pháp luật, 20 câu chuyên môn), chấm điểm ngay, có giải thích và liên kết điều luật.",
+"lead": "Chọn đáp án cho từng câu rồi bấm Nộp bài để xem điểm, đáp án đúng và căn cứ pháp lý.",
+"ngay": "2026-11-11",
+"body": [
+[
+"p",
+"Đề gồm <b>25 câu</b>: 5 câu pháp luật chung và 20 câu chuyên môn giám sát thi công xây dựng. Mỗi câu một đáp án đúng. Bấm <b>Nộp bài</b> để xem kết quả, đáp án và giải thích có liên kết tới điều luật; bấm <b>Làm lại</b> để ôn lần nữa."
+],
+[
+"st",
+[
+"trac-nghiem",
+"trac-nghiem-giam-sat-thi-cong-de-1.json"
+]
+],
+[
+"note",
+"Đề ôn tập kiến thức do Quan Construction soạn từ văn bản pháp luật trong thư viện, không phải đề thi chính thức của cơ quan nhà nước. Đáp án căn cứ quy định hiện hành tại ngày cập nhật; một số quy định chỉ bắt buộc với dự án vốn đầu tư công, vốn ngân sách nhà nước hoặc PPP như ghi trong phần giải thích. Luật Xây dựng 2025 và các nghị định 2026 có thể được sửa đổi – hãy đối chiếu văn bản mới nhất."
+]
+]
+},
+{
+"slug": "trac-nghiem-dinh-gia-xay-dung-de-1",
+"nhom": "cong-cu",
+"ngan": "Trắc nghiệm định giá – Đề 1",
+"title": "Trắc nghiệm định giá xây dựng 2026 – Đề 1 (25 câu, có đáp án)",
+"desc": "Đề ôn tập 25 câu định giá xây dựng: tổng mức đầu tư, dự toán, dự phòng, định mức, chỉ số giá, điều chỉnh giá, thanh quyết toán theo Nghị định 206, 210/2026.",
+"summary": "25 câu trắc nghiệm ôn tập định giá xây dựng (5 câu pháp luật, 20 câu chuyên môn) theo Luật Xây dựng 2025, Nghị định 206/2026, 210/2026, 193/2026.",
+"lead": "Chọn đáp án cho từng câu rồi bấm Nộp bài để xem điểm, đáp án đúng và căn cứ pháp lý.",
+"ngay": "2026-11-11",
+"body": [
+[
+"p",
+"Đề gồm <b>25 câu</b>: 5 câu pháp luật chung và 20 câu chuyên môn định giá xây dựng (chi phí, định mức, giá, hợp đồng, quyết toán). Bấm <b>Nộp bài</b> để xem kết quả và giải thích; bấm <b>Làm lại</b> để ôn lần nữa."
+],
+[
+"st",
+[
+"trac-nghiem",
+"trac-nghiem-dinh-gia-xay-dung-de-1.json"
+]
+],
+[
+"note",
+"Đề ôn tập kiến thức do Quan Construction soạn từ văn bản pháp luật trong thư viện, không phải đề thi chính thức của cơ quan nhà nước. Đáp án căn cứ quy định hiện hành tại ngày cập nhật; một số quy định chỉ bắt buộc với dự án vốn đầu tư công, vốn ngân sách nhà nước hoặc PPP như ghi trong phần giải thích. Luật Xây dựng 2025 và các nghị định 2026 có thể được sửa đổi – hãy đối chiếu văn bản mới nhất."
+]
+]
+}
+]

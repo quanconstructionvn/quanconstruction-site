@@ -1,0 +1,305 @@
+{
+"cau": [
+{
+"q": "Nghị định 206/2026/NĐ-CP về quản lý chi phí đầu tư xây dựng bắt buộc áp dụng cho dự án nào?",
+"a": [
+"Mọi dự án đầu tư xây dựng không phân biệt nguồn vốn",
+"Dự án đầu tư công, dự án PPP, dự án dùng chi thường xuyên hoặc vốn ngân sách nhà nước khác",
+"Chỉ dự án nhóm A và dự án quan trọng quốc gia",
+"Chỉ dự án có vốn đầu tư nước ngoài"
+],
+"dung": 1,
+"loai": "pl",
+"giai_thich": "<a href=\"/phap-ly/206-2026-nd-cp.html#d2\">Điều 2 Nghị định 206/2026/NĐ-CP</a>: dự án ngoài phạm vi trên chỉ tham khảo và tự chịu trách nhiệm về quyết định của mình."
+},
+{
+"q": "Tổng mức đầu tư xây dựng được phê duyệt có ý nghĩa gì?",
+"a": [
+"Là mức chi phí tối đa mà chủ đầu tư được phép sử dụng để thực hiện dự án",
+"Là mức chi phí tối thiểu phải giải ngân",
+"Là giá trúng thầu của gói thầu thi công",
+"Là mức chi phí tham khảo, được vượt nếu có lý do"
+],
+"dung": 0,
+"loai": "pl",
+"giai_thich": "Khoản 2 <a href=\"/phap-ly/135-2025-qh15.html#d75\">Điều 75 Luật Xây dựng 2025</a>."
+},
+{
+"q": "Đối với công trình tại dự án đầu tư công, dự án PPP, mức phạt hợp đồng xây dựng không được vượt quá bao nhiêu?",
+"a": [
+"8% giá trị phần hợp đồng bị vi phạm",
+"10% giá trị hợp đồng",
+"15% giá trị phần hợp đồng bị vi phạm",
+"12% giá trị phần hợp đồng bị vi phạm"
+],
+"dung": 3,
+"loai": "pl",
+"giai_thich": "Khoản 3 <a href=\"/phap-ly/135-2025-qh15.html#d86\">Điều 86 Luật Xây dựng 2025</a>; ngoài tiền phạt, bên vi phạm còn phải bồi thường thiệt hại theo thỏa thuận."
+},
+{
+"q": "Đồng tiền sử dụng trong thanh toán hợp đồng xây dựng là gì?",
+"a": [
+"Đồng tiền do các bên tự do thỏa thuận",
+"Đô la Mỹ đối với hợp đồng trên 100 tỷ đồng",
+"Đồng Việt Nam; dùng ngoại tệ phải tuân thủ pháp luật về quản lý ngoại hối",
+"Đồng tiền của nước nhà thầu"
+],
+"dung": 2,
+"loai": "pl",
+"giai_thich": "Điểm c khoản 2 <a href=\"/phap-ly/135-2025-qh15.html#d87\">Điều 87 Luật Xây dựng 2025</a>."
+},
+{
+"q": "Sửa đổi hợp đồng xây dựng phải đáp ứng yêu cầu nào?",
+"a": [
+"Có thể thỏa thuận miệng nếu giá trị dưới 10%",
+"Được áp dụng trong thời gian hợp đồng có hiệu lực và phải thực hiện bằng văn bản",
+"Chỉ được sửa sau khi quyết toán hợp đồng",
+"Phải được cơ quan chuyên môn về xây dựng chấp thuận trong mọi trường hợp"
+],
+"dung": 1,
+"loai": "pl",
+"giai_thich": "Khoản 1 <a href=\"/phap-ly/135-2025-qh15.html#d84\">Điều 84 Luật Xây dựng 2025</a>."
+},
+{
+"q": "Tổng mức đầu tư xây dựng bao gồm những khoản mục chi phí nào?",
+"a": [
+"Bồi thường, hỗ trợ và tái định cư (nếu có); xây dựng; thiết bị (nếu có); quản lý dự án; tư vấn xây dựng; chi phí khác; dự phòng",
+"Xây dựng; thiết bị; dự phòng",
+"Xây dựng; thiết bị; quản lý dự án; lãi vay; lợi nhuận chủ đầu tư",
+"Bồi thường; xây dựng; thiết bị; thuế thu nhập doanh nghiệp"
+],
+"dung": 0,
+"loai": "cm",
+"giai_thich": "Khoản 2 <a href=\"/phap-ly/135-2025-qh15.html#d75\">Điều 75 Luật Xây dựng 2025</a>; nội dung từng khoản mục tại <a href=\"/phap-ly/206-2026-nd-cp.html#d5\">Điều 5 Nghị định 206/2026/NĐ-CP</a>."
+},
+{
+"q": "Khoản chi phí nào KHÔNG thuộc dự toán xây dựng công trình?",
+"a": [
+"Chi phí quản lý dự án",
+"Chi phí tư vấn xây dựng",
+"Chi phí dự phòng",
+"Chi phí bồi thường, hỗ trợ và tái định cư"
+],
+"dung": 3,
+"loai": "cm",
+"giai_thich": "Điểm a khoản 2 <a href=\"/phap-ly/135-2025-qh15.html#d76\">Điều 76 Luật Xây dựng 2025</a>: dự toán công trình gồm chi phí xây dựng, thiết bị (nếu có), quản lý dự án, tư vấn xây dựng, chi phí khác và dự phòng."
+},
+{
+"q": "Chi phí xây dựng trong dự toán xây dựng công trình gồm những thành phần nào?",
+"a": [
+"Chi phí vật liệu, nhân công, máy và lợi nhuận",
+"Chi phí trực tiếp, chi phí quản lý dự án và dự phòng",
+"Chi phí trực tiếp, chi phí gián tiếp, thu nhập chịu thuế tính trước, thuế GTGT và chi phí nhà tạm để ở và điều hành thi công",
+"Chi phí trực tiếp, chi phí tư vấn và thuế GTGT"
+],
+"dung": 2,
+"loai": "cm",
+"giai_thich": "Khoản 2 <a href=\"/phap-ly/206-2026-nd-cp.html#d12\">Điều 12 Nghị định 206/2026/NĐ-CP</a>."
+},
+{
+"q": "Chi phí trực tiếp trong chi phí xây dựng gồm những chi phí nào?",
+"a": [
+"Chi phí chung và chi phí nhà tạm",
+"Chi phí vật liệu, chi phí nhân công, chi phí máy và thiết bị thi công",
+"Chi phí vật liệu và thu nhập chịu thuế tính trước",
+"Chi phí nhân công và chi phí quản lý dự án"
+],
+"dung": 1,
+"loai": "cm",
+"giai_thich": "Điểm a khoản 2 <a href=\"/phap-ly/206-2026-nd-cp.html#d12\">Điều 12 Nghị định 206/2026/NĐ-CP</a>: xác định theo khối lượng từ thiết kế và giá xây dựng tương ứng."
+},
+{
+"q": "Chi phí gián tiếp trong chi phí xây dựng gồm những gì?",
+"a": [
+"Chi phí chung và chi phí cho một số công việc không xác định được khối lượng từ thiết kế",
+"Chi phí vật liệu phụ và hao hụt",
+"Chi phí quản lý dự án và tư vấn giám sát",
+"Thuế GTGT và thu nhập chịu thuế tính trước"
+],
+"dung": 0,
+"loai": "cm",
+"giai_thich": "Điểm b khoản 2 <a href=\"/phap-ly/206-2026-nd-cp.html#d12\">Điều 12 Nghị định 206/2026/NĐ-CP</a>: xác định bằng định mức tỷ lệ % hoặc lập dự toán."
+},
+{
+"q": "Chi phí dự phòng trong tổng mức đầu tư gồm những phần nào?",
+"a": [
+"Dự phòng rủi ro tỷ giá và dự phòng lãi vay",
+"Dự phòng bảo hành và dự phòng bảo trì",
+"Chỉ gồm dự phòng cho khối lượng phát sinh",
+"Dự phòng cho khối lượng, công việc phát sinh và dự phòng cho yếu tố trượt giá"
+],
+"dung": 3,
+"loai": "cm",
+"giai_thich": "Điểm g khoản 2 <a href=\"/phap-ly/206-2026-nd-cp.html#d6\">Điều 6 Nghị định 206/2026/NĐ-CP</a>."
+},
+{
+"q": "Chi phí dự phòng cho yếu tố trượt giá được xác định trên cơ sở nào?",
+"a": [
+"Tỷ lệ cố định 10% chi phí xây dựng",
+"Lãi suất cho vay của ngân hàng thương mại",
+"Độ dài thời gian thực hiện dự án, kế hoạch thực hiện các công trình và chỉ số giá xây dựng phù hợp loại công trình",
+"Tỷ lệ lạm phát mục tiêu của Quốc hội"
+],
+"dung": 2,
+"loai": "cm",
+"giai_thich": "Điểm g khoản 2 <a href=\"/phap-ly/206-2026-nd-cp.html#d6\">Điều 6 Nghị định 206/2026/NĐ-CP</a>, có tính đến khả năng biến động giá trong nước và quốc tế."
+},
+{
+"q": "Theo hướng dẫn phương pháp xác định chi phí (Thông tư 36/2026/TT-BXD, văn bản hợp nhất 89/2026), chi phí dự phòng cho khối lượng, công việc phát sinh trong sơ bộ tổng mức đầu tư không quá bao nhiêu?",
+"a": [
+"5%",
+"15%",
+"10%",
+"20%"
+],
+"dung": 1,
+"loai": "cm",
+"giai_thich": "<a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d16\">Phụ lục kèm văn bản hợp nhất 89/2026 (tra tại Điều 16)</a>: không quá 15% tổng chi phí bồi thường, hỗ trợ, tái định cư, chi phí xây dựng, thiết bị, quản lý dự án, tư vấn và chi phí khác."
+},
+{
+"q": "Hệ thống định mức xây dựng gồm những loại nào?",
+"a": [
+"Định mức kinh tế – kỹ thuật và định mức chi phí",
+"Định mức dự toán và đơn giá xây dựng",
+"Định mức cơ sở và suất vốn đầu tư",
+"Định mức vật liệu và định mức nhân công"
+],
+"dung": 0,
+"loai": "cm",
+"giai_thich": "Khoản 1 <a href=\"/phap-ly/206-2026-nd-cp.html#d19\">Điều 19 Nghị định 206/2026/NĐ-CP</a>."
+},
+{
+"q": "Định mức kinh tế – kỹ thuật gồm những loại nào?",
+"a": [
+"Định mức tỷ lệ % và định mức tính bằng giá trị",
+"Định mức chi phí chung và định mức nhà tạm",
+"Định mức sử dụng vật liệu và giá ca máy",
+"Định mức cơ sở và định mức dự toán"
+],
+"dung": 3,
+"loai": "cm",
+"giai_thich": "Khoản 1 <a href=\"/phap-ly/206-2026-nd-cp.html#d19\">Điều 19 Nghị định 206/2026/NĐ-CP</a>."
+},
+{
+"q": "Định mức dự toán được hiểu là gì?",
+"a": [
+"Giá một đơn vị khối lượng công tác đã gồm thuế",
+"Tỷ lệ % chi phí chung trên chi phí trực tiếp",
+"Mức hao phí cần thiết về vật liệu, nhân công, máy và thiết bị thi công để hoàn thành một đơn vị khối lượng công tác xây dựng",
+"Chi phí cho một mét vuông sàn xây dựng"
+],
+"dung": 2,
+"loai": "cm",
+"giai_thich": "Điểm a khoản 3 <a href=\"/phap-ly/206-2026-nd-cp.html#d19\">Điều 19 Nghị định 206/2026/NĐ-CP</a>."
+},
+{
+"q": "Chỉ số giá xây dựng theo yếu tố chi phí gồm những chỉ số nào?",
+"a": [
+"Chỉ số giá phần xây dựng, phần thiết bị, phần chi phí khác",
+"Chỉ số giá vật liệu xây dựng công trình, chỉ số giá nhân công xây dựng, chỉ số giá máy và thiết bị thi công",
+"Chỉ số giá tiêu dùng và chỉ số giá sản xuất",
+"Chỉ số giá theo loại công trình và theo vùng"
+],
+"dung": 1,
+"loai": "cm",
+"giai_thich": "Khoản 2 <a href=\"/phap-ly/206-2026-nd-cp.html#d23\">Điều 23 Nghị định 206/2026/NĐ-CP</a> (chỉ số theo cơ cấu chi phí là một nhóm khác)."
+},
+{
+"q": "Chỉ số giá xây dựng trên địa bàn tỉnh do ai công bố?",
+"a": [
+"Ủy ban nhân dân cấp tỉnh công bố hoặc phân cấp, ủy quyền cho Sở Xây dựng công bố",
+"Bộ Xây dựng công bố cho từng tỉnh",
+"Cục Thống kê tỉnh",
+"Ủy ban nhân dân cấp xã"
+],
+"dung": 0,
+"loai": "cm",
+"giai_thich": "Điểm b khoản 3 <a href=\"/phap-ly/206-2026-nd-cp.html#d23\">Điều 23 Nghị định 206/2026/NĐ-CP</a>; Bộ Xây dựng công bố chỉ số giá xây dựng quốc gia theo năm."
+},
+{
+"q": "Chủ đầu tư phê duyệt dự toán gói thầu xây dựng để làm gì?",
+"a": [
+"Làm giá trúng thầu",
+"Làm giá trị quyết toán hợp đồng",
+"Thay thế tổng mức đầu tư đã phê duyệt",
+"Thay thế giá gói thầu trong kế hoạch lựa chọn nhà thầu theo pháp luật về đấu thầu"
+],
+"dung": 3,
+"loai": "cm",
+"giai_thich": "Khoản 3 <a href=\"/phap-ly/206-2026-nd-cp.html#d17\">Điều 17 Nghị định 206/2026/NĐ-CP</a>."
+},
+{
+"q": "Khi điều chỉnh dự toán xây dựng của gói thầu trước thời điểm mở thầu, chủ đầu tư xác định dự toán điều chỉnh theo nguyên tắc nào?",
+"a": [
+"Giữ nguyên mặt bằng giá tại thời điểm phê duyệt dự toán ban đầu",
+"Căn cứ nội dung hợp đồng đã ký",
+"Theo nội dung điều chỉnh, mặt bằng giá và các quy định tại thời điểm điều chỉnh",
+"Cộng thêm 10% dự phòng trượt giá"
+],
+"dung": 2,
+"loai": "cm",
+"giai_thich": "Điểm a khoản 1 <a href=\"/phap-ly/206-2026-nd-cp.html#d18\">Điều 18 Nghị định 206/2026/NĐ-CP</a>; gói thầu đã ký hợp đồng thì căn cứ nội dung hợp đồng (điểm b)."
+},
+{
+"q": "Chi phí tư vấn xây dựng đã phê duyệt được điều chỉnh trong trường hợp nào?",
+"a": [
+"Khi giá vật liệu xây dựng tăng",
+"Khi thay đổi phạm vi công việc, điều kiện và tiến độ thực hiện công tác tư vấn",
+"Khi tổng mức đầu tư được điều chỉnh tăng bất kỳ",
+"Không bao giờ được điều chỉnh"
+],
+"dung": 1,
+"loai": "cm",
+"giai_thich": "Khoản 3 <a href=\"/phap-ly/206-2026-nd-cp.html#d26\">Điều 26 Nghị định 206/2026/NĐ-CP</a>: chi phí tư vấn đã phê duyệt là chi phí tối đa, quản lý thông qua hợp đồng tư vấn."
+},
+{
+"q": "Với hợp đồng trọn gói thuộc dự án đầu tư công, dự án PPP, việc thanh toán được thực hiện thế nào?",
+"a": [
+"Theo tỷ lệ % giá hợp đồng hoặc giá hạng mục, khối lượng tương ứng giai đoạn thanh toán; không yêu cầu xác nhận khối lượng hoàn thành chi tiết (trừ phát sinh)",
+"Theo khối lượng hoàn thành thực tế nhân đơn giá trong hợp đồng",
+"Chỉ thanh toán một lần khi quyết toán",
+"Theo dự toán được duyệt, không theo giá hợp đồng"
+],
+"dung": 0,
+"loai": "cm",
+"giai_thich": "Điểm c khoản 4 <a href=\"/phap-ly/210-2026-nd-cp.html#d28\">Điều 28 Nghị định 210/2026/NĐ-CP</a>."
+},
+{
+"q": "Hợp đồng đơn giá thuộc dự án đầu tư công: khối lượng thực tế tăng hơn 20% so với hợp đồng, đồng thời làm thay đổi trên 0,25% giá hợp đồng và 1% đơn giá. Đơn giá mới áp dụng cho phần khối lượng nào?",
+"a": [
+"Toàn bộ khối lượng thực tế",
+"Phần khối lượng vượt quá 100% khối lượng hợp đồng",
+"Không áp dụng đơn giá mới",
+"Phần khối lượng thực tế vượt quá 120% khối lượng ghi trong hợp đồng"
+],
+"dung": 3,
+"loai": "cm",
+"giai_thich": "Điểm b khoản 2 <a href=\"/phap-ly/210-2026-nd-cp.html#d24\">Điều 24 Nghị định 210/2026/NĐ-CP</a>; nếu khối lượng giảm hơn 20% thì đơn giá mới áp dụng cho toàn bộ khối lượng thực tế được nghiệm thu."
+},
+{
+"q": "Thời hạn quyết toán hợp đồng xây dựng tối đa theo Nghị định 210/2026/NĐ-CP là bao lâu?",
+"a": [
+"30 ngày; hợp đồng phức tạp tối đa 60 ngày",
+"45 ngày; hợp đồng phức tạp tối đa 90 ngày",
+"60 ngày kể từ khi toàn bộ công việc hoàn thành và được nghiệm thu; hợp đồng quy mô lớn, phức tạp tối đa 120 ngày",
+"90 ngày; hợp đồng phức tạp tối đa 180 ngày"
+],
+"dung": 2,
+"loai": "cm",
+"giai_thich": "Khoản 3 <a href=\"/phap-ly/210-2026-nd-cp.html#d30\">Điều 30 Nghị định 210/2026/NĐ-CP</a> (quy định bắt buộc với hợp đồng thuộc dự án đầu tư công, PPP). Thời hạn thanh lý tối đa 45 ngày, phức tạp 90 ngày (<a href=\"/phap-ly/210-2026-nd-cp.html#d31\">Điều 31</a>)."
+},
+{
+"q": "Thời gian tối đa để chủ đầu tư lập hồ sơ quyết toán vốn đầu tư dự án nhóm C trình phê duyệt là bao lâu?",
+"a": [
+"02 tháng",
+"04 tháng",
+"06 tháng",
+"09 tháng"
+],
+"dung": 1,
+"loai": "cm",
+"giai_thich": "<a href=\"/phap-ly/193-2026-nd-cp.html#d21\">Điều 21 Nghị định 193/2026/NĐ-CP</a>: nhóm C 04 tháng (nhóm B 06 tháng; nhóm A và quan trọng quốc gia 09 tháng), tính từ ngày công trình hoàn thành được bàn giao đưa vào khai thác, sử dụng. Áp dụng cho dự án vốn nhà nước theo phạm vi của Nghị định."
+}
+],
+"dat": null
+}

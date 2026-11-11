@@ -15,7 +15,7 @@ Người tạo: Quang Mai Phú – Quan Construction. Cập nhật: 11/11/2026.
   1. Bản đồ công việc tương tác (21 công việc, 5 giai đoạn, lọc loại dự án, checklist, trạng thái, người phụ trách, hạn, lưu trình duyệt, xuất CSV, in).
   2. Checklist hồ sơ khi thanh tra, kiểm tra (182 mục, 10 nhóm; có/thiếu/không áp dụng, ghi chú, xuất CSV, in).
   3. Hỏi đáp mở rộng: +50 câu chi phí – dự toán – định mức – giá, +43 câu thẩm định/GPXD, hợp đồng – thanh quyết toán, chất lượng – PCCC, năng lực – xử phạt (tổng ~133).
-  4. Trắc nghiệm ôn tập: 5 đề × 25 câu (QLDA đề 1, 2; pháp luật xây dựng đề 1; giám sát thi công đề 1; định giá xây dựng đề 1).
+  4. ~~Trắc nghiệm ôn tập~~ – ĐÃ BỎ theo yêu cầu anh Phú (11/11/2026): công ty không có chuyên môn thẩm định đề, không bảo đảm đúng 100%. Không làm lại phần trắc nghiệm nếu anh chưa yêu cầu.
   5. Thuật ngữ Anh – Việt QLDA (~150–200 thuật ngữ, tìm kiếm, lọc nhóm).
 
 ## 3. Cấu trúc mã (trong repo)
@@ -25,8 +25,8 @@ Người tạo: Quang Mai Phú – Quan Construction. Cập nhật: 11/11/2026.
 | `_cong-cu/tao-so-tay-xay-dung.py` | Tạo `/so-tay-xay-dung.html` + trang con + cập nhật sitemap. Khối nội dung: h2, h3, p, ul, ol, note, table, faq, html, st (công cụ tương tác). |
 | `_cong-cu/bieu-mau/*.json` | Mô tả từng biểu mẫu (chép nguyên văn từ phụ lục văn bản). |
 | `_cong-cu/tao-bieu-mau.py` | Tạo `.docx`, `.xlsx`, `.pdf` (LibreOffice) vào `so-tay-xay-dung/bieu-mau/` và `_cong-cu/bieu-mau-danh-sach.json`. Bảng > 8 cột tự chuyển khổ ngang. |
-| `_cong-cu/so-tay-du-lieu/*.json` | Dữ liệu công cụ tương tác (bản đồ công việc, checklist, đề trắc nghiệm, thuật ngữ). |
-| `js/so-tay-tuong-tac.js` | Engine tương tác: `ban-do`, `checklist`, `trac-nghiem`, `thuat-ngu` (đọc `<script type="application/json" data-st="…">`). |
+| `_cong-cu/so-tay-du-lieu/*.json` | Dữ liệu công cụ tương tác (bản đồ công việc, checklist, thuật ngữ). |
+| `js/so-tay-tuong-tac.js` | Engine tương tác: `ban-do`, `checklist`, `thuat-ngu` (đọc `<script type="application/json" data-st="…">`). |
 | `_cong-cu/mau-trang-van-ban.html` | Khung trang dùng chung (đã thêm menu "Sổ tay xây dựng"). |
 
 Lệnh tạo lại (chạy ở thư mục gốc repo): `python3 _cong-cu/tao-bieu-mau.py && python3 _cong-cu/tao-so-tay-xay-dung.py && python3 _cong-cu/tao-bai-viet.py && python3 _cong-cu/tao-trang-phap-ly.py`. Kiểm tra: `python3 -m unittest discover -s tests`, `python3 _cong-cu/build_site.py --output _site`, `python3 _cong-cu/check_seo_build.py _site`. Không commit `_cong-cu/__pycache__`.
@@ -38,13 +38,12 @@ Lệnh tạo lại (chạy ở thư mục gốc repo): `python3 _cong-cu/tao-bie
 - NĐ 347/2026 (15/09/2026) đã bãi bỏ Điều 10 NĐ 105/2025: chủ đầu tư tự nghiệm thu PCCC, khai báo CSDL PCCC.
 - Luật 24/2026/QH16 sửa khoản 1, 2 Điều 88 Luật Xây dựng từ 01/03/2027. QCVN 01:2026 hiệu lực 01/01/2027. TT 64/2025 (giảm 50% phí) hết áp dụng sau 31/12/2026.
 - Bộ luật Dân sự id `91-2015-qh13`. Không đăng toàn văn TCVN (bản quyền). Không chép chữ của GXD – chỉ học cách tổ chức.
-- Trắc nghiệm ghi rõ: đề ôn tập do Quan Construction soạn, không phải đề thi chính thức.
+- Không làm trắc nghiệm/đề thi (anh Phú đã bỏ).
 
 ## 5. Dữ liệu Đợt 1 (nếu phiên mới không còn thư mục tạm)
 Dữ liệu đã được chép vào repo tại `_cong-cu/so-tay-du-lieu/` (khi gộp xong). Nếu bị mất, soạn lại theo mục 2 và schema trong `js/so-tay-tuong-tac.js`:
 - ban-do: `{loai:[[ma,ten]], giai_doan:[[ma,ten]], viec:[{id,gd,ten,ap_dung[],mo_ta,buoc[],ho_so[],lien_ket[],can_cu[],luu_y}]}`
 - checklist: `{ma, nhom:[{ten, muc:[{ten,don_vi,can_cu}]}]}`
-- trac-nghiem: `{cau:[{q,a[4],dung,loai:'pl'|'cm',giai_thich}], dat:{diem,sai_pl}|null}`
 - thuat-ngu: `[{en,vi,viet_tat,nhom,dn}]`
 
 ## 6. Việc còn lại
@@ -59,6 +58,6 @@ Dữ liệu đã được chép vào repo tại `_cong-cu/so-tay-du-lieu/` (khi 
 
 ## 8. Rà soát theo luật mới nhất (11/11/2026, lần 2)
 - Đối chiếu nguồn tin 2025–2026 (VBHN 79/VBHN-VPQH Luật Nhà ở, bảng tra nghị định còn hiệu lực của IIC – ĐH Xây dựng, báo chí): không có văn bản mới sửa NĐ 206, 207, 210, 212, 217/2026; thư viện đã có NQ 254/2025/QH15, NĐ 49, 50/2026. Văn bản còn thiếu (cần nạp từ Cổng PLQG bằng máy tính anh): NĐ 151/2025, NĐ 54/2026, Luật 71/2025, 106/2025, 118/2025, VBHN Luật Nhà ở 79/VBHN-VPQH, VBHN NĐ 95 21/VBHN-BXD, NĐ 357/2025 (CSDL nhà ở, BĐS).
-- Đã lược bỏ: 3 chứng từ Kho bạc NĐ 347/2025 (chi thường xuyên, không dùng cho vốn đầu tư) và Mẫu 09/QTDA (dự án quan trọng quốc gia) → còn 20 biểu mẫu; 4 câu hỏi đáp trùng ý → 129 câu; 5 đề trắc nghiệm không hiện riêng ở menu (vào qua trang Trắc nghiệm ôn tập).
+- Đã lược bỏ: 3 chứng từ Kho bạc NĐ 347/2025 (chi thường xuyên, không dùng cho vốn đầu tư) và Mẫu 09/QTDA (dự án quan trọng quốc gia) → còn 20 biểu mẫu; 4 câu hỏi đáp trùng ý → 129 câu.
 - Sửa danh mục: Luật 24/2026/QH16 ghi "Chưa có hiệu lực" (hiệu lực 01/03/2027). Thêm 2 trang dịch vụ vào sitemap.
 - Văn bản hết hiệu lực vẫn giữ trong thư viện vì còn dùng cho chuyển tiếp: NĐ 16/2022 (vi phạm trước 26/08/2026), NĐ 37/2015 + 50/2021 và Luật Xây dựng 2014 (hợp đồng ký trước 01/07/2026 – khoản 7 Điều 95 Luật Xây dựng 2025).

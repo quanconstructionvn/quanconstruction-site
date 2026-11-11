@@ -1,5 +1,5 @@
 /* Người tạo: Quang Mai Phú – Quan Construction
-   Công cụ tương tác cho Sổ tay xây dựng: bản đồ công việc, checklist hồ sơ, trắc nghiệm, thuật ngữ.
+   Công cụ tương tác cho Sổ tay xây dựng: bản đồ công việc, checklist hồ sơ, thuật ngữ.
    Dữ liệu nằm trong <script type="application/json" data-st="..."> trên từng trang; trạng thái người dùng lưu trên trình duyệt (localStorage). */
 (function () {
   'use strict';
@@ -126,32 +126,6 @@
     ve();
   }
 
-  /* ---------- 3. Trắc nghiệm ---------- */
-  function tracNghiem(el, D) {
-    var host = document.createElement('div'), L = 'ABCD'; el.after(host);
-    host.innerHTML = D.cau.map(function (c, i) {
-      return '<div class="st-q" data-i="' + i + '"><p>Câu ' + (i + 1) + (c.loai === 'pl' ? ' <span class="st-tag">Pháp luật</span>' : ' <span class="st-tag">Chuyên môn</span>') + '<br>' + esc(c.q) + '</p>' +
-        c.a.map(function (a, j) { return '<label><input type="radio" name="q' + i + '" value="' + j + '"> ' + L[j] + '. ' + esc(a) + '</label>'; }).join('') +
-        '<div class="gt"><b>Đáp án: ' + L[c.dung] + '.</b> ' + (c.giai_thich || '') + '</div></div>';
-    }).join('') + '<div class="st-kq"><span data-kq>Đã trả lời 0/' + D.cau.length + '</span><button class="st-btn p" data-a="nop" style="border-color:#fff">Nộp bài, xem kết quả</button><button class="st-btn" data-a="lai">Làm lại</button></div>';
-    var done = false;
-    function dem() { var n = host.querySelectorAll('input[type=radio]:checked').length; if (!done) host.querySelector('[data-kq]').textContent = 'Đã trả lời ' + n + '/' + D.cau.length; }
-    host.addEventListener('change', dem);
-    host.addEventListener('click', function (e) {
-      var a = e.target.dataset.a; if (!a) return;
-      if (a === 'lai') { done = false; host.querySelectorAll('.st-q').forEach(function (q) { q.classList.remove('xong'); q.querySelectorAll('label').forEach(function (l) { l.className = ''; }); q.querySelectorAll('input').forEach(function (r) { r.checked = false; r.disabled = false; }); }); dem(); window.scrollTo(0, host.offsetTop - 20); return; }
-      done = true; var dung = 0, saiPL = 0;
-      D.cau.forEach(function (c, i) {
-        var q = host.querySelector('[data-i="' + i + '"]'), r = q.querySelector('input:checked'), v = r ? +r.value : -1;
-        q.classList.add('xong'); q.querySelectorAll('input').forEach(function (x) { x.disabled = true; });
-        q.querySelectorAll('label')[c.dung].className = 'ok'; if (v >= 0 && v !== c.dung) q.querySelectorAll('label')[v].className = 'sai';
-        if (v === c.dung) dung++; else if (c.loai === 'pl') saiPL++;
-      });
-      var diem = Math.round(dung * 100 / D.cau.length);
-      host.querySelector('[data-kq]').innerHTML = 'Kết quả: <b>' + dung + '/' + D.cau.length + ' câu đúng – ' + diem + ' điểm</b>' + (D.dat ? ' · ' + ((diem >= D.dat.diem && saiPL <= D.dat.sai_pl) ? '<b>Đạt</b>' : '<b>Chưa đạt</b>') + ' <small>(tiêu chí ôn tập: ≥ ' + D.dat.diem + ' điểm, sai tối đa ' + D.dat.sai_pl + ' câu pháp luật)</small>' : '');
-    });
-  }
-
   /* ---------- 4. Thuật ngữ ---------- */
   function thuatNgu(el, D) {
     var host = document.createElement('div'); el.after(host);
@@ -168,6 +142,6 @@
     ve();
   }
 
-  var MAP = { 'ban-do': banDo, 'checklist': checklist, 'trac-nghiem': tracNghiem, 'thuat-ngu': thuatNgu };
+  var MAP = { 'ban-do': banDo, 'checklist': checklist, 'thuat-ngu': thuatNgu };
   document.querySelectorAll('script[type="application/json"][data-st]').forEach(function (el) { var d = data(el), fn = MAP[el.dataset.st]; if (d && fn) fn(el, d); });
 })();

@@ -1085,7 +1085,6 @@ def _dot_1():
     d = os.path.join(os.path.dirname(os.path.abspath(__file__)), "so-tay-du-lieu")
     for t in json.load(open(os.path.join(d, "trang-moi.json"), encoding="utf-8")):
         t["body"] = [tuple(b) for b in t["body"]]
-        if t["slug"].startswith("trac-nghiem-"): t["an_menu"] = True  # chỉ hiện ở trang Trắc nghiệm ôn tập
         TRANG[:] = [x for x in TRANG if x["slug"] != t["slug"]]
         TRANG.append(t)
     them = json.load(open(os.path.join(d, "hoi-dap-them.json"), encoding="utf-8"))

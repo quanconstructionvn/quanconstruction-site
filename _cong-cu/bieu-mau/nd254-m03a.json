@@ -1,0 +1,407 @@
+{
+ "ma": "nd254-m03a",
+ "ten": "Bảng xác định giá trị khối lượng công việc hoàn thành",
+ "nhom": "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)",
+ "nguon": "Mẫu số 03.a/TT Phụ lục Hệ thống mẫu biểu kèm theo Nghị định 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "254-2025-nd-cp",
+   "8",
+   "điểm a, điểm b khoản 3 và khoản 6 Điều 8"
+  ],
+  [
+   "254-2025-nd-cp",
+   "9",
+   "khoản 5 Điều 9 (thu hồi vốn tạm ứng)"
+  ]
+ ],
+ "dung_khi": "Lập mỗi lần đề nghị thanh toán khối lượng công việc hoàn thành (kể cả thu hồi tạm ứng), kèm Giấy đề nghị thanh toán vốn và Giấy rút vốn (khoản 3 Điều 8, khoản 5 Điều 9).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 03.a/TT"
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Nghị định số 254/2025/NĐ-CP Ngày 26 tháng 9 năm 2025 của Chính phủ)",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "CHỦ ĐẦU TƯ/BAN QUẢN LÝ DỰ ÁN/ ĐƠN VỊ, TỔ CHỨC LÀM NHIỆM VỤ BỒI THƯỜNG, HỖ TRỢ TÁI ĐỊNH CƯ",
+    "b": true
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BẢNG XÁC ĐỊNH GIÁ TRỊ KHỐI LƯỢNG CÔNG VIỆC HOÀN THÀNH"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "Tên dự án:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Mã dự án:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ Bảng thông tin của Hợp đồng số...",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ Bảng thông tin Dự toán số...",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Chủ đầu tư:...",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Nhà thầu (đơn vị thực hiện trong trường hợp thực hiện không thông qua hợp đồng):",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Thanh toán lần thứ: ...",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ Biên bản nghiệm thu số.... Ngày... tháng ... năm...",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị tính: Đồng, ngoại tệ",
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "STT",
+     "Chỉ tiêu",
+     "Giá trị hợp đồng/dự toán",
+     "Giá trị KLHT chưa thanh toán đến hết kỳ trước",
+     "Giá trị KLHT nghiệm thu trong kỳ này",
+     "Giá trị KLHT đề nghị thanh toán kỳ này",
+     "Giá trị KLHT chưa thanh toán đến hết kỳ này",
+     "Lũy kế giá trị KLHT đã thanh toán đến hết kỳ trước",
+     "Lũy kế giá trị KLHT đã thanh toán đến hết kỳ này",
+     "Ghi chú"
+    ],
+    "dong": [
+     [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7=4+5-6",
+      "8",
+      "9=8+6",
+      "10"
+     ],
+     [
+      "I",
+      "Công việc thực hiện thông qua hợp đồng",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "II",
+      "Công việc thực hiện không thông qua hợp đồng (không bao gồm kinh phí bồi thường, hỗ trợ, tái định cư; không bao gồm chi phí quản lý dự án)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "Công việc A",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "Công việc B",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "III",
+      "Chi phí đảm bảo cho việc tổ chức thực hiện bồi thường, hỗ trợ, tái định cư",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Chi phí thuộc mục 4.1.2 và 4.2.2 tại Bảng tổng hợp thông tin về phương án đền bù, hỗ trợ và tái định cư"
+     ],
+     [
+      "IV",
+      "Chi phí quản lý dự án",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "Công việc A",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "Công việc B",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ]
+    ],
+    "rong": [
+     0.8,
+     4,
+     1.6,
+     1.6,
+     1.6,
+     1.6,
+     1.6,
+     1.6,
+     1.6,
+     1.4
+    ]
+   }
+  ],
+  [
+   "p",
+   "1. Giá trị tạm ứng còn lại chưa thu hồi đến hết kỳ trước:..."
+  ],
+  [
+   "p",
+   "2. Số tiền đã thanh toán khối lượng hoàn thành đến hết kỳ trước:"
+  ],
+  [
+   "p",
+   "2.1. Thanh toán cho nhà thầu"
+  ],
+  [
+   "p",
+   "2.2. Tiền bảo hành công trình (trong trường hợp không bảo lãnh bảo hành công trình)"
+  ],
+  [
+   "p",
+   "2.3. Chuyển vào tài khoản tạm giữ chờ quyết toán"
+  ],
+  [
+   "p",
+   "3. Lũy kế giá trị khối lượng thực hiện đến hết kỳ này"
+  ],
+  [
+   "p",
+   "4. Thanh toán để thu hồi tạm ứng:.."
+  ],
+  [
+   "p",
+   "5. Giá trị đề nghị giải ngân kỳ này: số tiền bằng chữ....(là số tiền đề nghị giải ngân kỳ này), trong đó:"
+  ],
+  [
+   "p",
+   "- Tạm ứng:...."
+  ],
+  [
+   "p",
+   "- Thanh toán khối lượng hoàn thành: ..."
+  ],
+  [
+   "p",
+   "+ Thanh toán cho nhà thầu"
+  ],
+  [
+   "p",
+   "+ Tiền bảo hành công trình (trong trường hợp không bảo lãnh bảo hành công trình)"
+  ],
+  [
+   "p",
+   "+ Chuyển vào tài khoản tạm giữ chờ quyết toán"
+  ],
+  [
+   "p",
+   "6. Lũy kế giá trị giải ngân: .... trong đó:"
+  ],
+  [
+   "p",
+   "6.1. Tạm ứng: ...."
+  ],
+  [
+   "p",
+   "6.2. Thanh toán khối lượng hoàn thành: ..."
+  ],
+  [
+   "p",
+   "- Thanh toán cho nhà thầu"
+  ],
+  [
+   "p",
+   "- Tiền bảo hành công trình (trong trường hợp không bảo lãnh bảo hành công trình)"
+  ],
+  [
+   "p",
+   "- Chuyển vào tài khoản tạm giữ chờ quyết toán"
+  ],
+  [
+   "ky",
+   [
+    [
+     "ĐẠI DIỆN NHÀ THẦU (ĐƠN VỊ THỰC HIỆN)",
+     "(Ký, ghi rõ họ tên, chức vụ, đóng dấu)"
+    ],
+    [
+     "….., ngày … tháng …. năm ….\nCHỦ ĐẦU TƯ/BAN QUẢN LÝ DỰ ÁN/ ĐƠN VỊ, TỔ CHỨC LÀM NHIỆM VỤ BỒI THƯỜNG,\nHỖ TRỢ TÁI ĐỊNH CƯ",
+     "(Ký, ghi rõ họ tên và đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "HƯỚNG DẪN",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "1. Giá trị tạm ứng còn lại chưa thu hồi đến hết kỳ trước: là số tiền mà chủ đầu tư đã tạm ứng cho nhà thầu theo điều khoản của hợp đồng (hoặc đã tạm ứng trực tiếp cho chủ đầu tư trường hợp tự thực hiện hoặc đã tạm ứng cho các tổ chức, đơn vị thực hiện các công việc không thông qua hợp đồng) chưa được thu hồi đến cuối kỳ trước."
+  ],
+  [
+   "p",
+   "2. Số tiền đã thanh toán khối lượng hoàn thành đến hết kỳ trước: là số tiền mà chủ đầu tư đã thanh toán cho nhà thầu (hoặc trực tiếp cho chủ đầu tư đối với trường hợp tự thực hiện hoặc cho các tổ chức, đơn vị thực hiện các công việc không thông qua hợp đồng) phần giá trị khối lượng đã hoàn thành đến cuối kỳ trước (không bao gồm số tiền đã tạm ứng)."
+  ],
+  [
+   "p",
+   "3. Lũy kế giá trị khối lượng thực hiện đến hết kỳ này: là lũy kế giá trị khối lượng thực hiện theo hợp đồng (hoặc theo dự toán trường hợp thực hiện không thông qua hợp đồng) đến cuối kỳ trước cộng với giá trị khối lượng thực hiện theo hợp đồng (hoặc theo dự toán) trong kỳ phù hợp với biên bản nghiệm thu đề nghị thanh toán. Trường hợp không đủ kế hoạch vốn để thanh toán hết giá trị khối lượng đã được nghiệm thu ghi trong Bảng xác định giá trị khối lượng hoàn thành, thì sẽ chuyển sang kỳ sau thanh toán tiếp, không phải lập lại Bảng xác định giá trị khối lượng hoàn thành mà chỉ lập giấy đề nghị thanh toán."
+  ],
+  [
+   "p",
+   "4. Thanh toán để thu hồi tạm ứng: là số tiền mà chủ đầu tư và nhà thầu thống nhất thanh toán để thu hồi một phần hay toàn bộ số tiền tạm ứng theo hợp đồng còn lại chưa thu hồi đến cuối kỳ trước (khoản 1 Mẫu số 03a/TT) theo điều khoản thanh toán của hợp đồng đã ký kết (chuyển từ tạm ứng thành thanh toán khối lượng hoàn thành)."
+  ],
+  [
+   "p",
+   "Thanh toán thu hồi tạm ứng trong trường hợp thực hiện không thông qua hợp đồng: là số tiền mà chủ đầu tư thu hồi một phần hay toàn bộ số tiền tạm ứng theo dự toán còn lại chưa thu hồi đến cuối kỳ trước (khoản 1 Mẫu số 03a/TT) (chuyển từ tạm ứng thành thanh toán khối lượng hoàn thành)."
+  ],
+  [
+   "p",
+   "5. Giá trị đề nghị giải ngân kỳ này: là số tiền mà chủ đầu tư đề nghị cơ quan kiểm soát, thanh toán thực hiện thanh toán cho nhà thầu theo điều khoản thanh toán của hợp đồng đã ký kết (sau khi trừ số tiền thu hồi tạm ứng tại khoản 4 Mẫu số 03a/TT). Trong đó gồm tạm ứng (nếu có) và thanh toán khối lượng hoàn thành."
+  ],
+  [
+   "p",
+   "Giá trị đề nghị giải ngân kỳ này trong trường hợp thực hiện không thông qua hợp đồng: là số tiền mà chủ đầu tư đề nghị cơ quan kiểm soát, thanh toán thực hiện thanh toán cho chủ đầu tư hoặc đơn vị thực hiện theo dự toán được duyệt (sau khi trừ số tiền thu hồi tạm ứng tại khoản 4 Mẫu số 03a/TT). Trong đó gồm tạm ứng (nếu có) và thanh toán khối lượng hoàn thành."
+  ],
+  [
+   "p",
+   {
+    "t": "(Lưu ý: Giá trị đề nghị thanh toán lũy kế trong năm kế hoạch đến cuối kỳ này không được vượt kế hoạch vốn đã bố trí cho công việc hoặc dự án trong năm kế hoạch)",
+    "i": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "6. Lũy kế giá trị giải ngân gồm 2 phần:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "- Tạm ứng: Giá trị tạm ứng còn lại chưa thu hồi đến cuối kỳ trước (khoản 1 Mẫu số 03a/TT) trừ thu hồi tạm ứng (khoản 4 Mẫu số 03a/TT) cộng phần tạm ứng (nếu có) của khoản 5 Mẫu số 03a/TT."
+  ],
+  [
+   "p",
+   "- Thanh toán khối lượng hoàn thành: là số tiền đã thanh toán khối lượng hoàn thành đến hết kỳ trước cộng với thu hồi tạm ứng (khoản 4 Mẫu số 03a/TT), cộng phần thanh toán giá trị khối lượng hoàn thành kỳ này (khoản 5 Mẫu số 03a/TT)."
+  ],
+  [
+   "p",
+   {
+    "t": "7. Đơn vị tiền là ngoại tệ áp dụng đối với dự án đầu tư công tại nước ngoài.",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "8. Trường hợp chủ đầu tư, ban quản lý dự án trực tiếp quản lý nhiều dự án: Chi phí quản lý dự án kê khối lượng công việc quản lý dự án đã thực hiện tương ứng với Dự án."
+  ]
+ ]
+}

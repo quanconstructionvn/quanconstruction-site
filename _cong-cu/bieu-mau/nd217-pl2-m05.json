@@ -1,0 +1,169 @@
+{
+ "ma": "nd217-pl2-m05",
+ "ten": "Giấy phép xây dựng có thời hạn",
+ "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+ "nguon": "Mẫu số 05 Phụ lục II Nghị định 217/2026/NĐ-CP",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "217-2026-nd-cp",
+   "49",
+   "Điều 49 Nghị định 217/2026/NĐ-CP"
+  ],
+  [
+   "217-2026-nd-cp",
+   "52",
+   "Điều 52 Nghị định 217/2026/NĐ-CP"
+  ],
+  [
+   "217-2026-nd-cp",
+   "62",
+   "Điều 62 Nghị định 217/2026/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Cơ quan cấp giấy phép xây dựng cấp giấy phép xây dựng có thời hạn cho công trình, nhà ở riêng lẻ (hoặc ghi điều chỉnh, gia hạn).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 05"
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "CƠ QUAN CẤP GIẤY PHÉP",
+     "XÂY DỰNG…"
+    ],
+    "ngay": "…, ngày … tháng … năm …"
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "GIẤY PHÉP XÂY DỰNG CÓ THỜI HẠN",
+    "Số: …/GPXD",
+    "(Sử dụng cho công trình, công trình nhà ở riêng lẻ)"
+   ]
+  ],
+  [
+   "p",
+   "1. Nội dung tương ứng với nội dung của giấy phép xây dựng đối với các loại công trình và công trình nhà ở riêng lẻ."
+  ],
+  [
+   "p",
+   "2. Công trình được tồn tại đến: …"
+  ],
+  [
+   "p",
+   "Mã định danh công trình xây dựng (theo quy định của Chính phủ về điều kiện năng lực hoạt động xây dựng, Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng):…"
+  ],
+  [
+   "p",
+   "3. Chủ đầu tư phải tự dỡ bỏ công trình, không được đòi hỏi bồi thường phần công trình xây dựng theo giấy phép xây dựng có thời hạn khi Nhà nước thực hiện quy hoạch theo thời hạn ghi trong giấy phép được cấp."
+  ],
+  [
+   "p",
+   "4. Giấy phép này có hiệu lực khởi công xây dựng trong thời hạn 12 tháng kể từ ngày cấp; quá thời hạn trên thì phải đề nghị gia hạn giấy phép xây dựng."
+  ],
+  [
+   "p",
+   {
+    "t": "Nơi nhận:",
+    "b": true,
+    "i": true,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "- Chủ đầu tư;",
+    "b": false,
+    "i": false,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "- Lưu: VT, …",
+    "b": false,
+    "i": false,
+    "can": "left"
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "CƠ QUAN CẤP GIẤY PHÉP XÂY DỰNG",
+     "(Ký tên, đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "ngat_trang"
+  ],
+  [
+   "p",
+   {
+    "t": "CHỦ ĐẦU TƯ PHẢI THỰC HIỆN CÁC NỘI DUNG SAU ĐÂY:",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "1. Phải hoàn toàn chịu trách nhiệm trước pháp luật nếu xâm phạm các quyền hợp pháp của các chủ sở hữu liền kề."
+  ],
+  [
+   "p",
+   "2. Phải thực hiện đúng các quy định của pháp luật về đất đai, về đầu tư xây dựng và Giấy phép xây dựng này."
+  ],
+  [
+   "p",
+   "3. Thực hiện thông báo khởi công xây dựng công trình theo quy định."
+  ],
+  [
+   "p",
+   "4. Xuất trình Giấy phép xây dựng cho cơ quan có thẩm quyền khi được yêu cầu theo quy định của pháp luật và treo biển báo tại địa điểm xây dựng theo quy định."
+  ],
+  [
+   "p",
+   "5. Khi điều chỉnh thiết kế làm thay đổi một trong các nội dung quy định tại khoản 1 Điều 63 Nghị định này thì phải đề nghị điều chỉnh giấy phép xây dựng và chờ quyết định của cơ quan cấp giấy phép."
+  ],
+  [
+   "p",
+   {
+    "t": "ĐIỀU CHỈNH/GIA HẠN GIẤY PHÉP",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "1. Nội dung điều chỉnh/gia hạn: ....................................................................."
+  ],
+  [
+   "p",
+   "2. Thời gian có hiệu lực của giấy phép: ........................................................."
+  ],
+  [
+   "p",
+   {
+    "t": "... , ngày ... tháng ... năm ...",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "CƠ QUAN CẤP GIẤY PHÉP XÂY DỰNG",
+     "(Ký tên, đóng dấu)"
+    ]
+   ]
+  ]
+ ]
+}

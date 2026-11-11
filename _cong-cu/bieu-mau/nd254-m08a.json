@@ -1,0 +1,194 @@
+{
+ "ma": "nd254-m08a",
+ "ten": "Báo cáo tổng hợp tình hình tạm ứng và thu hồi vốn tạm ứng (của chủ đầu tư, đơn vị, tổ chức làm nhiệm vụ bồi thường, hỗ trợ và tái định cư)",
+ "nhom": "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)",
+ "nguon": "Mẫu số 08.a/SDTƯ Phụ lục Hệ thống mẫu biểu kèm theo Nghị định 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "254-2025-nd-cp",
+   "9",
+   "điểm b khoản 6 Điều 9"
+  ]
+ ],
+ "dung_khi": "Hằng quý, chủ đầu tư (trước ngày 05) và đơn vị, tổ chức thực hiện bồi thường, hỗ trợ, tái định cư (trước ngày 03 tháng đầu quý sau) báo cáo tình hình tạm ứng và thu hồi tạm ứng của từng dự án (điểm b khoản 6 Điều 9).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 08.a/SDTƯ"
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Nghị định số 254/2025/NĐ-CP Ngày 26 tháng 9 năm 2025 của Chính phủ)",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "CHỦ ĐẦU TƯ, ĐƠN VỊ, TỔ CHỨC LÀM NHIỆM VỤ BỒI THƯỜNG, HỖ TRỢ VÀ TÁI ĐỊNH CƯ\n-------",
+    "b": true
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BÁO CÁO TỔNG HỢP TÌNH HÌNH TẠM ỨNG VÀ THU HỒI VỐN TẠM ỨNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo công văn số... ngày... tháng... năm ... của...)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị tính: triệu đồng",
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "STT",
+     "Nội dung",
+     "Lũy kế số dư tạm ứng chưa thu hồi đến thời điểm báo cáo",
+     "Mã dự án",
+     "Trong đó – Số tiền gốc (số tạm ứng chưa thu hồi) gửi tại Ngân hàng thương mại*",
+     "Trong đó – Số dư tạm ứng quá hạn chưa thu hồi – Tổng số dư tạm ứng quá hạn chưa thu hồi",
+     "Trong đó – Số dư tạm ứng quá hạn chưa thu hồi – Nguyên nhân chưa thu hồi – Ban Quản lý dự án/Chủ đầu tư giải thể",
+     "Trong đó – Số dư tạm ứng quá hạn chưa thu hồi – Nguyên nhân chưa thu hồi – Nhà thầu phá sản",
+     "Trong đó – Số dư tạm ứng quá hạn chưa thu hồi – Nguyên nhân chưa thu hồi – Dự án đình hoãn, không thực hiện",
+     "Trong đó – Số dư tạm ứng quá hạn chưa thu hồi – Nguyên nhân chưa thu hồi – Nguyên nhân khác (ghi cụ thể)",
+     "Trong đó – Đề xuất hướng xử lý thu hồi tạm ứng"
+    ],
+    "dong": [
+     [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+     ],
+     [
+      "",
+      "TỔNG SỐ",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "Dự án...",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "Dự án...",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ]
+    ],
+    "rong": [
+     0.6,
+     3,
+     1.4,
+     1.2,
+     1.4,
+     1.4,
+     1.2,
+     1.2,
+     1.2,
+     1.4,
+     1.6
+    ]
+   }
+  ],
+  [
+   "ghi_chu",
+   [
+    "Ghi chú: * Đối với trường hợp người có đất thu hồi, chủ sở hữu tài sản không nhận tiền bồi thường, hỗ trợ và trường hợp đang có tranh chấp theo quy định của Luật Đất đai."
+   ]
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LẬP BIỂU",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     ".... ngày... tháng... năm...\nLÃNH ĐẠO CƠ QUAN",
+     "(Ký, ghi rõ họ tên, chức vụ và đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "HƯỚNG DẪN",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "1. Cột số 3, cột số 4, cột số 5, cột số 6: Điền bằng số học (số liệu tại cột 6 không bao gồm số liệu tại cột 5)"
+  ],
+  [
+   "p",
+   "2. Cột số 7, cột số 8, cột số 9: Tích dấu \"x\" (nếu có)."
+  ],
+  [
+   "p",
+   "3. Cột số 10, cột số 11: Ghi cụ thể bằng chữ."
+  ]
+ ]
+}

@@ -1,0 +1,664 @@
+{
+ "ma": "nd217-pl2-m03",
+ "ten": "Giấy phép xây dựng mới/giấy phép xây dựng điều chỉnh/gia hạn",
+ "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+ "nguon": "Mẫu số 03 Phụ lục II Nghị định 217/2026/NĐ-CP",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "217-2026-nd-cp",
+   "49",
+   "Điều 49 Nghị định 217/2026/NĐ-CP"
+  ],
+  [
+   "217-2026-nd-cp",
+   "63",
+   "điểm c khoản 2 Điều 63 Nghị định 217/2026/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Cơ quan cấp giấy phép xây dựng cấp giấy phép xây dựng mới (hoặc ghi điều chỉnh, gia hạn) cho chủ đầu tư.",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 03"
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "CƠ QUAN CẤP GIẤY PHÉP",
+     "XÂY DỰNG…"
+    ],
+    "ngay": "…, ngày … tháng … năm …"
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "GIẤY PHÉP XÂY DỰNG MỚI/GIẤY PHÉP XÂY DỰNG ĐIỀU CHỈNH/GIA HẠN",
+    "Số: …/GPXD",
+    "(Sử dụng cho công trình: Không theo tuyến/Theo tuyến/Tín ngưỡng, tôn giáo/Tượng đài, tranh hoành tráng /Nhà ở riêng lẻ/Sửa chữa, cải tạo/Theo giai đoạn cho công trình không theo tuyến/Theo giai đoạn cho công trình theo tuyến/Dự án/Di dời công trình)"
+   ]
+  ],
+  [
+   "p",
+   "1. Cấp cho: ..........; Số định danh cá nhân/Mã số doanh nghiệp:...................."
+  ],
+  [
+   "p",
+   "Địa chỉ: số nhà: .....đường/phố ..... phường/xã: .... tỉnh/thành phố ....."
+  ],
+  [
+   "p",
+   "2. Nội dung cấp phép:"
+  ],
+  [
+   "p",
+   "2.1. Đối với công trình không theo tuyến"
+  ],
+  [
+   "p",
+   "- Được phép xây dựng công trình: (tên công trình)…"
+  ],
+  [
+   "p",
+   "- Mã định danh công trình xây dựng (theo quy định của Chính phủ về điều kiện năng lực hoạt động xây dựng, Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng):…"
+  ],
+  [
+   "p",
+   "- Theo thiết kế: …"
+  ],
+  [
+   "p",
+   "- Do: (tên tổ chức tư vấn) …lập"
+  ],
+  [
+   "p",
+   "- Chủ nhiệm, chủ trì thiết kế:……"
+  ],
+  [
+   "p",
+   "- Đơn vị thẩm định, thẩm tra (nếu có): …"
+  ],
+  [
+   "p",
+   "- Chủ trì thẩm tra thiết kế: …"
+  ],
+  [
+   "p",
+   "- Loại, cấp công trình:…"
+  ],
+  [
+   "p",
+   "- Gồm các nội dung sau:"
+  ],
+  [
+   "p",
+   "+ Vị trí xây dựng (ghi rõ lô đất, địa chỉ): …"
+  ],
+  [
+   "p",
+   "+ Cốt xây dựng: …….m."
+  ],
+  [
+   "p",
+   "+ Khoảng lùi (nếu có): .....m."
+  ],
+  [
+   "p",
+   "+ Mật độ xây dựng:.............., hệ số sử dụng đất: …"
+  ],
+  [
+   "p",
+   "+ Chỉ giới đường đỏ: ............, chỉ giới xây dựng: …"
+  ],
+  [
+   "p",
+   "+ Màu sắc công trình (nếu có): …"
+  ],
+  [
+   "p",
+   "+ Chiều sâu công trình (đối với công trình có tầng hầm): …"
+  ],
+  [
+   "p",
+   "Đối với công trình dân dụng và công trình có kết cấu dạng nhà, bổ sung các nội dung sau:"
+  ],
+  [
+   "p",
+   "+ Diện tích xây dựng tầng 1 (tầng trệt): .................... m2"
+  ],
+  [
+   "p",
+   "+ Tổng diện tích sàn (bao gồm cả tầng hầm và tầng lửng):...................... m2"
+  ],
+  [
+   "p",
+   "+ Chiều cao công trình: ................ m;"
+  ],
+  [
+   "p",
+   "+ Số tầng (trong đó ghi rõ số tầng hầm và tầng lửng):…"
+  ],
+  [
+   "p",
+   "2.2. Đối với công trình ngầm"
+  ],
+  [
+   "p",
+   "- Được phép xây dựng công trình theo những nội dung sau: …"
+  ],
+  [
+   "p",
+   "- Mã định danh công trình xây dựng (theo quy định của Chính phủ về điều kiện năng lực hoạt động xây dựng, Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng):…"
+  ],
+  [
+   "p",
+   "- Theo thiết kế: …"
+  ],
+  [
+   "p",
+   "- Do: (tên tổ chức tư vấn) …lập"
+  ],
+  [
+   "p",
+   "- Chủ nhiệm, chủ trì thiết kế:……"
+  ],
+  [
+   "p",
+   "- Đơn vị thẩm định, thẩm tra (nếu có): …"
+  ],
+  [
+   "p",
+   "- Chủ trì thẩm tra thiết kế: …"
+  ],
+  [
+   "p",
+   "- Gồm các nội dung sau:"
+  ],
+  [
+   "p",
+   "- Tên công trình: …"
+  ],
+  [
+   "p",
+   "- Vị trí xây dựng: …"
+  ],
+  [
+   "p",
+   "+ Điểm đầu công trình (Đối với công trình theo tuyến): …"
+  ],
+  [
+   "p",
+   "+ Điểm cuối công trình (Đối với công trình theo tuyến): …"
+  ],
+  [
+   "p",
+   "- Khoảng lùi (nếu có): ......m."
+  ],
+  [
+   "p",
+   "- Quy mô công trình: …"
+  ],
+  [
+   "p",
+   "- Tổng chiều dài công trình: …m."
+  ],
+  [
+   "p",
+   "- Chiều rộng công trình: ….. từ: .................. m, đến: ................................m."
+  ],
+  [
+   "p",
+   "- Chiều sâu công trình: …… từ: .................. m, đến: ...............................m."
+  ],
+  [
+   "p",
+   "- Khoảng cách nhỏ nhất đến công trình lân cận: …"
+  ],
+  [
+   "p",
+   "2.3. Đối với công trình theo tuyến"
+  ],
+  [
+   "p",
+   "Được phép xây dựng công trình: (tên công trình)…"
+  ],
+  [
+   "p",
+   "- Mã định danh công trình xây dựng (theo quy định của Chính phủ về điều kiện năng lực hoạt động xây dựng, Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng):…"
+  ],
+  [
+   "p",
+   "- Theo thiết kế: …"
+  ],
+  [
+   "p",
+   "- Do: (tên tổ chức tư vấn) …lập"
+  ],
+  [
+   "p",
+   "- Chủ nhiệm, chủ trì thiết kế:……"
+  ],
+  [
+   "p",
+   "- Đơn vị thẩm định, thẩm tra (nếu có): …"
+  ],
+  [
+   "p",
+   "- Chủ trì thẩm tra thiết kế: …"
+  ],
+  [
+   "p",
+   "- Gồm các nội dung sau:"
+  ],
+  [
+   "p",
+   "+ Vị trí xây dựng (ghi rõ vị trí, địa chỉ): …"
+  ],
+  [
+   "p",
+   "+ Hướng tuyến công trình: …"
+  ],
+  [
+   "p",
+   "+ Cốt xây dựng: …"
+  ],
+  [
+   "p",
+   "+ Chiều sâu công trình (đối với công trình ngầm theo tuyến): …"
+  ],
+  [
+   "p",
+   "2.4. Sử dụng cấp theo giai đoạn của công trình không theo tuyến"
+  ],
+  [
+   "p",
+   "- Được phép xây dựng công trình theo giai đoạn: (tên công trình)…"
+  ],
+  [
+   "p",
+   "- Mã định danh công trình xây dựng (theo quy định của Chính phủ về điều kiện năng lực hoạt động xây dựng, Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng):…"
+  ],
+  [
+   "p",
+   "- Theo thiết kế: …"
+  ],
+  [
+   "p",
+   "- Do: (tên tổ chức tư vấn) …lập"
+  ],
+  [
+   "p",
+   "- Đơn vị thẩm định, thẩm tra (nếu có): …"
+  ],
+  [
+   "p",
+   "- Gồm các nội dung sau:"
+  ],
+  [
+   "p",
+   "+ Vị trí xây dựng (ghi rõ lô đất, địa chỉ): …"
+  ],
+  [
+   "p",
+   "+ Cốt xây dựng: …m."
+  ],
+  [
+   "p",
+   "+ Khoảng lùi (nếu có): …m."
+  ],
+  [
+   "p",
+   "+ Mật độ xây dựng: …, hệ số sử dụng đất: …"
+  ],
+  [
+   "p",
+   "+ Chỉ giới đường đỏ: …, chỉ giới xây dựng: …"
+  ],
+  [
+   "p",
+   "+ Diện tích xây dựng: … m2"
+  ],
+  [
+   "p",
+   "* Giai đoạn 1:"
+  ],
+  [
+   "p",
+   "+ Chiều sâu công trình (tính từ cốt 0,00 đối với công trình có tầng hầm): …;"
+  ],
+  [
+   "p",
+   "+ Diện tích xây dựng tầng 1 (nếu có): … m2"
+  ],
+  [
+   "p",
+   "+ Tổng diện tích sàn xây dựng giai đoạn 1 (bao gồm cả tầng hầm): … m2"
+  ],
+  [
+   "p",
+   "+ Chiều cao xây dựng giai đoạn 1: … m;"
+  ],
+  [
+   "p",
+   "+ Số tầng xây dựng giai đoạn 1 (ghi rõ số tầng hầm, tầng lửng): …"
+  ],
+  [
+   "p",
+   "+ Màu sắc công trình (nếu có): …"
+  ],
+  [
+   "p",
+   "* Giai đoạn 2:"
+  ],
+  [
+   "p",
+   "+ Tổng diện tích sàn xây dựng giai đoạn 1 và giai đoạn 2: … m2"
+  ],
+  [
+   "p",
+   "+ Chiều cao công trình giai đoạn 2: … m"
+  ],
+  [
+   "p",
+   "+ Số tầng xây dựng giai đoạn 2 (ghi rõ số tầng hầm, tầng lửng 2 giai đoạn):"
+  ],
+  [
+   "p",
+   "+ Màu sắc công trình (nếu có): …"
+  ],
+  [
+   "p",
+   "* Giai đoạn ...: (ghi tương tự như các nội dung của giai đoạn 2 tương ứng với giai đoạn đề nghị cấp giấy phép xây dựng)"
+  ],
+  [
+   "p",
+   "2.5. Sử dụng cấp theo giai đoạn của công trình theo tuyến"
+  ],
+  [
+   "p",
+   "- Được phép xây dựng công trình theo giai đoạn: (tên công trình)…"
+  ],
+  [
+   "p",
+   "- Mã định danh công trình xây dựng (theo quy định của Chính phủ về điều kiện năng lực hoạt động xây dựng, Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng):…"
+  ],
+  [
+   "p",
+   "- Theo thiết kế: …"
+  ],
+  [
+   "p",
+   "- Do: (tên tổ chức tư vấn) …lập"
+  ],
+  [
+   "p",
+   "- Chủ nhiệm, chủ trì thiết kế: …"
+  ],
+  [
+   "p",
+   "- Đơn vị thẩm định, thẩm tra (nếu có): …"
+  ],
+  [
+   "p",
+   "- Chủ trì thẩm tra thiết kế: …"
+  ],
+  [
+   "p",
+   "- Gồm các nội dung sau:"
+  ],
+  [
+   "p",
+   "* Giai đoạn 1:"
+  ],
+  [
+   "p",
+   "+ Vị trí xây dựng (ghi rõ vị trí, địa chỉ): …"
+  ],
+  [
+   "p",
+   "+ Hướng tuyến công trình: …"
+  ],
+  [
+   "p",
+   "+ Cốt xây dựng: …"
+  ],
+  [
+   "p",
+   "+ Chiều sâu công trình (đối với công trình ngầm theo tuyến):"
+  ],
+  [
+   "p",
+   "* Giai đoạn 2:"
+  ],
+  [
+   "p",
+   "+ Vị trí xây dựng (ghi rõ vị trí, địa chỉ): …"
+  ],
+  [
+   "p",
+   "+ Hướng tuyến công trình: …"
+  ],
+  [
+   "p",
+   "+ Cốt xây dựng: …"
+  ],
+  [
+   "p",
+   "+ Chiều sâu công trình (đối với công trình ngầm theo tuyến):"
+  ],
+  [
+   "p",
+   "* Giai đoạn ...:"
+  ],
+  [
+   "p",
+   "2.6. Sử dụng cấp cho dự án"
+  ],
+  [
+   "p",
+   "- Được phép xây dựng các công trình thuộc dự án: …"
+  ],
+  [
+   "p",
+   "- Mã định danh công trình xây dựng (theo quy định của Chính phủ về điều kiện năng lực hoạt động xây dựng, Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng):…"
+  ],
+  [
+   "p",
+   "- Tổng số công trình: (n) công trình"
+  ],
+  [
+   "p",
+   "- Công trình số (1-n): …"
+  ],
+  [
+   "p",
+   "(Ghi theo nội dung phù hợp với từng loại công trình đề nghị cấp giấy phép xây dựng)"
+  ],
+  [
+   "p",
+   "- Ghi nhận các công trình đã khởi công:"
+  ],
+  [
+   "p",
+   "+ Công trình: …"
+  ],
+  [
+   "p",
+   "+ Công trình: …"
+  ],
+  [
+   "p",
+   "2.7. Sử dụng cho công trình nhà ở riêng lẻ"
+  ],
+  [
+   "p",
+   "- Được phép xây dựng công trình: (tên công trình) …"
+  ],
+  [
+   "p",
+   "- Mã định danh công trình xây dựng (theo quy định của Chính phủ về điều kiện năng lực hoạt động xây dựng, Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng):…"
+  ],
+  [
+   "p",
+   "- Theo thiết kế: …"
+  ],
+  [
+   "p",
+   "- Do: …lập"
+  ],
+  [
+   "p",
+   "- Gồm các nội dung sau:"
+  ],
+  [
+   "p",
+   "+ Vị trí xây dựng (ghi rõ lô đất, địa chỉ): …"
+  ],
+  [
+   "p",
+   "+ Cốt xây dựng: …"
+  ],
+  [
+   "p",
+   "+ Khoảng lùi (nếu có): .....m."
+  ],
+  [
+   "p",
+   "+ Mật độ xây dựng: ............, hệ số sử dụng đất: …"
+  ],
+  [
+   "p",
+   "+ Chỉ giới đường đỏ, chỉ giới xây dựng: …"
+  ],
+  [
+   "p",
+   "+ Màu sắc công trình (nếu có): …"
+  ],
+  [
+   "p",
+   "+ Diện tích xây dựng tầng 1 (tầng trệt): …m2"
+  ],
+  [
+   "p",
+   "+ Tổng diện tích sàn (bao gồm cả tầng hầm và tầng lửng)…m2"
+  ],
+  [
+   "p",
+   "+ Chiều cao công trình: …m; số tầng …"
+  ],
+  [
+   "p",
+   "+ Số tầng (trong đó ghi rõ số tầng hầm và tầng lửng): …"
+  ],
+  [
+   "p",
+   "3. Giấy tờ về đất đai (nếu có):…"
+  ],
+  [
+   "p",
+   "4. Dự kiến thời gian hoàn thành công trình: … tháng"
+  ],
+  [
+   "p",
+   "5. Giấy phép này có hiệu lực khởi công xây dựng trong thời hạn 12 tháng kể từ ngày cấp; quá thời hạn trên thì phải đề nghị gia hạn giấy phép xây dựng."
+  ],
+  [
+   "p",
+   {
+    "t": "Nơi nhận:",
+    "b": true,
+    "i": true,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "- Chủ đầu tư;",
+    "b": false,
+    "i": false,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "- Lưu: VT, …",
+    "b": false,
+    "i": false,
+    "can": "left"
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "CƠ QUAN CẤP GIẤY PHÉP XÂY DỰNG",
+     "(Ký tên, đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "ngat_trang"
+  ],
+  [
+   "p",
+   {
+    "t": "CHỦ ĐẦU TƯ PHẢI THỰC HIỆN CÁC NỘI DUNG SAU ĐÂY:",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "1. Phải hoàn toàn chịu trách nhiệm trước pháp luật nếu xâm phạm các quyền hợp pháp của các chủ sở hữu liền kề."
+  ],
+  [
+   "p",
+   "2. Phải thực hiện đúng các quy định của pháp luật về đất đai, về đầu tư xây dựng và Giấy phép xây dựng này."
+  ],
+  [
+   "p",
+   "3. Thực hiện thông báo khởi công xây dựng công trình theo quy định."
+  ],
+  [
+   "p",
+   "4. Xuất trình Giấy phép xây dựng cho cơ quan có thẩm quyền khi được yêu cầu theo quy định của pháp luật và treo biển báo tại địa điểm xây dựng theo quy định."
+  ],
+  [
+   "p",
+   "5. Khi điều chỉnh thiết kế làm thay đổi một trong các nội dung quy định tại khoản 1 Điều 63 Nghị định này thì phải đề nghị điều chỉnh giấy phép xây dựng và chờ quyết định của cơ quan cấp giấy phép."
+  ],
+  [
+   "p",
+   {
+    "t": "ĐIỀU CHỈNH/GIA HẠN GIẤY PHÉP",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "1. Nội dung điều chỉnh/gia hạn: ....................................................................."
+  ],
+  [
+   "p",
+   {
+    "t": "... , ngày ... tháng ... năm ...",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "CƠ QUAN CẤP GIẤY PHÉP XÂY DỰNG",
+     "(Ký tên, đóng dấu)"
+    ]
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,397 @@
+{
+ "ma": "nd217-pl2-m01",
+ "ten": "Đơn đề nghị cấp giấy phép xây dựng mới",
+ "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+ "nguon": "Mẫu số 01 Phụ lục II Nghị định 217/2026/NĐ-CP",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "217-2026-nd-cp",
+   "57",
+   "điểm a khoản 1 Điều 57 Nghị định 217/2026/NĐ-CP"
+  ],
+  [
+   "217-2026-nd-cp",
+   "58",
+   "Điều 58 Nghị định 217/2026/NĐ-CP"
+  ],
+  [
+   "217-2026-nd-cp",
+   "59",
+   "Điều 59 Nghị định 217/2026/NĐ-CP"
+  ],
+  [
+   "217-2026-nd-cp",
+   "60",
+   "Điều 60 Nghị định 217/2026/NĐ-CP"
+  ],
+  [
+   "217-2026-nd-cp",
+   "61",
+   "Điều 61 Nghị định 217/2026/NĐ-CP"
+  ],
+  [
+   "217-2026-nd-cp",
+   "62",
+   "khoản 2 Điều 62 Nghị định 217/2026/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Chủ đầu tư nộp kèm hồ sơ đề nghị cấp giấy phép xây dựng mới, theo giai đoạn, cho dự án, nhà ở riêng lẻ, sửa chữa, cải tạo hoặc di dời công trình (riêng giấy phép có thời hạn đổi tiêu đề đơn theo khoản 2 Điều 62).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 01"
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [],
+    "ngay": ""
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "ĐƠN ĐỀ NGHỊ CẤP GIẤY PHÉP XÂY DỰNG MỚI",
+    "(Sử dụng cho công trình: Không theo tuyến/Theo tuyến/Tín ngưỡng, tôn giáo/Tượng đài, tranh hoành tráng /Nhà ở riêng lẻ/Sửa chữa, cải tạo/Theo giai đoạn cho công trình không theo tuyến/Theo giai đoạn cho công trình theo tuyến/Dự án/Di dời công trình)"
+   ]
+  ],
+  [
+   "p",
+   "Kính gửi: ................................."
+  ],
+  [
+   "p",
+   "1. Tên chủ đầu tư (Chủ hộ):...; Số định danh cá nhân/Mã số doanh nghiệp:.."
+  ],
+  [
+   "p",
+   "- Người đại diện: ............; Chức vụ: ...........; Số định danh cá nhân:.............."
+  ],
+  [
+   "p",
+   "- Số điện thoại: ..............................................................................................."
+  ],
+  [
+   "p",
+   "2. Địa điểm xây dựng:"
+  ],
+  [
+   "p",
+   "Lô đất số:.................................Diện tích .................. m2."
+  ],
+  [
+   "p",
+   "Tại: ................................. đường/phố: ..................... phường/xã ..................... tỉnh, thành phố: ..................................................................."
+  ],
+  [
+   "p",
+   "3. Tổ chức/cá nhân lập, thẩm tra thiết kế xây dựng:"
+  ],
+  [
+   "p",
+   "3.1. Tổ chức/cá nhân lập thiết kế xây dựng:"
+  ],
+  [
+   "p",
+   "- Tên tổ chức/cá nhân: .........Mã số chứng chỉ năng lực/hành nghề:.............."
+  ],
+  [
+   "p",
+   "- Tên và mã số chứng chỉ hành nghề của các chủ nhiệm, chủ trì thiết kế: …"
+  ],
+  [
+   "p",
+   "3.2. Tổ chức/cá nhân thẩm tra thiết kế xây dựng:"
+  ],
+  [
+   "p",
+   "- Tên tổ chức/cá nhân: ............Mã số chứng chỉ năng lực/hành nghề:............"
+  ],
+  [
+   "p",
+   "- Tên và mã số chứng chỉ hành nghề của các chủ trì thẩm tra thiết kế: …...."
+  ],
+  [
+   "p",
+   "4. Nội dung đề nghị cấp phép:"
+  ],
+  [
+   "p",
+   "4.1. Đối với công trình không theo tuyến, tín ngưỡng, tôn giáo:"
+  ],
+  [
+   "p",
+   "- Loại công trình: .......................................Cấp công trình: ..........................."
+  ],
+  [
+   "p",
+   "- Diện tích xây dựng: .........m2."
+  ],
+  [
+   "p",
+   "- Cốt xây dựng: …….m."
+  ],
+  [
+   "p",
+   "- Khoảng lùi (nếu có): .....m."
+  ],
+  [
+   "p",
+   "- Tổng diện tích sàn (đối với công trình dân dụng và công trình có kết cấu dạng nhà): ……….. m2 (ghi rõ diện tích sàn các tầng hầm, tầng trên mặt đất, tầng kỹ thuật, tầng lửng, tum)."
+  ],
+  [
+   "p",
+   "- Chiều cao công trình: .....m (trong đó ghi rõ chiều cao các tầng hầm, tầng trên mặt đất, tầng lửng, tum - nếu có)."
+  ],
+  [
+   "p",
+   "- Số tầng: ………….(ghi rõ số tầng hầm, tầng trên mặt đất, tầng kỹ thuật, tầng lửng, tum - nếu có)."
+  ],
+  [
+   "p",
+   "4.2. Đối với công trình theo tuyến:"
+  ],
+  [
+   "p",
+   "- Loại công trình: .......................................Cấp công trình: ..........................."
+  ],
+  [
+   "p",
+   "- Tổng chiều dài công trình:………..m (ghi rõ chiều dài qua từng khu vực đặc thù, qua từng địa giới hành chính xã, phường, quận, huyện, tỉnh, thành phố)."
+  ],
+  [
+   "p",
+   "- Cốt xây dựng: ........m (ghi rõ cốt qua từng khu vực)."
+  ],
+  [
+   "p",
+   "- Chiều cao tĩnh không của tuyến: .....m (ghi rõ chiều cao qua các khu vực)."
+  ],
+  [
+   "p",
+   "- Độ sâu công trình: .............m (ghi rõ độ sâu qua từng khu vực)."
+  ],
+  [
+   "p",
+   "4.3. Đối với công trình tượng đài, tranh hoành tráng:"
+  ],
+  [
+   "p",
+   "- Loại công trình: ......................................Cấp công trình: ............................"
+  ],
+  [
+   "p",
+   "- Diện tích xây dựng: .........m2."
+  ],
+  [
+   "p",
+   "- Cốt xây dựng:...........m."
+  ],
+  [
+   "p",
+   "- Khoảng lùi (nếu có): .....m."
+  ],
+  [
+   "p",
+   "- Chiều cao công trình: .....m."
+  ],
+  [
+   "p",
+   "4.4. Đối với công trình nhà ở riêng lẻ:"
+  ],
+  [
+   "p",
+   "- Cấp công trình: ......................."
+  ],
+  [
+   "p",
+   "- Cốt xây dựng: …….m."
+  ],
+  [
+   "p",
+   "- Khoảng lùi (nếu có): .....m."
+  ],
+  [
+   "p",
+   "- Diện tích xây dựng tầng 1 (tầng trệt): .........m2."
+  ],
+  [
+   "p",
+   "- Tổng diện tích sàn:……….. m2 (trong đó ghi rõ diện tích sàn các tầng hầm, tầng trên mặt đất, tầng kỹ thuật, tầng lửng, tum)."
+  ],
+  [
+   "p",
+   "- Chiều cao công trình: .....m (trong đó ghi rõ chiều cao các tầng hầm, tầng trên mặt đất, tầng lửng, tum)."
+  ],
+  [
+   "p",
+   "- Số tầng: (trong đó ghi rõ số tầng hầm, tầng trên mặt đất, tầng kỹ thuật, tầng lửng, tum)."
+  ],
+  [
+   "p",
+   "4.5. Đối với trường hợp cải tạo, sửa chữa:"
+  ],
+  [
+   "p",
+   "- Loại công trình: .......................................Cấp công trình: ........................."
+  ],
+  [
+   "p",
+   "- Các nội dung theo quy định tại mục 4.1; 4.2; 4.3; 4.4 tương ứng với loại công trình."
+  ],
+  [
+   "p",
+   "4.6. Đối với trường hợp cấp giấy phép theo giai đoạn:"
+  ],
+  [
+   "p",
+   "- Giai đoạn 1:"
+  ],
+  [
+   "p",
+   "+ Loại công trình: ......................................Cấp công trình: ..........................."
+  ],
+  [
+   "p",
+   "+ Các nội dung theo quy định tại mục 4.1; 4.2; 4.3; 4.4 tương ứng với loại và giai đoạn 1 của công trình."
+  ],
+  [
+   "p",
+   "- Giai đoạn 2:"
+  ],
+  [
+   "p",
+   "Các nội dung theo quy định tại mục 4.1; 4.2; 4.3; 4.4 tương ứng với loại và giai đoạn 1 của công trình."
+  ],
+  [
+   "p",
+   "- Giai đoạn …"
+  ],
+  [
+   "p",
+   "4.7. Đối với trường hợp cấp cho Dự án:"
+  ],
+  [
+   "p",
+   "- Tên dự án:...................................................................................................."
+  ],
+  [
+   "p",
+   "Đã được: ...........phê duyệt, theo Quyết định số: ............... ngày....................."
+  ],
+  [
+   "p",
+   "- Gồm: (n) công trình"
+  ],
+  [
+   "p",
+   "Trong đó:"
+  ],
+  [
+   "p",
+   "Công trình số (1-n): (tên công trình)"
+  ],
+  [
+   "p",
+   "* Loại công trình: ....................................Cấp công trình: ............................."
+  ],
+  [
+   "p",
+   "* Cốt xây dựng: …….m."
+  ],
+  [
+   "p",
+   "* Khoảng lùi (nếu có): .....m."
+  ],
+  [
+   "p",
+   "* Các thông tin chủ yếu của công trình: ................... ....................................."
+  ],
+  [
+   "p",
+   "4.8. Đối với trường hợp di dời công trình:"
+  ],
+  [
+   "p",
+   "- Công trình cần di dời:"
+  ],
+  [
+   "p",
+   "- Loại công trình: .......................................Cấp công trình: ..........................."
+  ],
+  [
+   "p",
+   "- Diện tích xây dựng tầng 1 (tầng trệt): .....................................................m2."
+  ],
+  [
+   "p",
+   "- Tổng diện tích sàn: ................................................................................... m2."
+  ],
+  [
+   "p",
+   "- Chiều cao công trình: ............................................................................... m."
+  ],
+  [
+   "p",
+   "- Địa điểm công trình di dời đến:"
+  ],
+  [
+   "p",
+   "Lô đất số:.........................................Diện tích ......................................... m2."
+  ],
+  [
+   "p",
+   "Tại: .............................. đường: ....................... phường (xã) ........................... tỉnh, thành phố: ........................................."
+  ],
+  [
+   "p",
+   "- Số tầng: ........................................................................................................"
+  ],
+  [
+   "p",
+   "- Cốt xây dựng: …….m."
+  ],
+  [
+   "p",
+   "- Khoảng lùi (nếu có): .....m."
+  ],
+  [
+   "p",
+   "5. Dự kiến thời gian hoàn thành công trình: .......................................tháng."
+  ],
+  [
+   "p",
+   "6. Cam kết: Tôi xin cam đoan làm theo đúng giấy phép được cấp, nếu sai tôi xin hoàn toàn chịu trách nhiệm và bị xử lý theo quy định của pháp luật."
+  ],
+  [
+   "p",
+   "Gửi kèm theo Đơn này các tài liệu:"
+  ],
+  [
+   "p",
+   "1 -"
+  ],
+  [
+   "p",
+   "2 -"
+  ],
+  [
+   "p",
+   {
+    "t": "....., ngày ..... tháng ..... năm .....",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LÀM ĐƠN/ĐẠI DIỆN CHỦ ĐẦU TƯ",
+     "(Ký, ghi rõ họ và tên, đóng dấu (nếu có))"
+    ]
+   ]
+  ]
+ ]
+}

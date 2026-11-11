@@ -1,0 +1,412 @@
+{
+ "ma": "nd254-m02c",
+ "ten": "Bảng tổng hợp thông tin bồi thường, hỗ trợ, tái định cư",
+ "nhom": "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)",
+ "nguon": "Mẫu số 02.c/TT Phụ lục Hệ thống mẫu biểu kèm theo Nghị định 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "254-2025-nd-cp",
+   "8",
+   "điểm e khoản 1 Điều 8"
+  ]
+ ],
+ "dung_khi": "Chủ đầu tư hoặc đơn vị, tổ chức thực hiện bồi thường, hỗ trợ, tái định cư lập theo phương án được duyệt, gửi cơ quan thanh toán trong hồ sơ pháp lý (điểm e khoản 1 Điều 8).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 02.c/TT"
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Nghị định số 254/2025/NĐ-CP Ngày 26 tháng 9 năm 2025 của Chính phủ)",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "CHỦ ĐẦU TƯ/ĐƠN VỊ, TỔ CHỨC THỰC HIỆN\nBỒI THƯỜNG, HỖ TRỢ, TÁI ĐỊNH CƯ",
+    "b": true
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BẢNG TỔNG HỢP THÔNG TIN BỒI THƯỜNG, HỖ TRỢ, TÁI ĐỊNH CƯ"
+   ]
+  ],
+  [
+   "p",
+   "Căn cứ Phương án bồi thường, hỗ trợ, tái định cư được cấp có thẩm quyền phê duyệt hoặc Quyết định đầu tư dự án bồi thường, hỗ trợ, tái định cư."
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị: đồng",
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "STT",
+     "Chỉ tiêu",
+     "Thông tin lần đầu",
+     "Thông tin điều chỉnh lần 1",
+     "Thông tin điều chỉnh lần 2",
+     "Thông tin điều chỉnh lần 3",
+     "Thông tin điều chỉnh lần 4",
+     "Thông tin điều chỉnh lần …",
+     "Ghi chú"
+    ],
+    "dong": [
+     [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+     ],
+     [
+      "1",
+      "Thông tin Dự án",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "Tên dự án",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Điền bằng chữ"
+     ],
+     [
+      "",
+      "Mã dự án đầu tư",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Điền bằng số"
+     ],
+     [
+      "2",
+      "Thông tin về phương án bồi thường, hỗ trợ, tái định cư",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2.1",
+      "Số Quyết định",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2.2",
+      "Ngày quyết định",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "3",
+      "Thông tin của chủ đầu tư và đơn vị, tổ chức thực hiện bồi thường, hỗ trợ, tái định cư",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "3,1",
+      "Tên Chủ đầu tư",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "Đại diện",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "Địa chỉ:",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "Tài khoản:",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "Mã số thuế:",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "3,2",
+      "Tên đơn vị, tổ chức thực hiện bồi thường, hỗ trợ, tái định cư",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "Đại diện",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "Địa chỉ:",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "Tài khoản:",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "Mã số thuế:",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "4",
+      "Thông tin về kinh phí bồi thường hỗ trợ, tái định cư",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "4,1",
+      "Phần kinh phí Chủ đầu tư thực hiện",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "4.1.1",
+      "Tiền bồi thường hỗ trợ tái định cư (gồm chi trả người dân và chi phí khác)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "4.1.2",
+      "Chi phí bảo đảm cho việc tổ chức thực hiện bồi thường, hỗ trợ, tái định cư",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "4.1.3",
+      "Chi phí khác ngoài mục 4.1.1 và 4.1.2 nêu trên",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "4,2",
+      "Phần kinh phí do đơn vị, tổ chức thực hiện bồi thường thực hiện",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "4.2.1",
+      "Tiền bồi thường, hỗ trợ, tái định cư (gồm chi trả người dân và chi phí khác)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "4.2.2",
+      "Chi phí bảo đảm cho việc tổ chức thực hiện bồi thường, hỗ trợ, tái định cư",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "4.2.3",
+      "Chi phí khác ngoài mục 4.2.1 và 4.2.2 nêu trên.",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ]
+    ],
+    "rong": [
+     0.8,
+     4,
+     1.6,
+     1.6,
+     1.6,
+     1.6,
+     1.6,
+     1.6,
+     1.8
+    ]
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "",
+     ""
+    ],
+    [
+     "….., ngày … tháng … năm …\nCHỦ ĐẦU TƯ/ ĐƠN VỊ, TỔ CHỨC THỰC HIỆN\nBỒI THƯỜNG, HỖ TRỢ VÀ TÁI ĐỊNH CƯ",
+     "(Ký, ghi rõ họ tên và đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "HƯỚNG DẪN",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "1. Đơn vị, tổ chức thực hiện bồi thường, hỗ trợ, tái định cư có trách nhiệm lập Bảng tổng hợp thông tin bồi thường, hỗ trợ và tái định cư do đơn vị, tổ chức thực hiện."
+  ],
+  [
+   "p",
+   "2. Trường hợp chủ đầu tư tự thực hiện và trường hợp chủ đầu tư và đơn vị, tổ chức bồi thường, hỗ trợ, tái định cư cùng thực hiện thì chủ đầu tư có trách nhiệm lập Bảng; chủ đầu tư ghi phần kinh phí được giao tương ứng của chủ đầu tư và đơn vị, tổ chức bồi thường, hỗ trợ, tái định cư tại mục 4.1 và 4.2."
+  ],
+  [
+   "p",
+   "3. Đối với những thông tin không điều chỉnh, đề nghị ghi rõ là \"không điều chỉnh\"."
+  ]
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "ma": "nd217-pl1-m14",
+ "ten": "Mẫu dấu thẩm định, thẩm tra, phê duyệt thiết kế xây dựng",
+ "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+ "nguon": "Mẫu số 14 Phụ lục I Nghị định 217/2026/NĐ-CP",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "217-2026-nd-cp",
+   "36",
+   "điểm a khoản 8 Điều 36 Nghị định 217/2026/NĐ-CP"
+  ],
+  [
+   "217-2026-nd-cp",
+   "41",
+   "Điều 41 Nghị định 217/2026/NĐ-CP"
+  ],
+  [
+   "217-2026-nd-cp",
+   "42",
+   "Điều 42 Nghị định 217/2026/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Đóng dấu xác nhận trên bản vẽ thiết kế xây dựng đã được thẩm định, thẩm tra hoặc phê duyệt.",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 14"
+  ],
+  [
+   "tieu_de",
+   [
+    "MẪU DẤU THẨM ĐỊNH, THẨM TRA, PHÊ DUYỆT",
+    "THIẾT KẾ XÂY DỰNG",
+    "(Kích thước mẫu dấu: chiều rộng từ 4 cm đến 6 cm; chiều dài từ 6 cm đến 9 cm)"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "MẪU DẤU XÁC NHẬN CỦA TỔ CHỨC THẨM ĐỊNH",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [],
+    "dong": [
+     [
+      "(TÊN CƠ QUAN THỰC HIỆN\nTHẨM ĐỊNH)\nTHẨM ĐỊNH\nTheo Văn bản số …./…\nngày … tháng ... năm ...\nNgười thẩm định ký tên"
+     ]
+    ],
+    "rong": [
+     1
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "MẪU DẤU XÁC NHẬN CỦA TỔ CHỨC THỰC HIỆN THẨM TRA",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [],
+    "dong": [
+     [
+      "(TÊN CƠ QUAN THỰC HIỆN\nTHẨM TRA)\nTHẨM TRA\nTheo Văn bản số …/…\nngày … tháng … năm …\nChủ trì bộ môn ký tên:"
+     ]
+    ],
+    "rong": [
+     1
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "MẪU DẤU XÁC NHẬN PHÊ DUYỆT THIẾT KẾ XÂY DỰNG",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [],
+    "dong": [
+     [
+      "(TÊN CHỦ ĐẦU TƯ)\nPHÊ DUYỆT\nTheo Quyết định số …/…\nngày … tháng … năm …\nNgười phê duyệt ký tên:"
+     ]
+    ],
+    "rong": [
+     1
+    ]
+   }
+  ],
+  [
+   "ghi_chu",
+   [
+    "Ghi chú: khung bao quanh mỗi mẫu dấu là cách trình bày của bản tải về; nội dung chữ trong dấu chép đúng Mẫu số 14 Phụ lục I Nghị định 217/2026/NĐ-CP. Kích thước thực của dấu theo dòng ghi kích thước nêu trên."
+   ]
+  ]
+ ]
+}

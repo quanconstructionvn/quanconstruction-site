@@ -94,7 +94,7 @@ def main():
     def side(cur):
         o = []
         for nhom, ten in cs.NHOM:
-            ds = [t for t in pages if t["nhom"] == nhom]
+            ds = [t for t in pages if t["nhom"] == nhom and not t.get("an_menu")]
             if ds:
                 o.append(f"<b>{esc(ten)}</b>" + "".join(f'<a href="/so-tay-xay-dung/{t["slug"]}.html"{" class=on" if t["slug"] == cur else ""}>{esc(t["ngan"])}</a>' for t in ds))
         return '<aside class="cs-nav"><a href="/so-tay-xay-dung.html"' + (' class=on' if cur is None else '') + '>« Sổ tay xây dựng</a>' + "".join(o) + "</aside>"
@@ -126,7 +126,7 @@ def main():
     roles = "".join(f'<a href="/so-tay-xay-dung/{s}.html"><b>{esc(a)}</b><span>{esc(b)}</span></a>' for a, b, s in cs.VAI_TRO if s in slugs)
     cards = []
     for nhom, ten in cs.NHOM:
-        ds = [t for t in pages if t["nhom"] == nhom]
+        ds = [t for t in pages if t["nhom"] == nhom and not t.get("an_menu")]
         if ds:
             cards.append(f"<h2>{esc(ten)}</h2><div class=cs-grid>" + "".join(
                 f'<a class="cs-card" href="/so-tay-xay-dung/{t["slug"]}.html"><span class="cs-tag">{esc(ten)}</span><b>{esc(t["title"])}</b><span>{esc(t["summary"])}</span></a>' for t in ds) + "</div>")

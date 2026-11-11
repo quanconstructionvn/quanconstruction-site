@@ -180,51 +180,6 @@
   "dung_khi": "Cơ quan/đơn vị được giao thẩm định đồng thời là cơ quan chuyên môn về xây dựng thông báo kết quả thẩm định Báo cáo nghiên cứu khả thi."
  },
  {
-  "ma": "nd347-m10",
-  "ten": "Giấy đề nghị thanh toán tạm ứng",
-  "nhom": "Thanh toán vốn qua Kho bạc (NĐ 347/2025/NĐ-CP)",
-  "nguon": "Mẫu số 10 (ký hiệu C2-03/NS) Phụ lục ban hành kèm theo Nghị định 347/2025/NĐ-CP",
-  "loai": "chinh-thuc",
-  "can_cu": [
-   [
-    "347-2025-nd-cp",
-    "6",
-    "Điều 6 Nghị định 347/2025/NĐ-CP"
-   ]
-  ],
-  "dung_khi": "Chứng từ đề nghị chi gửi Kho bạc Nhà nước nơi giao dịch theo thủ tục tại Điều 6 Nghị định 347/2025/NĐ-CP (thanh toán các khoản chi thường xuyên; chi chương trình mục tiêu quốc gia, chương trình mục tiêu từ nguồn sự nghiệp… – gồm cả chi theo hợp đồng có biên bản nghiệm thu). Lưu ý: Cổng Pháp luật quốc gia chưa ghi ngày hiệu lực của Nghị định 347/2025/NĐ-CP (ban hành 29/12/2025). Dùng để đề nghị Kho bạc chuyển số đã tạm ứng thành thực chi."
- },
- {
-  "ma": "nd347-m13",
-  "ten": "Giấy rút dự toán ngân sách nhà nước (không kèm theo nộp ngân sách nhà nước)",
-  "nhom": "Thanh toán vốn qua Kho bạc (NĐ 347/2025/NĐ-CP)",
-  "nguon": "Mẫu số 13 (ký hiệu C2-02a/NS) Phụ lục ban hành kèm theo Nghị định 347/2025/NĐ-CP",
-  "loai": "chinh-thuc",
-  "can_cu": [
-   [
-    "347-2025-nd-cp",
-    "6",
-    "Điều 6 Nghị định 347/2025/NĐ-CP"
-   ]
-  ],
-  "dung_khi": "Chứng từ đề nghị chi gửi Kho bạc Nhà nước nơi giao dịch theo thủ tục tại Điều 6 Nghị định 347/2025/NĐ-CP (thanh toán các khoản chi thường xuyên; chi chương trình mục tiêu quốc gia, chương trình mục tiêu từ nguồn sự nghiệp… – gồm cả chi theo hợp đồng có biên bản nghiệm thu). Lưu ý: Cổng Pháp luật quốc gia chưa ghi ngày hiệu lực của Nghị định 347/2025/NĐ-CP (ban hành 29/12/2025)."
- },
- {
-  "ma": "nd347-m17",
-  "ten": "Ủy nhiệm chi (không kèm theo nộp ngân sách nhà nước)",
-  "nhom": "Thanh toán vốn qua Kho bạc (NĐ 347/2025/NĐ-CP)",
-  "nguon": "Mẫu số 17 (ký hiệu C4-02a/KB) Phụ lục ban hành kèm theo Nghị định 347/2025/NĐ-CP",
-  "loai": "chinh-thuc",
-  "can_cu": [
-   [
-    "347-2025-nd-cp",
-    "6",
-    "Điều 6 Nghị định 347/2025/NĐ-CP"
-   ]
-  ],
-  "dung_khi": "Chứng từ đề nghị chi gửi Kho bạc Nhà nước nơi giao dịch theo thủ tục tại Điều 6 Nghị định 347/2025/NĐ-CP (thanh toán các khoản chi thường xuyên; chi chương trình mục tiêu quốc gia, chương trình mục tiêu từ nguồn sự nghiệp… – gồm cả chi theo hợp đồng có biên bản nghiệm thu). Lưu ý: Cổng Pháp luật quốc gia chưa ghi ngày hiệu lực của Nghị định 347/2025/NĐ-CP (ban hành 29/12/2025). Dùng cho khoản chi từ tài khoản tiền gửi và các nguồn theo điểm b khoản 3 Điều 6."
- },
- {
   "ma": "tt73-m01",
   "ten": "Báo cáo tổng hợp quyết toán vốn đầu tư dự án",
   "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
@@ -433,25 +388,5 @@
    ]
   ],
   "dung_khi": "Dự án quy hoạch, dự án chuẩn bị đầu tư, dự án dừng thực hiện chưa có khối lượng thi công xây dựng, lắp đặt thiết bị được nghiệm thu (khoản 2 Điều 4 Thông tư 73/2026/TT-BTC)."
- },
- {
-  "ma": "tt73-m09",
-  "ten": "Báo cáo kết quả phê duyệt tổng quyết toán vốn đầu tư dự án quan trọng quốc gia",
-  "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
-  "nguon": "Mẫu số 09/QTDA ban hành kèm theo Thông tư 73/2026/TT-BTC",
-  "loai": "chinh-thuc",
-  "can_cu": [
-   [
-    "73-2026-tt-btc",
-    "4",
-    "khoản 3 Điều 4 Thông tư 73/2026/TT-BTC"
-   ],
-   [
-    "193-2026-nd-cp",
-    "5",
-    "khoản 1 Điều 5 Nghị định 193/2026/NĐ-CP"
-   ]
-  ],
-  "dung_khi": "Báo cáo Thủ tướng Chính phủ kết quả phê duyệt tổng quyết toán dự án quan trọng quốc gia (khoản 3 Điều 4 Thông tư 73/2026/TT-BTC)."
  }
 ]

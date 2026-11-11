@@ -1062,6 +1062,7 @@ def _bieu_mau():
             "Phụ lục II Nghị định 217/2026/NĐ-CP: đơn đề nghị cấp, điều chỉnh, gia hạn, cấp lại giấy phép xây dựng và mẫu giấy phép xây dựng; các Mẫu số 09–17 Phụ lục I (quyết định phê duyệt dự án, thiết kế, phiếu bổ sung hồ sơ…).",
             "Các phụ lục của Nghị định 207/2026/NĐ-CP: nhật ký thi công, mẫu dấu bản vẽ hoàn công, báo cáo giám sát, thông báo khởi công, báo cáo hoàn thành thi công, thông báo kết quả kiểm tra công tác nghiệm thu.",
             "Mẫu thanh toán vốn đầu tư công (Nghị định 254/2025/NĐ-CP); Mẫu số 10–12/QTDA Thông tư 73/2026/TT-BTC.",
+            "Đã lược bỏ (11/11/2026): chứng từ chi ngân sách qua Kho bạc theo Nghị định 347/2025/NĐ-CP (không dùng cho thanh toán vốn đầu tư xây dựng) và Mẫu 09/QTDA (chỉ dùng cho dự án quan trọng quốc gia).",
         ]),
         ("p", "Muốn tạo các hồ sơ này tự động từ dữ liệu công trường (nhật ký, phiếu yêu cầu nghiệm thu, biên bản, bộ hồ sơ hoàn thành), có thể dùng phần mềm <b>QC Quản lý dự án</b> của Quan Construction – <a href=\"/lien-he.html\">liên hệ</a> để được giới thiệu. Xem thêm " + '<a href="/so-tay-xay-dung/ho-so-chat-luong-nghiem-thu.html">hồ sơ chất lượng và nghiệm thu</a>' + "."),
         ("note", "Biểu mẫu chép từ văn bản pháp luật để tham khảo và sử dụng; khi văn bản được sửa đổi, thay thế thì dùng mẫu mới. Một số văn bản nguồn đang ở trạng thái hết hiệu lực một phần – xem tình trạng tại từng văn bản trong thư viện. Bảng nhiều cột được dựng lại từ toàn văn nên bố cục có thể khác bản in của cơ quan ban hành; nội dung chữ giữ nguyên."),
@@ -1084,14 +1085,17 @@ def _dot_1():
     d = os.path.join(os.path.dirname(os.path.abspath(__file__)), "so-tay-du-lieu")
     for t in json.load(open(os.path.join(d, "trang-moi.json"), encoding="utf-8")):
         t["body"] = [tuple(b) for b in t["body"]]
+        if t["slug"].startswith("trac-nghiem-"): t["an_menu"] = True  # chỉ hiện ở trang Trắc nghiệm ôn tập
         TRANG[:] = [x for x in TRANG if x["slug"] != t["slug"]]
         TRANG.append(t)
     them = json.load(open(os.path.join(d, "hoi-dap-them.json"), encoding="utf-8"))
     hd = next(x for x in TRANG if x["slug"] == "hoi-dap-tinh-huong")
     if not hd.get("_da_them"):
+        TRUNG = ['Chi phí xây dựng trong dự toán gồm những thành phần nào?', 'Hệ thống định mức xây dựng gồm những loại nào?', 'Chỉ số giá xây dựng gồm những loại nào?', 'Dự toán đã phê duyệt điều chỉnh thế nào khi gói thầu chưa mở thầu và khi đã ký hợp đồng?']  # câu mới trùng ý với câu đã có (bỏ 11/11/2026)
         cuoi = hd["body"].pop() if hd["body"][-1][0] == "note" else None
         for ten, qs in them:
             hd["body"] += [("h2", ten), ("faq", [tuple(q) for q in qs])]
+        hd["body"] = [(k, [q for q in v if q[0] not in TRUNG]) if k == "faq" else (k, v) for k, v in hd["body"]]
         if cuoi: hd["body"].append(cuoi)
         n = sum(len(v) for k, v in hd["body"] if k == "faq")
         hd["title"] = f"{n} tình huống hỏi đáp quản lý dự án, chi phí, hợp đồng 2026"

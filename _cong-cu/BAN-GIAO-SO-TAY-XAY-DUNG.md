@@ -56,3 +56,9 @@ Dữ liệu đã được chép vào repo tại `_cong-cu/so-tay-du-lieu/` (khi 
 - 117 bài viết hẹn đăng tự động tới 27/12/2027 (`_cong-cu/bai-viet.py`, GitHub Actions `pages.yml` chạy 00:05 giờ VN; `giu-lich-dang.yml` ngày 1 và 15 giữ lịch không bị tắt).
 - Việc định kỳ "Rà soát bài hẹn đăng hằng tháng" (ngày 15) và "Kiểm tra website hằng tuần" (thứ Hai).
 - Các nhánh nháp cũ trên GitHub xóa không được do mạng ngắt – có thể xóa tay ở mục Branches.
+
+## 8. Rà soát theo luật mới nhất (11/11/2026, lần 2)
+- Đối chiếu nguồn tin 2025–2026 (VBHN 79/VBHN-VPQH Luật Nhà ở, bảng tra nghị định còn hiệu lực của IIC – ĐH Xây dựng, báo chí): không có văn bản mới sửa NĐ 206, 207, 210, 212, 217/2026; thư viện đã có NQ 254/2025/QH15, NĐ 49, 50/2026. Văn bản còn thiếu (cần nạp từ Cổng PLQG bằng máy tính anh): NĐ 151/2025, NĐ 54/2026, Luật 71/2025, 106/2025, 118/2025, VBHN Luật Nhà ở 79/VBHN-VPQH, VBHN NĐ 95 21/VBHN-BXD, NĐ 357/2025 (CSDL nhà ở, BĐS).
+- Đã lược bỏ: 3 chứng từ Kho bạc NĐ 347/2025 (chi thường xuyên, không dùng cho vốn đầu tư) và Mẫu 09/QTDA (dự án quan trọng quốc gia) → còn 20 biểu mẫu; 4 câu hỏi đáp trùng ý → 129 câu; 5 đề trắc nghiệm không hiện riêng ở menu (vào qua trang Trắc nghiệm ôn tập).
+- Sửa danh mục: Luật 24/2026/QH16 ghi "Chưa có hiệu lực" (hiệu lực 01/03/2027). Thêm 2 trang dịch vụ vào sitemap.
+- Văn bản hết hiệu lực vẫn giữ trong thư viện vì còn dùng cho chuyển tiếp: NĐ 16/2022 (vi phạm trước 26/08/2026), NĐ 37/2015 + 50/2021 và Luật Xây dựng 2014 (hợp đồng ký trước 01/07/2026 – khoản 7 Điều 95 Luật Xây dựng 2025).

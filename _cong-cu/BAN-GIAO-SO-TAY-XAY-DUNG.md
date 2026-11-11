@@ -61,3 +61,5 @@ Dữ liệu đã được chép vào repo tại `_cong-cu/so-tay-du-lieu/` (khi 
 - Đã lược bỏ: 3 chứng từ Kho bạc NĐ 347/2025 (chi thường xuyên, không dùng cho vốn đầu tư) và Mẫu 09/QTDA (dự án quan trọng quốc gia) → còn 20 biểu mẫu; 4 câu hỏi đáp trùng ý → 129 câu.
 - Sửa danh mục: Luật 24/2026/QH16 ghi "Chưa có hiệu lực" (hiệu lực 01/03/2027). Thêm 2 trang dịch vụ vào sitemap.
 - Văn bản hết hiệu lực vẫn giữ trong thư viện vì còn dùng cho chuyển tiếp: NĐ 16/2022 (vi phạm trước 26/08/2026), NĐ 37/2015 + 50/2021 và Luật Xây dựng 2014 (hợp đồng ký trước 01/07/2026 – khoản 7 Điều 95 Luật Xây dựng 2025).
+
+- 11/11/2026: thêm trang `ho-so-thanh-toan-von-dau-tu-cong` (Hồ sơ tạm ứng, thanh toán vốn đầu tư công theo NĐ 254/2025: hồ sơ pháp lý, tạm ứng, thanh toán, thời hạn, thu hồi tạm ứng); liên kết từ trang QS và bản đồ công việc. Mẫu 02.a, 03.a, 04.a, 04.b, 05.a… chưa làm được vì thư viện chỉ có danh mục phụ lục NĐ 254 (cần nạp toàn văn phụ lục).

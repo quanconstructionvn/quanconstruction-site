@@ -1101,6 +1101,10 @@ def _dot_1():
         hd["summary"] = f"{n} tình huống thực tế về dự toán, định mức, giá, hợp đồng, thanh quyết toán, nghiệm thu, giấy phép, năng lực – trả lời ngắn kèm điều luật."
         hd["desc"] = f"{n} tình huống hỏi đáp về dự toán, định mức, giá, hợp đồng, thanh quyết toán, nghiệm thu, giấy phép, chứng chỉ – trả lời ngắn kèm điều luật 2026."
         hd["_da_them"] = True
+    qs = next(x for x in TRANG if x["slug"] == "qs-du-toan-thanh-quyet-toan")
+    lk = ("p", 'Dự án vốn đầu tư công: hồ sơ chủ đầu tư gửi Kho bạc để tạm ứng, thanh toán xem <a href="/so-tay-xay-dung/ho-so-thanh-toan-von-dau-tu-cong.html">Hồ sơ tạm ứng, thanh toán vốn đầu tư công (Nghị định 254/2025)</a>.')
+    if lk not in qs["body"]:
+        qs["body"].insert(len(qs["body"]) - 1 if qs["body"][-1][0] == "note" else len(qs["body"]), lk)
 
 
 _dot_1()

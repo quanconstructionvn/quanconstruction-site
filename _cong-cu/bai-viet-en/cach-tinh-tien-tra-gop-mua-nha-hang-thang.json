@@ -1,0 +1,111 @@
+{
+ "title": "How to Calculate Monthly Home Loan Payments and a Safe Debt Level",
+ "desc": "Formula for monthly home loan payments, a ready table for a VND 1 billion loan, level vs. declining payments compared, and how to set a safe debt level.",
+ "summary": "A guide to calculating monthly home loan payments with a simple formula, a reference table for a VND 1 billion loan, and how to determine a safe repayment level.",
+ "body": [
+  [
+   "p",
+   "Before signing a home loan contract, you should be able to work out for yourself how much you will pay each month, rather than relying only on a figure given by the seller or a broker. This article explains the two common repayment methods, with a table based on <b>assumed</b> interest rates."
+  ],
+  [
+   "h2",
+   "1. Two common repayment methods"
+  ],
+  [
+   "ul",
+   [
+    "<b>Level payments (annuity):</b> each month you pay the same amount, covering both principal and interest. Easy to budget for.",
+    "<b>Equal principal, declining interest:</b> each month you pay a fixed portion of principal plus interest calculated on the remaining balance. Payments are higher in the early months and lighter later on; total interest is lower."
+   ]
+  ],
+  [
+   "p",
+   "Ask the bank clearly which method your loan uses, how long the interest rate is fixed, and how it is calculated afterwards."
+  ],
+  [
+   "h2",
+   "2. The level-payment formula"
+  ],
+  [
+   "p",
+   "The monthly payment is <b>M = P × r ÷ [1 − (1 + r)<sup>−n</sup>]</b>, where:"
+  ],
+  [
+   "ul",
+   [
+    "P: the loan amount;",
+    "r: the <b>monthly</b> interest rate = annual rate ÷ 12 (for example 10% per year → r ≈ 0.833%);",
+    "n: the number of months of the loan (20 years = 240 months)."
+   ]
+  ],
+  [
+   "p",
+   "On a phone or in Excel you can use the <b>PMT</b> function: =PMT(10%/12; 240; −1000000000) gives about VND 9.65 million."
+  ],
+  [
+   "h2",
+   "3. Reference table for a VND 1 billion loan"
+  ],
+  [
+   "p",
+   "Monthly level payment (VND), with an <b>assumed fixed</b> interest rate for the whole loan term:"
+  ],
+  [
+   "ul",
+   [
+    "Interest 8% per year: 15 years ≈ VND 9.56 million; 20 years ≈ VND 8.36 million; 25 years ≈ VND 7.72 million.",
+    "Interest 10% per year: 15 years ≈ VND 10.75 million; 20 years ≈ VND 9.65 million; 25 years ≈ VND 9.09 million.",
+    "Interest 12% per year: 15 years ≈ VND 12.00 million; 20 years ≈ VND 11.01 million; 25 years ≈ VND 10.53 million."
+   ]
+  ],
+  [
+   "p",
+   "For a VND 500 million loan, halve these figures; for VND 2 billion, double them. A longer term lowers the monthly payment but significantly increases total interest."
+  ],
+  [
+   "p",
+   "With equal-principal repayment: a VND 1 billion loan over 20 years at an assumed 10% per year → the first month is about VND 4.17 million principal + VND 8.33 million interest = <b>VND 12.5 million</b>, then decreasing each month."
+  ],
+  [
+   "h2",
+   "4. What repayment level is safe?"
+  ],
+  [
+   "p",
+   "A prudent rule we recommend: total monthly debt payments should <b>not exceed 30–40% of the household's stable after-tax income</b>. The rest goes to living costs, education, young children and emergency savings. This is a reference threshold, not a legal requirement."
+  ],
+  [
+   "p",
+   "Example: a family with a stable income of VND 25 million per month → debt payments should be around VND 7.5–10 million. According to the table above, a suitable loan is roughly VND 800 million to VND 1 billion if borrowing for 20 years at an assumed 10% per year."
+  ],
+  [
+   "h2",
+   "5. Items often forgotten in the calculation"
+  ],
+  [
+   "ol",
+   [
+    "Floating interest rates after the preferential period – test the calculation with a rate 2–3% per year higher.",
+    "Early repayment fees: under <a href=\"/phap-ly/91-2015-qh13.html#d470\">Clause 2, Article 470 of the Civil Code</a>, for a fixed-term loan with interest, early repayment still requires paying all the interest for the term, unless otherwise agreed or provided by other laws – so read the early repayment terms in the loan contract carefully.",
+    "Costs of purchase and title-transfer procedures: registration fee, notarization – see <a href=\"/tin-tuc/le-phi-truoc-ba-nha-dat-2026.html\">Registration fee for houses and land 2026</a>.",
+    "Costs of fit-out and furniture when receiving the home."
+   ]
+  ],
+  [
+   "h2",
+   "6. Final check before signing"
+  ],
+  [
+   "ul",
+   [
+    "Recalculate the monthly payment yourself using the formula and compare it with the bank's table.",
+    "Ask clearly how the interest rate after the preferential period is determined.",
+    "Make sure you still have a reserve fund after paying the down payment (counterpart capital)."
+   ]
+  ],
+  [
+   "note",
+   "This article is for reference only and is not financial advice. The interest rates in the article are assumptions for illustration, not the rates of any bank. Consider your ability to repay and ask the bank carefully about how interest and fees are calculated before signing a loan contract."
+  ]
+ ]
+}

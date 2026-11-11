@@ -3,7 +3,12 @@
 # Tạo trang tĩnh cho bài viết hướng dẫn (tin-tuc/<slug>.html) từ _cong-cu/bai-viet.py,
 # thêm bài vào content/tin-tuc.json (mục Tin tức) và sitemap.xml.
 # Chạy từ thư mục gốc website:  python3 _cong-cu/tao-bai-viet.py
+# Đăng theo lịch (Quang Mai Phú): bài có "date" sau ngày hôm nay (giờ Việt Nam) chưa được tạo trang,
+# chưa vào Tin tức và sitemap; GitHub Actions chạy lại mỗi sáng nên bài tự lên web đúng ngày.
+#   XEM_TRUOC=1  -> tạo cả bài hẹn ngày (chỉ để xem trước trên máy, KHÔNG commit kết quả này)
+#   NGAY_DANG=YYYY-MM-DD -> giả lập "hôm nay" để thử lịch đăng
 import json, os, re, html, importlib.util
+from datetime import datetime, timedelta, timezone
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://quanconstruction.biz.vn"
@@ -13,6 +18,10 @@ fmt = lambda x: "/".join(reversed(x.split("-")))
 
 spec = importlib.util.spec_from_file_location("bai_viet", P("_cong-cu", "bai-viet.py"))
 bv = importlib.util.module_from_spec(spec); spec.loader.exec_module(bv)
+HOM_NAY = os.environ.get("NGAY_DANG") or datetime.now(timezone(timedelta(hours=7))).strftime("%Y-%m-%d")
+XEM_TRUOC = os.environ.get("XEM_TRUOC") == "1"
+DA_DANG = [b for b in bv.BAI if XEM_TRUOC or b["date"] <= HOM_NAY]
+CHO_DANG = [b for b in bv.BAI if b not in DA_DANG]
 
 CSS = """<style>
 .bv-ph{padding:40px 0 44px}.bv-ph h1{font-size:clamp(24px,4vw,38px);line-height:1.25;margin-top:8px;max-width:900px}
@@ -46,9 +55,12 @@ def main():
     tpl = tpl.replace("trang toàn văn văn bản (tạo tự động bằng _cong-cu/tao-trang-phap-ly.py)", "bài viết hướng dẫn (tạo tự động bằng _cong-cu/tao-bai-viet.py)")
     tpl = tpl.replace('<a href="/phap-ly.html" class=on>Pháp lý</a>', '<a href="/phap-ly.html">Pháp lý</a>').replace('<a href="/tin-tuc.html">Tin tức</a>', '<a href="/tin-tuc.html" class=on>Tin tức</a>', 1)
     os.makedirs(P("tin-tuc"), exist_ok=True)
-    for b in bv.BAI:
+    for b in CHO_DANG:  # bài chưa tới ngày: xóa trang nếu lỡ có
+        f = P("tin-tuc", b["slug"] + ".html")
+        if os.path.exists(f): os.remove(f)
+    for b in DA_DANG:
         url = f'{SITE}/tin-tuc/{b["slug"]}.html'
-        others = "".join(f'<a href="/tin-tuc/{x["slug"]}.html">{esc(x["title"])}</a>' for x in bv.BAI if x["slug"] != b["slug"])
+        others = "".join(f'<a href="/tin-tuc/{x["slug"]}.html">{esc(x["title"])}</a>' for x in [y for y in reversed(DA_DANG) if y["slug"] != b["slug"]][:12])  # 12 bài mới nhất
         body = (f'<div class="ph bv-ph"><div class="w"><div class="bv-crumb"><a href="/index.html">Trang chủ</a> › <a href="/tin-tuc.html">Tin tức</a> › Hướng dẫn pháp lý</div>'
                 f'<span class="eyebrow">Hướng dẫn pháp lý</span><h1>{esc(b["title"])}</h1></div></div>\n'
                 f'<div class="w bv-wrap"><article class="bv-tx"><div class="bv-meta">Quan Construction · {fmt(b["date"])}</div>{render(b["body"])}'
@@ -72,16 +84,16 @@ def main():
     # Tin tức (content/tin-tuc.json): thêm/cập nhật bài theo link
     tt = json.load(open(P("content", "tin-tuc.json"), encoding="utf-8"))
     items = [x for x in tt.get("items", []) if not str(x.get("link", "")).startswith("/tin-tuc/")]
-    for b in sorted(bv.BAI, key=lambda x: x["date"]):
+    for b in sorted(DA_DANG, key=lambda x: x["date"]):
         items.append({"date": fmt(b["date"]), "title": b["title"], "summary": b["summary"], "body": "", "image": "", "link": f'/tin-tuc/{b["slug"]}.html'})
     tt["items"] = items
     json.dump(tt, open(P("content", "tin-tuc.json"), "w", encoding="utf-8"), ensure_ascii=False)
     # sitemap
     sm = open(P("sitemap.xml"), encoding="utf-8").read()
     sm = re.sub(r"<url><loc>https://quanconstruction\.biz\.vn/tin-tuc/[^<]+</loc>.*?</url>", "", sm)
-    sm = sm.replace("</urlset>", "".join(f'<url><loc>{SITE}/tin-tuc/{b["slug"]}.html</loc><lastmod>{b["date"]}</lastmod></url>' for b in bv.BAI) + "</urlset>")
+    sm = sm.replace("</urlset>", "".join(f'<url><loc>{SITE}/tin-tuc/{b["slug"]}.html</loc><lastmod>{b["date"]}</lastmod></url>' for b in DA_DANG) + "</urlset>")
     open(P("sitemap.xml"), "w", encoding="utf-8").write(sm)
-    print(f"Đã tạo {len(bv.BAI)} bài viết")
+    print(f"Đã tạo {len(DA_DANG)} bài viết (hôm nay {HOM_NAY}); {len(CHO_DANG)} bài hẹn ngày đăng")
 
 
 if __name__ == "__main__":

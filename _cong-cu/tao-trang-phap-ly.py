@@ -163,9 +163,9 @@ def main():
                   for q, i, d, a in FAQ if i in keep)
     bvh = ""
     try:
-        import importlib.util as _iu
+        import importlib.util as _iu, datetime as _dt
         _sp = _iu.spec_from_file_location("bai_viet", P("_cong-cu", "bai-viet.py")); _bv = _iu.module_from_spec(_sp); _sp.loader.exec_module(_bv)
-        bvh = '<h2 style="margin-top:26px">Bài viết hướng dẫn</h2><ul class="pl-bv">' + "".join(f'<li><a href="tin-tuc/{b["slug"]}.html">{esc(b["title"])}</a></li>' for b in _bv.BAI) + "</ul>"
+        bvh = '<h2 style="margin-top:26px">Bài viết hướng dẫn</h2><ul class="pl-bv">' + "".join(f'<li><a href="tin-tuc/{b["slug"]}.html">{esc(b["title"])}</a></li>' for b in _bv.BAI if os.environ.get("XEM_TRUOC") == "1" or b["date"] <= (os.environ.get("NGAY_DANG") or _dt.datetime.now(_dt.timezone(_dt.timedelta(hours=7))).strftime("%Y-%m-%d"))) + "</ul>"
     except Exception:
         pass
     seo = (f'<!--SEO-LIST--><section class="w pl-seo"><h2>Câu hỏi thường gặp về thủ tục xây dựng, nhà đất</h2>{faq}{bvh}'

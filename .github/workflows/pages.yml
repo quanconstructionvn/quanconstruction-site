@@ -6,6 +6,9 @@ on:
   pull_request:
     branches: [main]
   workflow_dispatch:
+  # Người chỉnh sửa: Quang Mai Phú – mỗi ngày 00:05 giờ Việt Nam tự đăng bài hẹn ngày.
+  schedule:
+    - cron: '5 17 * * *'
 
 permissions:
   contents: read
@@ -31,6 +34,11 @@ jobs:
       - name: Check GitHub Pages configuration
         if: github.ref == 'refs/heads/main'
         uses: actions/configure-pages@v5
+      # Người chỉnh sửa: Quang Mai Phú – tạo trang bài viết theo lịch đăng (bài chưa tới ngày không xuất bản).
+      - name: Build scheduled articles
+        run: |
+          python _cong-cu/tao-bai-viet.py
+          python _cong-cu/tao-trang-phap-ly.py
       - name: Test CMS and sitemap
         run: python -m unittest discover -s tests -v
       - name: Build static website

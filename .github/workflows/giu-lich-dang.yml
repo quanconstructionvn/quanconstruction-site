@@ -1,0 +1,28 @@
+# Người tạo: Quang Mai Phú
+# Mỗi tháng cập nhật _cong-cu/lich-dang.md (lịch đăng bài) và commit.
+# Việc này giữ cho kho luôn có thay đổi, để GitHub không tự tắt lịch đăng bài hằng ngày (pages.yml).
+name: Cập nhật lịch đăng bài
+on:
+  schedule:
+    - cron: '17 1 1,15 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  lich-dang:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Ghi lịch đăng
+        run: python _cong-cu/lich-dang.py
+      - name: Commit nếu có thay đổi
+        run: |
+          git config user.name "Quang Mai Phú"
+          git config user.email "quanconstruction.vn@gmail.com"
+          git add _cong-cu/lich-dang.md
+          if git diff --cached --quiet; then echo "Không đổi"; else git commit -m "Cập nhật lịch đăng bài (tự động)" && git push; fi

@@ -58,6 +58,26 @@ class AuditTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             m.validate_credentials({'type':'service_account','token_uri':'https://evil.test/token'})
 
+    def test_connection_error_stops_batch_and_preserves_unknown_states(self):
+        m = self.module()
+        class Session:
+            def __init__(self):
+                self.calls = 0
+                self.closed = False
+            def post(self, *args, **kwargs):
+                self.calls += 1
+                raise TimeoutError()
+            def close(self):
+                self.closed = True
+        session = Session()
+        m.gsc_session = lambda raw: session
+        rows = [{'url':m.SITE+'/a','index_status':'not_checked'},
+                {'url':m.SITE+'/b','index_status':'not_checked'}]
+        self.assertEqual(m.inspect_pages(rows,'configured',m.SITE+'/'), 'connection_error')
+        self.assertEqual(session.calls, 1)
+        self.assertTrue(session.closed)
+        self.assertEqual(rows[1]['index_status'],'not_checked')
+
 
 if __name__ == '__main__':
     unittest.main()

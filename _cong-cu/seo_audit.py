@@ -125,7 +125,7 @@ def gsc_session(raw):
     validate_credentials(info)
     creds = service_account.Credentials.from_service_account_info(
         info, scopes=['https://www.googleapis.com/auth/webmasters.readonly'])
-    return AuthorizedSession(creds)
+    return AuthorizedSession(creds, refresh_timeout=30)
 
 
 def inspect_pages(rows, raw, property_url):
@@ -137,7 +137,8 @@ def inspect_pages(rows, raw, property_url):
         return 'authentication_error'
     state = 'connected'
     try:
-        for row in rows:
+        for position, row in enumerate(rows, 1):
+            print(f'Google URL Inspection {position}/{len(rows)}', flush=True)
             try:
                 response = session.post(API, json={'inspectionUrl':row['url'], 'siteUrl':property_url,
                                                  'languageCode':'vi-VN'}, timeout=30)
@@ -146,10 +147,15 @@ def inspect_pages(rows, raw, property_url):
                     break
                 if response.status_code != 200:
                     row['index_status'] = 'api_error'
+                    if response.status_code >= 500:
+                        state = 'service_error'
+                        break
                 else:
                     row.update(index_result(response.json()))
             except Exception:
                 row['index_status'] = 'api_error'
+                state = 'connection_error'
+                break
     finally:
         session.close()
     return state
@@ -204,7 +210,9 @@ def main():
     if os.environ.get('GITHUB_STEP_SUMMARY'):
         with open(os.environ['GITHUB_STEP_SUMMARY'],'a',encoding='utf-8') as stream:
             stream.write(report)
-    print(f'Đã kiểm tra {len(rows)}/{len(urls)} URL. Search Console: {gsc}. Báo cáo: {output}')
+    print(f'Đã kiểm tra {len(rows)}/{len(urls)} URL. Search Console: {gsc}. Báo cáo: {output}', flush=True)
+    for status in ('indexed', 'not_indexed', 'unknown', 'not_checked', 'api_error'):
+        print(f'Index status {status}: {sum(row["index_status"] == status for row in rows)}', flush=True)
     if gsc not in ('connected','not_connected'):
         raise SystemExit('Không đọc đủ trạng thái Google; xem phần kết nối trong báo cáo.')
     if rejected or any(row['issues'] for row in rows):

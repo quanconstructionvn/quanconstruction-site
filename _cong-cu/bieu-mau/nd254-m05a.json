@@ -1,0 +1,247 @@
+{
+ "ma": "nd254-m05a",
+ "ten": "Giấy rút vốn",
+ "nhom": "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)",
+ "nguon": "Mẫu số 05.a/TT Phụ lục Hệ thống mẫu biểu kèm theo Nghị định 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "254-2025-nd-cp",
+   "8",
+   "khoản 2, khoản 3 và khoản 6 Điều 8"
+  ]
+ ],
+ "dung_khi": "Chủ đầu tư gửi cơ quan thanh toán kèm Giấy đề nghị thanh toán vốn trong hồ sơ tạm ứng và hồ sơ thanh toán (khoản 2, khoản 3 Điều 8).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 05.a/TT"
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Nghị định số 254/2025/NĐ-CP Ngày 26 tháng 9 năm 2025 của Chính phủ)",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Số chứng từ.... Năm NS....",
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "dong": [
+     [
+      "Không ghi vào khu vực này",
+      ""
+     ],
+     [
+      "Mã QR code (nếu có)",
+      ""
+     ]
+    ]
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "GIẤY RÚT VỐN"
+   ]
+  ],
+  [
+   "table",
+   {
+    "dong": [
+     [
+      "Thực chi    □              Tạm ứng      □\nỨng trước đủ điều kiện thanh toán\nỨng trước chưa đủ điều kiện thanh toán",
+      "Chuyển khoản □\nTiền mặt  □"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "Tên dự án: ..."
+  ],
+  [
+   "p",
+   "Chủ đầu tư: ...                  Mã ĐVQHNS: ..."
+  ],
+  [
+   "p",
+   "Địa chỉ:...."
+  ],
+  [
+   "p",
+   "Tài khoản: ...                     Tại cơ quan thanh toán: ..."
+  ],
+  [
+   "p",
+   "Tên CTMT, DA: ..."
+  ],
+  [
+   "p",
+   "Mã CTMT, DA: ..."
+  ],
+  [
+   "p",
+   "Căn cứ Giấy đề nghị thanh toán vốn đầu tư số: ... ngày ... /... / ...."
+  ],
+  [
+   "p",
+   {
+    "t": "Nội dung thanh toán chung: ..........",
+    "b": true
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Nội dung",
+     "Mã NDKT",
+     "Mã chương",
+     "Mã ngành KT",
+     "Mã nguồn NSNN",
+     "Năm KHV",
+     "Tổng số tiền",
+     "Chia ra – Nộp thuế",
+     "Chia ra – Thanh toán cho ĐV hưởng"
+    ],
+    "dong": [
+     [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)",
+      "(5)",
+      "(6)",
+      "(7)=(8)+(9)",
+      "(8)",
+      "(9)"
+     ],
+     [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "Tổng cộng:",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ]
+    ],
+    "rong": [
+     3,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1.4,
+     1.4,
+     1.6
+    ]
+   }
+  ],
+  [
+   "table",
+   {
+    "dong": [
+     [
+      "Tổng số tiền ghi bằng chữ:...\nTrong đó:\nNỘP THUẾ:\nTên đơn vị (Người nộp thuế):...\nMã số thuế:.... .      ....Mã NDKT:...    Mã chương:...\nSố tờ khai/Số quyết định/Số thông báo:....; Mã định danh hồ sơ hoặc khoản phải nộp (ID)[1]: ...........\nKỳ thuế/Ngày quyết định/Ngày thông báo: ............\nSố tài khoản thu NSNN[2]: ................ Cơ quan quản lý thu: ..........\nCơ quan thanh toán hạch toán khoản thu:...\nTổng số tiền nộp thuế (ghi bằng chữ): ............\nTHANH TOÁN CHO ĐƠN VỊ HƯỞNG\nĐơn vị nhận tiền: ...\nTài khoản: ...         Mã CTMT, DA và HTCT:...\nTại cơ quan thanh toán/NH: ...\nHoặc người nhận tiền:...\nCCCD/Căn cước số:... Cấp ngày:... Nơi cấp:...\nTổng số tiền thanh toán cho đơn vị hưởng (ghi bằng chữ): ....",
+      "CƠ QUAN THANH TOÁN GHI"
+     ],
+     [
+      "",
+      "1. Nộp thuế:\nNợ TK:...\nCó TK:...\nNợ TK: ...\nCó TK:...\nNợ TK:...\nCó TK: ...\nMã CQ thu:...\nMã ĐBHC:.....\n2. Thanh toán cho ĐV hưởng:\nNợ TK: ...\nCó TK: ...\nNợ TK: ...\nCó TK: ...\nNợ TK: ...\nCó TK: ...\nMã ĐBHC:...\nTên Cơ quan thanh toán/NH nơi nhận tiền mặt:........"
+     ]
+    ],
+    "rong": [
+     3,
+     2
+    ]
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "Ngày ... tháng ... năm ...\nNGƯỜI LĨNH TIỀN",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     "KẾ TOÁN TRƯỞNG",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     "Ngày ... tháng ... năm ...\nLÃNH ĐẠO ĐƠN VỊ",
+     "(Ký, ghi họ tên, chức vụ, đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "CƠ QUAN THANH TOÁN\nNgày ... tháng ... năm ...",
+    "can": "center"
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "THỦ QUỸ",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     "KẾ TOÁN",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     "KIỂM SOÁT",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     "LÃNH ĐẠO CƠ QUAN THANH TOÁN",
+     "(Ký, ghi họ tên, chức vụ, đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "[1] Bao gồm cả trường hợp nộp thuế theo mã giao dịch điện tử (nộp trước khi phát sinh mã định danh khoản phải nộp). Trường hợp khoản thu có 2 thông tin gồm mã định danh hồ sơ hoặc khoản phải nộp hoặc mã giao dịch điện tử và cả số quyết định/Số thông báo thì ghi cả 2 thông tin này.",
+    "[2] Trường hợp nộp NSNN ghi 7111.mã ĐBHC (hoặc 8993.ĐBHC đối với thu hồi hoàn thuế GTGT) theo thông báo, hướng dẫn của cơ quan thuế, hải quan. Đối với khoản thu NSNN không do cơ quan thuế, hải quan quản lý ghi 7111. Trường hợp nộp vào tài khoản chờ nộp NSNN/tạm thu ghi tài khoản của cơ quan thu mở tại cơ quan thanh toán."
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,283 @@
+{
+ "ma": "tt36-b42",
+ "ten": "Tổng hợp giá công tác xây dựng",
+ "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+ "nguon": "Bảng 4.2 Phụ lục IV Thông tư 36/2026/TT-BXD",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "36-2026-tt-bxd",
+   "12",
+   "khoản 3 Điều 12 Thông tư 36/2026/TT-BXD"
+  ],
+  [
+   "36-2026-tt-bxd",
+   "16",
+   "Phụ lục IV Thông tư 36/2026/TT-BXD"
+  ]
+ ],
+ "dung_khi": "Tổng hợp giá công tác xây dựng (chi phí vật liệu, nhân công, máy thi công theo từng công tác) khi chủ đầu tư, đơn vị tư vấn tự xác định giá công tác xây dựng theo Phụ lục IV do giá, định mức được ban hành, công bố chưa có hoặc chưa phù hợp (khoản 3 Điều 12). Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026.",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục IV"
+  ],
+  [
+   "tieu_de",
+   [
+    "PHƯƠNG PHÁP XÁC ĐỊNH GIÁ CÔNG TÁC XÂY DỰNG VÀ GIÁ NHÓM CÔNG TÁC XÂY DỰNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Thông tư số 36/2026/TT-BXD ngày 26 tháng 6 năm 2026\ncủa Bộ trưởng Bộ Xây dựng)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Bảng 4.2: TỔNG HỢP GIÁ CÔNG TÁC XÂY DỰNG",
+    "can": "center",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "Dự án:............................................................................................................."
+  ],
+  [
+   "p",
+   "Công trình:...................................................................................................."
+  ],
+  [
+   "p",
+   "Đơn vị tính:..."
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "TÊN CÔNG TÁC",
+     "MÃ HIỆU ĐƠN GIÁ",
+     "MÃ HIỆU VL, NC, M",
+     "THÀNH PHẦN HAO PHÍ",
+     "ĐƠN VỊ TÍNH",
+     "KHỐI LƯỢNG",
+     "ĐƠN GIÁ",
+     "THÀNH TIỀN"
+    ],
+    "rong": [
+     2.4,
+     1.3,
+     1.3,
+     2.6,
+     1,
+     1.2,
+     1.3,
+     1.5
+    ],
+    "dong": [
+     [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[4]",
+      "[5]",
+      "[6]",
+      "[7]",
+      "[8]"
+     ],
+     [
+      "Công tác xây dựng 1",
+      "DG.1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      "",
+      "Chi phí VL",
+      "",
+      "",
+      "",
+      "VL"
+     ],
+     [
+      "",
+      "",
+      "V.1",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      "V.2",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      "...",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      "",
+      "Cộng",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      "",
+      "Chi phí NC",
+      "",
+      "",
+      "",
+      "NC"
+     ],
+     [
+      "",
+      "",
+      "NC.1",
+      "",
+      "công",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      "NC.2",
+      "",
+      "công",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      "...",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      "",
+      "Cộng",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      "",
+      "Chi phí MTC",
+      "",
+      "",
+      "",
+      "MTC"
+     ],
+     [
+      "",
+      "",
+      "M.1",
+      "",
+      "ca",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      "M.2",
+      "",
+      "ca",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      "...",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      "",
+      "Cộng",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "Công tác xây dựng 2",
+      "DG.2",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "...",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ]
+    ]
+   }
+  ],
+  [
+   "ghi_chu",
+   [
+    "Ghi chú: Đối với các giá công tác xây dựng xác định trên cơ sở định mức dự toán xây dựng trong hệ thống định mức xây dựng do cơ quan có thẩm quyền ban hành, thì mã hiệu đơn giá được thể hiện phải đảm bảo đồng bộ, thống nhất với mã hiệu định mức trong hệ thống định mức xây dựng được ban hành."
+   ]
+  ]
+ ]
+}

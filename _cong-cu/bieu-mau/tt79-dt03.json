@@ -1,0 +1,407 @@
+{
+ "ma": "tt79-dt03",
+ "ten": "Dự toán thu, chi quản lý dự án năm",
+ "nhom": "Dự toán, quyết toán thu chi quản lý dự án (TT 79/2026/TT-BTC)",
+ "nguon": "Mẫu số 03/DT-QLDA ban hành kèm theo Thông tư 79/2026/TT-BTC",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "79-2026-tt-btc",
+   "7",
+   "khoản 3 Điều 7 Thông tư 79/2026/TT-BTC"
+  ],
+  [
+   "79-2026-tt-btc",
+   "9",
+   "điểm d khoản 2 Điều 9 Thông tư 79/2026/TT-BTC"
+  ],
+  [
+   "79-2026-tt-btc",
+   "12",
+   "Điều 12 Thông tư 79/2026/TT-BTC"
+  ]
+ ],
+ "dung_khi": "Chủ đầu tư, ban quản lý dự án có dự án sử dụng vốn ngân sách nhà nước (Điều 1 Thông tư 79/2026/TT-BTC; hiệu lực từ 01/07/2026) lập dự toán thu, chi hằng năm (khoản 3 Điều 7), trình thẩm định, phê duyệt (Điều 9); BQLDA lập và chấp hành dự toán hằng năm (Điều 12).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số: 03/DT-QLDA"
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "CHỦ ĐẦU TƯ/BQLDA",
+     "________"
+    ],
+    "ngay": "............., ngày     tháng     năm"
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "DỰ TOÁN THU, CHI QUẢN LÝ DỰ ÁN",
+    "Năm ..."
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "A. Dự toán thu",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị tính: đồng",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Số TT",
+     "Danh mục dự án",
+     "Tổng nguồn thu theo dự án",
+     "Lũy kế nguồn đã thu các năm trước",
+     "Nguồn thu năm kế hoạch – Tổng số",
+     "Nguồn thu năm kế hoạch – Nguồn thu được sử dụng trong năm – Số tiền",
+     "Nguồn thu năm kế hoạch – Nguồn thu được sử dụng trong năm – Tỷ lệ (%)",
+     "Nguồn thu năm kế hoạch – Nguồn thu chuyển sang năm sau tiếp tục sử dụng",
+     "Nguồn còn lại thu các năm sau"
+    ],
+    "dong": [
+     [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8= 5-6",
+      "9=3-4-5"
+     ],
+     [
+      "A",
+      "Tổng nguồn thu\n(A= I+II+III+IV+V)",
+      "",
+      "",
+      "",
+      "",
+      "100",
+      "",
+      ""
+     ],
+     [
+      "I",
+      "Nguồn thu năm trước chuyển sang"
+     ],
+     [
+      "1",
+      "Từ dự án được giao quản lý"
+     ],
+     [
+      "2",
+      "Từ nguồn hợp pháp khác của đơn vị"
+     ],
+     [
+      "II",
+      "Nguồn thu từ chi phí của dự án được giao quản lý¹"
+     ],
+     [
+      "1",
+      "Nguồn trích chi phí quản lý dự án"
+     ],
+     [
+      "1.1",
+      "Dự án..."
+     ],
+     [
+      "1.2",
+      "Dự án..."
+     ],
+     [
+      "...",
+      "..."
+     ],
+     [
+      "2",
+      "Nguồn thu khác từ dự án được giao quản lý"
+     ],
+     [
+      "2.1",
+      "Nguồn thu từ chi phí quản lý dự án"
+     ],
+     [
+      "(1)",
+      "Dự án..."
+     ],
+     [
+      "(2)",
+      "Dự án..."
+     ],
+     [
+      "...",
+      "..."
+     ],
+     [
+      "2.2",
+      "Nguồn thu khác từ dự án (nếu có)"
+     ],
+     [
+      "(1)",
+      "Dự án..."
+     ],
+     [
+      "(2)",
+      "Dự án..."
+     ],
+     [
+      "...",
+      "..."
+     ],
+     [
+      "III",
+      "Dự án điều chỉnh, bổ sung trong năm"
+     ],
+     [
+      "IV",
+      "Nguồn thu hợp pháp khác của đơn vị (nếu có)²"
+     ],
+     [
+      "1",
+      "Dự án..."
+     ],
+     [
+      "2",
+      "Dự án..."
+     ],
+     [
+      "...",
+      "..."
+     ],
+     [
+      "V",
+      "Nguồn NSNN cấp (nếu có)³"
+     ]
+    ],
+    "rong": [
+     1,
+     3,
+     1.6,
+     1.6,
+     1.6,
+     1.6,
+     1.2,
+     1.6,
+     1.6
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "B. Dự toán chi",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị tính: đồng",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Số TT",
+     "Nội dung",
+     "Năm báo cáo – Dự toán được duyệt (điều chỉnh, bổ sung, nếu có) – Tổng số",
+     "Năm báo cáo – Dự toán được duyệt – Trong đó: Chi từ dự án được giao quản lý",
+     "Năm báo cáo – Dự toán được duyệt – Trong đó: Chi từ nguồn hợp pháp khác của đơn vị",
+     "Năm báo cáo – Ước thực hiện – Tổng số",
+     "Năm báo cáo – Ước thực hiện – Trong đó: Chi từ dự án được giao quản lý",
+     "Năm báo cáo – Ước thực hiện – Trong đó: Chi từ nguồn hợp pháp khác của đơn vị",
+     "Dự kiến mức chi năm kế hoạch – Tổng số",
+     "Dự kiến mức chi năm kế hoạch – Trong đó: Chi từ dự án được giao quản lý",
+     "Dự kiến mức chi năm kế hoạch – Trong đó: Chi từ nguồn hợp pháp khác của đơn vị",
+     "Ghi chú"
+    ],
+    "dong": [
+     [
+      "1",
+      "2",
+      "3=4+5",
+      "4",
+      "5",
+      "6=7+8",
+      "7",
+      "8",
+      "9=10+11",
+      "10",
+      "11",
+      "12"
+     ],
+     [
+      "B",
+      "Tổng cộng\n(B=I+II+III)"
+     ],
+     [
+      "I",
+      "Chi thường xuyên giao tự chủ"
+     ],
+     [
+      "1",
+      "Tiền lương"
+     ],
+     [
+      "2",
+      "Các khoản phụ cấp lương"
+     ],
+     [
+      "3",
+      "Các khoản trích nộp theo lương"
+     ],
+     [
+      "4",
+      "Làm thêm giờ"
+     ],
+     [
+      "5",
+      "Khen thưởng"
+     ],
+     [
+      "6",
+      "Chi phúc lợi tập thể"
+     ],
+     [
+      "7",
+      "Thanh toán dịch vụ công cộng"
+     ],
+     [
+      "8",
+      "Mua vật tư văn phòng"
+     ],
+     [
+      "9",
+      "Thanh toán thông tin, tuyên truyền, liên lạc"
+     ],
+     [
+      "10",
+      "Hội nghị, Hội thảo"
+     ],
+     [
+      "11",
+      "Thanh toán công tác phí"
+     ],
+     [
+      "12",
+      "Thuê mướn"
+     ],
+     [
+      "13",
+      "Đoàn đi công tác nước ngoài"
+     ],
+     [
+      "14",
+      "Đoàn vào"
+     ],
+     [
+      "15",
+      "Chi sửa chữa thường xuyên tài sản"
+     ],
+     [
+      "16",
+      "Mua sắm tài sản phục vụ quản lý"
+     ],
+     [
+      "17",
+      "Chi khác"
+     ],
+     [
+      "18",
+      "Chi dự phòng"
+     ],
+     [
+      "II",
+      "NSNN cấp cho chi thường xuyên (nếu có) chi tiết theo nội dung nhiệm vụ"
+     ],
+     [
+      "III",
+      "NSNN cấp cho chi không thường xuyên (nếu có) chi tiết theo nội dung nhiệm vụ"
+     ]
+    ],
+    "rong": [
+     0.8,
+     3,
+     1.3,
+     1.3,
+     1.3,
+     1.3,
+     1.3,
+     1.3,
+     1.3,
+     1.3,
+     1.3,
+     1
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Ghi chú:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "- Chi khen thưởng (STT 5 Mục I phần B): Thực hiện theo quy định của pháp luật về thi đua khen thưởng."
+  ],
+  [
+   "p",
+   "- Chi phúc lợi tập thể (STT 6 Mục I phần B): Thực hiện theo pháp luật về phúc lợi tập thể."
+  ],
+  [
+   "p",
+   "- Chi mua sắm tài sản phục vụ quản lý (STT 16 Mục I phần B) chỉ có ở BQLDA nhóm I và BQLDA nhóm II chưa có Quỹ phát triển hoạt động sự nghiệp."
+  ],
+  [
+   "p",
+   "- NSNN cấp cho chi thường xuyên (Mục II phần B) chỉ có ở BQLDA nhóm II."
+  ],
+  [
+   "p",
+   "- NSNN cấp cho chi không thường xuyên (Mục III phần B) chỉ có ở BQLDA nhóm II."
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LẬP BIỂU",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     "THỦ TRƯỞNG",
+     "(Ký, đóng dấu, ghi rõ họ tên)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "____________________",
+    "¹ Quy định tại điểm a khoản 1 Điều 2 Thông tư",
+    "² Quy định tại điểm b khoản 1 Điều 2 Thông tư",
+    "³ Quy định tại điểm c khoản 1 Điều 2 Thông tư"
+   ]
+  ]
+ ]
+}

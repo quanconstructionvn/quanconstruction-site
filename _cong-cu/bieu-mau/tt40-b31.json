@@ -1,0 +1,188 @@
+{
+ "ma": "tt40-b31",
+ "ten": "Tổng hợp dự toán chi phí sửa chữa công trình",
+ "nhom": "Chi phí bảo trì công trình (TT 40/2026/TT-BXD)",
+ "nguon": "Bảng 3.1 Phụ lục III ban hành kèm theo Thông tư 40/2026/TT-BXD",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "40-2026-tt-bxd",
+   "4",
+   "Điều 4 Thông tư 40/2026/TT-BXD"
+  ],
+  [
+   "40-2026-tt-bxd",
+   "8",
+   "Phụ lục III Thông tư 40/2026/TT-BXD"
+  ]
+ ],
+ "dung_khi": "Lập, tổng hợp dự toán chi phí sửa chữa công trình xây dựng (Điều 4, Phụ lục III Thông tư 40/2026/TT-BXD; hiệu lực từ 01/07/2026).",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục III"
+  ],
+  [
+   "tieu_de",
+   [
+    "DỰ TOÁN CHI PHÍ SỬA CHỮA CÔNG TRÌNH XÂY DỰNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "(Ban hành kèm theo Thông tư số 40/2026/TT-BXD ngày 26 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "BẢNG 3.1. TỔNG HỢP DỰ TOÁN CHI PHÍ SỬA CHỮA CÔNG TRÌNH",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị tính: đồng",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "TT",
+     "Nội dung chi phí",
+     "Giá trị trước thuế",
+     "Thuế GTGT",
+     "Giá trị sau thuế",
+     "Ký hiệu"
+    ],
+    "rong": [
+     1,
+     5,
+     2,
+     2,
+     2,
+     1.5
+    ],
+    "dong": [
+     [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[4]",
+      "[5]",
+      "[6]"
+     ],
+     [
+      "1",
+      "Chi phí thực hiện sửa chữa (bao gồm chi phí nhà tạm)",
+      "",
+      "",
+      "",
+      "GTHSC"
+     ],
+     [
+      "2",
+      "Chi phí khác (nếu có)",
+      "",
+      "",
+      "",
+      "GKSC"
+     ],
+     [
+      "2.1",
+      "Chi phí lập dự toán",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2.2",
+      "Chi phí thẩm tra dự toán",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2.3",
+      "Chi phí tư vấn giám sát",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2.4",
+      "Lập hồ sơ mời thầu, hồ sơ yêu cầu",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2.5",
+      "Chi phí thẩm định kết quả lựa chọn nhà thầu",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2.6",
+      "Chi phí đảm bảo an toàn giao thông",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "…",
+      "…",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "3",
+      "Chi phí dự phòng (nếu có)",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "TỔNG CỘNG (1+2+3)",
+      "",
+      "",
+      "",
+      "GSC"
+     ]
+    ]
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LẬP",
+     "(Ký, họ tên)"
+    ],
+    [
+     "NGƯỜI CHỦ TRÌ",
+     "(Ký, họ tên)"
+    ]
+   ]
+  ]
+ ]
+}

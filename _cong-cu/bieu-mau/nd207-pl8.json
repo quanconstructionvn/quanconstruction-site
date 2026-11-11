@@ -1,0 +1,205 @@
+{
+ "ma": "nd207-pl8",
+ "ten": "Thông báo kết quả kiểm tra công tác nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng",
+ "nhom": "Thi công – nghiệm thu (NĐ 207/2026)",
+ "nguon": "Phụ lục VIII Nghị định 207/2026/NĐ-CP",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "207-2026-nd-cp",
+   "27",
+   "điểm b khoản 4 Điều 27 Nghị định 207/2026/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Cơ quan chuyên môn về xây dựng ra văn bản thông báo kết quả kiểm tra công tác nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng, nêu rõ việc chấp thuận hoặc không chấp thuận kết quả nghiệm thu của chủ đầu tư (điểm b khoản 4 Điều 27 Nghị định 207/2026/NĐ-CP).",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục VIII"
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "........(1)......",
+     "_____",
+     "Số: ........."
+    ],
+    "ngay": ".........., ngày .......... tháng ...... năm......."
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "THÔNG BÁO KẾT QUẢ KIỂM TRA CÔNG TÁC NGHIỆM THU HOÀN THÀNH HẠNG MỤC CÔNG TRÌNH, CÔNG TRÌNH XÂY DỰNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "Kính gửi: ............(2).................",
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ .................(3).......;",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ giấy phép xây dựng số ... (đối với trường hợp công trình xây dựng phải có giấy phép xây dựng);",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ vào hồ sơ thiết kế xây dựng công trình và các hồ sơ thiết kế điều chỉnh (nếu có) được thẩm định, phê duyệt theo quy định của pháp luật về xây dựng;",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ báo cáo hoàn thành thi công xây dựng của chủ đầu tư số .......; báo cáo khắc phục tồn tại của chủ đầu tư số... (nếu có); biên bản nghiệm thu hoàn thành công trình số....;",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ các văn bản có liên quan theo quy định của pháp luật chuyên ngành (nếu có);",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "..............(1)......... chấp thuận kết quả nghiệm thu ......(4).... của .........(2)........ đối với công trình/hạng mục công trình như sau:",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "1. Thông tin về công trình",
+    "b": true,
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "a) Tên công trình/hạng mục công trình: ....(5)....",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "b) Mã định danh dự án... (6)... Mã định danh công trình xây dựng...(7)...",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "c) Địa điểm xây dựng: .................",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "d) Loại và cấp công trình.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "đ) Mô tả các thông số chính của công trình.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "2. Yêu cầu đối với chủ đầu tư",
+    "b": true,
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "a) Lưu trữ hồ sơ công trình theo quy định.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "b) Quản lý, khai thác, vận hành công trình theo đúng công năng, thiết kế được duyệt.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "c) Các yêu cầu khác (nếu có).",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Nơi nhận:",
+    "b": true,
+    "i": true
+   }
+  ],
+  [
+   "p",
+   "- Như trên;"
+  ],
+  [
+   "p",
+   "- Lưu: ..."
+  ],
+  [
+   "ky",
+   [
+    [
+     "LÃNH ĐẠO ĐƠN VỊ/NGƯỜI ĐƯỢC ỦY QUYỀN",
+     "(Ký, ghi rõ họ tên, chức vụ và đóng dấu pháp nhân)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "___________________________",
+    "Ghi chú:",
+    "(1) Tên cơ quan chuyên môn về xây dựng kiểm tra công tác nghiệm thu của chủ đầu tư theo thẩm quyền quy định tại khoản 4 Điều 57 Luật Xây dựng số 135/2025/QH15.",
+    "(2) Tên của chủ đầu tư.",
+    "(3) Văn bản quy phạm pháp luật quy định về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng.",
+    "(4) Nghiệm thu hoàn thành hoặc nghiệm thu có điều kiện, nghiệm thu một phần theo quy định tại các khoản 1, 2 và 3 Điều 24 Nghị định này.",
+    "(5) Tên công trình/hạng mục công trình và phạm vi được chấp thuận kết quả nghiệm thu.",
+    "(6), (7) Mã định danh dự án theo quy định của Chính phủ về điều kiện năng lực hoạt động xây dựng, Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng."
+   ]
+  ]
+ ]
+}

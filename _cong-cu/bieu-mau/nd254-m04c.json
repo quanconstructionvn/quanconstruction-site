@@ -1,0 +1,218 @@
+{
+ "ma": "nd254-m04c",
+ "ten": "Giấy đề nghị thu hồi vốn ứng trước",
+ "nhom": "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)",
+ "nguon": "Mẫu số 04.c/TT Phụ lục Hệ thống mẫu biểu kèm theo Nghị định 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "254-2025-nd-cp",
+   "8",
+   "điểm b khoản 7 Điều 8"
+  ]
+ ],
+ "dung_khi": "Chủ đầu tư lập để thu hồi vốn ứng trước khi đã được giao kế hoạch đầu tư công hằng năm để thu hồi vốn ứng trước (khoản 7 Điều 8).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 04.c/TT"
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Nghị định số 254/2025/NĐ-CP Ngày 26 tháng 9 năm 2025 của Chính phủ)",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "dong": [
+     [
+      "Không ghi vào khu vực này",
+      "Số:... Năm ngân sách:..."
+     ],
+     [
+      "Mã QR code (nếu có)",
+      ""
+     ]
+    ]
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "GIẤY ĐỀ NGHỊ THU HỒI ỨNG TRƯỚC VỐN ĐẦU TƯ",
+    "Ứng trước chưa đủ ĐKTT sang tạm ứng □",
+    "Ứng trước đủ ĐKTT sang thực chi □"
+   ]
+  ],
+  [
+   "p",
+   "Căn cứ số dư ứng trước kinh phí đầu tư thuộc kế hoạch năm ……… đến ngày …/…/… và Quyết định giao kế hoạch vốn số: ……….. ngày ……… của …………"
+  ],
+  [
+   "p",
+   "Đề nghị cơ quan thanh toán ………………. chuyển Ứng trước chưa đủ ĐKTT □ / Ứng trước đủ ĐKTT □ thành Tạm ứng □ / Thực chi □ theo chi tiết sau:"
+  ],
+  [
+   "p",
+   "Tên dự án:"
+  ],
+  [
+   "p",
+   "Chủ đầu tư: ……………………………. Mã ĐVQHNS:"
+  ],
+  [
+   "p",
+   "Tài khoản: ……………………………… Tại cơ quan thanh toán:"
+  ],
+  [
+   "p",
+   "Tên CTMT, DA: ……………………….. Mã CTMT, DA:"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "STT",
+     "Mã NDKT",
+     "Mã chương",
+     "Mã ngành KT",
+     "Mã nguồn NSNN",
+     "Năm KHV",
+     "Số dư ứng trước",
+     "Số chuyển sang tạm ứng/ thực chi"
+    ],
+    "dong": [
+     [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "Tổng cộng",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Tổng số tiền ghi bằng chữ:",
+    "i": true
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "KẾ TOÁN TRƯỞNG",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     "Ngày... tháng... năm ....\nTHỦ TRƯỞNG ĐƠN VỊ",
+     "(Ký, ghi rõ họ tên, đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "table",
+   {
+    "dong": [
+     [
+      "PHẦN CƠ QUAN THANH TOÁN GHI\nTổng số tiền ghi bằng số: ……………………….\nTổng số tiền ghi bằng chữ: ………………………\n………………………………………………………",
+      "Cơ quan thanh toán ghi:\nNợ TK …………………………\nCó TK …………………………\nNợ TK …………………………\nCó TK …………………………\nMã ĐBHC: ……………………"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Ngày ...tháng ....năm ….",
+    "can": "center"
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "KẾ TOÁN",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     "KIỂM SOÁT",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     "LÃNH ĐẠO CƠ QUAN THANH TOÁN",
+     "(Ký, ghi rõ họ tên, đóng dấu)"
+    ]
+   ]
+  ]
+ ]
+}

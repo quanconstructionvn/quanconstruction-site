@@ -1,0 +1,137 @@
+{
+ "ma": "nd193-m02",
+ "ten": "Văn bản đề nghị nhà thầu bổ sung, hoàn thiện hồ sơ, tài liệu quyết toán hợp đồng dự án",
+ "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+ "nguon": "Mẫu số 02/QTDA ban hành kèm theo Nghị định 193/2026/NĐ-CP",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "193-2026-nd-cp",
+   "7",
+   "khoản 5 Điều 7 Nghị định 193/2026/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Dự án sử dụng vốn đầu tư công, chi thường xuyên từ ngân sách nhà nước, vốn ngân sách nhà nước khác (Điều 1 Nghị định 193/2026/NĐ-CP; hiệu lực từ 01/07/2026): trường hợp nhà thầu không thực hiện quyết toán hợp đồng theo quy định, căn cứ hợp đồng chủ đầu tư có văn bản đề nghị nhà thầu thực hiện (khoản 5 Điều 7). Khác với Mẫu số 02/QTDA của Thông tư 73/2026/TT-BTC (Danh mục văn bản).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 02/QTDA"
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Nghị định số 193/2026/NĐ-CP\nngày 01 tháng 6 năm 2026 của Chính phủ)",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "CƠ QUAN QUYẾT ĐỊNH",
+     "THÀNH LẬP CHỦ ĐẦU TƯ",
+     "CHỦ ĐẦU TƯ",
+     "________",
+     "Số: .../........",
+     "V/v bổ sung, hoàn thiện hồ sơ, tài liệu",
+     "quyết toán hợp đồng dự án (lần....)"
+    ],
+    "ngay": "..., ngày ... tháng ... năm..."
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Kính gửi: .................................. (tên nhà thầu)",
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ Nghị định số ... ngày ... của Chính phủ quy định về quyết toán vốn đầu tư dự án;",
+    "i": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ Quyết định số ........... ngày .......... của ......... về việc phê duyệt dự án ........... và điều chỉnh, bổ sung (nếu có);",
+    "i": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ Quyết định số ........ ngày ........ của .......... về việc trúng thầu (chỉ định thầu) dự án ................. và điều chỉnh, bổ sung (nếu có);",
+    "i": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ Hợp đồng số ......... ngày ........ giữa .... (tên chủ đầu tư) với ..... (tên nhà thầu) và Hợp đồng điều chỉnh, bổ sung (nếu có);",
+    "i": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ ................. (nêu các căn cứ khác như văn bản cho phép kéo dài thời gian thực hiện Hợp đồng, ........... (nếu có));",
+    "i": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ Biên bản nghiệm thu khối lượng hoàn thành, Biên bản thanh lý Hợp đồng (nếu có).",
+    "i": true
+   }
+  ],
+  [
+   "p",
+   "Để đảm bảo công tác lập báo cáo quyết toán vốn đầu tư dự án bảo đảm đúng thời gian quy định; ................. (tên chủ đầu tư) đề nghị ........... (tên nhà thầu) thực hiện các nội dung sau:"
+  ],
+  [
+   "p",
+   "1. Về bổ sung, hoàn thiện hồ sơ, tài liệu còn thiếu hoặc chưa đảm bảo quy định (ghi cụ thể các hồ sơ, tài liệu còn thiếu và chưa đảm bảo theo quy định tại văn bản cụ thể):"
+  ],
+  [
+   "p",
+   "2. Về thời gian nộp hồ sơ, tài liệu:"
+  ],
+  [
+   "p",
+   "Đề nghị ............ (tên nhà thầu) bổ sung, hoàn thiện các hồ sơ, tài liệu còn thiếu hoặc chưa đảm bảo quy định (nêu trên), gửi đến .............. (tên chủ đầu tư) trước ngày ... tháng...năm."
+  ],
+  [
+   "p",
+   "Quá thời gian trên, .......... (tên chủ đầu tư) chưa nhận được các hồ sơ, tài liệu còn thiếu hoặc chưa đảm bảo quy định (nêu trên); ......... (tên chủ đầu tư) sẽ thực hiện tổng hợp lập quyết toán vốn đầu tư dự án để báo cáo cấp thẩm quyền thẩm tra, phê duyệt theo quy định; mọi tổn thất, thiệt hại (nếu có) ........ (tên nhà thầu) hoàn toàn chịu trách nhiệm."
+  ],
+  [
+   "p",
+   "..... (tên chủ đầu tư) có ý kiến để ..... (tên nhà thầu) biết và phối hợp thực hiện."
+  ],
+  [
+   "p",
+   {
+    "t": "Nơi nhận:\n- Như trên;\n- Người quyết định đầu tư (để báo cáo);\n- Cơ quan thẩm tra quyết toán;\n- Cơ quan thanh toán;\n- Lưu ....",
+    "i": true
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "",
+     ""
+    ],
+    [
+     "CHỦ ĐẦU TƯ",
+     "(Ký, ghi rõ họ tên và đóng dấu)"
+    ]
+   ]
+  ]
+ ]
+}

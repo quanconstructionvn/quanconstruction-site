@@ -1,0 +1,196 @@
+{
+ "ma": "nd207-nd-bien-ban-nghiem-thu-vat-lieu",
+ "ten": "Biên bản nghiệm thu vật liệu, sản phẩm, cấu kiện, thiết bị sử dụng cho công trình",
+ "nhom": "Thi công – nghiệm thu (NĐ 207/2026, theo nội dung bắt buộc)",
+ "nguon": "khoản 6 Điều 14 Nghị định 207/2026/NĐ-CP",
+ "loai": "noi-dung",
+ "can_cu": [
+  [
+   "207-2026-nd-cp",
+   "14",
+   "khoản 6 Điều 14"
+  ]
+ ],
+ "dung_khi": "Người giám sát thi công của chủ đầu tư nghiệm thu vật liệu, sản phẩm, cấu kiện, thiết bị trước khi đưa vào sử dụng cho công trình.",
+ "khoi": [
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "……………………………",
+     "(Tên công trình/dự án)"
+    ],
+    "ngay": "……, ngày … tháng … năm ……"
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BIÊN BẢN NGHIỆM THU",
+    "VẬT LIỆU, SẢN PHẨM, CẤU KIỆN, THIẾT BỊ SỬ DỤNG CHO CÔNG TRÌNH"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "1. Vật liệu, sản phẩm, cấu kiện, thiết bị được nghiệm thu:",
+    "b": true
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "STT",
+     "Tên",
+     "Chủng loại",
+     "Khối lượng",
+     "Số sê-ri sản phẩm (nếu có)"
+    ],
+    "dong": [
+     [
+      "1",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "3",
+      "",
+      "",
+      "",
+      ""
+     ]
+    ],
+    "rong": [
+     1,
+     4,
+     3,
+     2,
+     3
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "2. Thời gian nghiệm thu:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "Bắt đầu: … giờ … ngày … tháng … năm ……    Kết thúc: … giờ … ngày … tháng … năm ……"
+  ],
+  [
+   "p",
+   {
+    "t": "3. Địa điểm nghiệm thu:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   {
+    "t": "4. Thành phần ký biên bản:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   {
+    "t": "5. Kết luận nghiệm thu:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   {
+    "t": "6. Các yêu cầu khác (nếu có):",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   {
+    "t": "7. Chữ ký, họ và tên, chức vụ của người ký biên bản:",
+    "b": true
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Chức vụ / vai trò",
+     "Họ và tên",
+     "Chữ ký"
+    ],
+    "dong": [
+     [
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "",
+      ""
+     ]
+    ],
+    "rong": [
+     5,
+     3,
+     2
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "8. Phụ lục kèm theo (nếu có):",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "……………………………………………………………………………………"
+  ]
+ ]
+}

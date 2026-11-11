@@ -1,0 +1,170 @@
+{
+ "ma": "nd212-pl3-m02",
+ "ten": "Đơn đề nghị cấp chuyển đổi chứng chỉ hành nghề hoạt động xây dựng",
+ "nhom": "Năng lực hoạt động xây dựng (NĐ 212/2026)",
+ "nguon": "Mẫu số 02 Phụ lục III ban hành kèm theo Nghị định 212/2026/NĐ-CP ngày 17/6/2026 của Chính phủ",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "212-2026-nd-cp",
+   "39",
+   "Điều 39 Nghị định 212/2026/NĐ-CP"
+  ],
+  [
+   "212-2026-nd-cp",
+   "27",
+   "khoản 2 Điều 27"
+  ]
+ ],
+ "dung_khi": "Cá nhân người nước ngoài, người Việt Nam định cư ở nước ngoài đã có giấy phép năng lực hành nghề do nước ngoài cấp, hành nghề tại Việt Nam từ 06 tháng trở lên, đề nghị chuyển đổi chứng chỉ hành nghề (khoản 2 Điều 27, Điều 39 Nghị định 212/2026/NĐ-CP).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 02"
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [],
+    "ngay": "………….., ngày … tháng … năm …"
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "ĐƠN ĐỀ NGHỊ",
+    "Cấp chuyển đổi chứng chỉ hành nghề hoạt động xây dựng"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "Kính gửi: (Tên cơ quan có thẩm quyền)",
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "1. Họ và tên: ……………………………………………………………………………………………………."
+  ],
+  [
+   "p",
+   "2. Ngày, tháng, năm sinh: …………………………………………………………………………………."
+  ],
+  [
+   "p",
+   "3. Quốc tịch: ……………………………………………………………………………………………………."
+  ],
+  [
+   "p",
+   "4. Hộ chiếu số: …………………………… Ngày cấp: ……………………………………………………"
+  ],
+  [
+   "p",
+   "Nơi cấp: …………………………………………………………………………………………………………."
+  ],
+  [
+   "p",
+   "5. Thời hạn trên giấy phép lao động: ……………………………………………………………………."
+  ],
+  [
+   "p",
+   "6. Số điện thoại: …………………………. Địa chỉ hòm thư điện tử: …………………………………"
+  ],
+  [
+   "p",
+   "7. Đơn vị công tác: …………………………………………………………………………………………….."
+  ],
+  [
+   "p",
+   "8. Trình độ chuyên môn (ghi rõ cơ sở đào tạo, chuyên ngành đào tạo): ………………………"
+  ],
+  [
+   "p",
+   "9. Thời gian kinh nghiệm liên quan đến lĩnh vực đề nghị cấp chuyển đổi chứng chỉ hành nghề (năm): …………"
+  ],
+  [
+   "p",
+   "10. Giấy phép năng lực hành nghề số: …… Ngày cấp: ……"
+  ],
+  [
+   "p",
+   "Nơi cấp: ……………."
+  ],
+  [
+   "p",
+   "Lĩnh vực hoạt động xây dựng …………………………………………………………….."
+  ],
+  [
+   "p",
+   "11. Quá trình hoạt động chuyên môn trong xây dựng:"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "STT",
+     "Thời gian công tác (Từ tháng, năm đến tháng, năm)",
+     "Đơn vị công tác/ Hoạt động độc lập (Ghi rõ tên đơn vị)",
+     "Kê khai kinh nghiệm thực hiện công việc tiêu biểu",
+     "Ghi chú"
+    ],
+    "dong": [
+     [
+      "1",
+      "",
+      "",
+      "1. Tên Dự án/công trình/hạng mục công trình: ………..\nNhóm dự án/Cấp công trình: ………\nLoại công trình: ………………………..\nĐịa điểm xây dựng công trình:\nChủ đầu tư: ……………………..\nChức danh/Nội dung công việc thực hiện: ……………………….\n2. ….",
+      ""
+     ],
+     [
+      "2",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "…",
+      "",
+      "",
+      "",
+      ""
+     ]
+    ],
+    "rong": [
+     1,
+     2,
+     2,
+     5,
+     1
+    ]
+   }
+  ],
+  [
+   "p",
+   "Đề nghị cấp chuyển đổi chứng chỉ hành nghề hoạt động xây dựng với các nội dung sau:"
+  ],
+  [
+   "p",
+   "Lĩnh vực hoạt động: ………………………………………………… Hạng: ………………………"
+  ],
+  [
+   "p",
+   "□ Nhận chứng chỉ bản giấy (nếu cá nhân yêu cầu)"
+  ],
+  [
+   "p",
+   "Tôi xin chịu trách nhiệm về tính chính xác, hợp pháp của hồ sơ, nội dung kê khai trong đơn và cam kết hành nghề hoạt động xây dựng theo đúng nội dung ghi trong chứng chỉ hành nghề được cấp và tuân thủ các quy định của pháp luật có liên quan."
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LÀM ĐƠN",
+     "(Ký và ghi rõ họ, tên)"
+    ]
+   ]
+  ]
+ ]
+}

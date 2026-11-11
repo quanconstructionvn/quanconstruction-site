@@ -1,0 +1,137 @@
+{
+ "ma": "tt79-dt02",
+ "ten": "Bảng tính lương năm",
+ "nhom": "Dự toán, quyết toán thu chi quản lý dự án (TT 79/2026/TT-BTC)",
+ "nguon": "Mẫu số 02/DT-QLDA ban hành kèm theo Thông tư 79/2026/TT-BTC",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "79-2026-tt-btc",
+   "5",
+   "khoản 5 Điều 5 Thông tư 79/2026/TT-BTC"
+  ],
+  [
+   "79-2026-tt-btc",
+   "9",
+   "điểm c khoản 2 Điều 9 Thông tư 79/2026/TT-BTC"
+  ]
+ ],
+ "dung_khi": "Chủ đầu tư, ban quản lý dự án có dự án sử dụng vốn ngân sách nhà nước (Điều 1 Thông tư 79/2026/TT-BTC; hiệu lực từ 01/07/2026) lập bảng tính tiền lương năm của từng người lao động tham gia quản lý dự án làm căn cứ lập dự toán thu, chi (khoản 5 Điều 5) và hồ sơ trình phê duyệt dự toán hằng năm (Điều 9).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số: 02/DT-QLDA"
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "CHỦ ĐẦU TƯ/BQLDA",
+     "_______"
+    ],
+    "ngay": "............., ngày     tháng     năm"
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BẢNG TÍNH LƯƠNG NĂM ........."
+   ]
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Số TT",
+     "Họ và tên",
+     "Mã số ngạch",
+     "Hệ số lương",
+     "Hệ số phụ cấp chức vụ",
+     "Hệ số phụ cấp khu vực",
+     "Hệ số phụ cấp khác",
+     "Cộng hệ số",
+     "Tiền lương và phụ cấp một tháng (đồng)",
+     "Số tháng",
+     "Tiền lương và phụ cấp cả năm (đồng)"
+    ],
+    "rong": [
+     1,
+     3,
+     1.5,
+     1.3,
+     1.3,
+     1.3,
+     1.3,
+     1.3,
+     2,
+     1,
+     2
+    ],
+    "dong": [
+     [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8 = 4+5+6+7",
+      "9",
+      "10",
+      "11"
+     ],
+     [
+      "I",
+      "Người lao động hưởng lương từ dự án"
+     ],
+     [
+      "1"
+     ],
+     [
+      "2"
+     ],
+     [
+      "3"
+     ],
+     [
+      "........"
+     ],
+     [
+      "II",
+      "Người lao động hưởng lương hợp đồng QLDA"
+     ],
+     [
+      "1"
+     ],
+     [
+      "2"
+     ],
+     [
+      "3"
+     ],
+     [
+      "........"
+     ],
+     [
+      "III",
+      "Tổng cộng (III = I + II)"
+     ]
+    ]
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LẬP BIỂU",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     "THỦ TRƯỞNG",
+     "(Ký, đóng dấu, ghi rõ họ tên)"
+    ]
+   ]
+  ]
+ ]
+}

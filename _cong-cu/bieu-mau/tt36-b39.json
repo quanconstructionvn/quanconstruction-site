@@ -1,0 +1,161 @@
+{
+ "ma": "tt36-b39",
+ "ten": "Tổng hợp dự toán chi phí xây dựng (chi phí trực tiếp theo báo giá trọn gói)",
+ "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+ "nguon": "Bảng 3.9 Phụ lục III Thông tư 36/2026/TT-BXD (đã đối chiếu QĐ 1538/QĐ-BXD đính chính)",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "36-2026-tt-bxd",
+   "6",
+   "Điều 6 Thông tư 36/2026/TT-BXD"
+  ],
+  [
+   "36-2026-tt-bxd",
+   "16",
+   "Phụ lục III Thông tư 36/2026/TT-BXD"
+  ]
+ ],
+ "dung_khi": "Tổng hợp dự toán chi phí xây dựng đối với công việc, bộ phận, hạng mục công trình có yêu cầu thiết kế riêng hoặc công nghệ, biện pháp thi công đặc thù, chi phí trực tiếp xác định theo báo giá trọn gói của đơn vị đủ năng lực (Phụ lục III). Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026.",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục III"
+  ],
+  [
+   "tieu_de",
+   [
+    "PHƯƠNG PHÁP XÁC ĐỊNH CHI PHÍ XÂY DỰNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Thông tư số 36/2026/TT-BXD ngày 26 tháng 6 năm 2026\ncủa Bộ trưởng Bộ Xây dựng)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Bảng 3.9: TỔNG HỢP DỰ TOÁN CHI PHÍ XÂY DỰNG",
+    "can": "center",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "Dự án:..................................................................................................................."
+  ],
+  [
+   "p",
+   "Công trình:............................................................................................................"
+  ],
+  [
+   "p",
+   "Đơn vị tính:..."
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "STT",
+     "NỘI DUNG CHI PHÍ",
+     "CÁCH TÍNH GIÁ TRỊ",
+     "KÝ HIỆU"
+    ],
+    "rong": [
+     0.9,
+     5,
+     4,
+     1.4
+    ],
+    "dong": [
+     [
+      "I",
+      "Chi phí trực tiếp",
+      "",
+      "T"
+     ],
+     [
+      "II",
+      "Chi phí gián tiếp",
+      "C + TT",
+      "GT"
+     ],
+     [
+      "1",
+      "Chi phí chung",
+      "T × Tỷ lệ × 50%",
+      "C"
+     ],
+     [
+      "2",
+      "Chi phí một số công việc không xác định được khối lượng từ thiết kế",
+      "T × Tỷ lệ × 50%",
+      "TT"
+     ],
+     [
+      "III",
+      "Thu nhập chịu thuế tính trước",
+      "(T + GT) × Tỷ lệ × 50%",
+      "TL"
+     ],
+     [
+      "",
+      "Chi phí xây dựng trước thuế",
+      "(T + GT + TL)",
+      "GXDTT"
+     ],
+     [
+      "IV",
+      "Thuế giá trị gia tăng",
+      "GXDTT x TGTGT",
+      "GTGT"
+     ],
+     [
+      "",
+      "CHI PHÍ XÂY DỰNG SAU THUẾ",
+      "GXDTT + GTGT",
+      ""
+     ],
+     [
+      "V",
+      "Chi phí nhà tạm để ở và điều hành thi công",
+      "GXDTT x Tỷ lệ x (1+TGTGT)",
+      "LT"
+     ]
+    ]
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LẬP",
+     "(Ký, họ tên)"
+    ],
+    [
+     "NGƯỜI CHỦ TRÌ",
+     "(Ký, họ tên)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "Trong đó:",
+    "a) Chi phí trực tiếp được xác định theo báo giá của đơn vị có đủ năng lực thực hiện trọn gói từ sản xuất, cung cấp đến thi công, lắp đặt hoàn thiện đối với công trình, hạng mục công trình có yêu cầu thiết kế riêng hoặc sử dụng công nghệ, biện pháp thi công đặc thù;",
+    "b) Chi phí gián tiếp xác định bằng 50% chi phí gián tiếp theo hướng dẫn tại khoản 3 Phụ lục này:",
+    "- C: chi phí chung;",
+    "- TT: chi phí một số công việc không xác định được khối lượng từ thiết kế;",
+    "c) TL: thu nhập chịu thuế tính trước xác định bằng 50% thu nhập chịu thuế tính trước theo hướng dẫn tại khoản 4 Phụ lục này;",
+    "d) GXDTT: chi phí xây dựng công trình, hạng mục công trình trước thuế;",
+    "đ) TGTGT: mức thuế suất thuế GTGT theo quy định;",
+    "e) GXD: chi phí xây dựng sau thuế;",
+    "g) LT: chi phí nhà tạm để ở và điều hành thi công xác định theo hướng dẫn tại khoản 5 Phụ lục này."
+   ]
+  ]
+ ]
+}

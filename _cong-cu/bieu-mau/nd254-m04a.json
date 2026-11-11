@@ -1,0 +1,412 @@
+{
+ "ma": "nd254-m04a",
+ "ten": "Giấy đề nghị thanh toán vốn",
+ "nhom": "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)",
+ "nguon": "Mẫu số 04.a/TT Phụ lục Hệ thống mẫu biểu kèm theo Nghị định 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "254-2025-nd-cp",
+   "8",
+   "khoản 2, khoản 3 và khoản 6 Điều 8"
+  ]
+ ],
+ "dung_khi": "Chủ đầu tư/Ban QLDA gửi cơ quan thanh toán mỗi lần đề nghị tạm ứng hoặc thanh toán khối lượng hoàn thành (khoản 2, khoản 3 Điều 8).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 04.a/TT"
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Nghị định số 254/2025/NĐ-CP Ngày 26 tháng 9 năm 2025 của Chính phủ)",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "CHỦ ĐẦU TƯ",
+     "-------",
+     "Số: …."
+    ],
+    "ngay": "..., ngày ... tháng ... năm ..."
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "GIẤY ĐỀ NGHỊ THANH TOÁN VỐN"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "Kính gửi: ... (cơ quan thanh toán).",
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "Tên dự án, công trình: ... Mã dự án đầu tư: ..."
+  ],
+  [
+   "p",
+   "Chủ đầu tư/Ban QLDA: ... Mã số ĐVSDNS: ..."
+  ],
+  [
+   "p",
+   "Năm ngân sách: ..."
+  ],
+  [
+   "p",
+   "Số tài khoản của chủ đầu tư: - Vốn ... tại: ..."
+  ],
+  [
+   "p",
+   {
+    "t": "- Vốn ... tại...",
+    "thut": 6
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "- ...",
+    "thut": 6
+   }
+  ],
+  [
+   "p",
+   "Căn cứ hợp đồng số: ... ngày ... tháng ... năm ... Phụ lục bổ sung hợp đồng số ... ngày ... tháng ... năm …;"
+  ],
+  [
+   "p",
+   "Căn cứ quyết định phê duyệt dự toán số ... ngày ... tháng ... năm …;"
+  ],
+  [
+   "p",
+   "Căn cứ bảng xác định giá trị khối lượng công việc hoàn thành/bảng kê giá trị khối lượng công việc bồi thường, hỗ trợ, tái định cư đề nghị thanh toán số: ... ngày ... tháng ... năm ...."
+  ],
+  [
+   "p",
+   "Số dư tạm ứng của hạng mục đề nghị thanh toán: ... đồng."
+  ],
+  [
+   "table",
+   {
+    "dong": [
+     [
+      "Số tiền đề nghị: ...",
+      "Tạm ứng",
+      "Thanh toán",
+      "Theo bảng dưới đây (khung nào không sử dụng thì gạch chéo)"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "Thuộc nguồn vốn: ..."
+  ],
+  [
+   "p",
+   "Thuộc kế hoạch: ... năm ..."
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị: đồng",
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Nội dung",
+     "Dự toán được duyệt hoặc giá trị hợp đồng",
+     "Lũy kế số vốn đã thanh toán từ khởi công đến cuối kỳ trước (gồm cả tạm ứng) – Vốn trong nước",
+     "Lũy kế số vốn đã thanh toán từ khởi công đến cuối kỳ trước (gồm cả tạm ứng) – Vốn nước ngoài",
+     "Số đề nghị tạm ứng, thanh toán khối lượng hoàn thành kỳ này (gồm cả thu hồi tạm ứng) – Vốn trong nước",
+     "Số đề nghị tạm ứng, thanh toán khối lượng hoàn thành kỳ này (gồm cả thu hồi tạm ứng) – Vốn nước ngoài"
+    ],
+    "dong": [
+     [
+      "Ghi tên công việc, hạng mục hoặc hợp đồng đề nghị thanh toán hoặc tạm ứng",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "Cộng tổng",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ]
+    ],
+    "rong": [
+     3,
+     2,
+     1.5,
+     1.5,
+     1.5,
+     1.5
+    ]
+   }
+  ],
+  [
+   "p",
+   "Tổng số tiền đề nghị tạm ứng, thanh toán bằng số: ..."
+  ],
+  [
+   "p",
+   "Bằng chữ: ..."
+  ],
+  [
+   "p",
+   "Trong đó:"
+  ],
+  [
+   "p",
+   "- Thanh toán để thu hồi tạm ứng (bằng số): ..."
+  ],
+  [
+   "p",
+   "+ Vốn trong nước: ..."
+  ],
+  [
+   "p",
+   "+ Vốn nước ngoài: ..."
+  ],
+  [
+   "p",
+   "- Thuế giá trị gia tăng: ..."
+  ],
+  [
+   "p",
+   "- Chuyển tiền bảo hành (bằng số): ..."
+  ],
+  [
+   "p",
+   "- Chuyển tiền tạm giữ chờ quyết toán (bằng số): ..."
+  ],
+  [
+   "p",
+   "- Số trả nhà thầu/đơn vị thực hiện (bằng số): ..."
+  ],
+  [
+   "p",
+   "+ Vốn trong nước: ..."
+  ],
+  [
+   "p",
+   "+ Vốn nước ngoài: ..."
+  ],
+  [
+   "p",
+   "Tên đơn vị thụ hưởng: ..."
+  ],
+  [
+   "p",
+   "Số tài khoản đơn vị thụ hưởng: ... tại: ..."
+  ],
+  [
+   "ky",
+   [
+    [
+     "KẾ TOÁN",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     "ĐẠI DIỆN CHỦ ĐẦU TƯ/\nBAN QUẢN LÝ DỰ ÁN",
+     "(Ký, ghi rõ họ tên, chức vụ và đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "PHẦN GHI CỦA CƠ QUAN THANH TOÁN",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Ngày nhận giấy đề nghị thanh toán vốn đầu tư: ...",
+    "can": "center"
+   }
+  ],
+  [
+   "table",
+   {
+    "dong": [
+     [
+      "Cơ quan thanh toán chấp nhận",
+      "Tạm ứng",
+      "Thanh toán",
+      "Theo nội dung sau:"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "(Khung nào không sử dụng thì gạch chéo)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị: đồng/USD...",
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Nội dung",
+     "Tổng số",
+     "Vốn trong nước",
+     "Vốn nước ngoài"
+    ],
+    "dong": [
+     [
+      "Số vốn chấp nhận",
+      "",
+      "",
+      ""
+     ],
+     [
+      "- Mục..., tiểu mục",
+      "",
+      "",
+      ""
+     ],
+     [
+      "- Mục..., tiểu mục",
+      "",
+      "",
+      ""
+     ],
+     [
+      "- Mục..., tiểu mục",
+      "",
+      "",
+      ""
+     ],
+     [
+      "- Mục..., tiểu mục",
+      "",
+      "",
+      ""
+     ],
+     [
+      "Trong đó:",
+      "",
+      "",
+      ""
+     ],
+     [
+      "- Số thu hồi tạm ứng",
+      "",
+      "",
+      ""
+     ],
+     [
+      "Các năm trước",
+      "",
+      "",
+      ""
+     ],
+     [
+      "Năm nay",
+      "",
+      "",
+      ""
+     ],
+     [
+      "- Thuế giá trị gia tăng",
+      "",
+      "",
+      ""
+     ],
+     [
+      "- …",
+      "",
+      "",
+      ""
+     ],
+     [
+      "- Số trả đơn vị thụ hưởng",
+      "",
+      "",
+      ""
+     ],
+     [
+      "Bằng chữ:",
+      "",
+      "",
+      ""
+     ],
+     [
+      "Số từ chối:",
+      "",
+      "",
+      ""
+     ],
+     [
+      "Lý do : ...",
+      "",
+      "",
+      ""
+     ]
+    ],
+    "rong": [
+     3,
+     1.5,
+     1.5,
+     1.5
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Ghi chú:...",
+    "b": true,
+    "i": true
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI THANH TOÁN",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     "LÃNH ĐẠO PHÒNG",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     "…., ngày ... tháng ... năm ...\nLÃNH ĐẠO CƠ QUAN THANH TOÁN",
+     "(Ký, ghi rõ họ tên chức vụ và đóng dấu)"
+    ]
+   ]
+  ]
+ ]
+}

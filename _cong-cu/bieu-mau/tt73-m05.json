@@ -1,0 +1,106 @@
+{
+ "ma": "tt73-m05",
+ "ten": "Chi tiết giá trị tài sản hình thành",
+ "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+ "nguon": "Mẫu số 05/QTDA ban hành kèm theo Thông tư 73/2026/TT-BTC",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "73-2026-tt-btc",
+   "3",
+   "Điều 3"
+  ],
+  [
+   "73-2026-tt-btc",
+   "4",
+   "khoản 1 Điều 4 Thông tư 73/2026/TT-BTC"
+  ],
+  [
+   "193-2026-nd-cp",
+   "7",
+   "khoản 1 Điều 7 Nghị định 193/2026/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Dự án (dự án thành phần, tiểu dự án, công trình, hạng mục công trình độc lập) hoàn thành, dự án dừng thực hiện có khối lượng thi công xây dựng, lắp đặt thiết bị được nghiệm thu (khoản 1 Điều 4 Thông tư 73/2026/TT-BTC; hiệu lực từ 01/07/2026).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 05/QTDA"
+  ],
+  [
+   "p",
+   {
+    "t": "(kèm theo Thông tư số 73/2026/TT-BTC\nngày 25 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "CHỦ ĐẦU TƯ",
+     "____"
+    ]
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "CHI TIẾT GIÁ TRỊ TÀI SẢN HÌNH THÀNH"
+   ]
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Số TT",
+     "Tên và ký hiệu tài sản; quy mô, công suất (riêng đối với thiết bị ghi rõ thêm chủng loại, xuất xứ, năm sản xuất)",
+     "Đơn vị tính",
+     "Số lượng",
+     "Giá đơn vị\n(đồng)",
+     "Tổng nguyên giá\n(đồng)",
+     "Ngày đưa tài sản vào sử dụng",
+     "Đơn vị tiếp nhận sử dụng\n(nếu có)"
+    ],
+    "rong": [
+     1,
+     5,
+     1,
+     1,
+     2,
+     2,
+     2,
+     2
+    ],
+    "dong": [
+     [
+      "1",
+      "..."
+     ],
+     [
+      "2",
+      "..."
+     ],
+     [
+      "...",
+      ""
+     ]
+    ]
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LẬP BIỂU",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     "..., ngày ... tháng ... năm ....\nCHỦ ĐẦU TƯ",
+     "(Ký, đóng dấu, ghi rõ họ tên)"
+    ]
+   ]
+  ]
+ ]
+}

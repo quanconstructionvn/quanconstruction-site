@@ -1,0 +1,493 @@
+{
+ "ma": "tt73-m10",
+ "ten": "Quyết định phê duyệt quyết toán vốn đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập, công trình, hạng mục công trình độc lập)",
+ "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+ "nguon": "Mẫu số 10/QTDA ban hành kèm theo Thông tư 73/2026/TT-BTC",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "73-2026-tt-btc",
+   "4",
+   "khoản 4 Điều 4 Thông tư 73/2026/TT-BTC"
+  ],
+  [
+   "193-2026-nd-cp",
+   "19",
+   "khoản 1 Điều 19 Nghị định 193/2026/NĐ-CP"
+  ],
+  [
+   "73-2026-tt-btc",
+   "3",
+   "khoản 10 Điều 3"
+  ]
+ ],
+ "dung_khi": "Cơ quan chủ trì thẩm tra lập dự thảo quyết định phê duyệt quyết toán trong hồ sơ trình người có thẩm quyền phê duyệt quyết toán (khoản 4 Điều 4 Thông tư 73/2026/TT-BTC; khoản 1 Điều 19 Nghị định 193/2026/NĐ-CP).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 10/QTDA"
+  ],
+  [
+   "p",
+   {
+    "t": "(kèm theo Thông tư số 73/2026/TT-BTC\nngày 25 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "CƠ QUAN PHÊ DUYỆT",
+     "——",
+     "Số: .../QĐ-..."
+    ],
+    "ngay": "..., ngày ... tháng ... năm ..."
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "QUYẾT ĐỊNH",
+    "Về việc phê duyệt quyết toán vốn đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập, công trình, hạng mục công trình độc lập)",
+    "____________"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "THẨM QUYỀN BAN HÀNH",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ: ...",
+    "i": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "QUYẾT ĐỊNH:",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Điều 1. Phê duyệt quyết toán vốn đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập, công trình, hạng mục công trình độc lập)",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "- Tên dự án: ..."
+  ],
+  [
+   "p",
+   "- Tên dự án thành phần, tiểu dự án độc lập, công trình, hạng mục công trình độc lập (nếu có): ..."
+  ],
+  [
+   "p",
+   "- Chủ đầu tư: ..."
+  ],
+  [
+   "p",
+   "- Địa điểm xây dựng: ..."
+  ],
+  [
+   "p",
+   "- Thời gian (ngày, tháng, năm) khởi công, hoàn thành (thực tế): ... - ..."
+  ],
+  [
+   "p",
+   {
+    "t": "Điều 2. Kết quả đầu tư",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "1. Chi phí đầu tư:"
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị tính: đồng",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Số TT",
+     "Nội dung",
+     "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối",
+     "Giá trị quyết toán được phê duyệt"
+    ],
+    "dong": [
+     [
+      "",
+      "Tổng số",
+      "",
+      ""
+     ],
+     [
+      "1",
+      "Bồi thường, hỗ trợ, tái định cư",
+      "",
+      ""
+     ],
+     [
+      "2",
+      "Xây dựng",
+      "",
+      ""
+     ],
+     [
+      "3",
+      "Thiết bị",
+      "",
+      ""
+     ],
+     [
+      "4",
+      "Quản lý dự án",
+      "",
+      ""
+     ],
+     [
+      "5",
+      "Tư vấn xây dựng",
+      "",
+      ""
+     ],
+     [
+      "6",
+      "Chi phí khác",
+      "",
+      ""
+     ],
+     [
+      "7",
+      "Dự phòng",
+      "",
+      ""
+     ]
+    ],
+    "rong": [
+     1,
+     4,
+     4,
+     2
+    ]
+   }
+  ],
+  [
+   "p",
+   "2. Vốn đầu tư:"
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị tính: đồng",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Số TT",
+     "Nội dung",
+     "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối",
+     "Giá trị quyết toán được phê duyệt"
+    ],
+    "dong": [
+     [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     [
+      "",
+      "Tổng số (1+2+3+4)",
+      "",
+      ""
+     ],
+     [
+      "1",
+      "Vốn đầu tư công",
+      "",
+      ""
+     ],
+     [
+      "1.1",
+      "Vốn ngân sách nhà nước",
+      "",
+      ""
+     ],
+     [
+      "",
+      "- Vốn ngân sách trung ương (ghi chi tiết vốn)\n+ Vốn ...\n+ Vốn ...\n- Vốn ngân sách địa phương (ghi chi tiết vốn)\n+ Vốn ...\n+ Vốn ...",
+      "",
+      ""
+     ],
+     [
+      "1.2",
+      "Vốn từ nguồn thu hợp pháp khác",
+      "",
+      ""
+     ],
+     [
+      "2",
+      "Vốn chi thường xuyên",
+      "",
+      ""
+     ],
+     [
+      "",
+      "- Vốn ngân sách trung ương (ghi chi tiết vốn)\n+ Vốn ...\n+ Vốn ...\n- Vốn ngân sách địa phương (ghi chi tiết vốn)\n+ Vốn ...\n+ Vốn ...",
+      "",
+      ""
+     ],
+     [
+      "3",
+      "Vốn ngân sách nhà nước khác không thuộc phạm vi điều chỉnh của pháp luật về đầu tư công",
+      "",
+      ""
+     ],
+     [
+      "",
+      "- Vốn...",
+      "",
+      ""
+     ],
+     [
+      "",
+      "- Vốn...",
+      "",
+      ""
+     ],
+     [
+      "4",
+      "Vốn khác (nếu có)",
+      "",
+      ""
+     ],
+     [
+      "",
+      "- Vốn...",
+      "",
+      ""
+     ],
+     [
+      "",
+      "- Vốn...",
+      "",
+      ""
+     ]
+    ],
+    "rong": [
+     1,
+     5,
+     3,
+     2
+    ]
+   }
+  ],
+  [
+   "p",
+   "3. Chi phí đầu tư được phép không tính vào giá trị tài sản:........đồng; trong đó:"
+  ],
+  [
+   "p",
+   "3.1. Chi phí thiệt hại do các nguyên nhân bất khả kháng: ........đồng."
+  ],
+  [
+   "p",
+   "3.2. Chi phí không tạo nên tài sản: ........đồng."
+  ],
+  [
+   "p",
+   "4. Giá trị tài sản hình thành: .........đồng, chi tiết tại phụ lục số ... kèm theo (nếu có)."
+  ],
+  [
+   "p",
+   "5. Giá trị vật tư, vật liệu, thiết bị tồn đọng (nếu có): ........đồng."
+  ],
+  [
+   "p",
+   {
+    "t": "Điều 3. Trách nhiệm của chủ đầu tư và các đơn vị liên quan",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "1.Trách nhiệm của chủ đầu tư"
+  ],
+  [
+   "p",
+   "1.1. Được phép tất toán chi phí và vốn đầu tư là.......đồng; chi tiết:"
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị tính: đồng",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Số TT",
+     "Nội dung",
+     "Số tiền",
+     "Ghi chú"
+    ],
+    "dong": [
+     [
+      "",
+      "Tổng số (1+2+3+4)",
+      "",
+      ""
+     ],
+     [
+      "1",
+      "Vốn đầu tư công",
+      "",
+      ""
+     ],
+     [
+      "1.1",
+      "Vốn ngân sách nhà nước",
+      "",
+      ""
+     ],
+     [
+      "",
+      "- Vốn ngân sách trung ương (ghi chi tiết vốn)\n+ Vốn ...\n+ Vốn ...\n- Vốn ngân sách địa phương (ghi chi tiết vốn)\n+ Vốn ...\n+ Vốn ...",
+      "",
+      ""
+     ],
+     [
+      "1.2",
+      "Vốn từ nguồn thu hợp pháp khác",
+      "",
+      ""
+     ],
+     [
+      "2",
+      "Vốn chi thường xuyên",
+      "",
+      ""
+     ],
+     [
+      "",
+      "- Vốn ngân sách trung ương (ghi chi tiết vốn)\n+ Vốn ...\n+ Vốn ...\n- Vốn ngân sách địa phương (ghi chi tiết vốn)\n+ Vốn ...\n+ Vốn ...",
+      "",
+      ""
+     ],
+     [
+      "3",
+      "Vốn ngân sách nhà nước khác không thuộc phạm vi điều chỉnh của pháp luật về đầu tư công",
+      "",
+      ""
+     ],
+     [
+      "",
+      "- Vốn ...",
+      "",
+      ""
+     ],
+     [
+      "",
+      "- Vốn ...",
+      "",
+      ""
+     ],
+     [
+      "4",
+      "Vốn khác (nếu có)",
+      "",
+      ""
+     ],
+     [
+      "",
+      "- Vốn ...",
+      "",
+      ""
+     ],
+     [
+      "",
+      "- Vốn ...",
+      "",
+      ""
+     ]
+    ],
+    "rong": [
+     1,
+     5,
+     2,
+     2
+    ]
+   }
+  ],
+  [
+   "p",
+   "1.2. Các khoản công nợ tính đến ngày ... tháng ... năm ...:"
+  ],
+  [
+   "p",
+   "- Tổng nợ phải thu: ... đồng."
+  ],
+  [
+   "p",
+   "- Tổng nợ phải trả: ... đồng."
+  ],
+  [
+   "p",
+   "Các khoản phải thu, phải trả của từng đơn vị, cá nhân được chi tiết tại phụ lục số ... kèm theo (nếu có)."
+  ],
+  [
+   "p",
+   "2. Trách nhiệm của các đơn vị liên quan (nếu có)"
+  ],
+  [
+   "p",
+   "3. Các nghiệp vụ khác (nếu có)."
+  ],
+  [
+   "p",
+   {
+    "t": "Điều 4: Trách nhiệm thi hành",
+    "b": true
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "Nơi nhận:\n(Ghi theo quy định tại Khoản 3 Điều 19 Nghị định số 193/2026/NĐ-CP ngày 01/6/2026 của Chính phủ)",
+     ""
+    ],
+    [
+     "NGƯỜI CÓ THẨM QUYỀN PHÊ DUYỆT QUYẾT TOÁN",
+     "(Ký, đóng dấu, ghi rõ họ tên)"
+    ]
+   ]
+  ]
+ ]
+}

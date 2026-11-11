@@ -1,0 +1,116 @@
+{
+ "ma": "nd207-nd-bao-cao-su-co",
+ "ten": "Báo cáo sự cố công trình xây dựng",
+ "nhom": "Thi công – nghiệm thu (NĐ 207/2026, theo nội dung bắt buộc)",
+ "nguon": "khoản 2 Điều 45 Nghị định 207/2026/NĐ-CP",
+ "loai": "noi-dung",
+ "can_cu": [
+  [
+   "207-2026-nd-cp",
+   "45",
+   "khoản 2 Điều 45"
+  ]
+ ],
+ "dung_khi": "Trong vòng 24 giờ kể từ khi xảy ra sự cố, chủ đầu tư báo cáo bằng văn bản tới Ủy ban nhân dân cấp tỉnh nơi xảy ra sự cố (sự cố có thiệt hại về người: gửi thêm Bộ Xây dựng và cơ quan có thẩm quyền).",
+ "khoi": [
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "CHỦ ĐẦU TƯ ……………",
+     "Số: ……"
+    ],
+    "ngay": "……, ngày … tháng … năm ……"
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BÁO CÁO SỰ CỐ CÔNG TRÌNH XÂY DỰNG"
+   ]
+  ],
+  [
+   "p",
+   "Kính gửi: Ủy ban nhân dân tỉnh/thành phố ……………………"
+  ],
+  [
+   "p",
+   {
+    "t": "1. Tên công trình, vị trí xây dựng, quy mô công trình:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "Tên công trình: ……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "Vị trí xây dựng: ……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "Quy mô công trình: ……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   {
+    "t": "2. Tên các tổ chức, cá nhân tham gia xây dựng công trình:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   {
+    "t": "3. Mô tả về sự cố, tình trạng công trình xây dựng khi xảy ra sự cố, thời điểm xảy ra sự cố:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "Thời điểm xảy ra sự cố: … giờ … ngày … tháng … năm ……"
+  ],
+  [
+   "p",
+   "……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   {
+    "t": "4. Thiệt hại về người và tài sản (nếu có):",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "……………………………………………………………………………………"
+  ],
+  [
+   "ky",
+   [
+    [
+     "CHỦ ĐẦU TƯ",
+     "(Ký, ghi rõ họ tên, chức vụ, đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "Ghi chú: Ngay sau khi xảy ra sự cố, chủ đầu tư phải thông báo bằng biện pháp nhanh nhất cho Ủy ban nhân dân cấp xã nơi xảy ra sự cố và cơ quan cấp trên (nếu có) (khoản 1 Điều 45). Sự cố trong quá trình khai thác, sử dụng: chủ sở hữu hoặc chủ quản lý, sử dụng công trình thực hiện báo cáo (khoản 5 Điều 45)."
+   ]
+  ]
+ ]
+}

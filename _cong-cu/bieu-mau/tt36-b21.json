@@ -1,0 +1,176 @@
+{
+ "ma": "tt36-b21",
+ "ten": "Tổng hợp dự toán xây dựng công trình",
+ "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+ "nguon": "Bảng 2.1 Phụ lục II Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "89-2026-vbhn-nd-bxd",
+   "6",
+   "Điều 6 Thông tư 36/2026/TT-BXD"
+  ],
+  [
+   "89-2026-vbhn-nd-bxd",
+   "16",
+   "Phụ lục II Thông tư 36/2026/TT-BXD"
+  ]
+ ],
+ "dung_khi": "Tổng hợp dự toán xây dựng công trình theo công thức (2.1) Phụ lục II (Điều 6). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP.",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục II"
+  ],
+  [
+   "tieu_de",
+   [
+    "PHƯƠNG PHÁP XÁC ĐỊNH DỰ TOÁN XÂY DỰNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Thông tư số 36/2026/TT-BXD ngày 26 tháng 6 năm 2026\ncủa Bộ trưởng Bộ Xây dựng)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Bảng 2.1: TỔNG HỢP DỰ TOÁN XÂY DỰNG CÔNG TRÌNH",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "Dự án:...................................................................................................................."
+  ],
+  [
+   "p",
+   "Công trình:.............................................................................................................."
+  ],
+  [
+   "p",
+   "Đơn vị tính..."
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "STT",
+     "NỘI DUNG CHI PHÍ",
+     "GIÁ TRỊ TRƯỚC THUẾ",
+     "THUẾ GTGT",
+     "GIÁ TRỊ SAU THUẾ",
+     "KÝ HIỆU"
+    ],
+    "rong": [
+     1,
+     5,
+     2,
+     2,
+     2,
+     1.5
+    ],
+    "dong": [
+     [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[4]",
+      "[5]",
+      "[6]"
+     ],
+     [
+      "1",
+      "Chi phí xây dựng",
+      "",
+      "",
+      "",
+      "GXD"
+     ],
+     [
+      "2",
+      "Chi phí thiết bị",
+      "",
+      "",
+      "",
+      "GTB"
+     ],
+     [
+      "3",
+      "Chi phí quản lý dự án",
+      "",
+      "",
+      "",
+      "GQLDA"
+     ],
+     [
+      "4",
+      "Chi phí tư vấn xây dựng",
+      "",
+      "",
+      "",
+      "GTV"
+     ],
+     [
+      "5",
+      "Chi phí khác",
+      "",
+      "",
+      "",
+      "GK"
+     ],
+     [
+      "6",
+      "Chi phí dự phòng (GDP1 + GDP2)",
+      "",
+      "",
+      "",
+      "GDP"
+     ],
+     [
+      "6.1",
+      "Chi phí dự phòng cho khối lượng, công việc phát sinh",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "6.2",
+      "Chi phí dự phòng cho yếu tố trượt giá",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "TỔNG CỘNG ( 1+2+3+4+5+6)",
+      "",
+      "",
+      "",
+      "GXDCT"
+     ]
+    ]
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LẬP",
+     "(Ký, họ tên)"
+    ],
+    [
+     "NGƯỜI CHỦ TRÌ",
+     "(Ký, họ tên)"
+    ]
+   ]
+  ]
+ ]
+}

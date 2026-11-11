@@ -1,0 +1,213 @@
+{
+ "ma": "nd212-pl3-m01",
+ "ten": "Đơn đề nghị cấp chứng chỉ hành nghề hoạt động xây dựng",
+ "nhom": "Năng lực hoạt động xây dựng (NĐ 212/2026)",
+ "nguon": "Mẫu số 01 Phụ lục III ban hành kèm theo Nghị định 212/2026/NĐ-CP ngày 17/6/2026 của Chính phủ",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "212-2026-nd-cp",
+   "39",
+   "điểm a khoản 1 Điều 39 Nghị định 212/2026/NĐ-CP"
+  ],
+  [
+   "212-2026-nd-cp",
+   "29",
+   "khoản 1 Điều 29"
+  ],
+  [
+   "212-2026-nd-cp",
+   "30",
+   "Điều 30"
+  ]
+ ],
+ "dung_khi": "Cá nhân nộp kèm hồ sơ đề nghị cấp mới hoặc cấp lại chứng chỉ hành nghề hoạt động xây dựng (điểm a khoản 1 Điều 39 Nghị định 212/2026/NĐ-CP); nộp trực tuyến thì kê khai trên biểu mẫu điện tử tại Cổng dịch vụ công quốc gia.",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 01"
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [],
+    "ngay": "………….., ngày … tháng … năm …"
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "ĐƠN ĐỀ NGHỊ",
+    "Cấp chứng chỉ hành nghề hoạt động xây dựng"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "Kính gửi: (Tên cơ quan có thẩm quyền)",
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "1. Họ và tên: ……………………………………………………………………………………………………………."
+  ],
+  [
+   "p",
+   "2. Ngày, tháng, năm sinh(1): …………………………………..3. Quốc tịch:…………………………………."
+  ],
+  [
+   "p",
+   "4. Số định danh cá nhân/Số căn cước/Số hộ chiếu: ……………………..Ngày cấp:…………………"
+  ],
+  [
+   "p",
+   "Nơi cấp……………………………………………………………………………………………………………………."
+  ],
+  [
+   "p",
+   "5. Địa chỉ thường trú:"
+  ],
+  [
+   "p",
+   "…………………………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "6. Số điện thoại(2):………………………"
+  ],
+  [
+   "p",
+   "Địa chỉ hòm thư điện tử:……………………………………………."
+  ],
+  [
+   "p",
+   "7. Đơn vị công tác:"
+  ],
+  [
+   "p",
+   "……………………………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "8. Trình độ chuyên môn (ghi rõ cơ sở đào tạo, chuyên ngành đào tạo): ………………………"
+  ],
+  [
+   "p",
+   "9. Thời gian kinh nghiệm liên quan đến lĩnh vực đề nghị cấp chứng chỉ hành nghề:"
+  ],
+  [
+   "p",
+   "……….. năm."
+  ],
+  [
+   "p",
+   "10. Chứng chỉ hành nghề số: ………………………………… Ngày cấp: ………………………………."
+  ],
+  [
+   "p",
+   "Nơi cấp: ……………………"
+  ],
+  [
+   "p",
+   "Lĩnh vực hoạt động xây dựng ………………………………………………………………………………….."
+  ],
+  [
+   "p",
+   "11. Quá trình hoạt động chuyên môn trong xây dựng(3):"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "STT",
+     "Thời gian công tác (Từ tháng, năm đến tháng, năm)",
+     "Đơn vị công tác/ Hoạt động độc lập (Ghi rõ tên đơn vị)",
+     "Kê khai kinh nghiệm thực hiện công việc tiêu biểu",
+     "Ghi chú"
+    ],
+    "dong": [
+     [
+      "1",
+      "",
+      "",
+      "1. Tên Dự án/công trình/hạng mục công trình: ………..\nNhóm dự án/Cấp công trình: ………\nLoại công trình: ………………………..\nĐịa điểm xây dựng công trình:\nChủ đầu tư: …………………..\nChức danh/Nội dung công việc thực hiện: ………………………..\n2. ….",
+      ""
+     ],
+     [
+      "2",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "…",
+      "",
+      "",
+      "",
+      ""
+     ]
+    ],
+    "rong": [
+     1,
+     2,
+     2,
+     5,
+     1
+    ]
+   }
+  ],
+  [
+   "p",
+   "Đề nghị cấp chứng chỉ hành nghề hoạt động xây dựng với nội dung như sau:"
+  ],
+  [
+   "p",
+   "Lĩnh vực hành nghề: …………………………………………………"
+  ],
+  [
+   "p",
+   "Hạng: ………………."
+  ],
+  [
+   "p",
+   "□ Cấp mới"
+  ],
+  [
+   "p",
+   "□ Cấp lại"
+  ],
+  [
+   "p",
+   "Lý do đề nghị cấp lại chứng chỉ: ……………………………………………………………"
+  ],
+  [
+   "p",
+   "Tôi xin chịu trách nhiệm về tính chính xác, hợp pháp của hồ sơ, nội dung kê khai trong đơn và cam kết hành nghề hoạt động xây dựng theo đúng nội dung ghi trong chứng chỉ hành nghề được cấp và tuân thủ các quy định của pháp luật có liên quan."
+  ],
+  [
+   "p",
+   "□ Nhận chứng chỉ bản giấy (nếu cá nhân yêu cầu)"
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LÀM ĐƠN",
+     "(Ký và ghi rõ họ, tên)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "Ghi chú:",
+    "(1) Có thể thay thế các thông tin ngày, tháng, năm sinh, quốc tịch, số căn cước/căn cước công dân/hộ chiếu, địa chỉ thường trú bằng mã số định danh cá nhân.",
+    "(2) Số điện thoại, địa chỉ hòm thư điện tử phải là thông tin của cá nhân đề nghị cấp chứng chỉ hành nghề.",
+    "(3) Không yêu cầu kê khai trong trường hợp cá nhân cấp lại chứng chỉ hành nghề.",
+    "* Việc tiếp nhận hồ sơ, trả kết quả thực hiện theo quy định về thủ tục hành chính không phụ thuộc vào địa giới hành chính và điều kiện tổ chức thực hiện của cơ quan có thẩm quyền."
+   ]
+  ]
+ ]
+}

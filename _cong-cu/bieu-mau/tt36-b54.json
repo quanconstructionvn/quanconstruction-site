@@ -1,0 +1,234 @@
+{
+ "ma": "tt36-b54",
+ "ten": "Tổng hợp dự toán chi phí khảo sát xây dựng",
+ "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+ "nguon": "Bảng 5.4 Phụ lục V Thông tư 36/2026/TT-BXD (đã đối chiếu QĐ 1538/QĐ-BXD đính chính)",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "89-2026-vbhn-nd-bxd",
+   "14",
+   "điểm c khoản 1 Điều 14 Thông tư 36/2026/TT-BXD"
+  ],
+  [
+   "89-2026-vbhn-nd-bxd",
+   "16",
+   "Phụ lục V Thông tư 36/2026/TT-BXD"
+  ]
+ ],
+ "dung_khi": "Tổng hợp dự toán chi phí khảo sát xây dựng, vì chi phí khảo sát xây dựng được xác định bằng dự toán theo hướng dẫn tại Phụ lục V (điểm c khoản 1 Điều 14). Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026.",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục V"
+  ],
+  [
+   "tieu_de",
+   [
+    "PHƯƠNG PHÁP XÁC ĐỊNH DỰ TOÁN CHI PHÍ KHẢO SÁT XÂY DỰNG VÀ CHI PHÍ THÍ NGHIỆM CHUYÊN NGÀNH XÂY DỰNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Thông tư số 36/2026/TT-BXD ngày 26 tháng 6 năm 2026\ncủa Bộ trưởng Bộ Xây dựng)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Bảng 5.4: TỔNG HỢP DỰ TOÁN CHI PHÍ KHẢO SÁT XÂY DỰNG",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "Dự án:...................................................................................................................."
+  ],
+  [
+   "p",
+   "Công trình:.............................................................................................................."
+  ],
+  [
+   "p",
+   "Đơn vị tính:..."
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "STT",
+     "NỘI DUNG CHI PHÍ",
+     "CÁCH TÍNH",
+     "GIÁ TRỊ",
+     "KÝ HIỆU"
+    ],
+    "rong": [
+     1,
+     5.5,
+     3.5,
+     2,
+     1.5
+    ],
+    "dong": [
+     [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[4]",
+      "[5]"
+     ],
+     [
+      "I",
+      "CHI PHÍ TRỰC TIẾP",
+      "",
+      "",
+      ""
+     ],
+     [
+      "1",
+      "Chi phí vật liệu, nhiên liệu",
+      "Σ(j=1→m) Qj x Dj^vl",
+      "",
+      "VL"
+     ],
+     [
+      "2",
+      "Chi phí nhân công",
+      "Σ(j=1→m) Qj x Dj^nc",
+      "",
+      "NC"
+     ],
+     [
+      "3",
+      "Chi phí máy và thiết bị khảo sát",
+      "Σ(j=1→m) Qj x Dj^mks",
+      "",
+      "M"
+     ],
+     [
+      "",
+      "Chi phí trực tiếp",
+      "VL + NC + M",
+      "",
+      "T"
+     ],
+     [
+      "II",
+      "CHI PHÍ GIÁN TIẾP",
+      "",
+      "",
+      ""
+     ],
+     [
+      "1",
+      "Chi phí chung",
+      "NC x Tỷ lệ",
+      "",
+      "C"
+     ],
+     [
+      "2",
+      "Chi phí một số công việc không xác định được khối lượng từ thiết kế",
+      "T x Tỷ lệ",
+      "",
+      "TT"
+     ],
+     [
+      "",
+      "Chi phí gián tiếp",
+      "C + TT",
+      "",
+      "GT"
+     ],
+     [
+      "III",
+      "THU NHẬP CHỊU THUẾ TÍNH TRƯỚC",
+      "(T + GT) x 6%",
+      "",
+      "TL"
+     ],
+     [
+      "IV",
+      "CHI PHÍ PHỤC VỤ CÔNG TÁC KHẢO SÁT XÂY DỰNG",
+      "",
+      "",
+      "Cpvks"
+     ],
+     [
+      "1",
+      "Chi phí lập phương án kỹ thuật khảo sát xây dựng",
+      "(T+GT+TL) x Tỷ lệ",
+      "",
+      ""
+     ],
+     [
+      "2",
+      "Chi phí lập báo cáo kết quả khảo sát xây dựng",
+      "(T+GT+TL) x Tỷ lệ",
+      "",
+      ""
+     ],
+     [
+      "3",
+      "Chi phí khác phục vụ khảo sát",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "Chi phí khảo sát xây dựng trước thuế",
+      "(T+GT+TL) + Cpvks",
+      "",
+      "G"
+     ],
+     [
+      "V",
+      "THUẾ GIÁ TRỊ GIA TĂNG",
+      "G x TGTGT",
+      "",
+      "GTGT"
+     ],
+     [
+      "VI",
+      "CHI PHÍ NHÀ TẠM ĐỂ Ở VÀ ĐIỀU HÀNH THI CÔNG",
+      "(G+GTGT) x Tỷ lệ",
+      "",
+      "LT"
+     ],
+     [
+      "VII",
+      "CHI PHÍ DỰ PHÒNG",
+      "(G + GTGT) x Tỷ lệ",
+      "",
+      "Cdp"
+     ],
+     [
+      "",
+      "Chi phí khảo sát xây dựng",
+      "G + GTGT +LT+ Cdp",
+      "",
+      "Gks"
+     ]
+    ]
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LẬP",
+     "(Ký, họ tên)"
+    ],
+    [
+     "NGƯỜI CHỦ TRÌ",
+     "(Ký, họ tên)"
+    ]
+   ]
+  ]
+ ]
+}

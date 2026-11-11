@@ -1,0 +1,273 @@
+{
+ "ma": "nd207-nd-bien-ban-nghiem-thu-hoan-thanh",
+ "ten": "Biên bản nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng",
+ "nhom": "Thi công – nghiệm thu (NĐ 207/2026, theo nội dung bắt buộc)",
+ "nguon": "khoản 5, 6 Điều 24 Nghị định 207/2026/NĐ-CP",
+ "loai": "noi-dung",
+ "can_cu": [
+  [
+   "207-2026-nd-cp",
+   "24",
+   "khoản 5, 6 Điều 24"
+  ]
+ ],
+ "dung_khi": "Chủ đầu tư tổ chức nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng trước khi đưa vào sử dụng (cả nghiệm thu một phần, nghiệm thu có điều kiện – khoản 2, 3 Điều 24).",
+ "khoi": [
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "……………………………",
+     "(Tên công trình/dự án)"
+    ],
+    "ngay": "……, ngày … tháng … năm ……"
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BIÊN BẢN NGHIỆM THU HOÀN THÀNH",
+    "HẠNG MỤC CÔNG TRÌNH, CÔNG TRÌNH XÂY DỰNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "1. Tên hạng mục công trình, công trình xây dựng được nghiệm thu:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   {
+    "t": "2. Thời gian và địa điểm nghiệm thu:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "Thời gian: ……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "Địa điểm: ……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   {
+    "t": "3. Thành phần ký biên bản nghiệm thu:",
+    "b": true
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Chức vụ / vai trò",
+     "Họ và tên",
+     "Chữ ký"
+    ],
+    "dong": [
+     [
+      "Người đại diện theo pháp luật của chủ đầu tư hoặc người được ủy quyền",
+      "",
+      ""
+     ],
+     [
+      "Người đại diện theo pháp luật của nhà thầu giám sát thi công xây dựng hoặc người được ủy quyền",
+      "",
+      ""
+     ],
+     [
+      "Giám sát trưởng",
+      "",
+      ""
+     ],
+     [
+      "Người đại diện theo pháp luật hoặc người được ủy quyền của nhà thầu chính thi công xây dựng",
+      "",
+      ""
+     ],
+     [
+      "Chỉ huy trưởng của nhà thầu chính thi công xây dựng",
+      "",
+      ""
+     ],
+     [
+      "Người đại diện theo pháp luật hoặc người được ủy quyền của nhà thầu thiết kế (theo hợp đồng với chủ đầu tư)",
+      "",
+      ""
+     ],
+     [
+      "Chủ nhiệm thiết kế",
+      "",
+      ""
+     ],
+     [
+      "Người đại diện theo pháp luật của cơ quan có thẩm quyền ký hợp đồng dự án hoặc người được ủy quyền (dự án PPP)",
+      "",
+      ""
+     ]
+    ],
+    "rong": [
+     5,
+     3,
+     2
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "4. Đánh giá việc đáp ứng các điều kiện nghiệm thu (khoản 1 Điều 24):",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "a) Các công việc xây dựng đã được thi công đầy đủ theo hồ sơ thiết kế xây dựng được phê duyệt: ……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "b) Công tác nghiệm thu công việc xây dựng, bộ phận, giai đoạn trong quá trình thi công được thực hiện đầy đủ: ……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "c) Kết quả thí nghiệm, quan trắc, kiểm tra, kiểm định, thử nghiệm, chạy thử bảo đảm các yêu cầu kỹ thuật theo quy định của thiết kế xây dựng: ……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "d) Tuân thủ các quy định của pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ, bảo vệ môi trường và pháp luật chuyên ngành khác có liên quan: ……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "Sự phù hợp của hạng mục công trình, công trình đã thi công so với yêu cầu thiết kế, chỉ dẫn kỹ thuật và các yêu cầu khác của hợp đồng xây dựng: ……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   {
+    "t": "5. Đánh giá sự phù hợp của việc thi công xây dựng công trình theo thiết kế đã được thẩm định về phòng cháy và chữa cháy:",
+    "b": true
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Nội dung",
+     "Đánh giá"
+    ],
+    "dong": [
+     [
+      "Khoảng cách phòng cháy, chữa cháy",
+      ""
+     ],
+     [
+      "Đường bộ, bãi đỗ, khoảng trống phục vụ hoạt động phòng cháy, chữa cháy, cứu nạn, cứu hộ",
+      ""
+     ],
+     [
+      "Giải pháp thoát nạn",
+      ""
+     ],
+     [
+      "Bậc chịu lửa, giải pháp ngăn cháy, chống cháy lan",
+      ""
+     ],
+     [
+      "Giải pháp chống khói",
+      ""
+     ],
+     [
+      "Các quy định khác của pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ",
+      ""
+     ]
+    ],
+    "rong": [
+     6,
+     4
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "6. Kết luận nghiệm thu:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "– Chấp thuận / không chấp thuận nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng: ……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "– Yêu cầu sửa chữa, hoàn thiện bổ sung và các ý kiến khác (nếu có): ……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   {
+    "t": "7. Thời điểm tính bảo hành và thời gian bảo hành hạng mục công trình, công trình xây dựng:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "……………………………………………………………………………………"
+  ],
+  [
+   "p",
+   {
+    "t": "8. Chữ ký, họ và tên, chức vụ và đóng dấu pháp nhân của người ký biên bản nghiệm thu:",
+    "b": true
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "CHỦ ĐẦU TƯ",
+     "(Ký, ghi rõ họ tên, chức vụ, đóng dấu)"
+    ],
+    [
+     "NHÀ THẦU GIÁM SÁT",
+     "(Ký, ghi rõ họ tên, chức vụ, đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "ky",
+   [
+    [
+     "NHÀ THẦU THI CÔNG XÂY DỰNG",
+     "(Ký, ghi rõ họ tên, chức vụ, đóng dấu)"
+    ],
+    [
+     "NHÀ THẦU THIẾT KẾ",
+     "(Ký, ghi rõ họ tên, chức vụ, đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "9. Phụ lục kèm theo (nếu có):",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "……………………………………………………………………………………"
+  ],
+  [
+   "ghi_chu",
+   [
+    "Ghi chú: Nhà thầu là liên danh thì phải có đầy đủ người đại diện theo pháp luật hoặc người được ủy quyền và giám sát trưởng/chỉ huy trưởng của từng thành viên liên danh (điểm b, c khoản 6 Điều 24). Nghiệm thu một phần công trình phải nêu rõ phần công trình được nghiệm thu; nghiệm thu có điều kiện phải nêu rõ các tồn tại, công việc cần tiếp tục, thời gian hoàn thành và giới hạn phạm vi sử dụng (nếu có) (khoản 2, 3 Điều 24)."
+   ]
+  ]
+ ]
+}

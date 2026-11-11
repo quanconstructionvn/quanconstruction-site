@@ -1,0 +1,184 @@
+{
+ "ma": "tt36-b43",
+ "ten": "Tổng hợp giá nhóm công tác xây dựng",
+ "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+ "nguon": "Bảng 4.3 Phụ lục IV Thông tư 36/2026/TT-BXD (đã đối chiếu QĐ 1538/QĐ-BXD đính chính)",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "89-2026-vbhn-nd-bxd",
+   "12",
+   "khoản 3 Điều 12 Thông tư 36/2026/TT-BXD"
+  ],
+  [
+   "89-2026-vbhn-nd-bxd",
+   "16",
+   "Phụ lục IV Thông tư 36/2026/TT-BXD"
+  ]
+ ],
+ "dung_khi": "Tổng hợp giá nhóm công tác xây dựng từ giá các công tác xây dựng khi chủ đầu tư, đơn vị tư vấn tự xác định giá theo Phụ lục IV (khoản 3 Điều 12). Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026.",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục IV"
+  ],
+  [
+   "tieu_de",
+   [
+    "PHƯƠNG PHÁP XÁC ĐỊNH GIÁ CÔNG TÁC XÂY DỰNG VÀ GIÁ NHÓM CÔNG TÁC XÂY DỰNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Thông tư số 36/2026/TT-BXD ngày 26 tháng 6 năm 2026\ncủa Bộ trưởng Bộ Xây dựng)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Bảng 4.3: TỔNG HỢP GIÁ NHÓM CÔNG TÁC XÂY DỰNG",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "Dự án:...................................................................................................................."
+  ],
+  [
+   "p",
+   "Công trình:.............................................................................................................."
+  ],
+  [
+   "p",
+   "Đơn vị tính:..."
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "TÊN NHÓM CÔNG TÁC XÂY DỰNG",
+     "MÃ HIỆU GIÁ CÔNG TÁC XÂY DỰNG",
+     "TÊN CÔNG TÁC",
+     "ĐƠN VỊ TÍNH",
+     "KHỐI LƯỢNG",
+     "GIÁ YẾU TỐ CHI PHÍ – VẬT LIỆU",
+     "GIÁ YẾU TỐ CHI PHÍ – NHÂN CÔNG",
+     "GIÁ YẾU TỐ CHI PHÍ – MÁY THI CÔNG",
+     "THÀNH TIỀN – VẬT LIỆU",
+     "THÀNH TIỀN – NHÂN CÔNG",
+     "THÀNH TIỀN – MÁY THI CÔNG"
+    ],
+    "rong": [
+     2.2,
+     1.6,
+     2,
+     1,
+     1.1,
+     1.3,
+     1.3,
+     1.3,
+     1.3,
+     1.3,
+     1.3
+    ],
+    "dong": [
+     [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[4]",
+      "[5]",
+      "[6]",
+      "[7]",
+      "[8]",
+      "[9]",
+      "[10]",
+      "[11]"
+     ],
+     [
+      "Giá nhóm công tác xây dựng 1",
+      "DG.1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "DG.2",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "...",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "TỔNG CỘNG",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "VL",
+      "NC",
+      "M"
+     ],
+     [
+      "Giá nhóm công tác xây dựng 2",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "…",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ]
+    ]
+   }
+  ]
+ ]
+}

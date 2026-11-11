@@ -1,0 +1,470 @@
+{
+ "ma": "tt73-m08",
+ "ten": "Báo cáo quyết toán vốn đầu tư dự án (dự án quy hoạch, chuẩn bị đầu tư, dừng thực hiện chưa có khối lượng)",
+ "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+ "nguon": "Mẫu số 08/QTDA ban hành kèm theo Thông tư 73/2026/TT-BTC",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "73-2026-tt-btc",
+   "4",
+   "khoản 2 Điều 4 Thông tư 73/2026/TT-BTC"
+  ],
+  [
+   "193-2026-nd-cp",
+   "7",
+   "khoản 2 Điều 7 Nghị định 193/2026/NĐ-CP"
+  ],
+  [
+   "73-2026-tt-btc",
+   "3",
+   "khoản 8 Điều 3"
+  ]
+ ],
+ "dung_khi": "Dự án quy hoạch, dự án chuẩn bị đầu tư, dự án dừng thực hiện chưa có khối lượng thi công xây dựng, lắp đặt thiết bị được nghiệm thu (khoản 2 Điều 4 Thông tư 73/2026/TT-BTC).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 08/QTDA"
+  ],
+  [
+   "p",
+   {
+    "t": "(kèm theo Thông tư số 73/2026/TT-BTC\nngày 25 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "CHỦ ĐẦU TƯ",
+     "_____",
+     "Số:......../BC-THQTDA"
+    ],
+    "ngay": "..., ngày ... tháng ... năm ..."
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BÁO CÁO",
+    "Quyết toán vốn đầu tư dự án",
+    "____________"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "Dự án:...",
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "(Dùng cho dự án quy hoạch, dự án chuẩn bị đầu tư, dự án dừng thực hiện chưa có khối lượng\nthi công xây dựng, lắp đặt thiết bị)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "I. Văn bản pháp lý:",
+    "b": true
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Số TT",
+     "Tên văn bản",
+     "Số, ngày, tháng, năm ban hành",
+     "Tên cơ quan ban hành"
+    ],
+    "rong": [
+     1,
+     6,
+     3,
+     3
+    ],
+    "dong": [
+     [
+      "I",
+      "Hồ sơ pháp lý"
+     ],
+     [
+      "1",
+      "Quyết định phê duyệt dự án, dự toán"
+     ],
+     [
+      "2",
+      "Chủ trương lập quy hoạch hoặc chuẩn bị đầu tư dự án"
+     ],
+     [
+      "3",
+      "Văn bản phê duyệt đề cương (đối với dự án quy hoạch)"
+     ],
+     [
+      "4",
+      "Văn bản phê duyệt dự toán chi phí"
+     ],
+     [
+      "5",
+      "Văn bản phê duyệt dự án quy hoạch hoặc dự án chuẩn bị đầu tư"
+     ],
+     [
+      "6",
+      "Văn bản cho phép dừng thực hiện"
+     ],
+     [
+      "7",
+      "Các văn bản khác có liên quan"
+     ],
+     [
+      "...",
+      ""
+     ],
+     [
+      "II",
+      "Hợp đồng, phụ lục hợp đồng (nếu có)"
+     ],
+     [
+      "1",
+      "..."
+     ],
+     [
+      "...",
+      "..."
+     ],
+     [
+      "III",
+      "Kết luận của cơ quan Thanh tra, Kiểm toán nhà nước, kiểm tra, kết quả điều tra của các cơ quan pháp luật (trường hợp không có thì phải ghi cụ thể là “không có”)"
+     ],
+     [
+      "1",
+      "..."
+     ],
+     [
+      "...",
+      "..."
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "II. Thực hiện đầu tư:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "1. Vốn đầu tư:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị tính: đồng",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Số TT",
+     "Nội dung",
+     "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối",
+     "Số vốn được giao",
+     "Số vốn đã giải ngân"
+    ],
+    "dong": [
+     [
+      "",
+      "Tổng cộng (1+2+3+4)",
+      "",
+      "",
+      ""
+     ],
+     [
+      "1",
+      "Vốn đầu tư công"
+     ],
+     [
+      "1.1",
+      "Vốn ngân sách nhà nước"
+     ],
+     [
+      "",
+      "- Vốn ngân sách trung ương (ghi chi tiết vốn)"
+     ],
+     [
+      "",
+      "+ Vốn ..."
+     ],
+     [
+      "",
+      "+ Vốn ..."
+     ],
+     [
+      "",
+      "- Vốn ngân sách địa phương (ghi chi tiết vốn)"
+     ],
+     [
+      "",
+      "+ Vốn ..."
+     ],
+     [
+      "",
+      "+ Vốn ..."
+     ],
+     [
+      "1.2",
+      "Vốn từ nguồn thu hợp pháp khác"
+     ],
+     [
+      "2",
+      "Vốn chi thường xuyên"
+     ],
+     [
+      "",
+      "- Vốn ngân sách trung ương (ghi chi tiết vốn)"
+     ],
+     [
+      "",
+      "+ Vốn ..."
+     ],
+     [
+      "",
+      "+ Vốn ..."
+     ],
+     [
+      "",
+      "- Vốn ngân sách địa phương (ghi chi tiết vốn)"
+     ],
+     [
+      "",
+      "+ Vốn ..."
+     ],
+     [
+      "",
+      "+ Vốn ..."
+     ],
+     [
+      "3",
+      "Vốn ngân sách nhà nước khác không thuộc phạm vi điều chỉnh của pháp luật về đầu tư công"
+     ],
+     [
+      "",
+      "- Vốn ..."
+     ],
+     [
+      "",
+      "- Vốn ..."
+     ],
+     [
+      "4",
+      "Vốn khác (nếu có)"
+     ],
+     [
+      "",
+      "- Vốn..."
+     ],
+     [
+      "",
+      "- Vốn..."
+     ]
+    ],
+    "rong": [
+     1,
+     4,
+     4,
+     2,
+     2
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "2. Chi phí đầu tư:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị: đồng",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Số TT",
+     "Nội dung chi phí",
+     "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối",
+     "Giá trị đề nghị quyết toán",
+     "Giá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập), dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối"
+    ],
+    "dong": [
+     [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5 = 4-3"
+     ],
+     [
+      "",
+      "Tổng số"
+     ],
+     [
+      "1",
+      "Bồi thường, hỗ trợ, tái định cư"
+     ],
+     [
+      "2",
+      "Xây dựng"
+     ],
+     [
+      "3",
+      "Thiết bị"
+     ],
+     [
+      "4",
+      "Quản lý dự án"
+     ],
+     [
+      "5",
+      "Tư vấn"
+     ],
+     [
+      "6",
+      "Chi phí khác"
+     ],
+     [
+      "7",
+      "Dự phòng"
+     ]
+    ],
+    "rong": [
+     1,
+     3,
+     4,
+     2,
+     4
+    ]
+   }
+  ],
+  [
+   "p",
+   "3. Chi phí đầu tư không tính vào giá trị tài sản: .........đồng; trong đó:"
+  ],
+  [
+   "p",
+   "3.1. Chi phí thiệt hại do các nguyên nhân bất khả kháng: .........đồng"
+  ],
+  [
+   "p",
+   "3.2. Chi phí không tạo nên tài sản: .........đồng"
+  ],
+  [
+   "p",
+   "4. Giá trị tài sản hình thành: .........đồng"
+  ],
+  [
+   "p",
+   "5. Các nội dung khác: (nếu có)."
+  ],
+  [
+   "p",
+   {
+    "t": "III. Thuyết minh báo cáo quyết toán",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "1. Tình hình thực hiện dự án:"
+  ],
+  [
+   "p",
+   "a) Thuận lợi, khó khăn:"
+  ],
+  [
+   "p",
+   "b) Những thay đổi nội dung của dự án so với quyết định đầu tư được phê duyệt:"
+  ],
+  [
+   "p",
+   "- Quy mô, kết cấu công trình, hình thức quản lý dự án, thay đổi chủ đầu tư, đấu thầu, vốn đầu tư, tổng mức đầu tư."
+  ],
+  [
+   "p",
+   "- Thiết kế kỹ thuật, dự toán được phê duyệt."
+  ],
+  [
+   "p",
+   "- Các nội dung chi phí đã thực hiện."
+  ],
+  [
+   "p",
+   "- Thay đổi khác (nếu có)."
+  ],
+  [
+   "p",
+   "c) Tình hình thực hiện kết luận thanh tra, kiểm toán, kiểm tra, điều tra và bản án có hiệu lực của các cơ quan pháp luật (nếu có)."
+  ],
+  [
+   "p",
+   "d) Các nội dung khác (nếu có)."
+  ],
+  [
+   "p",
+   "2. Nhận xét, đánh giá thực hiện dự án"
+  ],
+  [
+   "p",
+   "- Chấp hành trình tự thủ tục quản lý dự án theo quy định tại pháp luật ngân sách nhà nước, đầu tư công, xây dựng, đấu thầu và các văn bản quy phạm pháp luật khác có liên quan đến thực hiện dự án."
+  ],
+  [
+   "p",
+   "- Công tác quản lý vốn, tài sản trong quá trình đầu tư."
+  ],
+  [
+   "p",
+   "3. Kiến nghị để giải quyết các vướng mắc, tồn tại của dự án (nếu có)."
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LẬP BIỂU",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     "...., ngày ... tháng ... năm ...\nCHỦ ĐẦU TƯ",
+     "(Ký, đóng dấu, ghi rõ họ tên)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "Ghi chú: Trường hợp dự án được cơ quan nhà nước có thẩm quyền cho thực hiện theo cơ chế đặc thù (như: Chương trình mục tiêu quốc gia, dự án khẩn cấp, dự án đặc biệt....) thì văn bản pháp lý và hồ sơ tài liệu liên quan được ghi theo các quy định cơ chế đặc thù được cấp có thẩm quyền ban hành."
+   ]
+  ]
+ ]
+}

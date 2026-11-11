@@ -1,0 +1,354 @@
+{
+ "ma": "tt36-pl8-m02",
+ "ten": "Thông báo kết quả thẩm định tổng mức đầu tư xây dựng của cơ quan chuyên môn về xây dựng",
+ "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+ "nguon": "Mẫu số 02 Phụ lục VIII Thông tư 36/2026/TT-BXD",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "36-2026-tt-bxd",
+   "16",
+   "Phụ lục VIII Thông tư 36/2026/TT-BXD"
+  ]
+ ],
+ "dung_khi": "Cơ quan chuyên môn về xây dựng thông báo cho cơ quan chuẩn bị dự án kết quả thẩm định tổng mức đầu tư xây dựng khi có yêu cầu thẩm định tổng mức đầu tư độc lập. Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026.",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục VIII"
+  ],
+  [
+   "tieu_de",
+   [
+    "MẪU BÁO CÁO THẨM TRA, THẨM ĐỊNH TỔNG MỨC ĐẦU TƯ,",
+    "DỰ TOÁN XÂY DỰNG CÔNG TRÌNH"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Thông tư số 36/2026/TT-BXD ngày 26 tháng 6 năm 2026\ncủa Bộ trưởng Bộ Xây dựng)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Mẫu số 02: Thông báo kết quả thẩm định tổng mức đầu tư xây dựng\ncủa cơ quan chuyên môn về xây dựng",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "CƠ QUAN CHUYÊN MÔN",
+     "VỀ XÂY DỰNG(1)",
+     "(Số hiệu văn bản)",
+     "V/v thông báo kết quả thẩm định",
+     "tổng mức đầu tư xây dựng dự án",
+     "(tên dự án/công trình của dự án)"
+    ],
+    "ngay": "…, ngày... tháng... năm…"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Kính gửi: (Cơ quan chuẩn bị dự án)",
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "(Cơ quan chuyên môn về xây dựng) đã nhận Tờ trình số … ngày … tháng … năm … của (cơ quan chuẩn bị dự án) trình thẩm định tổng mức đầu tư xây dựng dự án (tên dự án)."
+  ],
+  [
+   "p",
+   "Căn cứ quy định về thẩm quyền, nội dung thẩm định dự án, tổng mức đầu tư tại Luật Xây dựng số 135/2025/QH15 ngày 10 tháng 12 năm 2025; Nghị định số 217/2026/NĐ-CP ngày 19 tháng 6 năm 2026; Nghị định số 206/2026/NĐ-CP ngày 15 tháng 06 năm 2026 của Chính phủ quy định chi tiết về quản lý chi phí đầu tư xây dựng;"
+  ],
+  [
+   "p",
+   "Các căn cứ pháp lý khác có liên quan;"
+  ],
+  [
+   "p",
+   "Sau khi xem xét, (cơ quan chuyên môn về xây dựng) thông báo kết quả thẩm định tổng mức đầu tư xây dựng dự án (tên dự án/công trình của dự án) như sau:"
+  ],
+  [
+   "p",
+   {
+    "t": "1. Thông tin chung về dự án",
+    "b": true,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   "- Tên dự án/dự án thành phần thuộc dự án:"
+  ],
+  [
+   "p",
+   "- Nhóm dự án, loại và cấp công trình chính của dự án:"
+  ],
+  [
+   "p",
+   "- Mã định danh (nếu có):"
+  ],
+  [
+   "p",
+   "- Quy mô đầu tư xây dựng: một số chỉ tiêu, thông số chính thể hiện quy mô của dự án."
+  ],
+  [
+   "p",
+   "- Người quyết định đầu tư:"
+  ],
+  [
+   "p",
+   "- Tên cơ quan chuẩn bị dự án và các thông tin để liên hệ (địa chỉ, điện thoại, …):"
+  ],
+  [
+   "p",
+   "- Địa điểm xây dựng dự án: (ghi địa danh cấp xã, tỉnh)"
+  ],
+  [
+   "p",
+   "- Giá trị tổng mức đầu tư xây dựng của dự án:"
+  ],
+  [
+   "p",
+   "- Nguồn vốn đầu tư: (xác định và ghi rõ: vốn đầu tư công/vốn chi thường xuyên từ ngân sách nhà nước/vốn ngân sách nhà nước khác/vốn khác/thực hiện theo phương thức PPP)."
+  ],
+  [
+   "p",
+   "- Thời gian thực hiện dự án; phân kỳ đầu tư (nếu có); thời hạn hoạt động của dự án (nếu có):"
+  ],
+  [
+   "p",
+   "- Các nhà thầu tư vấn khảo sát, lập, thẩm tra dự án, tổng mức đầu tư (nếu có): (tên nhà thầu, mã số doanh nghiệp);"
+  ],
+  [
+   "p",
+   "- Các thông tin khác (nếu có)."
+  ],
+  [
+   "p",
+   {
+    "t": "2. Hồ sơ trình thẩm định",
+    "b": true,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   "2.1. Văn bản pháp lý"
+  ],
+  [
+   "p",
+   "- Tờ trình thẩm định;"
+  ],
+  [
+   "p",
+   "- Văn bản về chủ trương đầu tư xây dựng dự án;"
+  ],
+  [
+   "p",
+   "- Các văn bản cơ sở pháp lý liên quan đến dự án, xác định tổng mức đầu tư: Luật, Nghị định, Thông tư; các văn bản, tài liệu khác có liên quan đến dự án…"
+  ],
+  [
+   "p",
+   "(Liệt kê các văn bản pháp lý có liên quan của dự án)"
+  ],
+  [
+   "p",
+   "2.2. Hồ sơ, tài liệu trình thẩm định"
+  ],
+  [
+   "p",
+   "- Hồ sơ dự án (bao gồm thuyết minh BCNCKT, thuyết minh thiết kế xây dựng, thiết kế xây dựng trong BCNCKT;"
+  ],
+  [
+   "p",
+   "- Hồ sơ xác định tổng mức đầu tư (gồm thuyết minh xác định tổng mức đầu tư, chi tiết tính toán tổng mức đầu tư và các tài liệu có liên quan (nếu có) trong xác định tổng mức đầu tư) được hoàn thiện theo ý kiến thẩm tra (nếu có), kèm theo nội dung kiểm tra, rà soát, thẩm định hồ sơ tổng mức đầu tư của cơ quan chuẩn bị dự án trước khi trình thẩm định;"
+  ],
+  [
+   "p",
+   "- Báo cáo kết quả thẩm tra tổng mức đầu tư xây dựng (nếu có);"
+  ],
+  [
+   "p",
+   "- Kết quả thẩm định thiết kế xây dựng trong BCNCKT (nếu có);"
+  ],
+  [
+   "p",
+   "- Các hồ sơ, tài liệu khác có liên quan (nếu có)."
+  ],
+  [
+   "p",
+   {
+    "t": "3. Nội dung hồ sơ tổng mức đầu tư xây dựng",
+    "b": true,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   "- Cơ sở pháp lý lập dự án, xác định tổng mức đầu tư;"
+  ],
+  [
+   "p",
+   "- Tóm tắt nội dung thông tin cơ bản dự án, công trình; phạm vi, nội dung tổng mức đầu tư;"
+  ],
+  [
+   "p",
+   "- Giá trị tổng mức đầu tư: bao gồm các khoản mục chi phí theo công trình, hạng mục công trình thuộc dự án; các dự án thành phần, phân kỳ đầu tư (nếu có). So sánh với sơ bộ tổng mức đầu tư;"
+  ],
+  [
+   "p",
+   "- Kết luận về việc đủ điều kiện/chưa đủ điều kiện để thực hiện thẩm định."
+  ],
+  [
+   "p",
+   {
+    "t": "4. Nguyên tắc thẩm định",
+    "b": true,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   "- Phạm vi thẩm định, các nội dung không thực hiện thẩm định (nếu có), lý do....;"
+  ],
+  [
+   "p",
+   "- Nguyên tắc thẩm định theo quy định tại khoản 5 Điều 7 Nghị định số 217/2026/NĐ-CP."
+  ],
+  [
+   "p",
+   {
+    "t": "5. Nội dung thẩm định tổng mức đầu tư xây dựng",
+    "b": true,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   "5.1. Sự đầy đủ, tính hợp lệ của hồ sơ trình thẩm định tổng mức đầu tư xây dựng; các căn cứ pháp lý để xác định tổng mức đầu tư xây dựng"
+  ],
+  [
+   "p",
+   "5.1.1. Sự đầy đủ, tính hợp lệ của hồ sơ trình thẩm định tổng mức đầu tư xây dựng"
+  ],
+  [
+   "p",
+   "5.1.2. Các căn cứ pháp lý để xác định tổng mức đầu tư xây dựng"
+  ],
+  [
+   "p",
+   "5.2. Đánh giá sự đầy đủ các khoản mục chi phí trong tổng mức đầu tư xây dựng và phương pháp xác định các khoản mục chi phí trong tổng mức đầu tư xây dựng so với thiết kế xây dựng và các nội dung, yêu cầu của dự án"
+  ],
+  [
+   "p",
+   "5.2.1. Sự đầy đủ các khoản mục chi phí trong tổng mức đầu tư xây dựng"
+  ],
+  [
+   "p",
+   "5.2.2. Phương pháp xác định các khoản mục chi phí trong tổng mức đầu tư xây dựng so với thiết kế xây dựng và các nội dung, yêu cầu của dự án"
+  ],
+  [
+   "p",
+   "a) Đối với chi phí xây dựng."
+  ],
+  [
+   "p",
+   "b) Đối với chi phí thiết bị."
+  ],
+  [
+   "p",
+   "c) Đối với chi phí quản lý dự án, chi phí tư vấn xây dựng, chi phí khác."
+  ],
+  [
+   "p",
+   "d) Đối với chi phí dự phòng."
+  ],
+  [
+   "p",
+   "e) Các nội dung khác (nếu có)."
+  ],
+  [
+   "p",
+   "5.3. Yêu cầu về việc hoàn thiện hồ sơ và tổng mức đầu tư xây dựng (nếu có)."
+  ],
+  [
+   "p",
+   {
+    "t": "6. Kết luận và kiến nghị",
+    "b": true,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   "- Kết luận: Hồ sơ và tổng mức đầu tư xây dựng (tên dự án/công trình của dự án) đủ điều kiện/chưa đủ điều kiện/chỉ đủ điều kiện sau khi hoàn thiện các nội dung yêu cầu để tổng hợp, trình phê duyệt và triển khai các bước tiếp theo."
+  ],
+  [
+   "p",
+   "- Kiến nghị (nếu có)."
+  ],
+  [
+   "p",
+   "Trên đây là thông báo của (cơ quan chuyên môn về xây dựng) về kết quả thẩm định tổng mức đầu tư xây dựng dự án (tên dự án/công trình của dự án). Đề nghị (cơ quan chuẩn bị dự án) nghiên cứu thực hiện theo quy định./."
+  ],
+  [
+   "p",
+   {
+    "t": "Nơi nhận:",
+    "b": true,
+    "i": true,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "- Như trên;",
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "- ….;",
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "- Lưu:...",
+    "can": "left"
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "CƠ QUAN CHUYÊN MÔN VỀ XÂY DỰNG",
+     "(Ký, ghi rõ họ tên, chức vụ và đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "(1) Là Cơ quan thường trực Hội đồng trong trường hợp trình thẩm định BCNCKT tại Hội đồng thẩm định.",
+    "Ghi chú chung của Phụ lục VIII:",
+    "- Sử dụng các mẫu 01, 02, 03 hoặc 04 trong trường hợp có yêu cầu thẩm tra/thẩm định tổng mức đầu tư độc lập. Trường hợp thẩm định tổng mức đầu tư cùng với thẩm định Báo cáo nghiên cứu khả thi, Báo cáo kinh tế - kỹ thuật, nội dung kết quả thẩm định tổng mức đầu tư được tổng hợp trong thông báo kết quả thẩm định Báo cáo nghiên cứu khả thi, Báo cáo kinh tế - kỹ thuật.",
+    "- Sử dụng các mẫu 05, 06, 07 trong trường hợp có yêu cầu thẩm tra/thẩm định dự toán xây dựng công trình độc lập. Trường hợp thẩm định dự toán xây dựng cùng với thẩm định thiết kế xây dựng triển khai sau khi dự án được phê duyệt, nội dung kết quả thẩm định dự toán xây dựng được tổng hợp trong thông báo kết quả thẩm định thiết kế xây dựng triển khai sau khi dự án được phê duyệt.",
+    "- Trường hợp cơ quan/đơn vị được người quyết định đầu tư giao thẩm định đồng thời là cơ quan chuyên môn về xây dựng thì thông báo kết quả thẩm định sử dụng Mẫu số 03, nội dung thẩm định tổng mức đầu tư bao gồm cả nội dung thẩm định của cơ quan chuyên môn về xây dựng tại mục 5 Mẫu số 02 Phụ lục này."
+   ]
+  ]
+ ]
+}

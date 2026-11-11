@@ -1,0 +1,48 @@
+{
+ "ma": "nd217-pl2-m06",
+ "ten": "Mẫu dấu của cơ quan thực hiện cấp giấy phép xây dựng",
+ "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+ "nguon": "Mẫu số 06 Phụ lục II Nghị định 217/2026/NĐ-CP",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "217-2026-nd-cp",
+   "54",
+   "điểm b khoản 5 Điều 54 Nghị định 217/2026/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Cơ quan cấp giấy phép xây dựng đóng dấu xác nhận bản vẽ thiết kế kèm theo giấy phép xây dựng cấp cho chủ đầu tư (khi không dùng chữ ký điện tử).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 06"
+  ],
+  [
+   "tieu_de",
+   [
+    "MẪU DẤU CỦA CƠ QUAN THỰC HIỆN CẤP GIẤY PHÉP XÂY DỰNG",
+    "(Kích thước mẫu dấu: chiều rộng từ 4 cm đến 6 cm; chiều dài từ 6 cm đến 9 cm)"
+   ]
+  ],
+  [
+   "table",
+   {
+    "cot": [],
+    "dong": [
+     [
+      "(TÊN CƠ QUAN THỰC HIỆN\nCẤP PHÉP XÂY DỰNG)\nCẤP PHÉP XÂY DỰNG\nSố …./…\nngày … tháng ... năm …...\nKý tên"
+     ]
+    ],
+    "rong": [
+     1
+    ]
+   }
+  ],
+  [
+   "ghi_chu",
+   [
+    "Ghi chú: khung bao quanh mẫu dấu là cách trình bày của bản tải về; nội dung chữ trong dấu chép đúng Mẫu số 06 Phụ lục II Nghị định 217/2026/NĐ-CP. Kích thước thực của dấu theo dòng ghi kích thước nêu trên."
+   ]
+  ]
+ ]
+}

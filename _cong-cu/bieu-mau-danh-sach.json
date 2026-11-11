@@ -1,0 +1,1917 @@
+[
+ {
+  "ma": "nd193-m01",
+  "ten": "Bảng tính giá trị quyết toán hợp đồng giữa chủ đầu tư và nhà thầu (Quyết toán A - B)",
+  "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+  "nguon": "Mẫu số 01/QTDA ban hành kèm theo Nghị định 193/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "193-2026-nd-cp",
+    "7",
+    "Điều 7 Nghị định 193/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Dự án sử dụng vốn đầu tư công, chi thường xuyên từ ngân sách nhà nước, vốn ngân sách nhà nước khác (Điều 1 Nghị định 193/2026/NĐ-CP; hiệu lực từ 01/07/2026): chủ đầu tư và nhà thầu lập quyết toán A - B kèm hồ sơ trình thẩm tra, phê duyệt quyết toán (Điều 7). Khác với Mẫu số 01/QTDA của Thông tư 73/2026/TT-BTC (Báo cáo tổng hợp quyết toán)."
+ },
+ {
+  "ma": "nd193-m02",
+  "ten": "Văn bản đề nghị nhà thầu bổ sung, hoàn thiện hồ sơ, tài liệu quyết toán hợp đồng dự án",
+  "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+  "nguon": "Mẫu số 02/QTDA ban hành kèm theo Nghị định 193/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "193-2026-nd-cp",
+    "7",
+    "khoản 5 Điều 7 Nghị định 193/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Dự án sử dụng vốn đầu tư công, chi thường xuyên từ ngân sách nhà nước, vốn ngân sách nhà nước khác (Điều 1 Nghị định 193/2026/NĐ-CP; hiệu lực từ 01/07/2026): trường hợp nhà thầu không thực hiện quyết toán hợp đồng theo quy định, căn cứ hợp đồng chủ đầu tư có văn bản đề nghị nhà thầu thực hiện (khoản 5 Điều 7). Khác với Mẫu số 02/QTDA của Thông tư 73/2026/TT-BTC (Danh mục văn bản)."
+ },
+ {
+  "ma": "nd207-nd-bao-cao-su-co",
+  "ten": "Báo cáo sự cố công trình xây dựng",
+  "nhom": "Thi công – nghiệm thu (NĐ 207/2026, theo nội dung bắt buộc)",
+  "nguon": "khoản 2 Điều 45 Nghị định 207/2026/NĐ-CP",
+  "loai": "noi-dung",
+  "can_cu": [
+   [
+    "207-2026-nd-cp",
+    "45",
+    "khoản 2 Điều 45"
+   ]
+  ],
+  "dung_khi": "Trong vòng 24 giờ kể từ khi xảy ra sự cố, chủ đầu tư báo cáo bằng văn bản tới Ủy ban nhân dân cấp tỉnh nơi xảy ra sự cố (sự cố có thiệt hại về người: gửi thêm Bộ Xây dựng và cơ quan có thẩm quyền)."
+ },
+ {
+  "ma": "nd207-nd-bien-ban-nghiem-thu-cong-viec",
+  "ten": "Biên bản nghiệm thu công việc xây dựng",
+  "nhom": "Thi công – nghiệm thu (NĐ 207/2026, theo nội dung bắt buộc)",
+  "nguon": "khoản 4, 5 Điều 22 Nghị định 207/2026/NĐ-CP",
+  "loai": "noi-dung",
+  "can_cu": [
+   [
+    "207-2026-nd-cp",
+    "22",
+    "khoản 4, 5 Điều 22"
+   ]
+  ],
+  "dung_khi": "Nghiệm thu từng công việc (hoặc nhiều công việc của một hạng mục theo trình tự thi công) tại công trường; giám sát nghiệm thu trong không quá 24 giờ kể từ khi nhận đề nghị của nhà thầu."
+ },
+ {
+  "ma": "nd207-nd-bien-ban-nghiem-thu-hoan-thanh",
+  "ten": "Biên bản nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng",
+  "nhom": "Thi công – nghiệm thu (NĐ 207/2026, theo nội dung bắt buộc)",
+  "nguon": "khoản 5, 6 Điều 24 Nghị định 207/2026/NĐ-CP",
+  "loai": "noi-dung",
+  "can_cu": [
+   [
+    "207-2026-nd-cp",
+    "24",
+    "khoản 5, 6 Điều 24"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư tổ chức nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng trước khi đưa vào sử dụng (cả nghiệm thu một phần, nghiệm thu có điều kiện – khoản 2, 3 Điều 24)."
+ },
+ {
+  "ma": "nd207-nd-bien-ban-nghiem-thu-vat-lieu",
+  "ten": "Biên bản nghiệm thu vật liệu, sản phẩm, cấu kiện, thiết bị sử dụng cho công trình",
+  "nhom": "Thi công – nghiệm thu (NĐ 207/2026, theo nội dung bắt buộc)",
+  "nguon": "khoản 6 Điều 14 Nghị định 207/2026/NĐ-CP",
+  "loai": "noi-dung",
+  "can_cu": [
+   [
+    "207-2026-nd-cp",
+    "14",
+    "khoản 6 Điều 14"
+   ]
+  ],
+  "dung_khi": "Người giám sát thi công của chủ đầu tư nghiệm thu vật liệu, sản phẩm, cấu kiện, thiết bị trước khi đưa vào sử dụng cho công trình."
+ },
+ {
+  "ma": "nd207-pl11a",
+  "ten": "Báo cáo về việc kéo dài thời hạn sử dụng của công trình",
+  "nhom": "Thi công – nghiệm thu (NĐ 207/2026)",
+  "nguon": "Phụ lục XIa Nghị định 207/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "207-2026-nd-cp",
+    "43",
+    "điểm c khoản 4 Điều 43 Nghị định 207/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Chủ sở hữu hoặc chủ quản lý, sử dụng công trình hết thời hạn sử dụng theo thiết kế gửi báo cáo kết quả kiểm tra, kiểm định và gia cố, sửa chữa (nếu có) đến cơ quan nhà nước có thẩm quyền để được cho ý kiến về việc kéo dài thời hạn sử dụng (điểm c khoản 4 Điều 43 Nghị định 207/2026/NĐ-CP)."
+ },
+ {
+  "ma": "nd207-pl11b",
+  "ten": "Thông báo ý kiến về việc kéo dài thời hạn sử dụng của công trình",
+  "nhom": "Thi công – nghiệm thu (NĐ 207/2026)",
+  "nguon": "Phụ lục XIb Nghị định 207/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "207-2026-nd-cp",
+    "43",
+    "điểm c khoản 4, khoản 9 Điều 43 Nghị định 207/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Cơ quan nhà nước có thẩm quyền (khoản 9 Điều 43 Nghị định 207/2026/NĐ-CP) có văn bản cho ý kiến về việc kéo dài thời hạn sử dụng công trình sau khi nhận báo cáo của chủ sở hữu hoặc chủ quản lý, sử dụng công trình."
+ },
+ {
+  "ma": "nd207-pl2b",
+  "ten": "Bản vẽ hoàn công – mẫu dấu bản vẽ hoàn công",
+  "nhom": "Thi công – nghiệm thu (NĐ 207/2026)",
+  "nguon": "Phụ lục IIb Nghị định 207/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "207-2026-nd-cp",
+    "15",
+    "khoản 13 Điều 15 Nghị định 207/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Nhà thầu thi công xây dựng lập bản vẽ hoàn công và đóng dấu bản vẽ hoàn công (khoản 13 Điều 15 Nghị định 207/2026/NĐ-CP); Mẫu số 1 khi không áp dụng hình thức hợp đồng thầu chính – thầu phụ, EPC, chìa khóa trao tay; Mẫu số 2 khi áp dụng các hình thức đó."
+ },
+ {
+  "ma": "nd207-pl4a",
+  "ten": "Báo cáo định kỳ về công tác giám sát thi công xây dựng công trình/hạng mục công trình",
+  "nhom": "Thi công – nghiệm thu (NĐ 207/2026)",
+  "nguon": "Phụ lục IVa Nghị định 207/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "207-2026-nd-cp",
+    "20",
+    "điểm a khoản 3 Điều 20 Nghị định 207/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Tổ chức, cá nhân giám sát thi công xây dựng lập báo cáo định kỳ hoặc theo giai đoạn thi công gửi chủ đầu tư; chủ đầu tư quy định trong hợp đồng hoặc quyết định giao nhiệm vụ về kỳ và thời điểm lập báo cáo (điểm a khoản 3 Điều 20 Nghị định 207/2026/NĐ-CP)."
+ },
+ {
+  "ma": "nd207-pl4b",
+  "ten": "Báo cáo hoàn thành công tác giám sát thi công xây dựng gói thầu/giai đoạn/hạng mục công trình/công trình xây dựng",
+  "nhom": "Thi công – nghiệm thu (NĐ 207/2026)",
+  "nguon": "Phụ lục IVb Nghị định 207/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "207-2026-nd-cp",
+    "20",
+    "khoản 3 Điều 20 Nghị định 207/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Tổ chức giám sát thi công xây dựng lập báo cáo hoàn thành công tác giám sát thi công xây dựng gói thầu, giai đoạn, hạng mục công trình, công trình xây dựng gửi chủ đầu tư (khoản 3 Điều 20 Nghị định 207/2026/NĐ-CP)."
+ },
+ {
+  "ma": "nd207-pl5",
+  "ten": "Thông báo khởi công xây dựng hạng mục công trình, công trình xây dựng",
+  "nhom": "Thi công – nghiệm thu (NĐ 207/2026)",
+  "nguon": "Phụ lục V Nghị định 207/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "207-2026-nd-cp",
+    "12",
+    "khoản 2 Điều 12 Nghị định 207/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Trước khi khởi công xây dựng công trình, chủ đầu tư gửi thông báo khởi công trực tiếp, qua bưu chính hoặc trực tuyến tới cơ quan quản lý nhà nước về xây dựng tại địa phương (khoản 2 Điều 12 Nghị định 207/2026/NĐ-CP)."
+ },
+ {
+  "ma": "nd207-pl6",
+  "ten": "Báo cáo hoàn thành thi công xây dựng hạng mục công trình, công trình xây dựng",
+  "nhom": "Thi công – nghiệm thu (NĐ 207/2026)",
+  "nguon": "Phụ lục VI Nghị định 207/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "207-2026-nd-cp",
+    "27",
+    "điểm a khoản 4 Điều 27 Nghị định 207/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư gửi 01 báo cáo hoàn thành thi công xây dựng hạng mục công trình, công trình xây dựng tới cơ quan chuyên môn về xây dựng để được kiểm tra công tác nghiệm thu hoàn thành công trình (điểm a khoản 4 Điều 27 Nghị định 207/2026/NĐ-CP)."
+ },
+ {
+  "ma": "nd207-pl8",
+  "ten": "Thông báo kết quả kiểm tra công tác nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng",
+  "nhom": "Thi công – nghiệm thu (NĐ 207/2026)",
+  "nguon": "Phụ lục VIII Nghị định 207/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "207-2026-nd-cp",
+    "27",
+    "điểm b khoản 4 Điều 27 Nghị định 207/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Cơ quan chuyên môn về xây dựng ra văn bản thông báo kết quả kiểm tra công tác nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng, nêu rõ việc chấp thuận hoặc không chấp thuận kết quả nghiệm thu của chủ đầu tư (điểm b khoản 4 Điều 27 Nghị định 207/2026/NĐ-CP)."
+ },
+ {
+  "ma": "nd212-pl3-m01",
+  "ten": "Đơn đề nghị cấp chứng chỉ hành nghề hoạt động xây dựng",
+  "nhom": "Năng lực hoạt động xây dựng (NĐ 212/2026)",
+  "nguon": "Mẫu số 01 Phụ lục III ban hành kèm theo Nghị định 212/2026/NĐ-CP ngày 17/6/2026 của Chính phủ",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "212-2026-nd-cp",
+    "39",
+    "điểm a khoản 1 Điều 39 Nghị định 212/2026/NĐ-CP"
+   ],
+   [
+    "212-2026-nd-cp",
+    "29",
+    "khoản 1 Điều 29"
+   ],
+   [
+    "212-2026-nd-cp",
+    "30",
+    "Điều 30"
+   ]
+  ],
+  "dung_khi": "Cá nhân nộp kèm hồ sơ đề nghị cấp mới hoặc cấp lại chứng chỉ hành nghề hoạt động xây dựng (điểm a khoản 1 Điều 39 Nghị định 212/2026/NĐ-CP); nộp trực tuyến thì kê khai trên biểu mẫu điện tử tại Cổng dịch vụ công quốc gia."
+ },
+ {
+  "ma": "nd212-pl3-m02",
+  "ten": "Đơn đề nghị cấp chuyển đổi chứng chỉ hành nghề hoạt động xây dựng",
+  "nhom": "Năng lực hoạt động xây dựng (NĐ 212/2026)",
+  "nguon": "Mẫu số 02 Phụ lục III ban hành kèm theo Nghị định 212/2026/NĐ-CP ngày 17/6/2026 của Chính phủ",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "212-2026-nd-cp",
+    "39",
+    "Điều 39 Nghị định 212/2026/NĐ-CP"
+   ],
+   [
+    "212-2026-nd-cp",
+    "27",
+    "khoản 2 Điều 27"
+   ]
+  ],
+  "dung_khi": "Cá nhân người nước ngoài, người Việt Nam định cư ở nước ngoài đã có giấy phép năng lực hành nghề do nước ngoài cấp, hành nghề tại Việt Nam từ 06 tháng trở lên, đề nghị chuyển đổi chứng chỉ hành nghề (khoản 2 Điều 27, Điều 39 Nghị định 212/2026/NĐ-CP)."
+ },
+ {
+  "ma": "nd212-pl3-m04",
+  "ten": "Đơn đề nghị cấp giấy phép hoạt động xây dựng (đối với nhà thầu là tổ chức)",
+  "nhom": "Năng lực hoạt động xây dựng (NĐ 212/2026)",
+  "nguon": "Mẫu số 04 Phụ lục III ban hành kèm theo Nghị định 212/2026/NĐ-CP ngày 17/6/2026 của Chính phủ",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "212-2026-nd-cp",
+    "44",
+    "điểm a khoản 2 Điều 44 Nghị định 212/2026/NĐ-CP"
+   ],
+   [
+    "212-2026-nd-cp",
+    "43",
+    "Điều 43"
+   ],
+   [
+    "212-2026-nd-cp",
+    "46",
+    "Điều 46"
+   ]
+  ],
+  "dung_khi": "Nhà thầu nước ngoài là tổ chức nộp kèm hồ sơ đề nghị cấp giấy phép hoạt động xây dựng (điểm a khoản 2 Điều 44 Nghị định 212/2026/NĐ-CP); đơn lập bằng tiếng Việt."
+ },
+ {
+  "ma": "nd212-pl3-m06",
+  "ten": "Giấy ủy quyền (đề nghị cấp giấy phép hoạt động xây dựng cho nhà thầu nước ngoài)",
+  "nhom": "Năng lực hoạt động xây dựng (NĐ 212/2026)",
+  "nguon": "Mẫu số 06 Phụ lục III ban hành kèm theo Nghị định 212/2026/NĐ-CP ngày 17/6/2026 của Chính phủ",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "212-2026-nd-cp",
+    "44",
+    "điểm e khoản 2 Điều 44 Nghị định 212/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Nhà thầu nước ngoài ủy quyền cho người không phải là người đại diện theo pháp luật ký giấy tờ, nộp hồ sơ, nhận kết quả thủ tục cấp giấy phép hoạt động xây dựng (điểm e khoản 2 Điều 44 Nghị định 212/2026/NĐ-CP)."
+ },
+ {
+  "ma": "nd212-pl3-m07",
+  "ten": "Đơn đề nghị cấp giấy phép hoạt động xây dựng (đối với nhà thầu là cá nhân)",
+  "nhom": "Năng lực hoạt động xây dựng (NĐ 212/2026)",
+  "nguon": "Mẫu số 07 Phụ lục III ban hành kèm theo Nghị định 212/2026/NĐ-CP ngày 17/6/2026 của Chính phủ",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "212-2026-nd-cp",
+    "44",
+    "điểm a khoản 2 Điều 44 Nghị định 212/2026/NĐ-CP"
+   ],
+   [
+    "212-2026-nd-cp",
+    "43",
+    "Điều 43"
+   ],
+   [
+    "212-2026-nd-cp",
+    "46",
+    "Điều 46"
+   ]
+  ],
+  "dung_khi": "Nhà thầu nước ngoài là cá nhân nộp kèm hồ sơ đề nghị cấp giấy phép hoạt động xây dựng (điểm a khoản 2 Điều 44 Nghị định 212/2026/NĐ-CP); đơn lập bằng tiếng Việt."
+ },
+ {
+  "ma": "nd212-pl3-m11",
+  "ten": "Đơn đề nghị điều chỉnh giấy phép hoạt động xây dựng",
+  "nhom": "Năng lực hoạt động xây dựng (NĐ 212/2026)",
+  "nguon": "Mẫu số 11 Phụ lục III ban hành kèm theo Nghị định 212/2026/NĐ-CP ngày 17/6/2026 của Chính phủ",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "212-2026-nd-cp",
+    "45",
+    "điểm a khoản 2 Điều 45 Nghị định 212/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Nhà thầu nước ngoài đã được cấp giấy phép hoạt động xây dựng đề nghị điều chỉnh khi thay đổi tên, địa chỉ, thành viên liên danh, nhà thầu phụ hoặc nội dung khác ghi trong giấy phép (Điều 45 Nghị định 212/2026/NĐ-CP)."
+ },
+ {
+  "ma": "nd217-pl1-m01",
+  "ten": "Tờ trình thẩm định Báo cáo nghiên cứu khả thi",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 01 Phụ lục I Nghị định 217/2026/NĐ-CP (văn bản hợp nhất 91/2026/VBHN-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "35",
+    "Điều 35 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Cơ quan chuẩn bị dự án trình cơ quan chuyên môn về xây dựng thẩm định Báo cáo nghiên cứu khả thi."
+ },
+ {
+  "ma": "nd217-pl1-m02",
+  "ten": "Báo cáo kết quả thẩm tra thiết kế xây dựng trong Báo cáo nghiên cứu khả thi",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 02 Phụ lục I Nghị định 217/2026/NĐ-CP (văn bản hợp nhất 91/2026/VBHN-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "35",
+    "Điều 35 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Nhà thầu thẩm tra báo cáo kết quả thẩm tra thiết kế xây dựng trong Báo cáo nghiên cứu khả thi (kèm hồ sơ trình thẩm định)."
+ },
+ {
+  "ma": "nd217-pl1-m03",
+  "ten": "Thông báo kết quả thẩm định Báo cáo nghiên cứu khả thi của cơ quan chuyên môn về xây dựng",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 03 Phụ lục I Nghị định 217/2026/NĐ-CP (văn bản hợp nhất 91/2026/VBHN-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "38",
+    "Điều 38 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Cơ quan chuyên môn về xây dựng thông báo kết quả thẩm định Báo cáo nghiên cứu khả thi."
+ },
+ {
+  "ma": "nd217-pl1-m04",
+  "ten": "Văn bản đề nghị thẩm định Báo cáo kinh tế - kỹ thuật",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 04 Phụ lục I Nghị định 217/2026/NĐ-CP (văn bản hợp nhất 91/2026/VBHN-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "31",
+    "Điều 31 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Cơ quan chuẩn bị dự án đề nghị cơ quan/đơn vị được người quyết định đầu tư giao thẩm định Báo cáo kinh tế - kỹ thuật."
+ },
+ {
+  "ma": "nd217-pl1-m05",
+  "ten": "Văn bản đề nghị thẩm định Báo cáo nghiên cứu khả thi",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 05 Phụ lục I Nghị định 217/2026/NĐ-CP (văn bản hợp nhất 91/2026/VBHN-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "31",
+    "Điều 31 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Cơ quan chuẩn bị dự án đề nghị cơ quan/đơn vị được người quyết định đầu tư giao thẩm định Báo cáo nghiên cứu khả thi."
+ },
+ {
+  "ma": "nd217-pl1-m06",
+  "ten": "Thông báo kết quả thẩm định Báo cáo kinh tế - kỹ thuật của cơ quan/đơn vị được người quyết định đầu tư giao thẩm định (tham khảo)",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 06 Phụ lục I Nghị định 217/2026/NĐ-CP (văn bản hợp nhất 91/2026/VBHN-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "31",
+    "Điều 31 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Cơ quan/đơn vị được giao thẩm định thông báo kết quả thẩm định Báo cáo kinh tế - kỹ thuật."
+ },
+ {
+  "ma": "nd217-pl1-m07",
+  "ten": "Thông báo kết quả thẩm định Báo cáo nghiên cứu khả thi của cơ quan/đơn vị được người quyết định đầu tư giao thẩm định (tham khảo)",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 07 Phụ lục I Nghị định 217/2026/NĐ-CP (văn bản hợp nhất 91/2026/VBHN-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "31",
+    "Điều 31 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Cơ quan/đơn vị được giao thẩm định thông báo kết quả thẩm định Báo cáo nghiên cứu khả thi."
+ },
+ {
+  "ma": "nd217-pl1-m08",
+  "ten": "Thông báo kết quả thẩm định Báo cáo nghiên cứu khả thi của cơ quan/đơn vị được người quyết định đầu tư giao thẩm định đồng thời là cơ quan chuyên môn về xây dựng (tham khảo)",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 08 Phụ lục I Nghị định 217/2026/NĐ-CP (văn bản hợp nhất 91/2026/VBHN-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "31",
+    "Điều 31 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Cơ quan/đơn vị được giao thẩm định đồng thời là cơ quan chuyên môn về xây dựng thông báo kết quả thẩm định Báo cáo nghiên cứu khả thi."
+ },
+ {
+  "ma": "nd217-pl1-m09",
+  "ten": "Quyết định phê duyệt dự án đối với dự án yêu cầu lập Báo cáo nghiên cứu khả thi",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 09 Phụ lục I Nghị định 217/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "39",
+    "Điều 39 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Người quyết định đầu tư ra quyết định phê duyệt dự án đối với dự án có yêu cầu lập Báo cáo nghiên cứu khả thi."
+ },
+ {
+  "ma": "nd217-pl1-m10",
+  "ten": "Quyết định phê duyệt dự án đối với dự án chỉ cần lập Báo cáo kinh tế - kỹ thuật",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 10 Phụ lục I Nghị định 217/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "39",
+    "Điều 39 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Người quyết định đầu tư ra quyết định phê duyệt dự án đối với dự án chỉ cần lập Báo cáo kinh tế - kỹ thuật."
+ },
+ {
+  "ma": "nd217-pl1-m11",
+  "ten": "Báo cáo kết quả thẩm tra thiết kế xây dựng triển khai sau khi dự án được phê duyệt",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 11 Phụ lục I Nghị định 217/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "41",
+    "điểm c khoản 4 Điều 41 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Nhà thầu thẩm tra báo cáo chủ đầu tư kết quả thẩm tra thiết kế xây dựng triển khai sau khi dự án được phê duyệt."
+ },
+ {
+  "ma": "nd217-pl1-m12",
+  "ten": "Thông báo kết quả thẩm định thiết kế xây dựng triển khai sau khi dự án được phê duyệt",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 12 Phụ lục I Nghị định 217/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "41",
+    "Điều 41 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Cơ quan/đơn vị được giao thẩm định thông báo cho chủ đầu tư kết quả thẩm định thiết kế xây dựng triển khai sau khi dự án được phê duyệt."
+ },
+ {
+  "ma": "nd217-pl1-m13",
+  "ten": "Quyết định phê duyệt thiết kế xây dựng triển khai sau khi dự án được phê duyệt",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 13 Phụ lục I Nghị định 217/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "42",
+    "Điều 42 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Cơ quan/tổ chức phê duyệt ra quyết định phê duyệt thiết kế xây dựng triển khai sau khi dự án được phê duyệt, trên cơ sở thông báo kết quả thẩm định."
+ },
+ {
+  "ma": "nd217-pl1-m14",
+  "ten": "Mẫu dấu thẩm định, thẩm tra, phê duyệt thiết kế xây dựng",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 14 Phụ lục I Nghị định 217/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "36",
+    "điểm a khoản 8 Điều 36 Nghị định 217/2026/NĐ-CP"
+   ],
+   [
+    "217-2026-nd-cp",
+    "41",
+    "Điều 41 Nghị định 217/2026/NĐ-CP"
+   ],
+   [
+    "217-2026-nd-cp",
+    "42",
+    "Điều 42 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Đóng dấu xác nhận trên bản vẽ thiết kế xây dựng đã được thẩm định, thẩm tra hoặc phê duyệt."
+ },
+ {
+  "ma": "nd217-pl1-m15",
+  "ten": "Phiếu thông báo bổ sung, hoàn thiện hồ sơ",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 15 Phụ lục I Nghị định 217/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "36",
+    "điểm a khoản 3 và khoản 5 Điều 36 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Cơ quan chuyên môn về xây dựng yêu cầu cơ quan chuẩn bị dự án bổ sung hồ sơ trình thẩm định Báo cáo nghiên cứu khả thi."
+ },
+ {
+  "ma": "nd217-pl1-m16",
+  "ten": "Phiếu thông báo tạm dừng thẩm định",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 16 Phụ lục I Nghị định 217/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "36",
+    "khoản 4 và khoản 5 Điều 36 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Cơ quan chuyên môn về xây dựng tạm dừng thẩm định Báo cáo nghiên cứu khả thi (không quá 01 lần) khi hồ sơ có lỗi, sai sót dẫn đến không thể kết luận thẩm định."
+ },
+ {
+  "ma": "nd217-pl1-m17",
+  "ten": "Quyết định ban hành Lệnh xây dựng công trình khẩn cấp",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 17 Phụ lục I Nghị định 217/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "69",
+    "Điều 69 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Người quyết định đầu tư ban hành lệnh xây dựng công trình khẩn cấp đối với dự án, công trình xây dựng khẩn cấp."
+ },
+ {
+  "ma": "nd217-pl2-m01",
+  "ten": "Đơn đề nghị cấp giấy phép xây dựng mới",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 01 Phụ lục II Nghị định 217/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "57",
+    "điểm a khoản 1 Điều 57 Nghị định 217/2026/NĐ-CP"
+   ],
+   [
+    "217-2026-nd-cp",
+    "58",
+    "Điều 58 Nghị định 217/2026/NĐ-CP"
+   ],
+   [
+    "217-2026-nd-cp",
+    "59",
+    "Điều 59 Nghị định 217/2026/NĐ-CP"
+   ],
+   [
+    "217-2026-nd-cp",
+    "60",
+    "Điều 60 Nghị định 217/2026/NĐ-CP"
+   ],
+   [
+    "217-2026-nd-cp",
+    "61",
+    "Điều 61 Nghị định 217/2026/NĐ-CP"
+   ],
+   [
+    "217-2026-nd-cp",
+    "62",
+    "khoản 2 Điều 62 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư nộp kèm hồ sơ đề nghị cấp giấy phép xây dựng mới, theo giai đoạn, cho dự án, nhà ở riêng lẻ, sửa chữa, cải tạo hoặc di dời công trình (riêng giấy phép có thời hạn đổi tiêu đề đơn theo khoản 2 Điều 62)."
+ },
+ {
+  "ma": "nd217-pl2-m02",
+  "ten": "Đơn đề nghị điều chỉnh/gia hạn/cấp lại giấy phép xây dựng",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 02 Phụ lục II Nghị định 217/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "63",
+    "khoản 2 Điều 63 Nghị định 217/2026/NĐ-CP"
+   ],
+   [
+    "217-2026-nd-cp",
+    "64",
+    "Điều 64 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư nộp khi đề nghị điều chỉnh, gia hạn hoặc cấp lại giấy phép xây dựng đã được cấp (cấp lại phải nêu rõ lý do)."
+ },
+ {
+  "ma": "nd217-pl2-m03",
+  "ten": "Giấy phép xây dựng mới/giấy phép xây dựng điều chỉnh/gia hạn",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 03 Phụ lục II Nghị định 217/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "49",
+    "Điều 49 Nghị định 217/2026/NĐ-CP"
+   ],
+   [
+    "217-2026-nd-cp",
+    "63",
+    "điểm c khoản 2 Điều 63 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Cơ quan cấp giấy phép xây dựng cấp giấy phép xây dựng mới (hoặc ghi điều chỉnh, gia hạn) cho chủ đầu tư."
+ },
+ {
+  "ma": "nd217-pl2-m04",
+  "ten": "Giấy phép sửa chữa, cải tạo, di dời công trình",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 04 Phụ lục II Nghị định 217/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "49",
+    "Điều 49 Nghị định 217/2026/NĐ-CP"
+   ],
+   [
+    "217-2026-nd-cp",
+    "63",
+    "điểm c khoản 2 Điều 63 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Cơ quan cấp giấy phép xây dựng cấp giấy phép sửa chữa, cải tạo hoặc di dời công trình (hoặc ghi điều chỉnh, gia hạn) cho chủ đầu tư."
+ },
+ {
+  "ma": "nd217-pl2-m05",
+  "ten": "Giấy phép xây dựng có thời hạn",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 05 Phụ lục II Nghị định 217/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "49",
+    "Điều 49 Nghị định 217/2026/NĐ-CP"
+   ],
+   [
+    "217-2026-nd-cp",
+    "52",
+    "Điều 52 Nghị định 217/2026/NĐ-CP"
+   ],
+   [
+    "217-2026-nd-cp",
+    "62",
+    "Điều 62 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Cơ quan cấp giấy phép xây dựng cấp giấy phép xây dựng có thời hạn cho công trình, nhà ở riêng lẻ (hoặc ghi điều chỉnh, gia hạn)."
+ },
+ {
+  "ma": "nd217-pl2-m06",
+  "ten": "Mẫu dấu của cơ quan thực hiện cấp giấy phép xây dựng",
+  "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+  "nguon": "Mẫu số 06 Phụ lục II Nghị định 217/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "217-2026-nd-cp",
+    "54",
+    "điểm b khoản 5 Điều 54 Nghị định 217/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Cơ quan cấp giấy phép xây dựng đóng dấu xác nhận bản vẽ thiết kế kèm theo giấy phép xây dựng cấp cho chủ đầu tư (khi không dùng chữ ký điện tử)."
+ },
+ {
+  "ma": "nd254-m02a",
+  "ten": "Bảng tổng hợp thông tin Hợp đồng đối với trường hợp thực hiện theo hợp đồng",
+  "nhom": "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)",
+  "nguon": "Mẫu số 02.a/TT Phụ lục Hệ thống mẫu biểu kèm theo Nghị định 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "254-2025-nd-cp",
+    "8",
+    "điểm d khoản 1 Điều 8"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư lập theo hợp đồng đã có hiệu lực, gửi cơ quan thanh toán trong hồ sơ pháp lý lần đầu giao dịch hoặc khi có phát sinh, điều chỉnh, bổ sung (điểm d khoản 1 Điều 8)."
+ },
+ {
+  "ma": "nd254-m02b",
+  "ten": "Bảng tổng hợp thông tin Dự toán chi phí đối với trường hợp không thực hiện theo hợp đồng",
+  "nhom": "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)",
+  "nguon": "Mẫu số 02.b/TT Phụ lục Hệ thống mẫu biểu kèm theo Nghị định 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "254-2025-nd-cp",
+    "8",
+    "điểm đ khoản 1 Điều 8"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư lập theo dự toán chi phí đã được duyệt đối với công việc không thực hiện theo hợp đồng, gửi cơ quan thanh toán trong hồ sơ pháp lý (điểm đ khoản 1 Điều 8)."
+ },
+ {
+  "ma": "nd254-m02c",
+  "ten": "Bảng tổng hợp thông tin bồi thường, hỗ trợ, tái định cư",
+  "nhom": "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)",
+  "nguon": "Mẫu số 02.c/TT Phụ lục Hệ thống mẫu biểu kèm theo Nghị định 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "254-2025-nd-cp",
+    "8",
+    "điểm e khoản 1 Điều 8"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư hoặc đơn vị, tổ chức thực hiện bồi thường, hỗ trợ, tái định cư lập theo phương án được duyệt, gửi cơ quan thanh toán trong hồ sơ pháp lý (điểm e khoản 1 Điều 8)."
+ },
+ {
+  "ma": "nd254-m03a",
+  "ten": "Bảng xác định giá trị khối lượng công việc hoàn thành",
+  "nhom": "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)",
+  "nguon": "Mẫu số 03.a/TT Phụ lục Hệ thống mẫu biểu kèm theo Nghị định 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "254-2025-nd-cp",
+    "8",
+    "điểm a, điểm b khoản 3 và khoản 6 Điều 8"
+   ],
+   [
+    "254-2025-nd-cp",
+    "9",
+    "khoản 5 Điều 9 (thu hồi vốn tạm ứng)"
+   ]
+  ],
+  "dung_khi": "Lập mỗi lần đề nghị thanh toán khối lượng công việc hoàn thành (kể cả thu hồi tạm ứng), kèm Giấy đề nghị thanh toán vốn và Giấy rút vốn (khoản 3 Điều 8, khoản 5 Điều 9)."
+ },
+ {
+  "ma": "nd254-m03b",
+  "ten": "Bảng kê giá trị khối lượng công việc bồi thường, hỗ trợ, tái định cư đã thực hiện",
+  "nhom": "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)",
+  "nguon": "Mẫu số 03.b/TT Phụ lục Hệ thống mẫu biểu kèm theo Nghị định 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "254-2025-nd-cp",
+    "8",
+    "tiết (i) điểm b khoản 3 Điều 8"
+   ]
+  ],
+  "dung_khi": "Lập mỗi lần đề nghị thanh toán tiền bồi thường, hỗ trợ, tái định cư, kèm Giấy đề nghị thanh toán vốn và Giấy rút vốn (tiết (i) điểm b khoản 3 Điều 8)."
+ },
+ {
+  "ma": "nd254-m04a",
+  "ten": "Giấy đề nghị thanh toán vốn",
+  "nhom": "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)",
+  "nguon": "Mẫu số 04.a/TT Phụ lục Hệ thống mẫu biểu kèm theo Nghị định 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "254-2025-nd-cp",
+    "8",
+    "khoản 2, khoản 3 và khoản 6 Điều 8"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư/Ban QLDA gửi cơ quan thanh toán mỗi lần đề nghị tạm ứng hoặc thanh toán khối lượng hoàn thành (khoản 2, khoản 3 Điều 8)."
+ },
+ {
+  "ma": "nd254-m04b",
+  "ten": "Giấy đề nghị thu hồi vốn",
+  "nhom": "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)",
+  "nguon": "Mẫu số 04.b/TT Phụ lục Hệ thống mẫu biểu kèm theo Nghị định 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "254-2025-nd-cp",
+    "8",
+    "điểm a, điểm b khoản 3 và khoản 6 Điều 8"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư lập khi đề nghị thu hồi vốn đã tạm ứng (chuyển tạm ứng sang thực chi) hoặc chuyển ứng trước chưa đủ điều kiện thanh toán sang ứng trước đủ điều kiện thanh toán, kèm hồ sơ thanh toán (khoản 3 Điều 8)."
+ },
+ {
+  "ma": "nd254-m04c",
+  "ten": "Giấy đề nghị thu hồi vốn ứng trước",
+  "nhom": "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)",
+  "nguon": "Mẫu số 04.c/TT Phụ lục Hệ thống mẫu biểu kèm theo Nghị định 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "254-2025-nd-cp",
+    "8",
+    "điểm b khoản 7 Điều 8"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư lập để thu hồi vốn ứng trước khi đã được giao kế hoạch đầu tư công hằng năm để thu hồi vốn ứng trước (khoản 7 Điều 8)."
+ },
+ {
+  "ma": "nd254-m05a",
+  "ten": "Giấy rút vốn",
+  "nhom": "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)",
+  "nguon": "Mẫu số 05.a/TT Phụ lục Hệ thống mẫu biểu kèm theo Nghị định 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "254-2025-nd-cp",
+    "8",
+    "khoản 2, khoản 3 và khoản 6 Điều 8"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư gửi cơ quan thanh toán kèm Giấy đề nghị thanh toán vốn trong hồ sơ tạm ứng và hồ sơ thanh toán (khoản 2, khoản 3 Điều 8)."
+ },
+ {
+  "ma": "nd254-m08a",
+  "ten": "Báo cáo tổng hợp tình hình tạm ứng và thu hồi vốn tạm ứng (của chủ đầu tư, đơn vị, tổ chức làm nhiệm vụ bồi thường, hỗ trợ và tái định cư)",
+  "nhom": "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)",
+  "nguon": "Mẫu số 08.a/SDTƯ Phụ lục Hệ thống mẫu biểu kèm theo Nghị định 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "254-2025-nd-cp",
+    "9",
+    "điểm b khoản 6 Điều 9"
+   ]
+  ],
+  "dung_khi": "Hằng quý, chủ đầu tư (trước ngày 05) và đơn vị, tổ chức thực hiện bồi thường, hỗ trợ, tái định cư (trước ngày 03 tháng đầu quý sau) báo cáo tình hình tạm ứng và thu hồi tạm ứng của từng dự án (điểm b khoản 6 Điều 9)."
+ },
+ {
+  "ma": "nd254-m09",
+  "ten": "Bảng phân bổ chi phí quản lý dự án đề nghị thanh toán hoàn tạm ứng chi phí quản lý dự án",
+  "nhom": "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)",
+  "nguon": "Mẫu số 09/QLDA Phụ lục Hệ thống mẫu biểu kèm theo Nghị định 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "254-2025-nd-cp",
+    "8",
+    "khoản 6 Điều 8"
+   ],
+   [
+    "254-2025-nd-cp",
+    "9",
+    "điểm c khoản 5 Điều 9"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư, ban quản lý dự án trực tiếp quản lý nhiều dự án lập để phân bổ chi phí quản lý dự án khi đề nghị thanh toán, thu hồi tạm ứng chi phí quản lý dự án (khoản 6 Điều 8, điểm c khoản 5 Điều 9)."
+ },
+ {
+  "ma": "tt36-b11",
+  "ten": "Tổng hợp sơ bộ tổng mức đầu tư xây dựng",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 1.1 Phụ lục I Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "3",
+    "Điều 3 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục I Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp sơ bộ tổng mức đầu tư xây dựng khi lập báo cáo nghiên cứu tiền khả thi, đề xuất chủ trương đầu tư (Điều 3, phần I Phụ lục I). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP."
+ },
+ {
+  "ma": "tt36-b12",
+  "ten": "Tổng hợp tổng mức đầu tư xây dựng",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 1.2 Phụ lục I Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "4",
+    "Điều 4 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục I Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp tổng mức đầu tư xây dựng khi lập báo cáo nghiên cứu khả thi đầu tư xây dựng (Điều 4, phần II Phụ lục I). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP."
+ },
+ {
+  "ma": "tt36-b21",
+  "ten": "Tổng hợp dự toán xây dựng công trình",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 2.1 Phụ lục II Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "6",
+    "Điều 6 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục II Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp dự toán xây dựng công trình theo công thức (2.1) Phụ lục II (Điều 6). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP."
+ },
+ {
+  "ma": "tt36-b22",
+  "ten": "Tổng hợp chi phí thiết bị",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 2.2 Phụ lục II Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "6",
+    "Điều 6 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục II Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp chi phí thiết bị trong dự toán xây dựng công trình theo công thức (2.2) Phụ lục II (Điều 6). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP."
+ },
+ {
+  "ma": "tt36-b24",
+  "ten": "Tổng hợp chi phí tư vấn xây dựng",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 2.4 Phụ lục II Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "6",
+    "Điều 6 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục II Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp chi phí tư vấn xây dựng trong dự toán xây dựng công trình (Điều 6, khoản 4 mục 1 Phụ lục II). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP."
+ },
+ {
+  "ma": "tt36-b25",
+  "ten": "Tổng hợp chi phí khác",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 2.5 Phụ lục II Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "6",
+    "Điều 6 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục II Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp chi phí khác trong dự toán xây dựng công trình theo công thức (2.6) Phụ lục II (Điều 6). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP."
+ },
+ {
+  "ma": "tt36-b26",
+  "ten": "Tổng hợp dự toán gói thầu xây dựng",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 2.6 Phụ lục II Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "7",
+    "Điều 7 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục II Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp dự toán gói thầu xây dựng (Điều 7). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP."
+ },
+ {
+  "ma": "tt36-b27",
+  "ten": "Tổng hợp dự toán công việc xây dựng",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 2.7 Phụ lục II Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "8",
+    "Điều 8 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục II Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp dự toán công việc xây dựng (khoản 4 Điều 76 Luật Xây dựng 135/2025/QH15; Điều 8 Thông tư 36/2026/TT-BXD). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP."
+ },
+ {
+  "ma": "tt36-b31",
+  "ten": "Tổng hợp chi phí xây dựng",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 3.1 Phụ lục III Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "6",
+    "Điều 6 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục III Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp chi phí xây dựng của công trình theo Phụ lục III (phương pháp xác định chi phí xây dựng) khi lập dự toán (Điều 6). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP."
+ },
+ {
+  "ma": "tt36-b38",
+  "ten": "Tổng hợp dự toán chi phí xây dựng (xác định theo khối lượng và giá xây dựng)",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 3.8 Phụ lục III Thông tư 36/2026/TT-BXD (đã đối chiếu QĐ 1538/QĐ-BXD đính chính)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "36-2026-tt-bxd",
+    "6",
+    "Điều 6 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "36-2026-tt-bxd",
+    "16",
+    "Phụ lục III Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp dự toán chi phí xây dựng khi chi phí xây dựng được xác định theo khối lượng và giá xây dựng như hướng dẫn tại điểm 2.1, điểm 2.2 Phụ lục III. Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026."
+ },
+ {
+  "ma": "tt36-b39",
+  "ten": "Tổng hợp dự toán chi phí xây dựng (chi phí trực tiếp theo báo giá trọn gói)",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 3.9 Phụ lục III Thông tư 36/2026/TT-BXD (đã đối chiếu QĐ 1538/QĐ-BXD đính chính)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "36-2026-tt-bxd",
+    "6",
+    "Điều 6 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "36-2026-tt-bxd",
+    "16",
+    "Phụ lục III Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp dự toán chi phí xây dựng đối với công việc, bộ phận, hạng mục công trình có yêu cầu thiết kế riêng hoặc công nghệ, biện pháp thi công đặc thù, chi phí trực tiếp xác định theo báo giá trọn gói của đơn vị đủ năng lực (Phụ lục III). Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026."
+ },
+ {
+  "ma": "tt36-b41",
+  "ten": "Bảng tính giá vật liệu đến hiện trường công trình",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 4.1 Phụ lục IV Thông tư 36/2026/TT-BXD (đã đối chiếu QĐ 1538/QĐ-BXD đính chính)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "12",
+    "khoản 3 Điều 12 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục IV Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tính giá vật liệu đến hiện trường công trình khi chủ đầu tư, đơn vị tư vấn tự xác định giá công tác xây dựng theo Phụ lục IV do giá, định mức được ban hành, công bố chưa có hoặc chưa phù hợp (khoản 3 Điều 12). Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026."
+ },
+ {
+  "ma": "tt36-b42",
+  "ten": "Tổng hợp giá công tác xây dựng",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 4.2 Phụ lục IV Thông tư 36/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "36-2026-tt-bxd",
+    "12",
+    "khoản 3 Điều 12 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "36-2026-tt-bxd",
+    "16",
+    "Phụ lục IV Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp giá công tác xây dựng (chi phí vật liệu, nhân công, máy thi công theo từng công tác) khi chủ đầu tư, đơn vị tư vấn tự xác định giá công tác xây dựng theo Phụ lục IV do giá, định mức được ban hành, công bố chưa có hoặc chưa phù hợp (khoản 3 Điều 12). Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026."
+ },
+ {
+  "ma": "tt36-b43",
+  "ten": "Tổng hợp giá nhóm công tác xây dựng",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 4.3 Phụ lục IV Thông tư 36/2026/TT-BXD (đã đối chiếu QĐ 1538/QĐ-BXD đính chính)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "12",
+    "khoản 3 Điều 12 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục IV Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp giá nhóm công tác xây dựng từ giá các công tác xây dựng khi chủ đầu tư, đơn vị tư vấn tự xác định giá theo Phụ lục IV (khoản 3 Điều 12). Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026."
+ },
+ {
+  "ma": "tt36-b54",
+  "ten": "Tổng hợp dự toán chi phí khảo sát xây dựng",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 5.4 Phụ lục V Thông tư 36/2026/TT-BXD (đã đối chiếu QĐ 1538/QĐ-BXD đính chính)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "14",
+    "điểm c khoản 1 Điều 14 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục V Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp dự toán chi phí khảo sát xây dựng, vì chi phí khảo sát xây dựng được xác định bằng dự toán theo hướng dẫn tại Phụ lục V (điểm c khoản 1 Điều 14). Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026."
+ },
+ {
+  "ma": "tt36-pl7-m01",
+  "ten": "Công bố giá vật liệu xây dựng tháng/quý trên địa bàn tỉnh/thành phố",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Mẫu số 01 Phụ lục VII Thông tư 36/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "36-2026-tt-bxd",
+    "16",
+    "Phụ lục VII Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Sở Xây dựng công bố giá vật liệu xây dựng theo tháng/quý trên địa bàn theo mẫu tại Phụ lục VII; doanh nghiệp dùng để tra cứu, đối chiếu giá vật liệu được công bố. Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026."
+ },
+ {
+  "ma": "tt36-pl7-m02",
+  "ten": "Công bố giá nhân công xây dựng năm trên địa bàn tỉnh/thành phố",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Mẫu số 02 Phụ lục VII Thông tư 36/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "36-2026-tt-bxd",
+    "16",
+    "Phụ lục VII Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Sở Xây dựng công bố giá nhân công xây dựng hằng năm trên địa bàn theo mẫu tại Phụ lục VII; doanh nghiệp dùng để tra cứu, đối chiếu đơn giá nhân công được công bố. Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026."
+ },
+ {
+  "ma": "tt36-pl7-m03",
+  "ten": "Công bố giá ca máy và thiết bị thi công trên địa bàn tỉnh/thành phố",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Mẫu số 03 Phụ lục VII Thông tư 36/2026/TT-BXD (đã đối chiếu QĐ 1538/QĐ-BXD đính chính)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "11",
+    "điểm b khoản 5 Điều 11 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục VII Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Sở Xây dựng công bố giá ca máy và thiết bị thi công trên địa bàn theo mẫu tại Phụ lục VII (điểm b khoản 5 Điều 11); doanh nghiệp dùng để tra cứu, đối chiếu giá ca máy được công bố. Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026."
+ },
+ {
+  "ma": "tt36-pl8-m01",
+  "ten": "Báo cáo kết quả thẩm tra tổng mức đầu tư xây dựng",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Mẫu số 01 Phụ lục VIII Thông tư 36/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "36-2026-tt-bxd",
+    "16",
+    "Phụ lục VIII Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Đơn vị tư vấn thẩm tra báo cáo cơ quan chuẩn bị dự án kết quả thẩm tra tổng mức đầu tư xây dựng khi có yêu cầu thẩm tra tổng mức đầu tư độc lập. Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026."
+ },
+ {
+  "ma": "tt36-pl8-m02",
+  "ten": "Thông báo kết quả thẩm định tổng mức đầu tư xây dựng của cơ quan chuyên môn về xây dựng",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Mẫu số 02 Phụ lục VIII Thông tư 36/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "36-2026-tt-bxd",
+    "16",
+    "Phụ lục VIII Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Cơ quan chuyên môn về xây dựng thông báo cho cơ quan chuẩn bị dự án kết quả thẩm định tổng mức đầu tư xây dựng khi có yêu cầu thẩm định tổng mức đầu tư độc lập. Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026."
+ },
+ {
+  "ma": "tt36-pl8-m03",
+  "ten": "Thông báo kết quả thẩm định tổng mức đầu tư xây dựng của cơ quan được người quyết định đầu tư giao chủ trì thẩm định",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Mẫu số 03 Phụ lục VIII Thông tư 36/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "36-2026-tt-bxd",
+    "16",
+    "Phụ lục VIII Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Cơ quan/đơn vị được người quyết định đầu tư giao thẩm định thông báo cho cơ quan chuẩn bị dự án kết quả thẩm định tổng mức đầu tư xây dựng khi có yêu cầu thẩm định tổng mức đầu tư độc lập. Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026."
+ },
+ {
+  "ma": "tt36-pl8-m04",
+  "ten": "Báo cáo kết quả thẩm định tổng mức đầu tư xây dựng đối với dự án lập thiết kế FEED, thiết kế kỹ thuật tại Báo cáo nghiên cứu khả thi, dự án chỉ yêu cầu lập Báo cáo kinh tế - kỹ thuật",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Mẫu số 04 Phụ lục VIII Thông tư 36/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "36-2026-tt-bxd",
+    "16",
+    "Phụ lục VIII Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư báo cáo người quyết định đầu tư (hoặc cơ quan chủ trì thẩm định thuộc người quyết định đầu tư) kết quả thẩm định tổng mức đầu tư xây dựng đối với dự án lập thiết kế FEED, thiết kế kỹ thuật tại Báo cáo nghiên cứu khả thi, dự án chỉ yêu cầu lập Báo cáo kinh tế - kỹ thuật. Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026."
+ },
+ {
+  "ma": "tt36-pl8-m05",
+  "ten": "Báo cáo kết quả thẩm tra dự toán xây dựng công trình",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Mẫu số 05 Phụ lục VIII Thông tư 36/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "36-2026-tt-bxd",
+    "16",
+    "Phụ lục VIII Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Đơn vị tư vấn thẩm tra báo cáo chủ đầu tư kết quả thẩm tra dự toán xây dựng công trình khi có yêu cầu thẩm tra dự toán xây dựng công trình độc lập. Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026."
+ },
+ {
+  "ma": "tt36-pl8-m06",
+  "ten": "Thông báo kết quả thẩm định dự toán xây dựng công trình của cơ quan chuyên môn về xây dựng đối với công trình thuộc tiểu dự án hoặc hạng mục sử dụng vốn đầu tư công của dự án PPP",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Mẫu số 06 Phụ lục VIII Thông tư 36/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "36-2026-tt-bxd",
+    "16",
+    "Phụ lục VIII Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Cơ quan chuyên môn về xây dựng thông báo cho chủ đầu tư kết quả thẩm định dự toán xây dựng công trình thuộc tiểu dự án hoặc hạng mục sử dụng vốn đầu tư công của dự án PPP, khi có yêu cầu thẩm định dự toán độc lập. Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026."
+ },
+ {
+  "ma": "tt36-pl8-m07",
+  "ten": "Báo cáo kết quả thẩm định dự toán xây dựng công trình",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Mẫu số 07 Phụ lục VIII Thông tư 36/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "36-2026-tt-bxd",
+    "16",
+    "Phụ lục VIII Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Cơ quan/đơn vị thuộc chủ đầu tư được giao thẩm định thông báo kết quả thẩm định dự toán xây dựng công trình khi có yêu cầu thẩm định dự toán độc lập. Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026."
+ },
+ {
+  "ma": "tt40-b1",
+  "ten": "Tổng hợp chi phí bảo trì công trình xây dựng",
+  "nhom": "Chi phí bảo trì công trình (TT 40/2026/TT-BXD)",
+  "nguon": "Bảng 1 Phụ lục I ban hành kèm theo Thông tư 40/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "40-2026-tt-bxd",
+    "2",
+    "Điều 2 Thông tư 40/2026/TT-BXD"
+   ],
+   [
+    "40-2026-tt-bxd",
+    "8",
+    "Phụ lục I Thông tư 40/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Xác định, tổng hợp chi phí bảo trì công trình xây dựng gồm chi phí bảo dưỡng, sửa chữa và các công việc khác trong kế hoạch bảo trì (Điều 2 Thông tư 40/2026/TT-BXD; hiệu lực từ 01/07/2026)."
+ },
+ {
+  "ma": "tt40-b21",
+  "ten": "Tổng hợp dự toán chi phí bảo dưỡng công trình",
+  "nhom": "Chi phí bảo trì công trình (TT 40/2026/TT-BXD)",
+  "nguon": "Bảng 2.1 Phụ lục II ban hành kèm theo Thông tư 40/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "40-2026-tt-bxd",
+    "3",
+    "Điều 3 Thông tư 40/2026/TT-BXD"
+   ],
+   [
+    "40-2026-tt-bxd",
+    "8",
+    "Phụ lục II Thông tư 40/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Lập, tổng hợp dự toán chi phí bảo dưỡng công trình (Điều 3, Phụ lục II Thông tư 40/2026/TT-BXD; hiệu lực từ 01/07/2026)."
+ },
+ {
+  "ma": "tt40-b25",
+  "ten": "Dự toán chi phí thực hiện bảo dưỡng",
+  "nhom": "Chi phí bảo trì công trình (TT 40/2026/TT-BXD)",
+  "nguon": "Bảng 2.5 Phụ lục II ban hành kèm theo Thông tư 40/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "40-2026-tt-bxd",
+    "3",
+    "Điều 3 Thông tư 40/2026/TT-BXD"
+   ],
+   [
+    "40-2026-tt-bxd",
+    "8",
+    "mục II Phụ lục II Thông tư 40/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Lập dự toán chi phí thực hiện bảo dưỡng (chi phí trực tiếp, gián tiếp, thu nhập chịu thuế tính trước, thuế GTGT, nhà tạm) theo mục II Phụ lục II Thông tư 40/2026/TT-BXD; hiệu lực từ 01/07/2026."
+ },
+ {
+  "ma": "tt40-b31",
+  "ten": "Tổng hợp dự toán chi phí sửa chữa công trình",
+  "nhom": "Chi phí bảo trì công trình (TT 40/2026/TT-BXD)",
+  "nguon": "Bảng 3.1 Phụ lục III ban hành kèm theo Thông tư 40/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "40-2026-tt-bxd",
+    "4",
+    "Điều 4 Thông tư 40/2026/TT-BXD"
+   ],
+   [
+    "40-2026-tt-bxd",
+    "8",
+    "Phụ lục III Thông tư 40/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Lập, tổng hợp dự toán chi phí sửa chữa công trình xây dựng (Điều 4, Phụ lục III Thông tư 40/2026/TT-BXD; hiệu lực từ 01/07/2026)."
+ },
+ {
+  "ma": "tt40-b32",
+  "ten": "Dự toán chi phí thực hiện sửa chữa công trình",
+  "nhom": "Chi phí bảo trì công trình (TT 40/2026/TT-BXD)",
+  "nguon": "Bảng 3.2 Phụ lục III ban hành kèm theo Thông tư 40/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "40-2026-tt-bxd",
+    "4",
+    "Điều 4 Thông tư 40/2026/TT-BXD"
+   ],
+   [
+    "40-2026-tt-bxd",
+    "8",
+    "mục II Phụ lục III Thông tư 40/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Lập dự toán chi phí thực hiện sửa chữa công trình (chi phí trực tiếp, gián tiếp, thu nhập chịu thuế tính trước, thuế GTGT, nhà tạm) theo mục II Phụ lục III Thông tư 40/2026/TT-BXD; hiệu lực từ 01/07/2026."
+ },
+ {
+  "ma": "tt73-m01",
+  "ten": "Báo cáo tổng hợp quyết toán vốn đầu tư dự án",
+  "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+  "nguon": "Mẫu số 01/QTDA ban hành kèm theo Thông tư 73/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "73-2026-tt-btc",
+    "3",
+    "Điều 3"
+   ],
+   [
+    "73-2026-tt-btc",
+    "4",
+    "khoản 1 Điều 4 Thông tư 73/2026/TT-BTC"
+   ],
+   [
+    "193-2026-nd-cp",
+    "7",
+    "khoản 1 Điều 7 Nghị định 193/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Dự án (dự án thành phần, tiểu dự án, công trình, hạng mục công trình độc lập) hoàn thành, dự án dừng thực hiện có khối lượng thi công xây dựng, lắp đặt thiết bị được nghiệm thu (khoản 1 Điều 4 Thông tư 73/2026/TT-BTC; hiệu lực từ 01/07/2026)."
+ },
+ {
+  "ma": "tt73-m02",
+  "ten": "Danh mục văn bản",
+  "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+  "nguon": "Mẫu số 02/QTDA ban hành kèm theo Thông tư 73/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "73-2026-tt-btc",
+    "3",
+    "Điều 3"
+   ],
+   [
+    "73-2026-tt-btc",
+    "4",
+    "khoản 1 Điều 4 Thông tư 73/2026/TT-BTC"
+   ],
+   [
+    "193-2026-nd-cp",
+    "7",
+    "khoản 1 Điều 7 Nghị định 193/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Dự án (dự án thành phần, tiểu dự án, công trình, hạng mục công trình độc lập) hoàn thành, dự án dừng thực hiện có khối lượng thi công xây dựng, lắp đặt thiết bị được nghiệm thu (khoản 1 Điều 4 Thông tư 73/2026/TT-BTC; hiệu lực từ 01/07/2026)."
+ },
+ {
+  "ma": "tt73-m03",
+  "ten": "Bảng đối chiếu số liệu",
+  "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+  "nguon": "Mẫu số 03/QTDA ban hành kèm theo Thông tư 73/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "73-2026-tt-btc",
+    "3",
+    "Điều 3"
+   ],
+   [
+    "73-2026-tt-btc",
+    "4",
+    "khoản 1 Điều 4 Thông tư 73/2026/TT-BTC"
+   ],
+   [
+    "193-2026-nd-cp",
+    "7",
+    "khoản 1 Điều 7 Nghị định 193/2026/NĐ-CP"
+   ],
+   [
+    "73-2026-tt-btc",
+    "4",
+    "khoản 2 Điều 4 Thông tư 73/2026/TT-BTC"
+   ]
+  ],
+  "dung_khi": "Dùng cho cả dự án hoàn thành/dừng thực hiện có khối lượng (khoản 1 Điều 4) và dự án quy hoạch, chuẩn bị đầu tư, dừng thực hiện chưa có khối lượng (khoản 2 Điều 4 Thông tư 73/2026/TT-BTC); đối chiếu với cơ quan thanh toán."
+ },
+ {
+  "ma": "tt73-m04",
+  "ten": "Chi tiết chi phí đầu tư đề nghị quyết toán",
+  "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+  "nguon": "Mẫu số 04/QTDA ban hành kèm theo Thông tư 73/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "73-2026-tt-btc",
+    "3",
+    "Điều 3"
+   ],
+   [
+    "73-2026-tt-btc",
+    "4",
+    "khoản 1 Điều 4 Thông tư 73/2026/TT-BTC"
+   ],
+   [
+    "193-2026-nd-cp",
+    "7",
+    "khoản 1 Điều 7 Nghị định 193/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Dự án (dự án thành phần, tiểu dự án, công trình, hạng mục công trình độc lập) hoàn thành, dự án dừng thực hiện có khối lượng thi công xây dựng, lắp đặt thiết bị được nghiệm thu (khoản 1 Điều 4 Thông tư 73/2026/TT-BTC; hiệu lực từ 01/07/2026)."
+ },
+ {
+  "ma": "tt73-m05",
+  "ten": "Chi tiết giá trị tài sản hình thành",
+  "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+  "nguon": "Mẫu số 05/QTDA ban hành kèm theo Thông tư 73/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "73-2026-tt-btc",
+    "3",
+    "Điều 3"
+   ],
+   [
+    "73-2026-tt-btc",
+    "4",
+    "khoản 1 Điều 4 Thông tư 73/2026/TT-BTC"
+   ],
+   [
+    "193-2026-nd-cp",
+    "7",
+    "khoản 1 Điều 7 Nghị định 193/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Dự án (dự án thành phần, tiểu dự án, công trình, hạng mục công trình độc lập) hoàn thành, dự án dừng thực hiện có khối lượng thi công xây dựng, lắp đặt thiết bị được nghiệm thu (khoản 1 Điều 4 Thông tư 73/2026/TT-BTC; hiệu lực từ 01/07/2026)."
+ },
+ {
+  "ma": "tt73-m06",
+  "ten": "Chi tiết giá trị vật tư, vật liệu, thiết bị tồn đọng",
+  "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+  "nguon": "Mẫu số 06/QTDA ban hành kèm theo Thông tư 73/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "73-2026-tt-btc",
+    "3",
+    "Điều 3"
+   ],
+   [
+    "73-2026-tt-btc",
+    "4",
+    "khoản 1 Điều 4 Thông tư 73/2026/TT-BTC"
+   ],
+   [
+    "193-2026-nd-cp",
+    "7",
+    "khoản 1 Điều 7 Nghị định 193/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Dự án (dự án thành phần, tiểu dự án, công trình, hạng mục công trình độc lập) hoàn thành, dự án dừng thực hiện có khối lượng thi công xây dựng, lắp đặt thiết bị được nghiệm thu (khoản 1 Điều 4 Thông tư 73/2026/TT-BTC; hiệu lực từ 01/07/2026)."
+ },
+ {
+  "ma": "tt73-m07",
+  "ten": "Tình hình công nợ của dự án",
+  "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+  "nguon": "Mẫu số 07/QTDA ban hành kèm theo Thông tư 73/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "73-2026-tt-btc",
+    "3",
+    "Điều 3"
+   ],
+   [
+    "73-2026-tt-btc",
+    "4",
+    "khoản 1 Điều 4 Thông tư 73/2026/TT-BTC"
+   ],
+   [
+    "193-2026-nd-cp",
+    "7",
+    "khoản 1 Điều 7 Nghị định 193/2026/NĐ-CP"
+   ],
+   [
+    "73-2026-tt-btc",
+    "4",
+    "khoản 2 Điều 4 Thông tư 73/2026/TT-BTC"
+   ]
+  ],
+  "dung_khi": "Dùng cho cả dự án hoàn thành/dừng thực hiện có khối lượng (khoản 1 Điều 4) và dự án quy hoạch, chuẩn bị đầu tư, dừng thực hiện chưa có khối lượng (khoản 2 Điều 4 Thông tư 73/2026/TT-BTC)."
+ },
+ {
+  "ma": "tt73-m08",
+  "ten": "Báo cáo quyết toán vốn đầu tư dự án (dự án quy hoạch, chuẩn bị đầu tư, dừng thực hiện chưa có khối lượng)",
+  "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+  "nguon": "Mẫu số 08/QTDA ban hành kèm theo Thông tư 73/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "73-2026-tt-btc",
+    "4",
+    "khoản 2 Điều 4 Thông tư 73/2026/TT-BTC"
+   ],
+   [
+    "193-2026-nd-cp",
+    "7",
+    "khoản 2 Điều 7 Nghị định 193/2026/NĐ-CP"
+   ],
+   [
+    "73-2026-tt-btc",
+    "3",
+    "khoản 8 Điều 3"
+   ]
+  ],
+  "dung_khi": "Dự án quy hoạch, dự án chuẩn bị đầu tư, dự án dừng thực hiện chưa có khối lượng thi công xây dựng, lắp đặt thiết bị được nghiệm thu (khoản 2 Điều 4 Thông tư 73/2026/TT-BTC)."
+ },
+ {
+  "ma": "tt73-m10",
+  "ten": "Quyết định phê duyệt quyết toán vốn đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập, công trình, hạng mục công trình độc lập)",
+  "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+  "nguon": "Mẫu số 10/QTDA ban hành kèm theo Thông tư 73/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "73-2026-tt-btc",
+    "4",
+    "khoản 4 Điều 4 Thông tư 73/2026/TT-BTC"
+   ],
+   [
+    "193-2026-nd-cp",
+    "19",
+    "khoản 1 Điều 19 Nghị định 193/2026/NĐ-CP"
+   ],
+   [
+    "73-2026-tt-btc",
+    "3",
+    "khoản 10 Điều 3"
+   ]
+  ],
+  "dung_khi": "Cơ quan chủ trì thẩm tra lập dự thảo quyết định phê duyệt quyết toán trong hồ sơ trình người có thẩm quyền phê duyệt quyết toán (khoản 4 Điều 4 Thông tư 73/2026/TT-BTC; khoản 1 Điều 19 Nghị định 193/2026/NĐ-CP)."
+ },
+ {
+  "ma": "tt73-m11",
+  "ten": "Báo cáo tình hình quyết toán dự án sử dụng vốn đầu tư công trong năm",
+  "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+  "nguon": "Mẫu số 11/QTDA ban hành kèm theo Thông tư 73/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "73-2026-tt-btc",
+    "4",
+    "khoản 5 Điều 4 Thông tư 73/2026/TT-BTC"
+   ],
+   [
+    "193-2026-nd-cp",
+    "22",
+    "Điều 22 Nghị định 193/2026/NĐ-CP"
+   ],
+   [
+    "73-2026-tt-btc",
+    "3",
+    "khoản 11 Điều 3"
+   ]
+  ],
+  "dung_khi": "Bộ, cơ quan trung ương, tập đoàn, tổng công ty nhà nước, UBND cấp tỉnh (và đơn vị cấp dưới, UBND cấp xã) báo cáo tình hình quyết toán dự án sử dụng vốn đầu tư công trong năm (khoản 5 Điều 4 Thông tư 73/2026/TT-BTC; Điều 22 Nghị định 193/2026/NĐ-CP)."
+ },
+ {
+  "ma": "tt73-m12",
+  "ten": "Phiếu giao nhận Hồ sơ quyết toán vốn đầu tư dự án",
+  "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+  "nguon": "Mẫu số 12/QTDA ban hành kèm theo Thông tư 73/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "73-2026-tt-btc",
+    "4",
+    "điểm a khoản 6 Điều 4 Thông tư 73/2026/TT-BTC"
+   ],
+   [
+    "73-2026-tt-btc",
+    "3",
+    "khoản 12 Điều 3"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư/Ban QLDA giao trực tiếp hồ sơ quyết toán cho cơ quan chủ trì thẩm tra; thời gian nhận hồ sơ tính từ khi đại diện hai bên ký phiếu (điểm a khoản 6 Điều 4 Thông tư 73/2026/TT-BTC)."
+ },
+ {
+  "ma": "tt79-dt01",
+  "ten": "Bảng tính chi phí tư vấn, quản lý dự án (lập riêng cho từng dự án)",
+  "nhom": "Dự toán, quyết toán thu chi quản lý dự án (TT 79/2026/TT-BTC)",
+  "nguon": "Mẫu số 01(i)/DT-QLDA ban hành kèm theo Thông tư 79/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "79-2026-tt-btc",
+    "6",
+    "Điều 6 Thông tư 79/2026/TT-BTC"
+   ],
+   [
+    "79-2026-tt-btc",
+    "9",
+    "điểm b khoản 2 Điều 9 Thông tư 79/2026/TT-BTC"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư, ban quản lý dự án có dự án sử dụng vốn ngân sách nhà nước (Điều 1 Thông tư 79/2026/TT-BTC; hiệu lực từ 01/07/2026) xác định nguồn thu từ chi phí do mình thực hiện của từng dự án được giao quản lý, làm căn cứ lập dự toán thu (Điều 6) và hồ sơ trình thẩm định, phê duyệt dự toán hằng năm (Điều 9)."
+ },
+ {
+  "ma": "tt79-dt02",
+  "ten": "Bảng tính lương năm",
+  "nhom": "Dự toán, quyết toán thu chi quản lý dự án (TT 79/2026/TT-BTC)",
+  "nguon": "Mẫu số 02/DT-QLDA ban hành kèm theo Thông tư 79/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "79-2026-tt-btc",
+    "5",
+    "khoản 5 Điều 5 Thông tư 79/2026/TT-BTC"
+   ],
+   [
+    "79-2026-tt-btc",
+    "9",
+    "điểm c khoản 2 Điều 9 Thông tư 79/2026/TT-BTC"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư, ban quản lý dự án có dự án sử dụng vốn ngân sách nhà nước (Điều 1 Thông tư 79/2026/TT-BTC; hiệu lực từ 01/07/2026) lập bảng tính tiền lương năm của từng người lao động tham gia quản lý dự án làm căn cứ lập dự toán thu, chi (khoản 5 Điều 5) và hồ sơ trình phê duyệt dự toán hằng năm (Điều 9)."
+ },
+ {
+  "ma": "tt79-dt03",
+  "ten": "Dự toán thu, chi quản lý dự án năm",
+  "nhom": "Dự toán, quyết toán thu chi quản lý dự án (TT 79/2026/TT-BTC)",
+  "nguon": "Mẫu số 03/DT-QLDA ban hành kèm theo Thông tư 79/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "79-2026-tt-btc",
+    "7",
+    "khoản 3 Điều 7 Thông tư 79/2026/TT-BTC"
+   ],
+   [
+    "79-2026-tt-btc",
+    "9",
+    "điểm d khoản 2 Điều 9 Thông tư 79/2026/TT-BTC"
+   ],
+   [
+    "79-2026-tt-btc",
+    "12",
+    "Điều 12 Thông tư 79/2026/TT-BTC"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư, ban quản lý dự án có dự án sử dụng vốn ngân sách nhà nước (Điều 1 Thông tư 79/2026/TT-BTC; hiệu lực từ 01/07/2026) lập dự toán thu, chi hằng năm (khoản 3 Điều 7), trình thẩm định, phê duyệt (Điều 9); BQLDA lập và chấp hành dự toán hằng năm (Điều 12)."
+ },
+ {
+  "ma": "tt79-qd01",
+  "ten": "Quyết định phê duyệt dự toán thu, chi quản lý dự án năm của Ban quản lý dự án nhóm I",
+  "nhom": "Dự toán, quyết toán thu chi quản lý dự án (TT 79/2026/TT-BTC)",
+  "nguon": "Mẫu số 01/QĐ-QLDA ban hành kèm theo Thông tư 79/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "79-2026-tt-btc",
+    "9",
+    "điểm b khoản 4 Điều 9 Thông tư 79/2026/TT-BTC"
+   ]
+  ],
+  "dung_khi": "Thủ trưởng cơ quan, đơn vị được giao làm chủ đầu tư phê duyệt dự toán thu, chi năm kế hoạch của chủ đầu tư, BQLDA nhóm I, chậm nhất đến ngày 31 tháng 12 năm trước năm kế hoạch (điểm b khoản 4 Điều 9 Thông tư 79/2026/TT-BTC)."
+ },
+ {
+  "ma": "tt79-qd02",
+  "ten": "Quyết định phê duyệt dự toán thu, chi quản lý dự án năm của Ban quản lý dự án nhóm II",
+  "nhom": "Dự toán, quyết toán thu chi quản lý dự án (TT 79/2026/TT-BTC)",
+  "nguon": "Mẫu số 02/QĐ-QLDA ban hành kèm theo Thông tư 79/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "79-2026-tt-btc",
+    "12",
+    "điểm b khoản 1 Điều 12 Thông tư 79/2026/TT-BTC"
+   ]
+  ],
+  "dung_khi": "Giám đốc Ban quản lý dự án nhóm II (đơn vị sự nghiệp công lập) phê duyệt dự toán thu, chi năm của Ban (Điều 12 Thông tư 79/2026/TT-BTC); dự toán sau khi duyệt gửi cơ quan quản lý cấp trên, cơ quan tài chính cùng cấp."
+ },
+ {
+  "ma": "tt79-qdqt01",
+  "ten": "Quyết định phê duyệt quyết toán thu, chi quản lý dự án năm của Chủ đầu tư, Ban quản lý dự án nhóm I",
+  "nhom": "Dự toán, quyết toán thu chi quản lý dự án (TT 79/2026/TT-BTC)",
+  "nguon": "Mẫu số 01.QĐ/QT-QLDA ban hành kèm theo Thông tư 79/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "79-2026-tt-btc",
+    "10",
+    "khoản 2, khoản 7 Điều 10 Thông tư 79/2026/TT-BTC"
+   ]
+  ],
+  "dung_khi": "Thủ trưởng cơ quan chủ đầu tư phê duyệt quyết toán thu, chi năm của chủ đầu tư, BQLDA nhóm I, trong thời hạn tối đa 15 ngày làm việc kể từ ngày nhận đủ hồ sơ báo cáo quyết toán năm hợp pháp, hợp lệ (khoản 2, 5, 7 Điều 10 Thông tư 79/2026/TT-BTC)."
+ },
+ {
+  "ma": "tt79-qdqt02",
+  "ten": "Quyết định phê duyệt quyết toán thu, chi quản lý dự án năm của Ban quản lý dự án nhóm II",
+  "nhom": "Dự toán, quyết toán thu chi quản lý dự án (TT 79/2026/TT-BTC)",
+  "nguon": "Mẫu số 02.QĐ/QT-QLDA ban hành kèm theo Thông tư 79/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "79-2026-tt-btc",
+    "13",
+    "khoản 3, khoản 4 Điều 13 Thông tư 79/2026/TT-BTC"
+   ]
+  ],
+  "dung_khi": "Cơ quan tài chính cùng cấp thẩm tra và phê duyệt quyết toán thu, chi năm của BQLDA nhóm II, tối đa 15 ngày làm việc kể từ ngày nhận đủ hồ sơ báo cáo quyết toán năm hợp pháp, hợp lệ (khoản 4 Điều 13 Thông tư 79/2026/TT-BTC)."
+ },
+ {
+  "ma": "tt79-qt01",
+  "ten": "Báo cáo quyết toán thu, chi quản lý dự án năm của Chủ đầu tư, Ban quản lý dự án nhóm I",
+  "nhom": "Dự toán, quyết toán thu chi quản lý dự án (TT 79/2026/TT-BTC)",
+  "nguon": "Mẫu số 01/QT-QLDA ban hành kèm theo Thông tư 79/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "79-2026-tt-btc",
+    "10",
+    "khoản 1, điểm b khoản 4 Điều 10 Thông tư 79/2026/TT-BTC"
+   ],
+   [
+    "79-2026-tt-btc",
+    "14",
+    "điểm b khoản 3 Điều 14 Thông tư 79/2026/TT-BTC"
+   ]
+  ],
+  "dung_khi": "Kết thúc năm kế hoạch, chủ đầu tư, BQLDA nhóm I lấy ý kiến xác nhận của cơ quan thanh toán để lập báo cáo quyết toán thu, chi chậm nhất là ngày 28 tháng 02 năm sau (khoản 1 Điều 10 Thông tư 79/2026/TT-BTC)."
+ },
+ {
+  "ma": "tt79-qt02",
+  "ten": "Báo cáo quyết toán thu, chi quản lý dự án năm của Ban quản lý dự án nhóm II",
+  "nhom": "Dự toán, quyết toán thu chi quản lý dự án (TT 79/2026/TT-BTC)",
+  "nguon": "Mẫu số 02/QT-QLDA ban hành kèm theo Thông tư 79/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "79-2026-tt-btc",
+    "13",
+    "điểm b khoản 1, khoản 3 Điều 13 Thông tư 79/2026/TT-BTC"
+   ],
+   [
+    "79-2026-tt-btc",
+    "14",
+    "điểm b khoản 3 Điều 14 Thông tư 79/2026/TT-BTC"
+   ]
+  ],
+  "dung_khi": "BQLDA nhóm II (đơn vị sự nghiệp công lập) lập báo cáo quyết toán thu, chi năm trong hồ sơ báo cáo quyết toán năm gửi cơ quan tài chính cùng cấp thẩm tra, phê duyệt (Điều 13 Thông tư 79/2026/TT-BTC)."
+ }
+]

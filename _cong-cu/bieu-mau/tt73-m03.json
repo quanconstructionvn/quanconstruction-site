@@ -1,0 +1,245 @@
+{
+ "ma": "tt73-m03",
+ "ten": "Bảng đối chiếu số liệu",
+ "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+ "nguon": "Mẫu số 03/QTDA ban hành kèm theo Thông tư 73/2026/TT-BTC",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "73-2026-tt-btc",
+   "3",
+   "Điều 3"
+  ],
+  [
+   "73-2026-tt-btc",
+   "4",
+   "khoản 1 Điều 4 Thông tư 73/2026/TT-BTC"
+  ],
+  [
+   "193-2026-nd-cp",
+   "7",
+   "khoản 1 Điều 7 Nghị định 193/2026/NĐ-CP"
+  ],
+  [
+   "73-2026-tt-btc",
+   "4",
+   "khoản 2 Điều 4 Thông tư 73/2026/TT-BTC"
+  ]
+ ],
+ "dung_khi": "Dùng cho cả dự án hoàn thành/dừng thực hiện có khối lượng (khoản 1 Điều 4) và dự án quy hoạch, chuẩn bị đầu tư, dừng thực hiện chưa có khối lượng (khoản 2 Điều 4 Thông tư 73/2026/TT-BTC); đối chiếu với cơ quan thanh toán.",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 03/QTDA"
+  ],
+  [
+   "p",
+   {
+    "t": "(kèm theo Thông tư số 73/2026/TT-BTC\nngày 25 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "CHỦ ĐẦU TƯ",
+     "_____"
+    ]
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BẢNG ĐỐI CHIẾU SỐ LIỆU"
+   ]
+  ],
+  [
+   "p",
+   "Tên dự án: ..."
+  ],
+  [
+   "p",
+   "Mã dự án: ..."
+  ],
+  [
+   "p",
+   "Tên công trình, hạng mục công trình độc lập: ... (trường hợp quyết toán công trình, hạng mục công trình độc lập)."
+  ],
+  [
+   "p",
+   "Chủ đầu tư: ..."
+  ],
+  [
+   "p",
+   "Cơ quan thanh toán: ..."
+  ],
+  [
+   "p",
+   {
+    "t": "I. Tình hình giải ngân:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị: đồng",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Số TT",
+     "Nội dung",
+     "Số liệu của chủ đầu tư – Số vốn được giao",
+     "Số liệu của chủ đầu tư – Số vốn đã giải ngân – Tổng số",
+     "Số liệu của chủ đầu tư – Số vốn đã giải ngân – Thanh toán khối lượng hoàn thành",
+     "Số liệu của chủ đầu tư – Số vốn đã giải ngân – Tạm ứng",
+     "Số liệu của cơ quan thanh toán – Số vốn được giao",
+     "Số liệu của cơ quan thanh toán – Số vốn đã giải ngân – Tổng số",
+     "Số liệu của cơ quan thanh toán – Số vốn đã giải ngân – Thanh toán khối lượng hoàn thành",
+     "Số liệu của cơ quan thanh toán – Số vốn đã giải ngân – Tạm ứng",
+     "Chênh lệch",
+     "Ghi chú"
+    ],
+    "rong": [
+     1,
+     4,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "dong": [
+     [
+      "1",
+      "2",
+      "3",
+      "4=5+6",
+      "5",
+      "6",
+      "7",
+      "8=9+10",
+      "9",
+      "10",
+      "11=8-4",
+      "12"
+     ],
+     [
+      "1",
+      "Lũy kế từ khởi công"
+     ],
+     [
+      "",
+      "- Vốn đầu tư công"
+     ],
+     [
+      "",
+      "- Vốn chi thường xuyên"
+     ],
+     [
+      "",
+      "- Vốn ngân sách nhà nước khác không thuộc phạm vi điều chỉnh của pháp luật đầu tư công"
+     ],
+     [
+      "",
+      "- Vốn khác (nếu có)"
+     ],
+     [
+      "2",
+      "Chi tiết theo năm"
+     ],
+     [
+      "2.1",
+      "Năm ..."
+     ],
+     [
+      "",
+      "- Vốn đầu tư công"
+     ],
+     [
+      "",
+      "- Vốn chi thường xuyên"
+     ],
+     [
+      "",
+      "- Vốn ngân sách nhà nước khác không thuộc phạm vi điều chỉnh của pháp luật đầu tư công"
+     ],
+     [
+      "",
+      "- Vốn khác (nếu có)"
+     ],
+     [
+      "2.2",
+      "Năm ..."
+     ],
+     [
+      "",
+      "- Vốn đầu tư công"
+     ],
+     [
+      "",
+      "- Vốn chi thường xuyên"
+     ],
+     [
+      "",
+      "- Vốn ngân sách nhà nước khác không thuộc phạm vi điều chỉnh của pháp luật đầu tư công"
+     ],
+     [
+      "",
+      "- Vốn khác (nếu có)"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "II. Nhận xét, giải thích nguyên nhân chênh lệch, kiến nghị của cơ quan thanh toán:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "1. Nhận xét về việc chấp hành các quy định của nhà nước liên quan đến giải ngân, quyết toán: ..."
+  ],
+  [
+   "p",
+   "2. Giải thích nguyên nhân chênh lệch số liệu (nếu có): ..."
+  ],
+  [
+   "p",
+   "3. Kiến nghị: ..."
+  ],
+  [
+   "ky",
+   [
+    [
+     "Ngày ... tháng ... năm ....\nCHỦ ĐẦU TƯ",
+     "(Ký, đóng dấu, ghi rõ họ tên)"
+    ],
+    [
+     "Ngày ... tháng ... năm ....\nTHỦ TRƯỞNG CƠ QUAN THANH TOÁN",
+     "(Ký, đóng dấu, ghi rõ họ tên)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "Ghi chú: Đối chiếu chi tiết vốn đã giải ngân đến ngày khóa sổ để lập báo cáo quyết toán của dự án. Trường hợp dự án có nhiều nguồn vốn, nhiều cơ quan thanh toán, chủ đầu tư có trách nhiệm đối chiếu số liệu với từng cơ quan để tổng hợp báo cáo quyết toán của dự án."
+   ]
+  ]
+ ]
+}

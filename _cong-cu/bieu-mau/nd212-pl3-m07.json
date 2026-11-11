@@ -1,0 +1,121 @@
+{
+ "ma": "nd212-pl3-m07",
+ "ten": "Đơn đề nghị cấp giấy phép hoạt động xây dựng (đối với nhà thầu là cá nhân)",
+ "nhom": "Năng lực hoạt động xây dựng (NĐ 212/2026)",
+ "nguon": "Mẫu số 07 Phụ lục III ban hành kèm theo Nghị định 212/2026/NĐ-CP ngày 17/6/2026 của Chính phủ",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "212-2026-nd-cp",
+   "44",
+   "điểm a khoản 2 Điều 44 Nghị định 212/2026/NĐ-CP"
+  ],
+  [
+   "212-2026-nd-cp",
+   "43",
+   "Điều 43"
+  ],
+  [
+   "212-2026-nd-cp",
+   "46",
+   "Điều 46"
+  ]
+ ],
+ "dung_khi": "Nhà thầu nước ngoài là cá nhân nộp kèm hồ sơ đề nghị cấp giấy phép hoạt động xây dựng (điểm a khoản 2 Điều 44 Nghị định 212/2026/NĐ-CP); đơn lập bằng tiếng Việt.",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 07"
+  ],
+  [
+   "tieu_de",
+   [
+    "ĐƠN ĐỀ NGHỊ",
+    "Cấp giấy phép hoạt động xây dựng",
+    "(Đối với nhà thầu là cá nhân)"
+   ]
+  ],
+  [
+   "p",
+   "Văn bản số: …"
+  ],
+  [
+   "p",
+   {
+    "t": "…, ngày … tháng … năm…",
+    "can": "right"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Kính gửi: (Tên cơ quan có thẩm quyền)",
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "Tôi: ………………………………………………………………….. (Họ tên)."
+  ],
+  [
+   "p",
+   "Có hộ chiếu số: …………………………………………………………….(sao kèm theo đơn này)"
+  ],
+  [
+   "p",
+   "Địa chỉ tại nước mà cá nhân mang quốc tịch: …………………………………………………….."
+  ],
+  [
+   "p",
+   "Số điện thoại: ………………………… Fax (nếu có): …………………….. Email: …………………"
+  ],
+  [
+   "p",
+   "Địa chỉ tại Việt Nam (nếu có): ……………………………………………………………………………."
+  ],
+  [
+   "p",
+   "Số điện thoại: …………………………….. Fax (nếu có): ……………………… Email: ……………."
+  ],
+  [
+   "p",
+   "Tôi được chủ đầu tư (hoặc nhà thầu chính) thông báo trúng thầu (hoặc được lựa chọn) thực hiện tư vấn công việc ……………. thuộc Dự án ……………… tại ………………. trong thời gian từ ……………."
+  ],
+  [
+   "p",
+   "Đề nghị (Tên cơ quan có thẩm quyền) ………….. cấp giấy phép hoạt động xây dựng cho tôi để thực hiện công việc nêu trên."
+  ],
+  [
+   "p",
+   "Hồ sơ kèm theo gồm:"
+  ],
+  [
+   "p",
+   {
+    "t": "(Các tài liệu quy định tại Điều 44 Nghị định này)",
+    "i": true
+   }
+  ],
+  [
+   "p",
+   "Nếu hồ sơ của tôi cần được bổ sung hoặc làm rõ thêm nội dung gì, xin báo cho ông (bà) ……. có địa chỉ tại Việt Nam ……………………….. số điện thoại ………………. Fax ………………. Email ………….."
+  ],
+  [
+   "p",
+   "Khi được cấp giấy phép hoạt động xây dựng, tôi xin cam đoan thực hiện đầy đủ các quy định trong giấy phép và các quy định của pháp luật Việt Nam có liên quan."
+  ],
+  [
+   "ky",
+   [
+    [
+     "Nơi nhận:\n– Như trên;\n– Lưu: …",
+     ""
+    ],
+    [
+     "Kính đơn",
+     "(Ký tên)\nHọ và tên người ký"
+    ]
+   ]
+  ]
+ ]
+}

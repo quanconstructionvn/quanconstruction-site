@@ -1,0 +1,408 @@
+{
+ "ma": "tt36-pl8-m05",
+ "ten": "Báo cáo kết quả thẩm tra dự toán xây dựng công trình",
+ "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+ "nguon": "Mẫu số 05 Phụ lục VIII Thông tư 36/2026/TT-BXD",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "36-2026-tt-bxd",
+   "16",
+   "Phụ lục VIII Thông tư 36/2026/TT-BXD"
+  ]
+ ],
+ "dung_khi": "Đơn vị tư vấn thẩm tra báo cáo chủ đầu tư kết quả thẩm tra dự toán xây dựng công trình khi có yêu cầu thẩm tra dự toán xây dựng công trình độc lập. Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026.",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục VIII"
+  ],
+  [
+   "tieu_de",
+   [
+    "MẪU BÁO CÁO THẨM TRA, THẨM ĐỊNH TỔNG MỨC ĐẦU TƯ,",
+    "DỰ TOÁN XÂY DỰNG CÔNG TRÌNH"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Thông tư số 36/2026/TT-BXD ngày 26 tháng 6 năm 2026\ncủa Bộ trưởng Bộ Xây dựng)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Mẫu số 05: Báo cáo kết quả thẩm tra dự toán xây dựng công trình",
+    "can": "center",
+    "b": true
+   }
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "ĐƠN VỊ THẨM TRA",
+     "(Số hiệu văn bản)"
+    ],
+    "ngay": "..., ngày ... tháng ... năm …"
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BÁO CÁO KẾT QUẢ THẨM TRA DỰ TOÁN",
+    "XÂY DỰNG CÔNG TRÌNH",
+    "Công trình:....................................................................................................."
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "Kính gửi: (Tên Chủ đầu tư)",
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "Thực hiện theo Hợp đồng tư vấn thẩm tra (số hiệu hợp đồng) giữa (Chủ đầu tư) và (nhà thầu thẩm tra dự toán xây dựng) về việc thẩm tra dự toán xây dựng công trình (tên công trình). Sau khi xem xét, (nhà thầu thẩm tra dự toán xây dựng) báo cáo kết quả thẩm tra như sau:"
+  ],
+  [
+   "p",
+   {
+    "t": "1. Thông tin về công trình/hạng mục công đề nghị thẩm tra",
+    "b": true,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   "- Tên công trình; loại, cấp công trình:"
+  ],
+  [
+   "p",
+   "- Tên dự án:"
+  ],
+  [
+   "p",
+   "- Mã định danh (nếu có):"
+  ],
+  [
+   "p",
+   "- Chủ đầu tư:"
+  ],
+  [
+   "p",
+   "- Giá trị dự toán xây dựng:"
+  ],
+  [
+   "p",
+   "- Nguồn vốn đầu tư:"
+  ],
+  [
+   "p",
+   "- Địa điểm xây dựng: (ghi địa danh cấp xã, tỉnh)"
+  ],
+  [
+   "p",
+   "- Thông tin về các đơn vị tư vấn lập thiết kế, lập dự toán xây dựng công trình; thẩm tra thiết kế xây dựng triển khai sau khi dự án được phê duyệt (nếu có): (tên nhà thầu, mã số doanh nghiệp)"
+  ],
+  [
+   "p",
+   {
+    "t": "2. Danh mục hồ sơ đề nghị thẩm tra dự toán xây dựng công trình",
+    "b": true,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   "2.1. Văn bản pháp lý"
+  ],
+  [
+   "p",
+   "- Văn bản phê duyệt dự án, tổng mức đầu tư xây dựng;"
+  ],
+  [
+   "p",
+   "- Các văn bản cơ sở pháp lý liên quan đến dự án, xác định dự toán xây dựng công trình: Luật, Nghị định, Thông tư; các văn bản, tài liệu khác có liên quan đến dự án…"
+  ],
+  [
+   "p",
+   "2.2. Hồ sơ, tài liệu của công trình:"
+  ],
+  [
+   "p",
+   "- Hồ sơ dự án đã phê duyệt (Quyết định phê duyệt dự án, Báo cáo nghiên cứu khả thi của Dự án, các tài liệu pháp lý của dự án);"
+  ],
+  [
+   "p",
+   "- Hồ sơ thiết kế xây dựng sau khi dự án được phê duyệt của công trình;"
+  ],
+  [
+   "p",
+   "- Kết quả thẩm tra thiết kế xây dựng sau khi dự án được phê duyệt của công trình (nếu có);"
+  ],
+  [
+   "p",
+   "- Hồ sơ xác định dự toán xây dựng công trình (gồm thuyết minh xác định dự toán xây dựng công trình, chi tiết tính toán dự toán xây dựng công trình và các tài liệu có liên quan (nếu có));"
+  ],
+  [
+   "p",
+   {
+    "t": "3. Nội dung dự toán xây dựng công trình đề nghị thẩm tra:",
+    "b": true,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   "- Tóm tắt nội dung thông tin cơ bản của công trình; phạm vi, nội dung dự toán xây dựng công trình;"
+  ],
+  [
+   "p",
+   "- Giá trị dự toán: bao gồm các khoản mục chi phí theo công trình, hạng mục công trình thuộc dự án; các dự án thành phần, phân kỳ đầu tư (nếu có)."
+  ],
+  [
+   "p",
+   {
+    "t": "4. Nhận xét về cơ sở pháp lý và dự toán xây dựng công trình",
+    "b": true,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   "- Nhận xét về cơ sở pháp lý lập dự toán xây dựng công trình;"
+  ],
+  [
+   "p",
+   "- Nhận xét về các cơ sở để xác định các khoản mục chi phí trong dự toán xây dựng công trình;"
+  ],
+  [
+   "p",
+   "- Nhận xét về thành phần hồ sơ, sự đầy đủ, rõ ràng của các hồ sơ đề nghị thẩm tra;"
+  ],
+  [
+   "p",
+   "- Kết luận của đơn vị thẩm tra về việc đủ điều kiện/chưa đủ điều kiện để thực hiện thẩm tra."
+  ],
+  [
+   "p",
+   {
+    "t": "5. Nội dung thẩm tra dự toán xây dựng công trình",
+    "b": true,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   "(Việc thẩm tra dự toán xây dựng công trình do chủ đầu tư quyết định căn cứ đặc điểm, tính chất và sự cần thiết của dự toán xây dựng công trình. Nội dung thẩm tra có thể gồm một số hoặc toàn bộ nội dung dưới đây)."
+  ],
+  [
+   "p",
+   "5.1. Sự đầy đủ của hồ sơ dự toán xây dựng công trình thẩm định;"
+  ],
+  [
+   "p",
+   "5.2. Sự phù hợp của việc xác định khối lượng chủ yếu của công tác xây dựng, chủng loại và số lượng thiết bị tính toán trong dự toán xây dựng công trình so với khối lượng thiết kế;"
+  ],
+  [
+   "p",
+   "5.3. Sự phù hợp phương pháp tính toán các khoản mục chi phí đầu tư xây dựng; tính chính xác, căn cứ của các báo giá, dữ liệu chi phí, định mức xây dựng được sử dụng để xác định giá xây dựng, chi phí đầu tư xây dựng;"
+  ],
+  [
+   "p",
+   "5.4. Sự phù hợp của dự toán xây dựng công trình với giá trị tổng mức đầu tư xây dựng, thiết kế xây dựng, tiêu chuẩn, quy chuẩn, chỉ dẫn kỹ thuật, biện pháp thi công xây dựng định hướng, công nghệ được sử dụng cho dự án, tiến độ thi công công trình và mặt bằng giá thị trường."
+  ],
+  [
+   "p",
+   {
+    "t": "6. Kết quả thẩm tra",
+    "b": true,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   "Dựa vào các căn cứ và nội dung thẩm tra nêu trên, giá trị dự toán xây dựng công trình (tên công trình) sau thẩm tra như sau:"
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị tính: ….",
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "STT",
+     "Nội dung chi phí",
+     "Giá trị trong TMĐT được duyệt",
+     "Giá trị trong dự toán đề nghị thẩm tra",
+     "Giá trị dự toán thẩm tra",
+     "Tăng, giảm (+/-)"
+    ],
+    "rong": [
+     0.7,
+     4,
+     1.6,
+     1.6,
+     1.6,
+     1.4
+    ],
+    "dong": [
+     [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[4]",
+      "[5]",
+      "[6]"
+     ],
+     [
+      "1",
+      "Chi phí xây dựng",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2",
+      "Chi phí thiết bị (nếu có)",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "3",
+      "Chi phí quản lý dự án",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "4",
+      "Chi phí tư vấn xây dựng",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "5",
+      "Chi phí khác",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "6",
+      "Chi phí dự phòng",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "Tổng cộng",
+      "",
+      "",
+      "",
+      ""
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "- Phân tích, đánh giá mức độ, nguyên nhân tăng, giảm của các khoản mục chi phí so với giá trị dự toán xây dựng công trình do đơn vị tư vấn lập."
+  ],
+  [
+   "p",
+   {
+    "t": "7. Kết luận và kiến nghị",
+    "b": true,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   "- Kết luận: Hồ sơ dự toán xây dựng công trình của (tên công trình) đủ điều kiện/ chỉ đủ điều kiện sau khi hoàn thiện các nội dung yêu cầu để tổng hợp và triển khai các bước tiếp theo."
+  ],
+  [
+   "p",
+   "- Một số kiến nghị khác (nếu có)."
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI THẨM TRA",
+     "(Ký, họ tên)"
+    ],
+    [
+     "NGƯỜI CHỦ TRÌ",
+     "(Ký, họ tên)"
+    ]
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "Nơi nhận:",
+    "b": true,
+    "i": true,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "- Như trên;",
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "- …;",
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "- Lưu.",
+    "can": "left"
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "ĐƠN VỊ THẨM TRA",
+     "(Ký, ghi rõ họ tên, chức vụ và đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "Ghi chú chung của Phụ lục VIII:",
+    "- Sử dụng các mẫu 01, 02, 03 hoặc 04 trong trường hợp có yêu cầu thẩm tra/thẩm định tổng mức đầu tư độc lập. Trường hợp thẩm định tổng mức đầu tư cùng với thẩm định Báo cáo nghiên cứu khả thi, Báo cáo kinh tế - kỹ thuật, nội dung kết quả thẩm định tổng mức đầu tư được tổng hợp trong thông báo kết quả thẩm định Báo cáo nghiên cứu khả thi, Báo cáo kinh tế - kỹ thuật.",
+    "- Sử dụng các mẫu 05, 06, 07 trong trường hợp có yêu cầu thẩm tra/thẩm định dự toán xây dựng công trình độc lập. Trường hợp thẩm định dự toán xây dựng cùng với thẩm định thiết kế xây dựng triển khai sau khi dự án được phê duyệt, nội dung kết quả thẩm định dự toán xây dựng được tổng hợp trong thông báo kết quả thẩm định thiết kế xây dựng triển khai sau khi dự án được phê duyệt.",
+    "- Trường hợp cơ quan/đơn vị được người quyết định đầu tư giao thẩm định đồng thời là cơ quan chuyên môn về xây dựng thì thông báo kết quả thẩm định sử dụng Mẫu số 03, nội dung thẩm định tổng mức đầu tư bao gồm cả nội dung thẩm định của cơ quan chuyên môn về xây dựng tại mục 5 Mẫu số 02 Phụ lục này."
+   ]
+  ]
+ ]
+}

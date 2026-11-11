@@ -1,0 +1,184 @@
+{
+ "ma": "tt73-m04",
+ "ten": "Chi tiết chi phí đầu tư đề nghị quyết toán",
+ "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+ "nguon": "Mẫu số 04/QTDA ban hành kèm theo Thông tư 73/2026/TT-BTC",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "73-2026-tt-btc",
+   "3",
+   "Điều 3"
+  ],
+  [
+   "73-2026-tt-btc",
+   "4",
+   "khoản 1 Điều 4 Thông tư 73/2026/TT-BTC"
+  ],
+  [
+   "193-2026-nd-cp",
+   "7",
+   "khoản 1 Điều 7 Nghị định 193/2026/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Dự án (dự án thành phần, tiểu dự án, công trình, hạng mục công trình độc lập) hoàn thành, dự án dừng thực hiện có khối lượng thi công xây dựng, lắp đặt thiết bị được nghiệm thu (khoản 1 Điều 4 Thông tư 73/2026/TT-BTC; hiệu lực từ 01/07/2026).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 04/QTDA"
+  ],
+  [
+   "p",
+   {
+    "t": "(kèm theo Thông tư số 73/2026/TT-BTC\nngày 25 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính)",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "CHỦ ĐẦU TƯ",
+     "____"
+    ]
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "CHI TIẾT CHI PHÍ ĐẦU TƯ ĐỀ NGHỊ QUYẾT TOÁN"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị: đồng",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Số TT",
+     "Nội dung chi phí",
+     "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) được phê duyệt hoặc điều chỉnh lần cuối",
+     "Tổng dự toán (dự toán công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối",
+     "Giá trị đề nghị quyết toán",
+     "Nguyên nhân tăng, giảm"
+    ],
+    "rong": [
+     1,
+     3,
+     3,
+     3,
+     2,
+     3
+    ],
+    "dong": [
+     [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+     ],
+     [
+      "",
+      "Tổng số\n(I+II+III+IV+V+VI+VII)"
+     ],
+     [
+      "I",
+      "Bồi thường, hỗ trợ, tái định cư"
+     ],
+     [
+      "1",
+      "..."
+     ],
+     [
+      "...",
+      ""
+     ],
+     [
+      "II",
+      "Xây dựng"
+     ],
+     [
+      "1",
+      "..."
+     ],
+     [
+      "...",
+      ""
+     ],
+     [
+      "III",
+      "Thiết bị"
+     ],
+     [
+      "1",
+      "..."
+     ],
+     [
+      "...",
+      ""
+     ],
+     [
+      "IV",
+      "Quản lý dự án"
+     ],
+     [
+      "V",
+      "Tư vấn"
+     ],
+     [
+      "1",
+      "..."
+     ],
+     [
+      "...",
+      ""
+     ],
+     [
+      "VI",
+      "Chi phí khác"
+     ],
+     [
+      "1",
+      "..."
+     ],
+     [
+      "...",
+      ""
+     ],
+     [
+      "VII",
+      "Dự phòng"
+     ]
+    ]
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LẬP BIỂU",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     "..., ngày ... tháng ... năm ...\nCHỦ ĐẦU TƯ",
+     "(Ký, đóng dấu, ghi rõ họ tên)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "Ghi chú: Tại cột 6 chủ đầu tư căn cứ các quy định của pháp luật về ngân sách nhà nước, đầu tư công, xây dựng, đấu thầu, thanh tra, kiểm toán và các quy định khác của pháp luật liên quan đến thực hiện dự án để ghi rõ nguyên nhân tăng, giảm của cột 5 so với cột 3, 4 (chủ đầu tư ghi trực tiếp vào mẫu biểu hoặc lập thành Phụ lục riêng để ghi nội dung này)."
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,290 @@
+[
+{
+"slug": "ban-do-cong-viec",
+"nhom": "cong-cu",
+"ngan": "Bản đồ công việc",
+"title": "Bản đồ công việc dự án xây dựng 2026: từng bước, hồ sơ, căn cứ",
+"desc": "Bản đồ công việc tương tác: 21 việc từ chuẩn bị dự án đến bảo trì, lọc theo nguồn vốn, checklist từng bước, hồ sơ và căn cứ luật 2026; lưu tiến độ, xuất Excel.",
+"summary": "Công cụ “Hôm nay cần làm gì?” cho chủ đầu tư, ban QLDA, nhà thầu: 21 công việc theo 5 giai đoạn, mỗi việc có bước làm, hồ sơ và điều luật.",
+"lead": "Chọn loại dự án, mở từng công việc để xem bước làm, hồ sơ, biểu mẫu và điều luật – đánh dấu tiến độ, giao người phụ trách, đặt hạn.",
+"ngay": "2026-11-11",
+"body": [
+[
+"p",
+"Bản đồ chia vòng đời dự án thành 5 giai đoạn với 21 công việc chính, từ chuẩn bị dự án, thẩm định, cấp phép, thi công đến quyết toán, bảo hành, bảo trì. Chọn loại dự án (vốn đầu tư công, vốn nhà nước ngoài đầu tư công, vốn khác hoặc nhà ở riêng lẻ) để chỉ hiện việc áp dụng. Mỗi công việc có 4 phần: bước làm theo trình tự, hồ sơ cần có, biểu mẫu – hướng dẫn và điều luật căn cứ, kèm ô trạng thái, người phụ trách, hạn hoàn thành."
+],
+[
+"st",
+[
+"ban-do",
+"ban-do.json"
+]
+],
+[
+"h2",
+"Cách dùng"
+],
+[
+"ul",
+[
+"Chọn <b>loại dự án</b> và <b>giai đoạn</b> để lọc; gõ từ khóa (ví dụ “bảo lãnh”, “PCCC”) để tìm nhanh.",
+"Mở từng công việc, tích các bước đã làm, chọn trạng thái <b>Đang thực hiện / Đang vướng / Đã hoàn thành / Không áp dụng</b>, ghi người phụ trách và hạn.",
+"Tiến độ được <b>lưu trên trình duyệt của máy đang dùng</b> (không gửi lên máy chủ); đổi máy hoặc xóa dữ liệu trình duyệt sẽ mất – hãy bấm <b>Xuất Excel (CSV)</b> để lưu lại.",
+"Bấm <b>In</b> để in toàn bộ bản đồ làm phiếu theo dõi họp giao ban."
+]
+],
+[
+"note",
+"Bản đồ tóm tắt trình tự theo Luật Xây dựng 2025 và các nghị định 2026 để tham khảo, không thay thế văn bản pháp luật. Các mức tạm ứng, bảo đảm, bảo hành, thời hạn quyết toán vốn chỉ bắt buộc với dự án vốn nhà nước/PPP theo đúng phạm vi từng điều. Thủ tục chủ trương đầu tư, kế hoạch vốn theo Luật Đầu tư công và nghị định hướng dẫn Luật Đấu thầu chưa có trong thư viện của chúng tôi. Luật Đấu thầu 2023, Luật PCCC 2024, NĐ 105/2025 đang ở trạng thái hết hiệu lực một phần."
+]
+]
+},
+{
+"slug": "checklist-ho-so-thanh-tra",
+"nhom": "ho-so",
+"ngan": "Checklist hồ sơ thanh tra",
+"title": "Checklist hồ sơ khi thanh tra, kiểm tra công trình xây dựng 2026",
+"desc": "Danh mục hồ sơ cần có khi thanh tra, kiểm tra công trình: pháp lý, thiết kế, hợp đồng, năng lực, an toàn, nghiệm thu, quyết toán. Đánh dấu, in, xuất Excel.",
+"summary": "Checklist tương tác hơn 180 hồ sơ chia 10 nhóm, mỗi hồ sơ ghi đơn vị lập và điều luật quy định; đánh dấu Có/Thiếu, in hoặc xuất Excel.",
+"lead": "Rà soát hồ sơ trước khi đoàn thanh tra, kiểm tra, kiểm toán làm việc – mỗi dòng dẫn tới đúng điều luật.",
+"ngay": "2026-11-11",
+"body": [
+[
+"p",
+"Checklist dưới đây tập hợp các hồ sơ, tài liệu mà pháp luật xây dựng hiện hành yêu cầu chủ đầu tư, nhà thầu và tư vấn phải lập, lưu giữ – là những thứ đoàn thanh tra, kiểm tra, kiểm toán thường đề nghị cung cấp. Mỗi dòng ghi đơn vị lập và điều luật quy định. Anh chị đánh dấu <b>Có / Thiếu / Không áp dụng</b>, ghi chú, rồi in hoặc xuất Excel; dữ liệu chỉ lưu trên trình duyệt của máy đang dùng."
+],
+[
+"st",
+[
+"checklist",
+"checklist-thanh-tra.json"
+]
+],
+[
+"h2",
+"Cách dùng khi chuẩn bị thanh tra, kiểm tra"
+],
+[
+"ul",
+[
+"Lọc nhanh bằng ô tìm kiếm hoặc chọn “chỉ hiện hồ sơ thiếu/chưa đánh dấu” để biết còn phải bổ sung gì.",
+"Đánh dấu <b>Không áp dụng</b> cho hồ sơ không thuộc dự án (ví dụ dự án không dùng vốn nhà nước thì các dòng ghi “dự án vốn nhà nước, PPP” về thành phần hồ sơ thanh toán, quyết toán là mức tham khảo).",
+"Sắp xếp hồ sơ thực tế theo đúng thứ tự 10 nhóm để đoàn kiểm tra dễ tra cứu; bản gốc để riêng, bản sao có xác nhận để giao nộp.",
+"Hồ sơ quản lý chất lượng phải phù hợp thời gian thực hiện thực tế tại công trường – không “làm bù” biên bản sau khi bị yêu cầu.",
+"Xuất Excel để giao việc bổ sung cho từng bộ phận (ban QLDA, giám sát, nhà thầu) và theo dõi đến khi đủ."
+]
+],
+[
+"p",
+"Xem thêm: <a href=\"/so-tay-xay-dung/ho-so-chat-luong-nghiem-thu.html\">hồ sơ chất lượng và nghiệm thu</a>, <a href=\"/so-tay-xay-dung/bieu-mau.html\">biểu mẫu tải về</a>."
+],
+[
+"note",
+"Danh mục để tham khảo, tổng hợp từ Luật Xây dựng 2025 và các nghị định, thông tư hướng dẫn trong thư viện; không thay thế yêu cầu cụ thể của đoàn thanh tra, kiểm tra hay quy định chuyên ngành khác (đầu tư công, đấu thầu, an toàn vệ sinh lao động, bảo vệ môi trường). Phụ lục II, IV, V, VI, VII, X của Nghị định 207/2026/NĐ-CP (nhật ký, báo cáo, danh mục hồ sơ hoàn thành) chưa có toàn văn trong thư viện nên chỉ nêu tên. Một số văn bản đang ở trạng thái hết hiệu lực một phần (Luật PCCC và CNCH 2024, NĐ 105/2025/NĐ-CP) – xem tình trạng tại từng văn bản."
+]
+]
+},
+{
+"slug": "thuat-ngu",
+"nhom": "cong-cu",
+"ngan": "Thuật ngữ Anh – Việt",
+"title": "Thuật ngữ quản lý dự án xây dựng Anh – Việt: QS, QA/QC, hợp đồng",
+"desc": "Tra nhanh hơn 170 thuật ngữ Anh – Việt về quản lý dự án, dự toán, hợp đồng FIDIC, đấu thầu, QA/QC, an toàn, tiến độ, BIM; dẫn định nghĩa trong luật Việt Nam.",
+"summary": "Từ điển thuật ngữ Anh – Việt cho kỹ sư, QS, QA/QC, giám sát, có ô tìm kiếm và dẫn tới định nghĩa trong luật khi có.",
+"lead": "Gõ tiếng Anh hoặc tiếng Việt để tra; thuật ngữ có định nghĩa trong luật được dẫn tới đúng điều.",
+"ngay": "2026-11-11",
+"body": [
+[
+"p",
+"Hồ sơ dự án, hợp đồng FIDIC, báo cáo của tư vấn nước ngoài dùng rất nhiều thuật ngữ tiếng Anh. Trang này tập hợp các thuật ngữ thường gặp, chia theo 10 nhóm: quản lý dự án, chi phí – QS, hợp đồng, đấu thầu, thiết kế – hồ sơ, chất lượng – QA/QC, an toàn – môi trường, tiến độ, BIM và vận hành – bảo trì. Gõ từ cần tìm vào ô tìm kiếm hoặc chọn nhóm để lọc."
+],
+[
+"st",
+[
+"thuat-ngu",
+"thuat-ngu.json"
+]
+],
+[
+"note",
+"Định nghĩa do Quan Construction biên soạn để tham khảo. Thuật ngữ có ghi “Theo …” được đối chiếu với định nghĩa trong văn bản pháp luật (Luật Xây dựng 2025, Luật Đấu thầu 2023 – đang hết hiệu lực một phần, các Nghị định 207, 210, 212, 217/2026); khi có khác biệt, áp dụng đúng văn bản pháp luật. Thuật ngữ hợp đồng quốc tế (FIDIC) dùng theo thỏa thuận trong từng hợp đồng."
+]
+]
+},
+{
+"slug": "ho-so-thanh-toan-von-dau-tu-cong",
+"nhom": "ho-so",
+"ngan": "Hồ sơ thanh toán vốn ĐTC",
+"title": "Hồ sơ tạm ứng, thanh toán vốn đầu tư công theo Nghị định 254/2025",
+"desc": "Hồ sơ pháp lý, hồ sơ tạm ứng, hồ sơ thanh toán khối lượng hoàn thành vốn đầu tư công qua Kho bạc theo Nghị định 254/2025/NĐ-CP: mẫu biểu, thời hạn.",
+"summary": "Danh mục hồ sơ chủ đầu tư gửi Kho bạc để tạm ứng, thanh toán vốn đầu tư công theo Nghị định 254/2025/NĐ-CP, kèm thời hạn và quy tắc thu hồi tạm ứng.",
+"lead": "Áp dụng cho nhiệm vụ, dự án sử dụng vốn đầu tư công – chủ đầu tư lập, gửi cơ quan thanh toán (Kho bạc Nhà nước).",
+"ngay": "2026-11-11",
+"body": [
+[
+"p",
+"Nghị định 254/2025/NĐ-CP (ký ngày 26/9/2025, hiệu lực từ ngày ký) quy định quản lý, thanh toán vốn đầu tư công, thay Nghị định 99/2021/NĐ-CP (<a href=\"/phap-ly/254-2025-nd-cp.html#d56\">Điều 56</a>). Phần quyết toán vốn dự án hoàn thành nay thực hiện theo <a href=\"/phap-ly/193-2026-nd-cp.html#d1\">Nghị định 193/2026/NĐ-CP</a> (xem <a href=\"/so-tay-xay-dung/qs-du-toan-thanh-quyet-toan.html\">QS – thanh toán, quyết toán</a>); phần tạm ứng, thanh toán dưới đây vẫn áp dụng theo Nghị định 254/2025."
+],
+[
+"p",
+"Đây là hồ sơ <b>chủ đầu tư gửi cơ quan thanh toán</b> (Kho bạc Nhà nước – <a href=\"/phap-ly/254-2025-nd-cp.html#d4\">Điều 4</a>). Hồ sơ nhà thầu gửi chủ đầu tư để được thanh toán theo hợp đồng thực hiện theo <a href=\"/phap-ly/210-2026-nd-cp.html#d29\">Điều 29 Nghị định 210/2026/NĐ-CP</a>."
+],
+[
+"h2",
+"1. Hồ sơ pháp lý (gửi lần đầu hoặc khi điều chỉnh)"
+],
+[
+"table",
+{
+"cot": [
+"STT",
+"Tài liệu",
+"Ghi chú"
+],
+"dong": [
+[
+"1",
+"Kế hoạch đầu tư công hằng năm được cấp có thẩm quyền giao",
+""
+],
+[
+"2",
+"Quyết định/văn bản giao nhiệm vụ; quyết định phê duyệt dự án đầu tư và quyết định điều chỉnh (nếu có)",
+""
+],
+[
+"3",
+"Văn bản cho phép tự thực hiện; văn bản giao việc hoặc giao khoán nội bộ",
+"Khi tự thực hiện, giao khoán nội bộ"
+],
+[
+"4",
+"Bảng tổng hợp thông tin hợp đồng – <b>Mẫu số 02.a/TT</b>",
+"Chủ đầu tư lập theo hợp đồng đã có hiệu lực, chịu trách nhiệm nội dung"
+],
+[
+"5",
+"Bảng tổng hợp thông tin dự toán – <b>Mẫu số 02.b/TT</b>; dự toán thu, chi hằng năm của chủ đầu tư, ban QLDA (nếu có)",
+"Công việc không thực hiện theo hợp đồng"
+],
+[
+"6",
+"Bảng tổng hợp thông tin bồi thường, hỗ trợ, tái định cư – <b>Mẫu số 02.c/TT</b>",
+"Khi có bồi thường, GPMB"
+],
+[
+"7",
+"Quyết định thành lập đơn vị; quyết định giao quyền tự chủ tài chính",
+"Ban QLDA, tổ chức làm bồi thường, GPMB"
+]
+]
+}
+],
+[
+"p",
+"Căn cứ: <a href=\"/phap-ly/254-2025-nd-cp.html#d8\">khoản 1 Điều 8</a>. Hồ sơ pháp lý đã gửi trước khi nghị định có hiệu lực thì không phải gửi lại, chỉ bổ sung khi có thay đổi (<a href=\"/phap-ly/254-2025-nd-cp.html#d54\">khoản 1 Điều 54</a>)."
+],
+[
+"h2",
+"2. Hồ sơ tạm ứng (gửi mỗi lần đề nghị tạm ứng)"
+],
+[
+"ol",
+[
+"Giấy đề nghị thanh toán vốn – <b>Mẫu số 04.a/TT</b>.",
+"Giấy rút vốn – <b>Mẫu số 05.a/TT</b>.",
+"Văn bản bảo lãnh tạm ứng hợp đồng (bản chính hoặc sao y) khi thuộc trường hợp phải có bảo lãnh."
+]
+],
+[
+"p",
+"Căn cứ: <a href=\"/phap-ly/254-2025-nd-cp.html#d8\">khoản 2 Điều 8</a>. Nguyên tắc tạm ứng (<a href=\"/phap-ly/254-2025-nd-cp.html#d9\">Điều 9</a>):"
+],
+[
+"ul",
+[
+"Chỉ tạm ứng sau khi hợp đồng có hiệu lực và chủ đầu tư đã nhận bảo lãnh tạm ứng (nếu phải có); hợp đồng thi công có GPMB phải có kế hoạch GPMB hoặc biên bản bàn giao mặt bằng.",
+"<b>Bảo lãnh tạm ứng bắt buộc khi giá trị tạm ứng hợp đồng lớn hơn 01 tỷ đồng</b>; giá trị bảo lãnh giảm dần theo số đã thu hồi, hiệu lực kéo dài đến khi thu hồi hết. Không yêu cầu bảo lãnh: tạm ứng ≤ 01 tỷ (theo thỏa thuận), tự thực hiện, thuê tư vấn QLDA, việc không qua hợp đồng, bồi thường GPMB (trừ xây công trình), chi phí QLDA.",
+"Mức tạm ứng hợp đồng xây dựng tuân thủ pháp luật về xây dựng (xem <a href=\"/phap-ly/210-2026-nd-cp.html#d12\">Điều 12 Nghị định 210/2026/NĐ-CP</a>), không vượt số tiền trong bảng tổng hợp thông tin hợp đồng/dự toán và không vượt kế hoạch vốn năm.",
+"<b>Thu hồi tạm ứng</b> qua các lần thanh toán, thu hồi hết khi giải ngân đạt <b>80%</b> giá trị hợp đồng hoặc dự toán; tạm ứng bồi thường, hỗ trợ, tái định cư phải làm thủ tục thanh toán, thu hồi chậm nhất <b>30 ngày</b> kể từ ngày tạm ứng.",
+"Tạm ứng quá hạn: sau <b>03 tháng</b> kể từ thời điểm phải thu hồi hết theo hợp đồng mà chưa thu hồi (hoặc phát hiện sử dụng sai mục đích), chủ đầu tư chủ trì cùng cơ quan thanh toán thu hồi, có thể yêu cầu tổ chức tín dụng thực hiện bảo lãnh."
+]
+],
+[
+"h2",
+"3. Hồ sơ thanh toán khối lượng hoàn thành"
+],
+[
+"table",
+{
+"cot": [
+"Trường hợp",
+"Hồ sơ gửi cơ quan thanh toán"
+],
+"dong": [
+[
+"Công việc thực hiện qua hợp đồng",
+"<b>Mẫu số 04.a/TT</b> giấy đề nghị thanh toán vốn; <b>Mẫu số 05.a/TT</b> giấy rút vốn; <b>Mẫu số 04.b/TT</b> giấy đề nghị thu hồi vốn tạm ứng (nếu thu hồi); <b>Mẫu số 03.a/TT</b> bảng xác định giá trị khối lượng công việc hoàn thành"
+],
+[
+"Bồi thường, hỗ trợ, tái định cư",
+"04.a/TT; 05.a/TT; 04.b/TT (nếu thu hồi); <b>Mẫu số 03.b/TT</b> bảng kê giá trị khối lượng công việc bồi thường, hỗ trợ, tái định cư"
+],
+[
+"Việc khác không qua hợp đồng (kể cả chi phí QLDA khi quản lý 01 dự án)",
+"04.a/TT; 05.a/TT; 04.b/TT (nếu thu hồi); 03.a/TT"
+],
+[
+"Dự án đã phê duyệt quyết toán nhưng chưa thanh toán đủ",
+"04.a/TT; quyết định phê duyệt quyết toán; 05.a/TT"
+],
+[
+"Hợp đồng bảo hiểm, lệ phí thẩm định, chi phí thẩm tra, phê duyệt quyết toán",
+"04.a/TT; 05.a/TT"
+],
+[
+"Chi phí QLDA khi quản lý nhiều dự án",
+"04.a/TT; 05.a/TT; 04.b/TT (nếu thu hồi); quyết định phê duyệt quyết toán hoặc <b>Mẫu số 09/QLDA</b> bảng phân bổ chi phí QLDA + 03.a/TT"
+]
+]
+}
+],
+[
+"p",
+"Căn cứ: <a href=\"/phap-ly/254-2025-nd-cp.html#d8\">khoản 3, 6 Điều 8</a>. Thanh toán qua hợp đồng phải phù hợp loại hợp đồng, giá hợp đồng và điều kiện hợp đồng; khoản tạm giữ để phục vụ quyết toán (nếu thỏa thuận trong hợp đồng) chuyển vào tài khoản tiền gửi của chủ đầu tư tại Kho bạc (<a href=\"/phap-ly/254-2025-nd-cp.html#d10\">Điều 10</a>). Vốn giải ngân không vượt tổng mức đầu tư, kế hoạch vốn năm, giá trị hợp đồng/dự toán trong các bảng tổng hợp thông tin (<a href=\"/phap-ly/254-2025-nd-cp.html#d6\">Điều 6</a>)."
+],
+[
+"h2",
+"4. Thời hạn"
+],
+[
+"ul",
+[
+"Kho bạc thanh toán trong <b>02 ngày làm việc</b> kể từ khi nhận đủ hồ sơ; tạm ứng trong <b>01 ngày làm việc</b> (<a href=\"/phap-ly/254-2025-nd-cp.html#d12\">khoản 4 Điều 12</a>).",
+"Hồ sơ thiếu, sai: cơ quan thanh toán từ chối và thông báo lý do <b>một lần</b> bằng văn bản chậm nhất <b>02 ngày làm việc</b> (<a href=\"/phap-ly/254-2025-nd-cp.html#d8\">khoản 9 Điều 8</a>).",
+"Vốn kế hoạch năm được tạm ứng đến hết <b>31/12</b> năm kế hoạch (bồi thường, GPMB đến 31/01 năm sau); thanh toán khối lượng hoàn thành đã nghiệm thu đến 31/12, thời hạn thanh toán đến hết <b>31/01</b> năm sau (<a href=\"/phap-ly/254-2025-nd-cp.html#d12\">khoản 1, 2 Điều 12</a>)."
+]
+],
+[
+"h2",
+"5. Báo cáo tạm ứng định kỳ"
+],
+[
+"p",
+"Trước ngày 05 tháng đầu quý sau, chủ đầu tư lập báo cáo tình hình tạm ứng và thu hồi tạm ứng của từng nhiệm vụ, dự án (<b>Mẫu số 08.a/SDTƯ</b>), nêu rõ số dư tạm ứng quá hạn, gửi cơ quan thanh toán, cơ quan cấp trên và cơ quan tài chính (<a href=\"/phap-ly/254-2025-nd-cp.html#d9\">điểm b khoản 6 Điều 9</a>)."
+],
+[
+"h2",
+"6. Biểu mẫu"
+],
+[
+"p",
+"Hệ thống mẫu biểu nằm ở Phụ lục Nghị định 254/2025/NĐ-CP (Mẫu 01.a/PB đến 10/CT – danh mục tại <a href=\"/phap-ly/254-2025-nd-cp.html#d56\">phần Phụ lục</a>). Thư viện của chúng tôi hiện chỉ có danh mục, chưa có nội dung từng mẫu; các mẫu sẽ được đưa vào trang <a href=\"/so-tay-xay-dung/bieu-mau.html\">Biểu mẫu</a> (đủ PDF, Word, Excel) khi nạp được toàn văn phụ lục từ Cổng Pháp luật quốc gia."
+],
+[
+"note",
+"Nội dung tóm tắt để tham khảo, chỉ áp dụng cho nhiệm vụ, dự án sử dụng vốn đầu tư công. Nghị định 254/2025/NĐ-CP đang ở trạng thái hết hiệu lực một phần (phần quyết toán vốn dự án hoàn thành thay bằng Nghị định 193/2026/NĐ-CP). Dự án đầu tư công tại nước ngoài, dự án bí mật nhà nước, khẩn cấp, Chương trình mục tiêu quốc gia có quy định riêng tại các Điều 8, 14–24. Tham khảo thêm hướng dẫn của Kho bạc Nhà nước nơi giao dịch."
+]
+]
+}
+]

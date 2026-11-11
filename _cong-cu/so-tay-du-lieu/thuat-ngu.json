@@ -1,0 +1,1329 @@
+[
+{
+"en": "Construction investment project",
+"vi": "Dự án đầu tư xây dựng",
+"nhom": "Quản lý dự án chung",
+"dn": "Tập hợp các đề xuất liên quan đến việc sử dụng vốn để xây dựng mới, nâng cấp, mở rộng, sửa chữa, cải tạo, di dời công trình nhằm duy trì, phát triển, nâng cao chất lượng công trình hoặc sản phẩm, dịch vụ. Theo <a href=\"/phap-ly/135-2025-qh15.html#d3\">khoản 6 Điều 3 Luật Xây dựng 2025</a>."
+},
+{
+"en": "Construction works",
+"vi": "Công trình xây dựng",
+"nhom": "Quản lý dự án chung",
+"dn": "Sản phẩm được xây dựng theo thiết kế, tạo thành bởi sức lao động của con người, vật liệu xây dựng, thiết bị lắp đặt vào công trình, được liên kết định vị với đất. Theo <a href=\"/phap-ly/135-2025-qh15.html#d3\">khoản 2 Điều 3 Luật Xây dựng 2025</a>."
+},
+{
+"en": "Construction activities",
+"vi": "Hoạt động xây dựng",
+"nhom": "Quản lý dự án chung",
+"dn": "Gồm lập, thẩm tra, thẩm định, phê duyệt dự án và thiết kế xây dựng; khảo sát; cấp phép xây dựng; thi công, giám sát thi công; quản lý dự án và các hoạt động khác có liên quan. Theo <a href=\"/phap-ly/135-2025-qh15.html#d3\">khoản 1 Điều 3 Luật Xây dựng 2025</a>."
+},
+{
+"en": "Investment decision maker",
+"vi": "Người quyết định đầu tư",
+"nhom": "Quản lý dự án chung",
+"dn": "Cá nhân hoặc người đại diện của cơ quan, tổ chức, doanh nghiệp có thẩm quyền phê duyệt dự án, quyết định đầu tư xây dựng. Theo <a href=\"/phap-ly/135-2025-qh15.html#d3\">khoản 5 Điều 3 Luật Xây dựng 2025</a>."
+},
+{
+"en": "Project owner / Employer",
+"vi": "Chủ đầu tư",
+"nhom": "Quản lý dự án chung",
+"dn": "Trong đấu thầu: cơ quan, tổ chức sở hữu vốn, vay vốn hoặc được giao trực tiếp quản lý, sử dụng vốn, quản lý quá trình thực hiện dự án. Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 2 Điều 4 Luật Đấu thầu 2023 (khái niệm trong đấu thầu)</a>."
+},
+{
+"en": "Project management",
+"vi": "Quản lý dự án",
+"nhom": "Quản lý dự án chung",
+"dn": "Việc lập kế hoạch, tổ chức, điều phối và kiểm soát các nguồn lực để dự án đạt mục tiêu về phạm vi, chất lượng, chi phí, tiến độ và an toàn."
+},
+{
+"en": "Project Management Unit",
+"vi": "Ban quản lý dự án",
+"nhom": "Quản lý dự án chung",
+"dn": "Tổ chức do chủ đầu tư hoặc cơ quan có thẩm quyền thành lập để thực hiện các nhiệm vụ quản lý dự án đầu tư xây dựng.",
+"viet_tat": "PMU"
+},
+{
+"en": "Project Management Consultant",
+"vi": "Tư vấn quản lý dự án",
+"nhom": "Quản lý dự án chung",
+"dn": "Tổ chức tư vấn được chủ đầu tư thuê để thực hiện một phần hoặc toàn bộ công việc quản lý dự án theo hợp đồng.",
+"viet_tat": "PMC"
+},
+{
+"en": "Project director",
+"vi": "Giám đốc quản lý dự án",
+"nhom": "Quản lý dự án chung",
+"dn": "Chức danh của cá nhân được giám đốc ban quản lý dự án, người đại diện của tổ chức tư vấn quản lý dự án hoặc của chủ đầu tư giao nhiệm vụ quản lý, điều phối việc quản lý dự án. Theo <a href=\"/phap-ly/212-2026-nd-cp.html#d3\">khoản 6 Điều 3 Nghị định 212/2026/NĐ-CP</a>."
+},
+{
+"en": "Stakeholder",
+"vi": "Bên liên quan",
+"nhom": "Quản lý dự án chung",
+"dn": "Cá nhân, tổ chức có thể ảnh hưởng hoặc chịu ảnh hưởng bởi dự án: chủ đầu tư, nhà thầu, tư vấn, cơ quan quản lý, người dân xung quanh, người sử dụng công trình…"
+},
+{
+"en": "Scope of work",
+"vi": "Phạm vi công việc",
+"nhom": "Quản lý dự án chung",
+"dn": "Toàn bộ công việc phải thực hiện để tạo ra sản phẩm của dự án hoặc gói thầu; là căn cứ để kiểm soát thay đổi, chi phí và tiến độ."
+},
+{
+"en": "Work Breakdown Structure",
+"vi": "Cơ cấu phân chia công việc",
+"nhom": "Quản lý dự án chung",
+"dn": "Sơ đồ chia nhỏ phạm vi dự án thành các gói công việc có thể giao, đo lường và kiểm soát được.",
+"viet_tat": "WBS"
+},
+{
+"en": "Baseline",
+"vi": "Đường cơ sở",
+"nhom": "Quản lý dự án chung",
+"dn": "Phiên bản kế hoạch (phạm vi, tiến độ, chi phí) đã được phê duyệt, dùng làm mốc để so sánh kết quả thực hiện và đánh giá thay đổi."
+},
+{
+"en": "Change request",
+"vi": "Yêu cầu thay đổi",
+"nhom": "Quản lý dự án chung",
+"dn": "Đề nghị chính thức thay đổi phạm vi, thiết kế, tiến độ hoặc chi phí; cần được đánh giá ảnh hưởng và phê duyệt trước khi thực hiện."
+},
+{
+"en": "Change management",
+"vi": "Quản lý thay đổi",
+"nhom": "Quản lý dự án chung",
+"dn": "Quy trình tiếp nhận, đánh giá, phê duyệt và theo dõi các thay đổi để tránh phát sinh ngoài kiểm soát."
+},
+{
+"en": "Responsibility matrix",
+"vi": "Ma trận phân công trách nhiệm",
+"nhom": "Quản lý dự án chung",
+"dn": "Bảng xác định ai thực hiện, ai chịu trách nhiệm cuối cùng, ai được tham vấn và ai cần được thông báo cho từng công việc.",
+"viet_tat": "RACI"
+},
+{
+"en": "Kick-off meeting",
+"vi": "Họp khởi động dự án",
+"nhom": "Quản lý dự án chung",
+"dn": "Cuộc họp đầu tiên giữa các bên để thống nhất mục tiêu, phạm vi, tổ chức, kênh thông tin, quy trình phối hợp và kế hoạch tổng thể."
+},
+{
+"en": "Lessons learned",
+"vi": "Bài học kinh nghiệm",
+"nhom": "Quản lý dự án chung",
+"dn": "Ghi nhận những điều làm tốt và chưa tốt trong dự án để áp dụng cho các dự án sau."
+},
+{
+"en": "Risk register",
+"vi": "Sổ đăng ký rủi ro",
+"nhom": "Quản lý dự án chung",
+"dn": "Danh mục các rủi ro đã nhận diện, kèm mức độ, người phụ trách và biện pháp ứng phó."
+},
+{
+"en": "Issue log",
+"vi": "Nhật ký vướng mắc",
+"nhom": "Quản lý dự án chung",
+"dn": "Danh sách các vấn đề đang phát sinh cần xử lý, người chịu trách nhiệm và thời hạn giải quyết."
+},
+{
+"en": "Minutes of meeting",
+"vi": "Biên bản họp",
+"nhom": "Quản lý dự án chung",
+"dn": "Văn bản ghi lại nội dung, quyết định và việc cần làm sau cuộc họp; là căn cứ theo dõi và giải quyết tranh chấp sau này.",
+"viet_tat": "MOM"
+},
+{
+"en": "Progress report",
+"vi": "Báo cáo tiến độ (định kỳ)",
+"nhom": "Quản lý dự án chung",
+"dn": "Báo cáo tuần, tháng về khối lượng, tiến độ, chất lượng, an toàn, chi phí và các vướng mắc của dự án."
+},
+{
+"en": "Project life cycle",
+"vi": "Vòng đời dự án",
+"nhom": "Quản lý dự án chung",
+"dn": "Các giai đoạn liên tiếp của dự án: chuẩn bị, thực hiện, kết thúc xây dựng đưa công trình vào khai thác sử dụng."
+},
+{
+"en": "Project charter",
+"vi": "Điều lệ dự án",
+"nhom": "Quản lý dự án chung",
+"dn": "Văn bản phê duyệt khởi động dự án, nêu mục tiêu, phạm vi sơ bộ, người quản lý dự án và quyền hạn được giao."
+},
+{
+"en": "Quantity Surveyor",
+"vi": "Kỹ sư khối lượng – chi phí",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Người phụ trách đo bóc khối lượng, lập dự toán, kiểm soát chi phí, thanh toán và quyết toán hợp đồng.",
+"viet_tat": "QS"
+},
+{
+"en": "Total investment",
+"vi": "Tổng mức đầu tư",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Toàn bộ chi phí đầu tư xây dựng của dự án được xác định trong báo cáo nghiên cứu khả thi, là giới hạn chi phí khi thực hiện dự án."
+},
+{
+"en": "Cost estimate",
+"vi": "Dự toán xây dựng",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Chi phí cần thiết để xây dựng công trình, gói thầu hoặc công việc, xác định trên cơ sở khối lượng, thiết kế và đơn giá phù hợp."
+},
+{
+"en": "Bill of Quantities",
+"vi": "Bảng khối lượng (tiên lượng)",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Bảng liệt kê các công việc, đơn vị tính và khối lượng; dùng để lập dự toán, mời thầu, chào giá và thanh toán.",
+"viet_tat": "BOQ"
+},
+{
+"en": "Quantity take-off",
+"vi": "Đo bóc khối lượng",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Việc xác định khối lượng công việc từ bản vẽ thiết kế, chỉ dẫn kỹ thuật theo quy tắc đo bóc thống nhất."
+},
+{
+"en": "Unit rate",
+"vi": "Đơn giá",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Chi phí cho một đơn vị khối lượng công việc, gồm vật liệu, nhân công, máy thi công và các chi phí liên quan."
+},
+{
+"en": "Construction norm",
+"vi": "Định mức xây dựng",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Mức hao phí vật liệu, nhân công, máy thi công cần thiết để hoàn thành một đơn vị khối lượng công tác xây dựng."
+},
+{
+"en": "Construction price index",
+"vi": "Chỉ số giá xây dựng",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Chỉ tiêu phản ánh mức biến động giá xây dựng theo thời gian; dùng để xác định, điều chỉnh tổng mức đầu tư, dự toán và giá hợp đồng."
+},
+{
+"en": "Contingency",
+"vi": "Chi phí dự phòng",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Khoản chi phí dự trù cho khối lượng phát sinh và yếu tố trượt giá trong quá trình thực hiện dự án."
+},
+{
+"en": "Overhead",
+"vi": "Chi phí chung",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Chi phí quản lý, điều hành sản xuất tại công trường và một phần chi phí của doanh nghiệp được phân bổ vào chi phí xây dựng."
+},
+{
+"en": "Preliminaries / General items",
+"vi": "Hạng mục chung",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Các chi phí không gắn trực tiếp với một công việc cụ thể như nhà tạm, an toàn, di chuyển máy móc, các công việc chuẩn bị công trường."
+},
+{
+"en": "Direct cost",
+"vi": "Chi phí trực tiếp",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Chi phí vật liệu, nhân công và máy thi công trực tiếp tạo nên khối lượng công việc."
+},
+{
+"en": "Cost plan",
+"vi": "Kế hoạch chi phí",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Phân bổ ngân sách dự án theo hạng mục và giai đoạn để kiểm soát chi phí ngay từ thiết kế."
+},
+{
+"en": "Cost control",
+"vi": "Kiểm soát chi phí",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Theo dõi, so sánh chi phí thực tế với kế hoạch, cảnh báo và đề xuất xử lý khi có sai lệch."
+},
+{
+"en": "Earned Value Management",
+"vi": "Quản lý giá trị thu được",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Phương pháp đánh giá đồng thời tiến độ và chi phí bằng cách so sánh giá trị kế hoạch, giá trị đã thực hiện và chi phí thực tế.",
+"viet_tat": "EVM"
+},
+{
+"en": "Cash flow",
+"vi": "Dòng tiền",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Kế hoạch và thực tế thu, chi tiền của dự án theo thời gian; dùng để bố trí vốn và thanh toán đúng hạn."
+},
+{
+"en": "Value engineering",
+"vi": "Phân tích giá trị",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Rà soát giải pháp thiết kế, thi công để giảm chi phí mà vẫn giữ công năng và chất lượng yêu cầu.",
+"viet_tat": "VE"
+},
+{
+"en": "Interim payment",
+"vi": "Thanh toán theo đợt (tạm thanh toán)",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Khoản thanh toán cho khối lượng hoàn thành trong từng giai đoạn hoặc từng tháng theo thỏa thuận trong hợp đồng."
+},
+{
+"en": "Interim Payment Certificate",
+"vi": "Chứng nhận thanh toán đợt",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Văn bản xác nhận giá trị được thanh toán trong một đợt sau khi đã kiểm tra khối lượng và khấu trừ các khoản.",
+"viet_tat": "IPC"
+},
+{
+"en": "Retention money",
+"vi": "Tiền giữ lại",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Một phần giá trị thanh toán được bên giao thầu giữ lại theo hợp đồng để bảo đảm nhà thầu hoàn thành nghĩa vụ, thường gắn với bảo hành."
+},
+{
+"en": "Final account",
+"vi": "Quyết toán hợp đồng",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Việc xác định tổng giá trị cuối cùng của hợp đồng mà bên giao thầu có trách nhiệm thanh toán cho bên nhận thầu khi hoàn thành các công việc."
+},
+{
+"en": "Final settlement of investment capital",
+"vi": "Quyết toán vốn đầu tư dự án",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Việc xác định đầy đủ, chính xác số vốn đầu tư đã thực hiện của dự án hoàn thành; bắt buộc với dự án sử dụng vốn nhà nước."
+},
+{
+"en": "Price escalation / Price adjustment",
+"vi": "Điều chỉnh giá (trượt giá)",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Việc điều chỉnh đơn giá hoặc giá hợp đồng khi giá vật liệu, nhân công, máy biến động theo điều kiện đã thỏa thuận."
+},
+{
+"en": "Daywork",
+"vi": "Công nhật",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Công việc nhỏ được thanh toán theo thời gian lao động, vật liệu, máy thực tế sử dụng thay vì theo đơn giá khối lượng."
+},
+{
+"en": "Provisional sum",
+"vi": "Khoản tạm tính",
+"nhom": "Chi phí – dự toán – QS",
+"dn": "Khoản tiền dự kiến cho công việc chưa xác định đủ khi ký hợp đồng; sẽ được xác định lại khi thực hiện."
+},
+{
+"en": "Construction contract",
+"vi": "Hợp đồng xây dựng",
+"nhom": "Hợp đồng",
+"dn": "Hợp đồng dân sự giữa bên giao thầu và bên nhận thầu để thực hiện một phần hoặc toàn bộ công việc trong hoạt động đầu tư xây dựng."
+},
+{
+"en": "Employer (contract)",
+"vi": "Bên giao thầu",
+"nhom": "Hợp đồng",
+"dn": "Tổ chức, cá nhân giao kết hợp đồng xây dựng với bên nhận thầu để thực hiện một phần hoặc toàn bộ công việc trong hoạt động xây dựng. Theo <a href=\"/phap-ly/210-2026-nd-cp.html#d3\">khoản 1 Điều 3 Nghị định 210/2026/NĐ-CP</a>."
+},
+{
+"en": "Contractor (contract)",
+"vi": "Bên nhận thầu",
+"nhom": "Hợp đồng",
+"dn": "Tổ chức, cá nhân hoặc liên kết các tổ chức, cá nhân giao kết hợp đồng với bên giao thầu để thực hiện một phần hoặc toàn bộ công việc trong hoạt động xây dựng. Theo <a href=\"/phap-ly/210-2026-nd-cp.html#d3\">khoản 2 Điều 3 Nghị định 210/2026/NĐ-CP</a>."
+},
+{
+"en": "General Conditions of Contract",
+"vi": "Điều kiện chung của hợp đồng",
+"nhom": "Hợp đồng",
+"dn": "Phần quy định quyền, nghĩa vụ cơ bản và mối quan hệ của các bên trong hợp đồng xây dựng. Theo <a href=\"/phap-ly/210-2026-nd-cp.html#d3\">khoản 3 Điều 3 Nghị định 210/2026/NĐ-CP</a>.",
+"viet_tat": "GCC"
+},
+{
+"en": "Particular Conditions of Contract",
+"vi": "Điều kiện cụ thể của hợp đồng",
+"nhom": "Hợp đồng",
+"dn": "Phần cụ thể hóa, bổ sung hoặc sửa đổi điều kiện chung cho phù hợp với từng hợp đồng. Theo <a href=\"/phap-ly/210-2026-nd-cp.html#d3\">khoản 4 Điều 3 Nghị định 210/2026/NĐ-CP</a>.",
+"viet_tat": "PCC"
+},
+{
+"en": "Contract appendix",
+"vi": "Phụ lục hợp đồng",
+"nhom": "Hợp đồng",
+"dn": "Tài liệu kèm theo hợp đồng để quy định chi tiết, làm rõ, sửa đổi hoặc bổ sung một số điều khoản. Theo <a href=\"/phap-ly/210-2026-nd-cp.html#d3\">khoản 5 Điều 3 Nghị định 210/2026/NĐ-CP</a>."
+},
+{
+"en": "Lump sum contract",
+"vi": "Hợp đồng trọn gói",
+"nhom": "Hợp đồng",
+"dn": "Hợp đồng có giá cố định trong suốt quá trình thực hiện đối với khối lượng công việc thuộc phạm vi hợp đồng đã ký."
+},
+{
+"en": "Fixed unit price contract",
+"vi": "Hợp đồng theo đơn giá cố định",
+"nhom": "Hợp đồng",
+"dn": "Hợp đồng thanh toán theo khối lượng thực tế nghiệm thu nhân với đơn giá cố định không thay đổi trong suốt thời gian thực hiện."
+},
+{
+"en": "Adjustable unit price contract",
+"vi": "Hợp đồng theo đơn giá điều chỉnh",
+"nhom": "Hợp đồng",
+"dn": "Hợp đồng có đơn giá được điều chỉnh theo các thỏa thuận về trượt giá; thanh toán theo khối lượng thực tế nghiệm thu."
+},
+{
+"en": "Re-measurement contract",
+"vi": "Hợp đồng đo đạc lại khối lượng",
+"nhom": "Hợp đồng",
+"dn": "Hợp đồng mà khối lượng được đo đạc lại theo thực tế thi công để thanh toán, thường đi với hình thức đơn giá."
+},
+{
+"en": "Cost plus fee contract",
+"vi": "Hợp đồng theo chi phí cộng phí",
+"nhom": "Hợp đồng",
+"dn": "Hợp đồng thanh toán chi phí thực tế hợp lý cộng một khoản phí cho bên nhận thầu."
+},
+{
+"en": "Engineering, Procurement and Construction",
+"vi": "Hợp đồng thiết kế – cung cấp thiết bị – thi công",
+"nhom": "Hợp đồng",
+"dn": "Hợp đồng mà một nhà thầu (tổng thầu) thực hiện cả thiết kế, mua sắm vật tư thiết bị và thi công xây dựng công trình.",
+"viet_tat": "EPC"
+},
+{
+"en": "Design and Build",
+"vi": "Hợp đồng thiết kế và thi công",
+"nhom": "Hợp đồng",
+"dn": "Hợp đồng giao cho một nhà thầu thực hiện cả thiết kế và thi công xây dựng công trình.",
+"viet_tat": "D&B / EC"
+},
+{
+"en": "Turnkey contract",
+"vi": "Hợp đồng chìa khóa trao tay",
+"nhom": "Hợp đồng",
+"dn": "Hợp đồng mà nhà thầu thực hiện toàn bộ công việc từ lập dự án, thiết kế, cung cấp thiết bị đến thi công và chạy thử, bàn giao công trình sẵn sàng vận hành."
+},
+{
+"en": "Advance payment",
+"vi": "Tạm ứng hợp đồng",
+"nhom": "Hợp đồng",
+"dn": "Khoản tiền bên giao thầu ứng trước cho bên nhận thầu để triển khai công việc, được thu hồi dần qua các lần thanh toán."
+},
+{
+"en": "Advance payment guarantee",
+"vi": "Bảo lãnh tạm ứng",
+"nhom": "Hợp đồng",
+"dn": "Cam kết của ngân hàng hoặc tổ chức tín dụng bảo đảm việc hoàn trả tiền tạm ứng nếu bên nhận thầu không thực hiện đúng."
+},
+{
+"en": "Performance security / Performance bond",
+"vi": "Bảo đảm thực hiện hợp đồng",
+"nhom": "Hợp đồng",
+"dn": "Biện pháp (thường là bảo lãnh ngân hàng) bảo đảm bên nhận thầu thực hiện đúng nghĩa vụ hợp đồng."
+},
+{
+"en": "Warranty bond",
+"vi": "Bảo lãnh bảo hành",
+"nhom": "Hợp đồng",
+"dn": "Bảo lãnh thay cho khoản tiền giữ lại để bảo đảm nghĩa vụ bảo hành công trình."
+},
+{
+"en": "Variation / Variation order",
+"vi": "Thay đổi, phát sinh / lệnh thay đổi",
+"nhom": "Hợp đồng",
+"dn": "Sự thay đổi về khối lượng, thiết kế, điều kiện thực hiện so với hợp đồng đã ký; cần được xác nhận bằng văn bản trước khi thực hiện."
+},
+{
+"en": "Reasonable additional work",
+"vi": "Khối lượng, công việc phát sinh hợp lý",
+"nhom": "Hợp đồng",
+"dn": "Phần khối lượng, công việc nằm ngoài phạm vi hợp đồng, cần thiết phải điều chỉnh, bổ sung trong quá trình thực hiện và được các bên thống nhất. Theo <a href=\"/phap-ly/210-2026-nd-cp.html#d3\">khoản 8 Điều 3 Nghị định 210/2026/NĐ-CP</a>."
+},
+{
+"en": "Liquidated damages",
+"vi": "Bồi thường do chậm tiến độ (thỏa thuận trước)",
+"nhom": "Hợp đồng",
+"dn": "Khoản tiền các bên thỏa thuận trước trong hợp đồng mà bên vi phạm phải trả khi chậm hoàn thành; mức phạt, bồi thường phải tuân thủ pháp luật áp dụng."
+},
+{
+"en": "Penalty for breach",
+"vi": "Phạt vi phạm hợp đồng",
+"nhom": "Hợp đồng",
+"dn": "Khoản tiền bên vi phạm phải nộp theo thỏa thuận trong hợp đồng khi không thực hiện đúng nghĩa vụ."
+},
+{
+"en": "Claim",
+"vi": "Khiếu nại, yêu cầu bồi thường theo hợp đồng",
+"nhom": "Hợp đồng",
+"dn": "Yêu cầu của một bên về thời gian hoặc chi phí bổ sung kèm căn cứ, gửi bên kia theo thủ tục và thời hạn trong hợp đồng."
+},
+{
+"en": "Extension of time",
+"vi": "Gia hạn thời gian thực hiện",
+"nhom": "Hợp đồng",
+"dn": "Việc kéo dài thời hạn hoàn thành hợp đồng do các nguyên nhân được hợp đồng chấp nhận.",
+"viet_tat": "EOT"
+},
+{
+"en": "Force majeure",
+"vi": "Sự kiện bất khả kháng",
+"nhom": "Hợp đồng",
+"dn": "Sự kiện xảy ra khách quan, không thể lường trước và không thể khắc phục dù đã áp dụng mọi biện pháp cần thiết."
+},
+{
+"en": "Suspension",
+"vi": "Tạm dừng thực hiện hợp đồng",
+"nhom": "Hợp đồng",
+"dn": "Việc một bên dừng thực hiện công việc trong các trường hợp và theo thủ tục mà hợp đồng, pháp luật cho phép."
+},
+{
+"en": "Termination",
+"vi": "Chấm dứt hợp đồng",
+"nhom": "Hợp đồng",
+"dn": "Việc kết thúc hợp đồng trước thời hạn trong các trường hợp đã thỏa thuận hoặc do pháp luật quy định."
+},
+{
+"en": "Contract liquidation",
+"vi": "Thanh lý hợp đồng",
+"nhom": "Hợp đồng",
+"dn": "Thủ tục xác nhận các bên đã hoàn thành hoặc chấm dứt nghĩa vụ hợp đồng và kết thúc quan hệ hợp đồng."
+},
+{
+"en": "Engineer (FIDIC)",
+"vi": "Kỹ sư tư vấn (theo FIDIC)",
+"nhom": "Hợp đồng",
+"dn": "Bên được chủ đầu tư chỉ định trong hợp đồng FIDIC để quản lý hợp đồng, xác nhận thanh toán và đưa ra quyết định theo thẩm quyền được giao."
+},
+{
+"en": "Dispute board",
+"vi": "Ban xử lý tranh chấp",
+"nhom": "Hợp đồng",
+"dn": "Ban gồm chuyên gia do các bên thỏa thuận thành lập để xem xét và đưa ra quyết định về tranh chấp hợp đồng trước khi đưa ra trọng tài hoặc tòa án.",
+"viet_tat": "DAB / DAAB"
+},
+{
+"en": "Working day",
+"vi": "Ngày làm việc",
+"nhom": "Hợp đồng",
+"dn": "Các ngày theo dương lịch, trừ thứ Bảy, Chủ nhật, ngày nghỉ lễ, tết theo quy định của pháp luật. Theo <a href=\"/phap-ly/210-2026-nd-cp.html#d3\">khoản 6 Điều 3 Nghị định 210/2026/NĐ-CP</a>."
+},
+{
+"en": "Procurement / Bidding",
+"vi": "Đấu thầu",
+"nhom": "Đấu thầu",
+"dn": "Quá trình lựa chọn nhà thầu để ký kết, thực hiện hợp đồng dịch vụ tư vấn, phi tư vấn, mua sắm hàng hóa, xây lắp; lựa chọn nhà đầu tư để ký kết, thực hiện hợp đồng dự án đầu tư kinh doanh. Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 8 Điều 4 Luật Đấu thầu 2023</a>."
+},
+{
+"en": "Procuring entity",
+"vi": "Bên mời thầu",
+"nhom": "Đấu thầu",
+"dn": "Cơ quan, tổ chức thực hiện các hoạt động đấu thầu (chủ đầu tư hoặc tổ chức do chủ đầu tư lựa chọn… theo các trường hợp luật liệt kê). Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 1 Điều 4 Luật Đấu thầu 2023</a>."
+},
+{
+"en": "Bid package",
+"vi": "Gói thầu",
+"nhom": "Đấu thầu",
+"dn": "Một phần hoặc toàn bộ dự án, dự toán mua sắm; có thể gồm nội dung mua sắm giống nhau của nhiều dự án hoặc khối lượng mua sắm một lần, cho một thời kỳ. Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 15 Điều 4 Luật Đấu thầu 2023</a>."
+},
+{
+"en": "Mixed package",
+"vi": "Gói thầu hỗn hợp",
+"nhom": "Đấu thầu",
+"dn": "Gói thầu thiết kế và cung cấp hàng hóa (EP), thiết kế và xây lắp (EC), cung cấp hàng hóa và xây lắp (PC), EPC, chìa khóa trao tay… Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 16 Điều 4 Luật Đấu thầu 2023</a>."
+},
+{
+"en": "Works",
+"vi": "Xây lắp",
+"nhom": "Đấu thầu",
+"dn": "Những công việc thuộc quá trình xây dựng và lắp đặt công trình, hạng mục công trình. Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 33 Điều 4 Luật Đấu thầu 2023</a>."
+},
+{
+"en": "Consulting services",
+"vi": "Dịch vụ tư vấn",
+"nhom": "Đấu thầu",
+"dn": "Một hoặc một số hoạt động dịch vụ như lập, đánh giá báo cáo quy hoạch; khảo sát; lập báo cáo nghiên cứu tiền khả thi, báo cáo đề xuất chủ trương đầu tư và các hoạt động tư vấn khác được luật liệt kê. Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 4 Điều 4 Luật Đấu thầu 2023</a>."
+},
+{
+"en": "Non-consulting services",
+"vi": "Dịch vụ phi tư vấn",
+"nhom": "Đấu thầu",
+"dn": "Các dịch vụ không phải tư vấn như logistics, bảo hiểm, quảng cáo, nghiệm thu chạy thử, chụp ảnh vệ tinh, in ấn, vệ sinh, truyền thông, sửa chữa, bảo trì… Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 5 Điều 4 Luật Đấu thầu 2023</a>."
+},
+{
+"en": "Bidding documents",
+"vi": "Hồ sơ mời thầu",
+"nhom": "Đấu thầu",
+"dn": "Toàn bộ tài liệu dùng cho đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh, gồm các yêu cầu làm căn cứ để nhà thầu chuẩn bị hồ sơ dự thầu và bên mời thầu đánh giá. Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 21 Điều 4 Luật Đấu thầu 2023</a>.",
+"viet_tat": "HSMT"
+},
+{
+"en": "Request for proposal",
+"vi": "Hồ sơ yêu cầu",
+"nhom": "Đấu thầu",
+"dn": "Toàn bộ tài liệu dùng cho chỉ định thầu, mua sắm trực tiếp, đàm phán giá, làm căn cứ để nhà thầu chuẩn bị hồ sơ đề xuất. Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 22 Điều 4 Luật Đấu thầu 2023</a>.",
+"viet_tat": "HSYC"
+},
+{
+"en": "Bid / Proposal",
+"vi": "Hồ sơ dự thầu, hồ sơ đề xuất",
+"nhom": "Đấu thầu",
+"dn": "Toàn bộ tài liệu do nhà thầu, nhà đầu tư lập và nộp cho bên mời thầu theo yêu cầu của hồ sơ mời thầu, hồ sơ yêu cầu. Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 23 Điều 4 Luật Đấu thầu 2023</a>.",
+"viet_tat": "HSDT"
+},
+{
+"en": "Expression of interest / Prequalification",
+"vi": "Hồ sơ mời quan tâm, hồ sơ mời sơ tuyển",
+"nhom": "Đấu thầu",
+"dn": "Toàn bộ tài liệu dùng cho đấu thầu rộng rãi có bước mời quan tâm, sơ tuyển, gồm yêu cầu về năng lực, kinh nghiệm để lựa chọn danh sách nhà thầu. Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 19 Điều 4 Luật Đấu thầu 2023</a>."
+},
+{
+"en": "Shortlist",
+"vi": "Danh sách ngắn",
+"nhom": "Đấu thầu",
+"dn": "Danh sách nhà thầu trúng sơ tuyển (đấu thầu rộng rãi có sơ tuyển), danh sách được mời tham dự thầu (đấu thầu hạn chế) hoặc danh sách nhà thầu có hồ sơ quan tâm đáp ứng yêu cầu. Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 3 Điều 4 Luật Đấu thầu 2023</a>."
+},
+{
+"en": "Bid price",
+"vi": "Giá dự thầu",
+"nhom": "Đấu thầu",
+"dn": "Giá do nhà thầu chào trong đơn dự thầu, gồm toàn bộ chi phí để thực hiện gói thầu theo yêu cầu của hồ sơ mời thầu, hồ sơ yêu cầu. Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 12 Điều 4 Luật Đấu thầu 2023</a>."
+},
+{
+"en": "Proposed winning price",
+"vi": "Giá đề nghị trúng thầu",
+"nhom": "Đấu thầu",
+"dn": "Giá dự thầu của nhà thầu được đề nghị trúng thầu sau khi sửa lỗi, hiệu chỉnh sai lệch và trừ giá trị giảm giá (nếu có). Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 13 Điều 4 Luật Đấu thầu 2023</a>."
+},
+{
+"en": "Contract price",
+"vi": "Giá hợp đồng",
+"nhom": "Đấu thầu",
+"dn": "Giá trị ghi trong hợp đồng giữa chủ đầu tư và nhà thầu. Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 14 Điều 4 Luật Đấu thầu 2023</a>."
+},
+{
+"en": "Bid closing time",
+"vi": "Thời điểm đóng thầu",
+"nhom": "Đấu thầu",
+"dn": "Thời điểm hết hạn nhận hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ dự thầu, hồ sơ đề xuất. Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 31 Điều 4 Luật Đấu thầu 2023</a>."
+},
+{
+"en": "Bid validity",
+"vi": "Thời gian có hiệu lực của hồ sơ dự thầu",
+"nhom": "Đấu thầu",
+"dn": "Số ngày quy định trong hồ sơ mời thầu, hồ sơ yêu cầu, tính từ ngày có thời điểm đóng thầu đến ngày cuối cùng hồ sơ dự thầu còn hiệu lực. Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 32 Điều 4 Luật Đấu thầu 2023</a>."
+},
+{
+"en": "Bid security",
+"vi": "Bảo đảm dự thầu",
+"nhom": "Đấu thầu",
+"dn": "Biện pháp do nhà thầu thực hiện (đặt cọc, ký quỹ, bảo lãnh) để bảo đảm trách nhiệm dự thầu trong thời gian xác định."
+},
+{
+"en": "e-Procurement",
+"vi": "Đấu thầu qua mạng",
+"nhom": "Đấu thầu",
+"dn": "Việc thực hiện hoạt động đấu thầu trên Hệ thống mạng đấu thầu quốc gia. Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 9 Điều 4 Luật Đấu thầu 2023</a>."
+},
+{
+"en": "Open bidding",
+"vi": "Đấu thầu rộng rãi",
+"nhom": "Đấu thầu",
+"dn": "Hình thức lựa chọn nhà thầu không hạn chế số lượng nhà thầu tham dự."
+},
+{
+"en": "Direct appointment",
+"vi": "Chỉ định thầu",
+"nhom": "Đấu thầu",
+"dn": "Hình thức lựa chọn trực tiếp một nhà thầu đáp ứng yêu cầu trong các trường hợp luật cho phép."
+},
+{
+"en": "Special subcontractor",
+"vi": "Nhà thầu phụ đặc biệt",
+"nhom": "Đấu thầu",
+"dn": "Nhà thầu phụ thực hiện công việc quan trọng của gói thầu do nhà thầu chính đề xuất trong hồ sơ dự thầu trên cơ sở yêu cầu ghi trong hồ sơ mời thầu. Theo <a href=\"/phap-ly/22-2023-qh15.html#d4\">khoản 28 Điều 4 Luật Đấu thầu 2023</a>."
+},
+{
+"en": "Preliminary design",
+"vi": "Thiết kế sơ bộ",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Thiết kế thể hiện ý tưởng về thiết kế xây dựng công trình, dây chuyền công nghệ, thiết bị. Theo <a href=\"/phap-ly/135-2025-qh15.html#d3\">khoản 10 Điều 3 Luật Xây dựng 2025</a>."
+},
+{
+"en": "Basic design",
+"vi": "Thiết kế cơ sở",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Thiết kế thể hiện được các thông số kỹ thuật chủ yếu phù hợp với quy chuẩn kỹ thuật, tiêu chuẩn áp dụng. Theo <a href=\"/phap-ly/135-2025-qh15.html#d3\">khoản 11 Điều 3 Luật Xây dựng 2025</a>."
+},
+{
+"en": "Technical design",
+"vi": "Thiết kế kỹ thuật",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Thiết kế thể hiện đầy đủ các giải pháp, thông số kỹ thuật và vật liệu sử dụng phù hợp với quy chuẩn kỹ thuật, tiêu chuẩn áp dụng. Theo <a href=\"/phap-ly/135-2025-qh15.html#d3\">khoản 13 Điều 3 Luật Xây dựng 2025</a>."
+},
+{
+"en": "Construction drawing design",
+"vi": "Thiết kế bản vẽ thi công",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Thiết kế thể hiện đầy đủ thông số kỹ thuật, vật liệu và chi tiết cấu tạo, bảo đảm đủ điều kiện để triển khai thi công xây dựng công trình. Theo <a href=\"/phap-ly/135-2025-qh15.html#d3\">khoản 14 Điều 3 Luật Xây dựng 2025</a>."
+},
+{
+"en": "Feasibility study report",
+"vi": "Báo cáo nghiên cứu khả thi",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Tài liệu trình bày nội dung nghiên cứu về sự cần thiết, mức độ khả thi và hiệu quả của dự án đầu tư xây dựng theo phương án thiết kế cơ sở được lựa chọn.",
+"viet_tat": "FS"
+},
+{
+"en": "Pre-feasibility study report",
+"vi": "Báo cáo nghiên cứu tiền khả thi",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Tài liệu nghiên cứu sơ bộ về sự cần thiết, tính khả thi và hiệu quả của dự án, làm cơ sở xem xét chủ trương đầu tư."
+},
+{
+"en": "Verification (design review)",
+"vi": "Thẩm tra",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Việc tổ chức, cá nhân kiểm tra, đánh giá, kết luận về những nội dung chuyên môn cần thiết trong quá trình chuẩn bị và thực hiện dự án theo yêu cầu. Theo <a href=\"/phap-ly/135-2025-qh15.html#d3\">khoản 15 Điều 3 Luật Xây dựng 2025</a>."
+},
+{
+"en": "Appraisal",
+"vi": "Thẩm định",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Việc người quyết định đầu tư, chủ đầu tư, cơ quan chuyên môn về xây dựng, hội đồng thẩm định kiểm tra, đánh giá những nội dung cần thiết làm cơ sở xem xét, phê duyệt. Theo <a href=\"/phap-ly/135-2025-qh15.html#d3\">khoản 16 Điều 3 Luật Xây dựng 2025</a>."
+},
+{
+"en": "Building permit",
+"vi": "Giấy phép xây dựng",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Văn bản do cơ quan có thẩm quyền cấp cho chủ đầu tư để xây dựng mới, sửa chữa, cải tạo, di dời công trình. Theo <a href=\"/phap-ly/135-2025-qh15.html#d3\">khoản 21 Điều 3 Luật Xây dựng 2025</a>.",
+"viet_tat": "GPXD"
+},
+{
+"en": "Specification",
+"vi": "Chỉ dẫn kỹ thuật",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Tài liệu quy định yêu cầu kỹ thuật về vật liệu, thi công, nghiệm thu cho công trình, là căn cứ để thi công và kiểm tra chất lượng."
+},
+{
+"en": "Shop drawing",
+"vi": "Bản vẽ chi tiết thi công (shop drawing)",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Bản vẽ do nhà thầu lập để triển khai chi tiết bản vẽ thiết kế cho phù hợp điều kiện thi công thực tế, trình tư vấn phê duyệt trước khi làm."
+},
+{
+"en": "As-built drawing",
+"vi": "Bản vẽ hoàn công",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Bản vẽ công trình xây dựng hoàn thành, thể hiện vị trí, kích thước, vật liệu và thiết bị được sử dụng thực tế. Theo <a href=\"/phap-ly/207-2026-nd-cp.html#d2\">khoản 3 Điều 2 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"en": "Method statement",
+"vi": "Biện pháp thi công",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Tài liệu mô tả trình tự, phương pháp, máy móc, nhân lực và biện pháp an toàn để thực hiện một công việc cụ thể."
+},
+{
+"en": "Request for Information",
+"vi": "Yêu cầu làm rõ thông tin",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Văn bản nhà thầu gửi tư vấn, chủ đầu tư để hỏi, làm rõ thiết kế hoặc yêu cầu kỹ thuật.",
+"viet_tat": "RFI"
+},
+{
+"en": "Submittal",
+"vi": "Hồ sơ trình duyệt",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Tài liệu nhà thầu trình để được chấp thuận: mẫu vật liệu, bản vẽ chi tiết, biện pháp thi công, catalogue thiết bị…"
+},
+{
+"en": "Transmittal",
+"vi": "Phiếu chuyển giao tài liệu",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Phiếu kèm theo khi gửi tài liệu giữa các bên, ghi danh mục, số bản, mục đích gửi để theo dõi."
+},
+{
+"en": "Document control",
+"vi": "Quản lý tài liệu",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Việc lập mã, phát hành, lưu trữ, cập nhật phiên bản và phân phối tài liệu dự án một cách thống nhất."
+},
+{
+"en": "Revision",
+"vi": "Phiên bản sửa đổi",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Lần chỉnh sửa của bản vẽ, tài liệu, được ký hiệu để biết bản nào đang có hiệu lực."
+},
+{
+"en": "Design brief / Design criteria",
+"vi": "Nhiệm vụ thiết kế",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Tài liệu nêu yêu cầu, mục tiêu, quy mô, công năng và tiêu chuẩn áp dụng để thực hiện thiết kế."
+},
+{
+"en": "Geotechnical investigation",
+"vi": "Khảo sát địa chất",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Công việc khoan, đào, thí nghiệm để xác định điều kiện đất nền, nước ngầm phục vụ thiết kế móng và kết cấu."
+},
+{
+"en": "Topographic survey",
+"vi": "Khảo sát địa hình",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Đo đạc hiện trạng mặt bằng, cao độ, công trình hiện có phục vụ lập dự án và thiết kế."
+},
+{
+"en": "Practising certificate",
+"vi": "Chứng chỉ hành nghề hoạt động xây dựng",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Bản xác nhận năng lực hành nghề cấp cho cá nhân thuộc các trường hợp tại khoản 1 Điều 88 Luật Xây dựng 2025, có đủ trình độ chuyên môn và kinh nghiệm nghề nghiệp. Theo <a href=\"/phap-ly/212-2026-nd-cp.html#d3\">khoản 1 Điều 3 Nghị định 212/2026/NĐ-CP</a>."
+},
+{
+"en": "Lead designer / Design manager",
+"vi": "Chủ nhiệm thiết kế",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Chức danh của cá nhân được tổ chức giao quản lý, điều phối toàn bộ công việc tư vấn có nhiều chuyên môn khác nhau (chủ nhiệm khảo sát, chủ nhiệm thiết kế…). Theo <a href=\"/phap-ly/212-2026-nd-cp.html#d3\">khoản 2 Điều 3 Nghị định 212/2026/NĐ-CP</a>."
+},
+{
+"en": "Construction completion dossier",
+"vi": "Hồ sơ hoàn thành công trình",
+"nhom": "Thiết kế – hồ sơ – thủ tục",
+"dn": "Tập hợp các hồ sơ, tài liệu liên quan tới quá trình đầu tư xây dựng công trình cần được lưu lại khi đưa công trình vào khai thác, sử dụng. Theo <a href=\"/phap-ly/207-2026-nd-cp.html#d2\">khoản 4 Điều 2 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"en": "Quality Assurance",
+"vi": "Bảo đảm chất lượng",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Hệ thống quy trình, kế hoạch nhằm phòng ngừa sai lỗi, bảo đảm sản phẩm đạt yêu cầu ngay từ đầu.",
+"viet_tat": "QA"
+},
+{
+"en": "Quality Control",
+"vi": "Kiểm soát chất lượng",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Hoạt động kiểm tra, thử nghiệm sản phẩm, công việc để phát hiện và xử lý sai lỗi so với yêu cầu.",
+"viet_tat": "QC"
+},
+{
+"en": "Construction quality management",
+"vi": "Quản lý chất lượng công trình xây dựng",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Hoạt động quản lý của các chủ thể tham gia trong quá trình chuẩn bị, thực hiện đầu tư xây dựng và khai thác, sử dụng công trình nhằm bảo đảm các yêu cầu về chất lượng và an toàn. Theo <a href=\"/phap-ly/207-2026-nd-cp.html#d2\">khoản 1 Điều 2 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"en": "Quality plan / Project quality plan",
+"vi": "Kế hoạch quản lý chất lượng",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Tài liệu nêu cách tổ chức, trách nhiệm, quy trình kiểm tra, nghiệm thu áp dụng cho một dự án hoặc gói thầu.",
+"viet_tat": "PQP"
+},
+{
+"en": "Inspection and Test Plan",
+"vi": "Kế hoạch kiểm tra và thí nghiệm",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Bảng liệt kê các bước kiểm tra, thí nghiệm, điểm dừng nghiệm thu, tiêu chí chấp nhận và người chịu trách nhiệm cho từng công việc.",
+"viet_tat": "ITP"
+},
+{
+"en": "Hold point / Witness point",
+"vi": "Điểm dừng / điểm chứng kiến",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Điểm trong ITP mà nhà thầu phải dừng chờ nghiệm thu (hold point) hoặc phải mời giám sát chứng kiến (witness point) trước khi làm tiếp."
+},
+{
+"en": "Inspection request",
+"vi": "Phiếu yêu cầu nghiệm thu",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Văn bản nhà thầu gửi giám sát, chủ đầu tư đề nghị kiểm tra, nghiệm thu công việc đã hoàn thành.",
+"viet_tat": "IR"
+},
+{
+"en": "Material approval",
+"vi": "Phê duyệt vật liệu",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Thủ tục trình mẫu, chứng chỉ, thông số vật liệu để chủ đầu tư, tư vấn chấp thuận trước khi đưa vào công trình.",
+"viet_tat": "MAR"
+},
+{
+"en": "Material inspection",
+"vi": "Nghiệm thu vật liệu đầu vào",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Việc kiểm tra chủng loại, chứng chỉ, kết quả thí nghiệm của vật liệu, sản phẩm, thiết bị trước khi sử dụng cho công trình."
+},
+{
+"en": "Non-Conformance Report",
+"vi": "Báo cáo sự không phù hợp",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Văn bản ghi nhận công việc, vật liệu không đạt yêu cầu, kèm yêu cầu khắc phục và kiểm tra lại.",
+"viet_tat": "NCR"
+},
+{
+"en": "Corrective action",
+"vi": "Hành động khắc phục",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Biện pháp loại bỏ nguyên nhân gây ra sự không phù hợp để không tái diễn."
+},
+{
+"en": "Site instruction",
+"vi": "Chỉ thị công trường",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Văn bản của tư vấn giám sát, chủ đầu tư yêu cầu nhà thầu thực hiện hoặc điều chỉnh công việc tại hiện trường.",
+"viet_tat": "SI"
+},
+{
+"en": "Mock-up",
+"vi": "Mẫu thử tại hiện trường (mock-up)",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Phần làm mẫu thực tế một hạng mục hoàn thiện để các bên thống nhất chất lượng, thẩm mỹ trước khi thi công đại trà."
+},
+{
+"en": "Specialized construction testing",
+"vi": "Thí nghiệm chuyên ngành xây dựng",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Hoạt động đo lường nhằm xác định đặc tính của đất, vật liệu, môi trường xây dựng, sản phẩm, bộ phận công trình hoặc công trình theo quy trình nhất định. Theo <a href=\"/phap-ly/207-2026-nd-cp.html#d2\">khoản 5 Điều 2 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"en": "Construction inspection (assessment)",
+"vi": "Kiểm định xây dựng",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Hoạt động kiểm tra, đánh giá chất lượng hoặc nguyên nhân hư hỏng và các thông số kỹ thuật của vật liệu, cấu kiện, sản phẩm, bộ phận hoặc công trình thông qua khảo sát, quan trắc, thí nghiệm. Theo <a href=\"/phap-ly/207-2026-nd-cp.html#d2\">khoản 8 Điều 2 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"en": "Construction expert examination",
+"vi": "Giám định xây dựng",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Hoạt động kiểm định xây dựng và đánh giá sự tuân thủ pháp luật về đầu tư xây dựng, do cơ quan quản lý nhà nước có thẩm quyền tổ chức thực hiện. Theo <a href=\"/phap-ly/207-2026-nd-cp.html#d2\">khoản 9 Điều 2 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"en": "Monitoring (structural)",
+"vi": "Quan trắc công trình",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Hoạt động theo dõi, đo đạc, ghi nhận sự biến đổi về hình học, biến dạng, chuyển dịch và các thông số kỹ thuật khác của công trình và môi trường xung quanh theo thời gian. Theo <a href=\"/phap-ly/207-2026-nd-cp.html#d2\">khoản 6 Điều 2 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"en": "Surveying (setting out)",
+"vi": "Trắc đạc công trình",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Hoạt động đo đạc để xác định vị trí, hình dạng, kích thước của địa hình, công trình phục vụ thi công, quản lý chất lượng, bảo hành, bảo trì, vận hành và giải quyết sự cố. Theo <a href=\"/phap-ly/207-2026-nd-cp.html#d2\">khoản 7 Điều 2 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"en": "Site supervision",
+"vi": "Giám sát thi công xây dựng",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Việc theo dõi, kiểm tra thường xuyên, có hệ thống quá trình thi công để bảo đảm đúng thiết kế, chỉ dẫn kỹ thuật, quy chuẩn, tiêu chuẩn và hợp đồng."
+},
+{
+"en": "Chief supervisor",
+"vi": "Giám sát trưởng",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Chức danh của cá nhân được tổ chức giám sát giao quản lý, điều hành hoạt động giám sát thi công đối với công trình hoặc gói thầu cụ thể. Theo <a href=\"/phap-ly/212-2026-nd-cp.html#d3\">khoản 5 Điều 3 Nghị định 212/2026/NĐ-CP</a>."
+},
+{
+"en": "Punch list / Snag list",
+"vi": "Danh sách tồn tại cần khắc phục",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Danh mục các lỗi nhỏ, việc còn dở được ghi nhận khi kiểm tra trước nghiệm thu, bàn giao mà nhà thầu phải hoàn thiện."
+},
+{
+"en": "Testing and commissioning",
+"vi": "Chạy thử và nghiệm thu vận hành",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Việc thử nghiệm, hiệu chỉnh thiết bị, hệ thống kỹ thuật để xác nhận vận hành đúng thiết kế trước khi bàn giao.",
+"viet_tat": "T&C"
+},
+{
+"en": "Handover",
+"vi": "Bàn giao công trình",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Việc chuyển giao công trình đã nghiệm thu hoàn thành cùng hồ sơ, tài liệu cho chủ đầu tư hoặc đơn vị quản lý sử dụng."
+},
+{
+"en": "Completion certificate / Taking-over certificate",
+"vi": "Biên bản nghiệm thu hoàn thành, chứng nhận tiếp nhận",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Văn bản xác nhận công trình, hạng mục đã hoàn thành và được chấp nhận đưa vào sử dụng; thường là mốc bắt đầu thời hạn bảo hành."
+},
+{
+"en": "Construction diary / Site diary",
+"vi": "Nhật ký thi công xây dựng",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Sổ ghi chép hằng ngày về tình hình thi công, nhân lực, thiết bị, thời tiết, sự cố, ý kiến của các bên tại công trường."
+},
+{
+"en": "Third-party inspection",
+"vi": "Kiểm tra độc lập (bên thứ ba)",
+"nhom": "Chất lượng – QA/QC",
+"dn": "Việc thuê đơn vị độc lập kiểm tra, thí nghiệm, kiểm định để có kết quả khách quan về chất lượng."
+},
+{
+"en": "Health, Safety and Environment",
+"vi": "An toàn, sức khỏe và môi trường",
+"nhom": "An toàn – môi trường",
+"dn": "Hệ thống quản lý nhằm phòng ngừa tai nạn, bệnh nghề nghiệp và tác động xấu đến môi trường trong thi công.",
+"viet_tat": "HSE"
+},
+{
+"en": "Construction safety",
+"vi": "An toàn trong thi công xây dựng công trình",
+"nhom": "An toàn – môi trường",
+"dn": "Giải pháp phòng, chống tác động của yếu tố nguy hiểm, có hại nhằm không gây thương tật, tử vong, suy giảm sức khỏe con người và ngăn ngừa sự cố trong thi công. Theo <a href=\"/phap-ly/207-2026-nd-cp.html#d2\">khoản 17 Điều 2 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"en": "Safety measures plan",
+"vi": "Biện pháp bảo đảm an toàn trong thi công",
+"nhom": "An toàn – môi trường",
+"dn": "Tập hợp các giải pháp (Phụ lục III Nghị định 207/2026) nhằm bảo đảm an toàn, vệ sinh lao động, bảo vệ môi trường, phòng cháy chữa cháy và an toàn cho cộng đồng. Theo <a href=\"/phap-ly/207-2026-nd-cp.html#d2\">khoản 18 Điều 2 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"en": "Danger zone",
+"vi": "Vùng nguy hiểm trong thi công",
+"nhom": "An toàn – môi trường",
+"dn": "Giới hạn các khu vực trong và xung quanh công trường có thể xuất hiện yếu tố nguy hiểm gây thiệt hại cho người, công trình, tài sản. Theo <a href=\"/phap-ly/135-2025-qh15.html#d3\">khoản 30 Điều 3 Luật Xây dựng 2025</a>."
+},
+{
+"en": "Construction incident",
+"vi": "Sự cố công trình xây dựng",
+"nhom": "An toàn – môi trường",
+"dn": "Hư hỏng vượt quá giới hạn an toàn cho phép làm công trình hoặc kết cấu phụ trợ thi công có nguy cơ sập đổ hoặc đã sập đổ một phần, toàn bộ. Theo <a href=\"/phap-ly/135-2025-qh15.html#d3\">khoản 29 Điều 3 Luật Xây dựng 2025</a>."
+},
+{
+"en": "Job Safety Analysis",
+"vi": "Phân tích an toàn công việc",
+"nhom": "An toàn – môi trường",
+"dn": "Việc chia công việc thành các bước, nhận diện mối nguy ở từng bước và đưa ra biện pháp kiểm soát.",
+"viet_tat": "JSA"
+},
+{
+"en": "Risk assessment",
+"vi": "Đánh giá rủi ro an toàn",
+"nhom": "An toàn – môi trường",
+"dn": "Việc nhận diện mối nguy, đánh giá khả năng xảy ra và hậu quả để quyết định biện pháp kiểm soát phù hợp."
+},
+{
+"en": "Permit to work",
+"vi": "Giấy phép làm việc",
+"nhom": "An toàn – môi trường",
+"dn": "Văn bản cho phép thực hiện công việc nguy hiểm (làm việc trên cao, hàn cắt, không gian hạn chế, điện…) sau khi đã kiểm tra điều kiện an toàn.",
+"viet_tat": "PTW"
+},
+{
+"en": "Toolbox talk",
+"vi": "Họp an toàn đầu ca",
+"nhom": "An toàn – môi trường",
+"dn": "Buổi trao đổi ngắn trước khi làm việc để nhắc nhở mối nguy và biện pháp an toàn của công việc trong ngày."
+},
+{
+"en": "Personal Protective Equipment",
+"vi": "Phương tiện bảo vệ cá nhân",
+"nhom": "An toàn – môi trường",
+"dn": "Mũ, giày, dây an toàn, kính, găng tay, quần áo bảo hộ… người lao động phải sử dụng khi làm việc.",
+"viet_tat": "PPE"
+},
+{
+"en": "Hot work",
+"vi": "Công việc phát sinh nhiệt",
+"nhom": "An toàn – môi trường",
+"dn": "Hàn, cắt, mài hoặc công việc tạo tia lửa, nhiệt có nguy cơ gây cháy, cần kiểm soát bằng giấy phép làm việc."
+},
+{
+"en": "Working at height",
+"vi": "Làm việc trên cao",
+"nhom": "An toàn – môi trường",
+"dn": "Công việc thực hiện ở vị trí có nguy cơ ngã cao, phải có sàn công tác, lan can, lưới hoặc dây an toàn phù hợp."
+},
+{
+"en": "Near miss",
+"vi": "Sự cố suýt xảy ra",
+"nhom": "An toàn – môi trường",
+"dn": "Sự việc có thể dẫn đến tai nạn nhưng chưa gây thương tích, thiệt hại; cần báo cáo để rút kinh nghiệm."
+},
+{
+"en": "Lockout/Tagout",
+"vi": "Cô lập năng lượng, treo biển cảnh báo",
+"nhom": "An toàn – môi trường",
+"dn": "Quy trình ngắt và khóa nguồn năng lượng, treo biển cảnh báo trước khi sửa chữa thiết bị để tránh khởi động bất ngờ.",
+"viet_tat": "LOTO"
+},
+{
+"en": "Environmental management plan",
+"vi": "Kế hoạch quản lý môi trường",
+"nhom": "An toàn – môi trường",
+"dn": "Các biện pháp kiểm soát bụi, tiếng ồn, nước thải, chất thải và tác động đến khu vực xung quanh công trường.",
+"viet_tat": "EMP"
+},
+{
+"en": "Housekeeping",
+"vi": "Vệ sinh, sắp xếp công trường",
+"nhom": "An toàn – môi trường",
+"dn": "Duy trì công trường gọn gàng, sạch sẽ, lối đi thông thoáng để giảm nguy cơ tai nạn và cháy nổ."
+},
+{
+"en": "Emergency response plan",
+"vi": "Phương án ứng cứu khẩn cấp",
+"nhom": "An toàn – môi trường",
+"dn": "Kế hoạch xử lý khi xảy ra cháy nổ, tai nạn, sự cố: phân công, liên lạc, sơ cứu, thoát nạn."
+},
+{
+"en": "Safety officer",
+"vi": "Cán bộ an toàn",
+"nhom": "An toàn – môi trường",
+"dn": "Người được giao theo dõi, kiểm tra, hướng dẫn công tác an toàn lao động, vệ sinh môi trường tại công trường."
+},
+{
+"en": "Master schedule",
+"vi": "Tiến độ tổng thể",
+"nhom": "Tiến độ",
+"dn": "Kế hoạch thời gian của toàn dự án, thể hiện các giai đoạn, hạng mục chính và mốc quan trọng."
+},
+{
+"en": "Gantt chart",
+"vi": "Biểu đồ Gantt (sơ đồ ngang)",
+"nhom": "Tiến độ",
+"dn": "Biểu đồ thể hiện công việc theo thanh ngang trên trục thời gian, cho thấy thời điểm bắt đầu, kết thúc và chồng lấn giữa các việc."
+},
+{
+"en": "Milestone",
+"vi": "Mốc tiến độ",
+"nhom": "Tiến độ",
+"dn": "Thời điểm đánh dấu hoàn thành một sự kiện quan trọng, không có thời lượng, dùng để kiểm soát và thanh toán."
+},
+{
+"en": "Critical path",
+"vi": "Đường găng",
+"nhom": "Tiến độ",
+"dn": "Chuỗi công việc dài nhất quyết định thời gian hoàn thành dự án; chậm một việc trên đường găng sẽ làm chậm cả dự án."
+},
+{
+"en": "Critical Path Method",
+"vi": "Phương pháp đường găng",
+"nhom": "Tiến độ",
+"dn": "Kỹ thuật lập và phân tích tiến độ dựa trên quan hệ trước – sau của công việc để tìm đường găng và thời gian dự trữ.",
+"viet_tat": "CPM"
+},
+{
+"en": "Float / Slack",
+"vi": "Thời gian dự trữ",
+"nhom": "Tiến độ",
+"dn": "Khoảng thời gian một công việc có thể chậm mà không làm chậm công việc sau hoặc ngày hoàn thành dự án."
+},
+{
+"en": "Look-ahead schedule",
+"vi": "Tiến độ cuốn chiếu ngắn hạn",
+"nhom": "Tiến độ",
+"dn": "Kế hoạch chi tiết 2–6 tuần tới, cập nhật thường xuyên để điều phối nhân lực, vật tư, thiết bị tại công trường."
+},
+{
+"en": "Lag / Lead",
+"vi": "Độ trễ / làm gối đầu",
+"nhom": "Tiến độ",
+"dn": "Khoảng thời gian chờ (lag) hoặc chồng lấn (lead) giữa hai công việc có quan hệ phụ thuộc."
+},
+{
+"en": "Predecessor / Successor",
+"vi": "Công việc trước / công việc sau",
+"nhom": "Tiến độ",
+"dn": "Quan hệ phụ thuộc giữa các công việc: việc sau chỉ bắt đầu hoặc kết thúc khi việc trước đạt điều kiện."
+},
+{
+"en": "Delay analysis",
+"vi": "Phân tích chậm trễ",
+"nhom": "Tiến độ",
+"dn": "Việc xác định nguyên nhân, trách nhiệm và ảnh hưởng của chậm trễ đến thời gian hoàn thành, làm căn cứ gia hạn hoặc xử lý vi phạm."
+},
+{
+"en": "Acceleration",
+"vi": "Đẩy nhanh tiến độ",
+"nhom": "Tiến độ",
+"dn": "Biện pháp tăng nhân lực, thiết bị, ca làm việc để rút ngắn thời gian thi công."
+},
+{
+"en": "S-curve",
+"vi": "Đường cong S",
+"nhom": "Tiến độ",
+"dn": "Biểu đồ lũy kế khối lượng hoặc giá trị theo thời gian, dùng so sánh kế hoạch và thực tế."
+},
+{
+"en": "Resource histogram",
+"vi": "Biểu đồ nhân lực, tài nguyên",
+"nhom": "Tiến độ",
+"dn": "Biểu đồ số lượng nhân công, thiết bị theo thời gian, giúp điều hòa tài nguyên."
+},
+{
+"en": "Fast-tracking",
+"vi": "Thực hiện song song",
+"nhom": "Tiến độ",
+"dn": "Cho các giai đoạn hoặc công việc vốn làm tuần tự được thực hiện chồng lấn để rút ngắn thời gian, chấp nhận rủi ro cao hơn."
+},
+{
+"en": "Construction period",
+"vi": "Thời gian thi công",
+"nhom": "Tiến độ",
+"dn": "Khoảng thời gian từ khởi công đến hoàn thành thi công công trình theo hợp đồng."
+},
+{
+"en": "Project implementation duration",
+"vi": "Thời gian thực hiện dự án",
+"nhom": "Tiến độ",
+"dn": "Khoảng thời gian xác định tại quyết định phê duyệt dự án, tính từ thời điểm quyết định đầu tư đến khi hoàn thành, bàn giao đưa các công trình vào sử dụng. Theo <a href=\"/phap-ly/217-2026-nd-cp.html#d3\">khoản 6 Điều 3 Nghị định 217/2026/NĐ-CP</a>."
+},
+{
+"en": "Building Information Modeling",
+"vi": "Mô hình thông tin công trình",
+"nhom": "BIM – chuyển đổi số",
+"dn": "Phương pháp tạo lập và sử dụng mô hình số 3D chứa thông tin về hình học, vật liệu, khối lượng, thiết bị của công trình trong suốt vòng đời.",
+"viet_tat": "BIM"
+},
+{
+"en": "Common Data Environment",
+"vi": "Môi trường dữ liệu chung",
+"nhom": "BIM – chuyển đổi số",
+"dn": "Nền tảng lưu trữ, chia sẻ và quản lý thông tin dự án tập trung, có phân quyền và quản lý phiên bản.",
+"viet_tat": "CDE"
+},
+{
+"en": "Level of Development",
+"vi": "Mức độ phát triển thông tin",
+"nhom": "BIM – chuyển đổi số",
+"dn": "Mức độ chi tiết và độ tin cậy của thông tin trong từng đối tượng mô hình BIM theo từng giai đoạn.",
+"viet_tat": "LOD"
+},
+{
+"en": "Clash detection",
+"vi": "Kiểm tra xung đột",
+"nhom": "BIM – chuyển đổi số",
+"dn": "Việc dùng phần mềm phát hiện va chạm giữa các bộ môn (kết cấu, kiến trúc, cơ điện) trên mô hình trước khi thi công."
+},
+{
+"en": "Employer's Information Requirements",
+"vi": "Yêu cầu thông tin của chủ đầu tư",
+"nhom": "BIM – chuyển đổi số",
+"dn": "Tài liệu nêu yêu cầu về thông tin, mô hình BIM mà nhà thầu, tư vấn phải cung cấp.",
+"viet_tat": "EIR"
+},
+{
+"en": "BIM Execution Plan",
+"vi": "Kế hoạch thực hiện BIM",
+"nhom": "BIM – chuyển đổi số",
+"dn": "Kế hoạch mô tả cách các bên tổ chức, phối hợp, trao đổi mô hình và dữ liệu BIM trong dự án.",
+"viet_tat": "BEP"
+},
+{
+"en": "4D / 5D BIM",
+"vi": "BIM 4D, 5D",
+"nhom": "BIM – chuyển đổi số",
+"dn": "Mô hình BIM gắn thêm yếu tố thời gian (4D – tiến độ) và chi phí (5D – khối lượng, dự toán)."
+},
+{
+"en": "Industry Foundation Classes",
+"vi": "Định dạng IFC",
+"nhom": "BIM – chuyển đổi số",
+"dn": "Định dạng dữ liệu mở dùng để trao đổi mô hình BIM giữa các phần mềm khác nhau.",
+"viet_tat": "IFC"
+},
+{
+"en": "Digital twin",
+"vi": "Bản sao số",
+"nhom": "BIM – chuyển đổi số",
+"dn": "Mô hình số được cập nhật dữ liệu vận hành thực tế, dùng để theo dõi, phân tích và quản lý công trình."
+},
+{
+"en": "Point cloud / Laser scanning",
+"vi": "Đám mây điểm / quét laser",
+"nhom": "BIM – chuyển đổi số",
+"dn": "Dữ liệu đo đạc hiện trạng bằng máy quét laser, dùng để dựng mô hình hiện trạng hoặc kiểm tra sai lệch thi công."
+},
+{
+"en": "Federated model",
+"vi": "Mô hình hợp nhất",
+"nhom": "BIM – chuyển đổi số",
+"dn": "Mô hình tổng hợp từ các mô hình bộ môn riêng để phối hợp và kiểm tra xung đột."
+},
+{
+"en": "Construction database",
+"vi": "Cơ sở dữ liệu xây dựng",
+"nhom": "BIM – chuyển đổi số",
+"dn": "Hệ thống dữ liệu số về hoạt động xây dựng, năng lực tổ chức, cá nhân, công trình… phục vụ quản lý và công khai thông tin theo quy định."
+},
+{
+"en": "Construction maintenance",
+"vi": "Bảo trì công trình xây dựng",
+"nhom": "Vận hành – bảo trì",
+"dn": "Tập hợp các công việc nhằm bảo đảm và duy trì sự làm việc bình thường, an toàn của công trình theo quy định của thiết kế trong quá trình khai thác sử dụng. Theo <a href=\"/phap-ly/207-2026-nd-cp.html#d2\">khoản 10 Điều 2 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"en": "Maintenance procedure",
+"vi": "Quy trình bảo trì công trình",
+"nhom": "Vận hành – bảo trì",
+"dn": "Tài liệu quy định trình tự, nội dung và chỉ dẫn thực hiện các công việc bảo trì công trình. Theo <a href=\"/phap-ly/207-2026-nd-cp.html#d2\">khoản 11 Điều 2 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"en": "Design service life",
+"vi": "Thời hạn sử dụng theo thiết kế",
+"nhom": "Vận hành – bảo trì",
+"dn": "Khoảng thời gian công trình được dự kiến sử dụng, bảo đảm yêu cầu về an toàn và công năng theo thiết kế. Theo <a href=\"/phap-ly/207-2026-nd-cp.html#d2\">khoản 12 Điều 2 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"en": "Actual service life",
+"vi": "Thời hạn sử dụng thực tế",
+"nhom": "Vận hành – bảo trì",
+"dn": "Khoảng thời gian công trình được sử dụng thực tế, bảo đảm yêu cầu về an toàn và công năng. Theo <a href=\"/phap-ly/207-2026-nd-cp.html#d2\">khoản 13 Điều 2 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"en": "Warranty / Defects liability",
+"vi": "Bảo hành công trình xây dựng",
+"nhom": "Vận hành – bảo trì",
+"dn": "Sự cam kết của nhà thầu về trách nhiệm khắc phục, sửa chữa trong một thời gian nhất định các hư hỏng, khiếm khuyết có thể xảy ra trong quá trình khai thác, sử dụng công trình. Theo <a href=\"/phap-ly/207-2026-nd-cp.html#d2\">khoản 14 Điều 2 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"en": "Defects Notification Period",
+"vi": "Thời hạn thông báo sai sót (bảo hành)",
+"nhom": "Vận hành – bảo trì",
+"dn": "Khoảng thời gian sau khi tiếp nhận công trình mà chủ đầu tư được thông báo sai sót để nhà thầu sửa chữa (thuật ngữ FIDIC).",
+"viet_tat": "DNP"
+},
+{
+"en": "Building owner",
+"vi": "Chủ sở hữu công trình",
+"nhom": "Vận hành – bảo trì",
+"dn": "Cá nhân, tổ chức có quyền sở hữu công trình theo quy định của pháp luật. Theo <a href=\"/phap-ly/207-2026-nd-cp.html#d2\">khoản 15 Điều 2 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"en": "Facility manager",
+"vi": "Chủ quản lý, sử dụng công trình",
+"nhom": "Vận hành – bảo trì",
+"dn": "Chủ sở hữu trực tiếp quản lý, sử dụng công trình hoặc tổ chức, cá nhân được chủ sở hữu ủy quyền quản lý, sử dụng công trình. Theo <a href=\"/phap-ly/207-2026-nd-cp.html#d2\">khoản 16 Điều 2 Nghị định 207/2026/NĐ-CP</a>."
+},
+{
+"en": "Facility Management",
+"vi": "Quản lý vận hành tòa nhà",
+"nhom": "Vận hành – bảo trì",
+"dn": "Hoạt động quản lý, vận hành, bảo trì hệ thống kỹ thuật và dịch vụ của công trình trong quá trình khai thác.",
+"viet_tat": "FM"
+},
+{
+"en": "Operation and Maintenance manual",
+"vi": "Tài liệu hướng dẫn vận hành, bảo trì",
+"nhom": "Vận hành – bảo trì",
+"dn": "Bộ tài liệu bàn giao hướng dẫn cách vận hành, kiểm tra định kỳ, bảo dưỡng thiết bị và hệ thống của công trình.",
+"viet_tat": "O&M"
+},
+{
+"en": "Preventive maintenance",
+"vi": "Bảo trì phòng ngừa",
+"nhom": "Vận hành – bảo trì",
+"dn": "Công việc kiểm tra, bảo dưỡng theo kế hoạch định kỳ để ngăn ngừa hư hỏng."
+},
+{
+"en": "Corrective maintenance",
+"vi": "Sửa chữa khắc phục",
+"nhom": "Vận hành – bảo trì",
+"dn": "Công việc sửa chữa sau khi phát hiện hư hỏng để đưa bộ phận, thiết bị về trạng thái làm việc bình thường."
+},
+{
+"en": "Life cycle cost",
+"vi": "Chi phí vòng đời",
+"nhom": "Vận hành – bảo trì",
+"dn": "Tổng chi phí của công trình từ đầu tư, vận hành, bảo trì đến khi phá dỡ; dùng để so sánh phương án thiết kế, vật liệu.",
+"viet_tat": "LCC"
+},
+{
+"en": "Building Management System",
+"vi": "Hệ thống quản lý tòa nhà",
+"nhom": "Vận hành – bảo trì",
+"dn": "Hệ thống điều khiển, giám sát tập trung các thiết bị kỹ thuật như điều hòa, chiếu sáng, bơm, thang máy, báo cháy.",
+"viet_tat": "BMS"
+},
+{
+"en": "Structural safety assessment",
+"vi": "Đánh giá an toàn công trình",
+"nhom": "Vận hành – bảo trì",
+"dn": "Việc kiểm tra, đánh giá khả năng chịu lực, mức độ an toàn của công trình trong quá trình khai thác theo quy định."
+}
+]

@@ -1,0 +1,184 @@
+{
+ "ma": "nd254-m09",
+ "ten": "Bảng phân bổ chi phí quản lý dự án đề nghị thanh toán hoàn tạm ứng chi phí quản lý dự án",
+ "nhom": "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)",
+ "nguon": "Mẫu số 09/QLDA Phụ lục Hệ thống mẫu biểu kèm theo Nghị định 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "254-2025-nd-cp",
+   "8",
+   "khoản 6 Điều 8"
+  ],
+  [
+   "254-2025-nd-cp",
+   "9",
+   "điểm c khoản 5 Điều 9"
+  ]
+ ],
+ "dung_khi": "Chủ đầu tư, ban quản lý dự án trực tiếp quản lý nhiều dự án lập để phân bổ chi phí quản lý dự án khi đề nghị thanh toán, thu hồi tạm ứng chi phí quản lý dự án (khoản 6 Điều 8, điểm c khoản 5 Điều 9).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 09/QLDA"
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Nghị định số 254/2025/NĐ-CP Ngày 26 tháng 9 năm 2025 của Chính phủ)",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "CHỦ ĐẦU TƯ/BAN QUẢN LÝ DỰ ÁN ...",
+     "-------",
+     "Số:..."
+    ],
+    "ngay": "..., ngày... tháng... năm ..."
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BẢNG PHÂN BỔ CHI PHÍ QUẢN LÝ DỰ ÁN ĐỀ NGHỊ THANH TOÁN HOÀN TẠM ỨNG CHI PHÍ QUẢN LÝ DỰ ÁN",
+    "(Từ tháng... năm ... đến tháng... năm ...)"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị: đồng",
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "STT",
+     "Dự án",
+     "Số kinh phí QLDA còn lại chưa phân bổ kỳ trước chuyển sang",
+     "Số kinh phí QLDA Trích chuyển vào TKTG trong năm báo cáo – Tổng số",
+     "Số kinh phí QLDA Trích chuyển vào TKTG trong năm báo cáo – Trong đó: trong kỳ Báo cáo",
+     "Phân bổ chi phí QLDA – Lũy kế số Đã phân bổ Cho dự án đến cuối kỳ trước",
+     "Phân bổ chi phí QLDA – Trong năm báo cáo – Tổng số",
+     "Phân bổ chi phí QLDA – Trong năm báo cáo – Trong đó: Giá trị đề nghị phân bổ kỳ này",
+     "Số kinh phí QLDA còn lại cuối kỳ chưa phân bổ"
+    ],
+    "dong": [
+     [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9=3+5-8"
+     ],
+     [
+      "",
+      "TỔNG SỐ",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "1",
+      "Dự án A",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2",
+      "Dự án B",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "...",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ]
+    ],
+    "rong": [
+     0.6,
+     3,
+     1.6,
+     1.4,
+     1.4,
+     1.6,
+     1.4,
+     1.6,
+     1.6
+    ]
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LẬP BIỂU",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     "ĐẠI DIỆN CHỦ ĐẦU TƯ/BAN QUẢN LÝ DỰ ÁN",
+     "(Ký, ghi rõ họ tên, đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "HƯỚNG DẪN",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "1. Cột (2): Ghi đầy đủ tên các dự án đã được trích chuyển kinh phí QLDA vào TKTG mà chưa được phân bổ để hoàn ứng hết số đã trích vào tài khoản tiền gửi."
+  ],
+  [
+   "p",
+   "2. Số liệu tại cột (3) của bảng phân bổ kỳ này phải khớp đúng với số liệu tại cột (9) của bảng phân bổ chi phí QLDA của kỳ báo cáo trước."
+  ],
+  [
+   "p",
+   "3. Số liệu tại cột (4) là số kinh phí QLDA đã trích chuyển vào TKTG, bao gồm cả số đã trích chuyển kinh phí QLDA trong kỳ báo cáo tại cột (5)."
+  ],
+  [
+   "p",
+   "4. Cột (7): Ghi lũy kế số chi phí QLDA phân bổ trong năm báo cáo, bao gồm cả số đề nghị phân bổ chi phí QLDA kỳ này ở cột (8)."
+  ],
+  [
+   "p",
+   "5. Tổng số chi phí QLDA phân bổ cho từng dự án không được vượt quá tổng số kinh phí QLDA đã trích chuyển vào TKTG của dự án đó."
+  ]
+ ]
+}

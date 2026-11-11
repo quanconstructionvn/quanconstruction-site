@@ -1,0 +1,447 @@
+{
+ "ma": "tt79-qd02",
+ "ten": "Quyết định phê duyệt dự toán thu, chi quản lý dự án năm của Ban quản lý dự án nhóm II",
+ "nhom": "Dự toán, quyết toán thu chi quản lý dự án (TT 79/2026/TT-BTC)",
+ "nguon": "Mẫu số 02/QĐ-QLDA ban hành kèm theo Thông tư 79/2026/TT-BTC",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "79-2026-tt-btc",
+   "12",
+   "điểm b khoản 1 Điều 12 Thông tư 79/2026/TT-BTC"
+  ]
+ ],
+ "dung_khi": "Giám đốc Ban quản lý dự án nhóm II (đơn vị sự nghiệp công lập) phê duyệt dự toán thu, chi năm của Ban (Điều 12 Thông tư 79/2026/TT-BTC); dự toán sau khi duyệt gửi cơ quan quản lý cấp trên, cơ quan tài chính cùng cấp.",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 02/QĐ–QLDA"
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "BQLDA NHÓM II",
+     "______",
+     "Số :        /QĐ-......"
+    ],
+    "ngay": "…………, ngày     tháng     năm"
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "QUYẾT ĐỊNH",
+    "V/v Phê duyệt dự toán thu, chi năm..."
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "GIÁM ĐỐC BAN QUẢN LÝ DỰ ÁN NHÓM II",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ ………",
+    "i": true,
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ Thông tư số 79/2026/TT-BTC ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Tài chính quy định về thu, chi của chủ đầu tư, ban quản lý dự án có dự án sử dụng vốn ngân sách nhà nước;",
+    "i": true,
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Theo đề nghị của ….",
+    "i": true,
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "QUYẾT ĐỊNH:",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Điều 1: Duyệt dự toán thu, chi của Ban quản lý dự án ... năm… như sau:",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị tính: đồng",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Số TT",
+     "Nội dung",
+     "Tổng số",
+     "Trong đó – Dự án được giao quản lý",
+     "Trong đó – Nguồn hợp pháp khác của đơn vị",
+     "Ghi chú"
+    ],
+    "rong": [
+     1,
+     6,
+     2,
+     2,
+     2,
+     1.5
+    ],
+    "dong": [
+     [
+      "1",
+      "2",
+      "3= 4+5",
+      "4",
+      "5",
+      "6"
+     ],
+     [
+      "A",
+      "DỰ TOÁN THU",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "I",
+      "Tổng thu\n(I = 1+2+3+4+5)",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "1",
+      "Nguồn thu năm trước chuyển sang",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2",
+      "Nguồn thu từ chi phí của dự án được giao quản lý",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "3",
+      "Dự án điều chỉnh, bổ sung trong năm (nếu có)",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "4",
+      "Nguồn hợp pháp khác của đơn vị (nếu có)",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "5",
+      "Nguồn ngân sách nhà nước cấp (nếu có)",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "II",
+      "Nguồn thu chuyển sang năm sau tiếp tục sử dụng",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "III",
+      "Nguồn thu được sử dụng trong năm\n(III = I – II)",
+      "(e) = (a)+(b)+(c)",
+      "",
+      "",
+      ""
+     ],
+     [
+      "1",
+      "Nguồn thu được sử dụng trong năm dành cho chi thường xuyên",
+      "(a)",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2",
+      "Nguồn NSNN cấp cho chi thường xuyên (nếu có)",
+      "(b)",
+      "",
+      "",
+      ""
+     ],
+     [
+      "3",
+      "Nguồn NSNN cấp cho chi không thường xuyên (nếu có)",
+      "(c)",
+      "",
+      "",
+      ""
+     ],
+     [
+      "B",
+      "DỰ TOÁN CHI",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "I",
+      "Chi thường xuyên giao tự chủ\n(I=1+2+3+...+18)",
+      "≤ (a)",
+      "",
+      "",
+      ""
+     ],
+     [
+      "1",
+      "Tiền lương",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2",
+      "Các khoản phụ cấp lương",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "3",
+      "Các khoản trích nộp theo lương",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "4",
+      "Làm thêm giờ",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "5",
+      "Khen thưởng",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "6",
+      "Chi phúc lợi tập thể",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "7",
+      "Thanh toán dịch vụ công cộng",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "8",
+      "Mua vật tư văn phòng",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "9",
+      "Thanh toán thông tin, tuyên truyền, liên lạc",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "10",
+      "Hội nghị, Hội thảo",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "11",
+      "Thanh toán công tác phí",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "12",
+      "Thuê mướn",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "13",
+      "Đoàn đi công tác nước ngoài",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "14",
+      "Đoàn vào",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "15",
+      "Sửa chữa thường xuyên tài sản",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "16",
+      "Mua sắm tài sản phục vụ quản lý",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "17",
+      "Chi khác",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "18",
+      "Chi dự phòng",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "II",
+      "NSNN cấp cho chi thường xuyên (nếu có) chi tiết theo nội dung nhiệm vụ",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "III",
+      "NSNN cấp cho chi không thường xuyên (nếu có) chi tiết theo nội dung nhiệm vụ",
+      "",
+      "",
+      "",
+      ""
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Điều 2: Giám đốc Ban quản lý dự án, cơ quan thanh toán (cụ thể tên cơ quan) và các đơn vị có liên quan (chi tiết các tên đơn vị liên quan) chịu trách nhiệm thi hành Quyết định này./.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Nơi nhận:",
+    "b": true,
+    "i": true,
+    "can": "left"
+   }
+  ],
+  [
+   "p",
+   "- Như Điều 2;"
+  ],
+  [
+   "p",
+   "- Cơ quan quản lý cấp trên;"
+  ],
+  [
+   "p",
+   "- Cơ quan tài chính cùng cấp;"
+  ],
+  [
+   "p",
+   "- Lưu:"
+  ],
+  [
+   "ky",
+   [
+    [
+     "GIÁM ĐỐC",
+     "(Ký, đóng dấu, ghi rõ họ tên)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "Ghi chú:",
+    "- Chi khen thưởng (STT 5 phần B): Thực hiện theo pháp luật về thi đua khen thưởng.",
+    "- Chi về phúc lợi tập thể (STT 6 Mục I phần B): Thực hiện theo pháp luật về phúc lợi tập thể.",
+    "- Chi mua sắm tài sản phục vụ quản lý (STT 16 Mục I phần B) chỉ có ở BQLDA nhóm I và BQLDA nhóm II chưa có Quỹ phát triển hoạt động sự nghiệp."
+   ]
+  ]
+ ]
+}

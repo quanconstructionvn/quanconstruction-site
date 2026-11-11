@@ -1,0 +1,161 @@
+{
+ "ma": "nd207-pl5",
+ "ten": "Thông báo khởi công xây dựng hạng mục công trình, công trình xây dựng",
+ "nhom": "Thi công – nghiệm thu (NĐ 207/2026)",
+ "nguon": "Phụ lục V Nghị định 207/2026/NĐ-CP",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "207-2026-nd-cp",
+   "12",
+   "khoản 2 Điều 12 Nghị định 207/2026/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Trước khi khởi công xây dựng công trình, chủ đầu tư gửi thông báo khởi công trực tiếp, qua bưu chính hoặc trực tuyến tới cơ quan quản lý nhà nước về xây dựng tại địa phương (khoản 2 Điều 12 Nghị định 207/2026/NĐ-CP).",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục V"
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "............(1)............",
+     "____",
+     "Số: ..............."
+    ],
+    "ngay": "........., ngày........tháng........năm........"
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "THÔNG BÁO KHỞI CÔNG XÂY DỰNG HẠNG MỤC CÔNG TRÌNH, CÔNG TRÌNH XÂY DỰNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "Kính gửi: .......... (2) .........",
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "......(1)...... báo cáo về việc khởi công xây dựng hạng mục công trình, công trình xây dựng như sau:",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "1. Tên hạng mục công trình, công trình xây dựng: ......... thuộc dự án ..........................",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "2. Mã định danh dự án... (4).. Mã định danh công trình xây dựng..(5)..",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "3. Địa điểm xây dựng: .....................................................................................................",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "4. Tên và địa chỉ của chủ đầu tư: ....................................................................................",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "5. Tên và số điện thoại liên lạc của cá nhân phụ trách trực tiếp: ......................................",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "6. Quy mô hạng mục công trình, công trình xây dựng (nêu quy mô, các thông số kỹ thuật chủ yếu và công năng sử dụng của các hạng mục công trình, công trình xây dựng).",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "7. Danh sách các nhà thầu chính và nhà thầu phụ (nếu có): (các nhà thầu chính: khảo sát xây dựng, thiết kế xây dựng, thi công xây dựng, giám sát thi công xây dựng, quản lý dự án).",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "8. Ngày khởi công và ngày hoàn thành (dự kiến).",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Nơi nhận:",
+    "b": true,
+    "i": true
+   }
+  ],
+  [
+   "p",
+   "- Như trên;"
+  ],
+  [
+   "p",
+   "- ...(3)..."
+  ],
+  [
+   "p",
+   "- Lưu: ...;"
+  ],
+  [
+   "p",
+   "- Hồ sơ gửi kèm (6)"
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI ĐẠI DIỆN THEO QUY ĐỊNH PHÁP LUẬT CỦA CHỦ ĐẦU TƯ",
+     "(Ký ghi rõ họ tên, chức vụ và đóng dấu pháp nhân)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "___________________",
+    "Ghi chú:",
+    "(1) Tên của chủ đầu tư.",
+    "(2) Tên cơ quan quản lý nhà nước về xây dựng tại địa phương nơi xây dựng công trình.",
+    "(3) Các cơ quan có liên quan.",
+    "(4),(5) Mã định danh dự án/Mã định danh công trình xây dựng theo quy định của Chính phủ về điều kiện năng lực hoạt động xây dựng, Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng.",
+    "(6) Công trình quy định tại các điểm a, b, c, d, đ, e, g và h khoản 2 Điều 43 Luật Xây dựng số 135/2025/QH15, hồ sơ gửi kèm thông báo khởi công được thực hiện theo quy định tại khoản 3 Điều 43 Luật Xây dựng số 135/2025/QH15."
+   ]
+  ]
+ ]
+}

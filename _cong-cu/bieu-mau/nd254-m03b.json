@@ -1,0 +1,198 @@
+{
+ "ma": "nd254-m03b",
+ "ten": "Bảng kê giá trị khối lượng công việc bồi thường, hỗ trợ, tái định cư đã thực hiện",
+ "nhom": "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)",
+ "nguon": "Mẫu số 03.b/TT Phụ lục Hệ thống mẫu biểu kèm theo Nghị định 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "254-2025-nd-cp",
+   "8",
+   "tiết (i) điểm b khoản 3 Điều 8"
+  ]
+ ],
+ "dung_khi": "Lập mỗi lần đề nghị thanh toán tiền bồi thường, hỗ trợ, tái định cư, kèm Giấy đề nghị thanh toán vốn và Giấy rút vốn (tiết (i) điểm b khoản 3 Điều 8).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 03.b/TT"
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Nghị định số 254/2025/NĐ-CP Ngày 26 tháng 9 năm 2025 của Chính phủ)",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "CHỦ ĐẦU TƯ/ ĐƠN VỊ, TỔ CHỨC\nLÀM NHIỆM VỤ BỒI THƯỜNG, HỖ TRỢ TÁI ĐỊNH CƯ",
+    "b": true
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BẢNG KÊ GIÁ TRỊ KHỐI LƯỢNG CÔNG VIỆC BỒI THƯỜNG, HỖ TRỢ, TÁI ĐỊNH CƯ ĐÃ THỰC HIỆN"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "Tên dự án:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Mã dự án:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ Bảng tổng hợp thông tin Phương án bồi thường, hỗ trợ, tái định cư số....",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị, tổ chức thực hiện bồi thường, hỗ trợ tái định cư Thanh toán lần thứ: ...",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị: đồng, ngoại tệ",
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "STT",
+     "Nội dung",
+     "Quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư – Số ngày, tháng, năm",
+     "Quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư – Số tiền",
+     "Lũy kế số tiền đã chi trả cho đơn vị thụ hưởng đến trước kỳ này",
+     "Số tiền đã chi trả cho đơn vị thụ hưởng trong kỳ này",
+     "Ghi chú"
+    ],
+    "dong": [
+     [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+     ],
+     [
+      "I.",
+      "Tiền bồi thường, hỗ trợ, tái định cư (gồm chi trả người dân và chi phí khác)",
+      "",
+      "",
+      "",
+      "",
+      "Chi phí thuộc mục 4.1.1 và 4.2.1 tại Bảng tổng hợp thông tin bồi thường, hỗ trợ, tái định cư"
+     ],
+     [
+      "1.",
+      "Tổng số tiền thanh toán cho các cơ quan, tổ chức",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2.",
+      "Tổng số tiền thanh toán trực tiếp cho hộ dân",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "II.",
+      "Chi phí khác",
+      "",
+      "",
+      "",
+      "",
+      "Chi phí thuộc mục 4.1.3 và 4.2.3 tại Bảng tổng hợp thông tin bồi thường, hỗ trợ, tái định cư"
+     ]
+    ],
+    "rong": [
+     0.8,
+     4,
+     1.6,
+     1.6,
+     1.8,
+     1.8,
+     2.2
+    ]
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "",
+     ""
+    ],
+    [
+     "….., ngày … tháng … năm …\nCHỦ ĐẦU TƯ/ ĐƠN VỊ, TỔ CHỨC LÀM NHIỆM VỤ\nBỒI THƯỜNG, HỖ TRỢ, TÁI ĐỊNH CƯ",
+     "(Ký, ghi rõ họ tên và đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "HƯỚNG DẪN",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "1. Về phương pháp ghi chép:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "Bảng kê giá trị khối lượng bồi thường, hỗ trợ, tái định cư đã thực hiện được lập cho từng dự án. Trường hợp một dự án có nhiều phương án bồi thường được duyệt thì kê theo từng phương án bồi thường được duyệt, trong phạm vi số tiền thanh toán, chi trả cho các đối tượng thụ hưởng, người dân thuộc cùng một dự án. Các nội dung chỉ tiêu (cột 2) ghi theo tổng số."
+  ],
+  [
+   "p",
+   {
+    "t": "2. Về chữ ký của các thành phần tham gia:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "- Trường hợp chủ đầu tư trực tiếp chi trả tiền bồi thường, hỗ trợ, tái định cư (không thông qua tổ chức bồi thường, hỗ trợ, tái định cư) thì phần chữ ký chỉ yêu cầu chữ ký của chủ đầu tư (không yêu cầu chữ ký của tổ chức bồi thường, hỗ trợ, tái định cư)."
+  ],
+  [
+   "p",
+   "- Trường hợp chủ đầu tư thực hiện thủ tục tạm ứng/thanh toán với cơ quan thanh toán để chuyển tiền cho đơn vị, tổ chức thực hiện bồi thường, hỗ trợ, tái định cư, phần chữ ký, đóng dấu gồm: chủ đầu tư và tổ chức bồi thường, hỗ trợ, tái định cư."
+  ],
+  [
+   "p",
+   "3. Đơn vị tiền là ngoại tệ áp dụng đối với dự án đầu tư công tại nước ngoài."
+  ]
+ ]
+}

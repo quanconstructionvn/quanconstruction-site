@@ -1,0 +1,126 @@
+{
+ "ma": "nd217-pl2-m02",
+ "ten": "Đơn đề nghị điều chỉnh/gia hạn/cấp lại giấy phép xây dựng",
+ "nhom": "Thẩm định – giấy phép xây dựng (NĐ 217/2026)",
+ "nguon": "Mẫu số 02 Phụ lục II Nghị định 217/2026/NĐ-CP",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "217-2026-nd-cp",
+   "63",
+   "khoản 2 Điều 63 Nghị định 217/2026/NĐ-CP"
+  ],
+  [
+   "217-2026-nd-cp",
+   "64",
+   "Điều 64 Nghị định 217/2026/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Chủ đầu tư nộp khi đề nghị điều chỉnh, gia hạn hoặc cấp lại giấy phép xây dựng đã được cấp (cấp lại phải nêu rõ lý do).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 02"
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [],
+    "ngay": ""
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "ĐƠN ĐỀ NGHỊ ĐIỀU CHỈNH/GIA HẠN/",
+    "CẤP LẠI GIẤY PHÉP XÂY DỰNG",
+    "(Sử dụng cho: Công trình/Công trình nhà ở riêng lẻ)"
+   ]
+  ],
+  [
+   "p",
+   "Kính gửi: ................................."
+  ],
+  [
+   "p",
+   "1. Tên chủ đầu tư (Chủ hộ):...; Số định danh cá nhân/Mã số doanh nghiệp:.."
+  ],
+  [
+   "p",
+   "- Người đại diện: ............; Chức vụ: ...........; Số định danh cá nhân:.............."
+  ],
+  [
+   "p",
+   "- Số điện thoại: ..............................................................................................."
+  ],
+  [
+   "p",
+   "2. Địa điểm xây dựng:"
+  ],
+  [
+   "p",
+   "Lô đất số:.................................Diện tích .................. m2."
+  ],
+  [
+   "p",
+   "Tại: ............................. đường/phố: ....................... phường/xã ...................... tỉnh, thành phố: ..........................................................................................."
+  ],
+  [
+   "p",
+   "3. Giấy phép xây dựng đã được cấp: (số, ngày, cơ quan cấp)"
+  ],
+  [
+   "p",
+   "Nội dung Giấy phép:"
+  ],
+  [
+   "p",
+   "- ......................................................................................................................................................................."
+  ],
+  [
+   "p",
+   "4. Nội dung đề nghị điều chỉnh so với Giấy phép đã được cấp (hoặc lý do đề nghị gia hạn/cấp lại):"
+  ],
+  [
+   "p",
+   "- ......................................................................................................................."
+  ],
+  [
+   "p",
+   "5. Dự kiến thời gian hoàn thành công trình theo thiết kế điều chỉnh/gia hạn: ....... tháng."
+  ],
+  [
+   "p",
+   "6. Cam kết: Tôi xin cam đoan làm theo đúng giấy phép điều chỉnh được cấp, nếu sai tôi xin hoàn toàn chịu trách nhiệm và bị xử lý theo quy định của pháp luật."
+  ],
+  [
+   "p",
+   "Gửi kèm theo Đơn này các tài liệu:"
+  ],
+  [
+   "p",
+   "1 -"
+  ],
+  [
+   "p",
+   "2 -"
+  ],
+  [
+   "p",
+   {
+    "t": "....., ngày ..... tháng ...... năm ......",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LÀM ĐƠN/ĐẠI DIỆN CHỦ ĐẦU TƯ",
+     "(Ký, ghi rõ họ và tên, đóng dấu (nếu có))"
+    ]
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "ma": "nd212-pl3-m04",
+ "ten": "Đơn đề nghị cấp giấy phép hoạt động xây dựng (đối với nhà thầu là tổ chức)",
+ "nhom": "Năng lực hoạt động xây dựng (NĐ 212/2026)",
+ "nguon": "Mẫu số 04 Phụ lục III ban hành kèm theo Nghị định 212/2026/NĐ-CP ngày 17/6/2026 của Chính phủ",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "212-2026-nd-cp",
+   "44",
+   "điểm a khoản 2 Điều 44 Nghị định 212/2026/NĐ-CP"
+  ],
+  [
+   "212-2026-nd-cp",
+   "43",
+   "Điều 43"
+  ],
+  [
+   "212-2026-nd-cp",
+   "46",
+   "Điều 46"
+  ]
+ ],
+ "dung_khi": "Nhà thầu nước ngoài là tổ chức nộp kèm hồ sơ đề nghị cấp giấy phép hoạt động xây dựng (điểm a khoản 2 Điều 44 Nghị định 212/2026/NĐ-CP); đơn lập bằng tiếng Việt.",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 04"
+  ],
+  [
+   "tieu_de",
+   [
+    "ĐƠN ĐỀ NGHỊ",
+    "Cấp giấy phép hoạt động xây dựng",
+    "(Đối với nhà thầu là tổ chức)"
+   ]
+  ],
+  [
+   "p",
+   "Văn bản số: …"
+  ],
+  [
+   "p",
+   {
+    "t": "…………, ngày ……. tháng …… năm …….",
+    "can": "right"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Kính gửi: (Tên cơ quan có thẩm quyền)",
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "Tôi: ………………………….(Họ tên) Chức vụ:…………………………………………………………………….."
+  ],
+  [
+   "p",
+   "Được ủy quyền của ông (bà): theo giấy ủy quyền: (kèm theo đơn này)"
+  ],
+  [
+   "p",
+   "Đại diện cho: …………………………………………………………………………………………………………….."
+  ],
+  [
+   "p",
+   "Địa chỉ đăng ký tại nước nơi nhà thầu thành lập: …………………………………………………………"
+  ],
+  [
+   "p",
+   "Số điện thoại:……………………………Fax (nếu có):……………………Email:…………………………….."
+  ],
+  [
+   "p",
+   "Địa chỉ văn phòng đại diện tại Việt Nam (nếu có):"
+  ],
+  [
+   "p",
+   "Số điện thoại:……………………………Fax (nếu có):……………………Email:…………………………….."
+  ],
+  [
+   "p",
+   "Công ty (hoặc Liên danh) chúng tôi đã được chủ đầu tư (hoặc nhà thầu chính, trường hợp là nhà thầu phụ làm đơn) là: …………..  thông báo trúng thầu (hoặc được lựa chọn) để làm nhà thầu chính (hoặc nhà thầu phụ) thực hiện công việc ……. thuộc Dự án………… tại trong thời gian từ … đến ……"
+  ],
+  [
+   "p",
+   "Chúng tôi đề nghị (Tên cơ quan có thẩm quyền) cấp Giấy phép hoạt động xây dựng cho Công ty chúng tôi để thực hiện công việc nêu trên."
+  ],
+  [
+   "p",
+   "Hồ sơ gửi kèm theo gồm:"
+  ],
+  [
+   "p",
+   {
+    "t": "(Các tài liệu được quy định tại Điều 44 Nghị định này)",
+    "i": true
+   }
+  ],
+  [
+   "p",
+   "Nếu hồ sơ của chúng tôi cần phải bổ sung hoặc làm rõ thêm nội dung gì, xin báo cho ông (bà)…………… có địa chỉ tại Việt Nam…………….số điện thoại…………..Fax……………Email………….."
+  ],
+  [
+   "p",
+   "Khi được cấp Giấy phép hoạt động xây dựng, chúng tôi xin cam đoan thực hiện đầy đủ các quy định trong Giấy phép và các quy định của pháp luật Việt Nam có liên quan."
+  ],
+  [
+   "ky",
+   [
+    [
+     "Nơi nhận:\n– Như trên;\n– Lưu: ….",
+     ""
+    ],
+    [
+     "THAY MẶT (HOẶC THỪA ỦY QUYỀN)…",
+     "(Ký, ghi rõ họ tên, chức vụ và đóng dấu Công ty)"
+    ]
+   ]
+  ]
+ ]
+}

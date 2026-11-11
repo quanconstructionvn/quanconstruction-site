@@ -1,0 +1,185 @@
+{
+ "ma": "nd207-pl4a",
+ "ten": "Báo cáo định kỳ về công tác giám sát thi công xây dựng công trình/hạng mục công trình",
+ "nhom": "Thi công – nghiệm thu (NĐ 207/2026)",
+ "nguon": "Phụ lục IVa Nghị định 207/2026/NĐ-CP",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "207-2026-nd-cp",
+   "20",
+   "điểm a khoản 3 Điều 20 Nghị định 207/2026/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Tổ chức, cá nhân giám sát thi công xây dựng lập báo cáo định kỳ hoặc theo giai đoạn thi công gửi chủ đầu tư; chủ đầu tư quy định trong hợp đồng hoặc quyết định giao nhiệm vụ về kỳ và thời điểm lập báo cáo (điểm a khoản 3 Điều 20 Nghị định 207/2026/NĐ-CP).",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục IVa"
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "....(1)....",
+     "____",
+     "Số: ..../......."
+    ],
+    "ngay": ".........., ngày ....... tháng ........ năm .........."
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BÁO CÁO ĐỊNH KỲ VỀ CÔNG TÁC GIÁM SÁT THI CÔNG XÂY DỰNG CÔNG TRÌNH/HẠNG MỤC CÔNG TRÌNH"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "Kính gửi: .........(2)...........",
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "......(1).... báo cáo về tình hình giám sát thi công xây dựng công trình/hạng mục công trình ....(3).... từ ngày ..... đến ngày ..... như sau:",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "1. Đánh giá sự phù hợp về quy mô, công năng của công trình so với giấy phép xây dựng (đối với công trình phải cấp phép xây dựng), thiết kế xây dựng, chỉ dẫn kỹ thuật, biện pháp thi công, biện pháp bảo đảm an toàn được phê duyệt và các quy chuẩn kỹ thuật, tiêu chuẩn áp dụng cho công trình.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "2. Đánh giá sự phù hợp về năng lực của các nhà thầu thi công xây dựng so với hồ sơ dự thầu và hợp đồng xây dựng:",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "a) Tên đơn vị thi công;",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "b) Đánh giá sự phù hợp về năng lực của chỉ huy trưởng công trình hoặc giám đốc dự án của nhà thầu, người phụ trách kỹ thuật thi công trực tiếp so với quy định hợp đồng xây dựng và quy định của pháp luật;",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "c) Thống kê và đánh giá sự phù hợp của các máy móc, thiết bị phục vụ thi công trong kỳ báo cáo so với hợp đồng xây dựng.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "3. Đánh giá về khối lượng, tiến độ công việc đã hoàn thành trong kỳ báo cáo, công tác tổ chức thi công và bảo đảm an toàn lao động trong thi công xây dựng công trình:",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "a) Khối lượng công việc đã hoàn thành trong kỳ báo cáo. Khối lượng công việc đã được nghiệm thu. So sánh với tiến độ thi công tổng thể và nguyên nhân gây chậm tiến độ (nếu có);",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "b) Đánh giá công tác tổ chức thi công so với biện pháp thi công được phê duyệt. Các thay đổi về biện pháp thi công (nếu có);",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "c) Đánh giá việc thực hiện các nội dung của biện pháp bảo đảm an toàn trong thi công xây dựng công trình được chấp thuận. Các thay đổi về biện pháp bảo đảm an toàn trong thi công xây dựng công trình (nếu có).",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "4. Thống kê các công tác thí nghiệm được thực hiện trong kỳ báo cáo. Số lượng các kết quả thí nghiệm đối với từng loại thí nghiệm. Đánh giá việc kiểm soát chất lượng công tác thí nghiệm, kiểm tra vật liệu, sản phẩm xây dựng, cấu kiện, thiết bị lắp đặt vào công trình theo kế hoạch tổ chức thí nghiệm đã được chấp thuận.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "5. Đánh giá sự phù hợp của kết quả thí nghiệm kiểm tra vật liệu, cấu kiện, sản phẩm xây dựng trong quá trình thi công xây dựng, các số liệu quan trắc, kiểm định so với yêu cầu thiết kế.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "6. Thống kê các công việc xây dựng được nghiệm thu trong kỳ báo cáo, công tác nghiệm thu giai đoạn (nếu có).",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "7. Thống kê các thay đổi thiết kế trên công trường trong kỳ báo cáo.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "8. Thống kê những tồn tại, khiếm khuyết về chất lượng, sự cố công trình (4) trong kỳ báo cáo (nếu có); các tồn tại, khiếm khuyết về chất lượng đã được khắc phục trong kỳ báo cáo. Đánh giá về nguyên nhân, biện pháp, kết quả khắc phục theo quy định.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "9. Đề xuất, kiến nghị về tiến độ, nhân sự, thiết kế và các vấn đề kỹ thuật khác.",
+    "thut": 1
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "GIÁM SÁT TRƯỞNG",
+     "(Ký, ghi rõ họ tên)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "______________________",
+    "Ghi chú:",
+    "(1) Tên của tổ chức thực hiện giám sát thi công xây dựng.",
+    "(2) Tên của chủ đầu tư.",
+    "(3) Tên hạng mục công trình/công trình xây dựng.",
+    "(4) Trường hợp trong kỳ báo cáo có sự cố công trình thì gửi kèm báo cáo là hồ sơ giải quyết sự cố công trình theo quy định."
+   ]
+  ]
+ ]
+}

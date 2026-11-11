@@ -1,0 +1,216 @@
+{
+ "ma": "nd207-pl2b",
+ "ten": "Bản vẽ hoàn công – mẫu dấu bản vẽ hoàn công",
+ "nhom": "Thi công – nghiệm thu (NĐ 207/2026)",
+ "nguon": "Phụ lục IIb Nghị định 207/2026/NĐ-CP",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "207-2026-nd-cp",
+   "15",
+   "khoản 13 Điều 15 Nghị định 207/2026/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Nhà thầu thi công xây dựng lập bản vẽ hoàn công và đóng dấu bản vẽ hoàn công (khoản 13 Điều 15 Nghị định 207/2026/NĐ-CP); Mẫu số 1 khi không áp dụng hình thức hợp đồng thầu chính – thầu phụ, EPC, chìa khóa trao tay; Mẫu số 2 khi áp dụng các hình thức đó.",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục IIb"
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BẢN VẼ HOÀN CÔNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "1. Lập bản vẽ hoàn công:",
+    "b": true,
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "a) Trường hợp các kích thước, thông số thực tế của hạng mục công trình, công trình xây dựng không vượt quá sai số cho phép so với kích thước, thông số thiết kế thì bản vẽ thi công được chụp (photocopy) lại và được các bên liên quan đóng dấu, ký xác nhận lên bản vẽ để làm bản vẽ hoàn công. Nếu các kích thước, thông số thực tế thi công có thay đổi so với kích thước, thông số của thiết kế bản vẽ thi công được phê duyệt thì cho phép nhà thầu thi công xây dựng ghi lại các trị số kích thước, thông số thực tế trong ngoặc đơn bên cạnh hoặc bên dưới các trị số kích thước, thông số cũ trong tờ bản vẽ này;",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "b) Trong trường hợp cần thiết, nhà thầu thi công xây dựng có thể vẽ lại bản vẽ hoàn công mới, có khung tên bản vẽ hoàn công tương tự như mẫu dấu bản vẽ hoàn công quy định tại Phụ lục này;",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "c) Đối với các bộ phận công trình bị che khuất phải được lập bản vẽ hoàn công hoặc được đo đạc xác định kích thước, thông số thực tế trước khi tiến hành công việc tiếp theo;",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "d) Trường hợp nhà thầu giám sát thi công xây dựng, thi công xây dựng liên danh thì từng thành viên trong liên danh có trách nhiệm lập, ký xác nhận bản vẽ hoàn công phần việc do mình thực hiện, không được ủy quyền cho thành viên khác trong liên danh thực hiện.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "2. Mẫu dấu bản vẽ hoàn công:",
+    "b": true,
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Mẫu số 1:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "TÊN NHÀ THẦU THI CÔNG XÂY DỰNG",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "BẢN VẼ HOÀN CÔNG",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Ngày ..... tháng ..... năm .....",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Người lập\n(Ghi rõ họ tên, chức vụ, chữ ký)",
+     "Chỉ huy trưởng công trình hoặc giám đốc dự án\n(Ghi rõ họ tên, chữ ký)",
+     "Tư vấn giám sát trưởng\n(Ghi rõ họ tên, chức vụ, chữ ký)"
+    ],
+    "rong": [
+     1,
+     1,
+     1
+    ],
+    "dong": [
+     [
+      "",
+      "",
+      ""
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Ghi chú: không áp dụng cho hình thức hợp đồng thầu chính, thầu phụ, hợp đồng EPC, hợp đồng chìa khóa trao tay.",
+    "i": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Kích thước dấu tùy thuộc kích cỡ chữ.",
+    "i": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Mẫu số 2:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "TÊN NHÀ THẦU THI CÔNG XÂY DỰNG",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "BẢN VẼ HOÀN CÔNG",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Ngày ..... tháng ..... năm .....",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Người lập\n(Ghi rõ họ tên, chức vụ, chữ ký)",
+     "Chỉ huy trưởng hoặc giám đốc dự án của nhà thầu phụ\n(Ghi rõ họ tên, chữ ký)",
+     "Chỉ huy trưởng hoặc giám đốc dự án của nhà thầu chính\n(Ghi rõ họ tên, chữ ký)",
+     "Tư vấn giám sát trưởng\n(Ghi rõ họ tên, chức vụ, chữ ký )"
+    ],
+    "rong": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "dong": [
+     [
+      "",
+      "",
+      "",
+      ""
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Ghi chú: áp dụng hình thức hợp đồng thầu chính, thầu phụ, hợp đồng EPC, hợp đồng chìa khóa trao tay.",
+    "i": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Kích thước dấu tùy thuộc kích cỡ chữ.",
+    "i": true
+   }
+  ]
+ ]
+}

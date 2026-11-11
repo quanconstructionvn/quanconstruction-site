@@ -1,0 +1,105 @@
+{
+ "ma": "tt36-pl7-m02",
+ "ten": "Công bố giá nhân công xây dựng năm trên địa bàn tỉnh/thành phố",
+ "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+ "nguon": "Mẫu số 02 Phụ lục VII Thông tư 36/2026/TT-BXD",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "36-2026-tt-bxd",
+   "16",
+   "Phụ lục VII Thông tư 36/2026/TT-BXD"
+  ]
+ ],
+ "dung_khi": "Sở Xây dựng công bố giá nhân công xây dựng hằng năm trên địa bàn theo mẫu tại Phụ lục VII; doanh nghiệp dùng để tra cứu, đối chiếu đơn giá nhân công được công bố. Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026.",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục VII"
+  ],
+  [
+   "tieu_de",
+   [
+    "MẪU CÔNG BỐ GIÁ VẬT LIỆU XÂY DỰNG, GIÁ NHÂN CÔNG XÂY DỰNG, GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Thông tư số 36/2026/TT-BXD ngày 26 tháng 6 năm 2026\ncủa Bộ trưởng Bộ Xây dựng)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Mẫu số 02",
+    "can": "center",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "CÔNG BỐ GIÁ NHÂN CÔNG XÂY DỰNG NĂM… TRÊN ĐỊA BÀN\nTỈNH/THÀNH PHỐ",
+    "can": "center",
+    "b": true
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Stt",
+     "Nhóm nhân công *",
+     "Tên nhân công* (Loại công tác)",
+     "Đơn vị tính *",
+     "Giá nhân công xây dựng (đồng) * – Khu vực... – Vùng...",
+     "Giá nhân công xây dựng (đồng) * – Khu vực... – Vùng...",
+     "Giá nhân công xây dựng (đồng) * – Khu vực... – Vùng..."
+    ],
+    "rong": [
+     0.7,
+     2,
+     3.4,
+     1.2,
+     1.6,
+     1.6,
+     1.6
+    ],
+    "dong": [
+     [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[4]",
+      "[5]",
+      "[6]",
+      "[7]"
+     ],
+     [
+      "…",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ]
+    ]
+   }
+  ],
+  [
+   "ghi_chu",
+   [
+    "Ghi chú:",
+    "- Tải tệp dữ liệu điện tử mẫu (định dạng Microsoft Excel) từ địa chỉ: https://dmdgxd.cemia.gov.vn, mục “Hồ sơ tài liệu” để thuận tiện nhập dữ liệu công bố giá nhân công xây dựng và chuyển đổi vào Hệ thống thông tin, dữ liệu về định mức xây dựng, giá xây dựng và chỉ số giá xây dựng;",
+    "- Những mục có dấu (*) là bắt buộc;",
+    "- [5] [6] [7] Khu vực, vùng:",
+    "+ “Khu vực...” là tên một hoặc một nhóm đơn vị hành chính theo vùng;",
+    "+ Việc phân chia vùng/ khu vực để công bố giá nhân công theo khu vực khảo sát, thu thập số liệu để xác định và công bố giá nhân công xây dựng do địa phương lựa chọn, phù hợp với quy định phân vùng của Chính phủ."
+   ]
+  ]
+ ]
+}

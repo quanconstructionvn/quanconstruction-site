@@ -1,0 +1,187 @@
+{
+ "ma": "tt36-b38",
+ "ten": "Tổng hợp dự toán chi phí xây dựng (xác định theo khối lượng và giá xây dựng)",
+ "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+ "nguon": "Bảng 3.8 Phụ lục III Thông tư 36/2026/TT-BXD (đã đối chiếu QĐ 1538/QĐ-BXD đính chính)",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "36-2026-tt-bxd",
+   "6",
+   "Điều 6 Thông tư 36/2026/TT-BXD"
+  ],
+  [
+   "36-2026-tt-bxd",
+   "16",
+   "Phụ lục III Thông tư 36/2026/TT-BXD"
+  ]
+ ],
+ "dung_khi": "Tổng hợp dự toán chi phí xây dựng khi chi phí xây dựng được xác định theo khối lượng và giá xây dựng như hướng dẫn tại điểm 2.1, điểm 2.2 Phụ lục III. Áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP; Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026.",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục III"
+  ],
+  [
+   "tieu_de",
+   [
+    "PHƯƠNG PHÁP XÁC ĐỊNH CHI PHÍ XÂY DỰNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Thông tư số 36/2026/TT-BXD ngày 26 tháng 6 năm 2026\ncủa Bộ trưởng Bộ Xây dựng)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Bảng 3.8: TỔNG HỢP DỰ TOÁN CHI PHÍ XÂY DỰNG",
+    "can": "center",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "Dự án:..................................................................................................................."
+  ],
+  [
+   "p",
+   "Công trình:............................................................................................................"
+  ],
+  [
+   "p",
+   "Đơn vị tính:..."
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "STT",
+     "NỘI DUNG CHI PHÍ",
+     "CÁCH TÍNH GIÁ TRỊ",
+     "KÝ HIỆU"
+    ],
+    "rong": [
+     0.9,
+     5,
+     4,
+     1.4
+    ],
+    "dong": [
+     [
+      "I",
+      "Chi phí trực tiếp",
+      "VL + NC + M",
+      "T"
+     ],
+     [
+      "1",
+      "Chi phí vật liệu",
+      "Σ(j=1→n) Qj x Dj^vl",
+      "VL"
+     ],
+     [
+      "2",
+      "Chi phí nhân công",
+      "Σ(j=1→m) Qj x Dj^nc x Knc",
+      "NC"
+     ],
+     [
+      "3",
+      "Chi phí máy và thiết bị thi công",
+      "Σ(j=1→l) Qj x Dj^m x Km",
+      "M"
+     ],
+     [
+      "II",
+      "Chi phí gián tiếp",
+      "C + TT",
+      "GT"
+     ],
+     [
+      "1",
+      "Chi phí chung",
+      "T x Tỷ lệ\n(NC x Tỷ lệ)",
+      "C"
+     ],
+     [
+      "2",
+      "Chi phí một số công việc không xác định được khối lượng từ thiết kế",
+      "T x Tỷ lệ",
+      "TT"
+     ],
+     [
+      "III",
+      "Thu nhập chịu thuế tính trước",
+      "(T + GT) x Tỷ lệ",
+      "TL"
+     ],
+     [
+      "",
+      "Chi phí xây dựng trước thuế",
+      "(T + GT + TL)",
+      "GXDTT"
+     ],
+     [
+      "IV",
+      "Thuế giá trị gia tăng",
+      "GXDTT x TGTGT",
+      "GTGT"
+     ],
+     [
+      "",
+      "CHI PHÍ XÂY DỰNG SAU THUẾ",
+      "GXDTT + GTGT",
+      ""
+     ],
+     [
+      "V",
+      "Chi phí nhà tạm để ở và điều hành thi công",
+      "GXDTT x Tỷ lệ x (1+TGTGT)",
+      "LT"
+     ]
+    ]
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LẬP",
+     "(Ký, họ tên)"
+    ],
+    [
+     "NGƯỜI CHỦ TRÌ",
+     "(Ký, họ tên)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "Trong đó:",
+    "a) Chi phí trực tiếp:",
+    "- Qj: Khối lượng của công tác xây dựng, nhóm công tác xây dựng, bộ phận, đơn vị kết cấu thứ j của công trình;",
+    "- Dj^vl, Dj^nc, Dj^m: chi phí vật liệu, nhân công, máy và thiết bị thi công trong giá công tác xây dựng, giá nhóm công tác xây dựng, giá bộ phận, đơn vị kết cấu công trình đối với công tác xây dựng thứ j. Trường hợp sử dụng giá công tác xây dựng, giá nhóm công tác xây dựng, giá bộ phận, đơn vị kết cấu công trình được xác định trên cơ sở báo giá của đơn vị thi công, nhà sản xuất, nhà cung cấp, giá được công bố của cơ quan nhà nước có thẩm quyền, theo giá tương tự ở các công trình đã thực hiện hoặc đang thực hiện mà không phân tách các thành phần chi phí vật liệu, nhân công, máy và thiết bị thi công thì được tính gộp vào chi phí vật liệu trong chi phí trực tiếp;",
+    "- Knc: hệ số nhân công làm đêm, ngày nghỉ theo quy định, lễ, Tết (nếu có) và được xác định như sau:",
+    "Knc = 1 + tỷ lệ khối lượng công việc phải làm đêm, ngày nghỉ theo quy định, lễ, Tết (nếu có) x tỷ lệ % (đơn giá nhân công của công việc làm việc vào ban đêm, ngày nghỉ theo quy định, lễ, Tết).",
+    "- Km: hệ số máy thi công làm đêm, ngày nghỉ theo quy định, lễ, Tết (nếu có) và được xác định như sau:",
+    "Km = 1 + g x (Knc - 1)",
+    "Trong đó: g là tỷ lệ tiền lương bình quân trong giá ca máy.",
+    "Khối lượng công việc phải làm đêm, ngày nghỉ theo quy định, lễ, Tết được xác định theo yêu cầu tiến độ thi công xây dựng của công trình và được chủ đầu tư thống nhất.",
+    "b) Chi phí gián tiếp xác định theo hướng dẫn tại khoản 3 phụ lục này",
+    "- C: chi phí chung;",
+    "- TT: chi phí một số công việc không xác định được khối lượng từ thiết kế;",
+    "c) TL: thu nhập chịu thuế tính trước xác định theo hướng dẫn tại khoản 4 phụ lục này;",
+    "d) GXDTT: chi phí xây dựng công trình, hạng mục công trình, bộ phận, phần việc, công tác trước thuế;",
+    "đ) TGTGT: mức thuế suất thuế GTGT quy định cho công tác xây dựng;",
+    "e) GXD: chi phí xây dựng sau thuế",
+    "g) LT: chi phí nhà tạm để ở và điều hành thi công xác định theo hướng dẫn tại khoản 5 phụ lục này."
+   ]
+  ]
+ ]
+}

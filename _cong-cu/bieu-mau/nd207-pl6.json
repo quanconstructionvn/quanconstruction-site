@@ -1,0 +1,180 @@
+{
+ "ma": "nd207-pl6",
+ "ten": "Báo cáo hoàn thành thi công xây dựng hạng mục công trình, công trình xây dựng",
+ "nhom": "Thi công – nghiệm thu (NĐ 207/2026)",
+ "nguon": "Phụ lục VI Nghị định 207/2026/NĐ-CP",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "207-2026-nd-cp",
+   "27",
+   "điểm a khoản 4 Điều 27 Nghị định 207/2026/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Chủ đầu tư gửi 01 báo cáo hoàn thành thi công xây dựng hạng mục công trình, công trình xây dựng tới cơ quan chuyên môn về xây dựng để được kiểm tra công tác nghiệm thu hoàn thành công trình (điểm a khoản 4 Điều 27 Nghị định 207/2026/NĐ-CP).",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục VI"
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     ".........(1).........",
+     "_____",
+     "Số: .................."
+    ],
+    "ngay": "..........., ngày....... tháng....... năm ........."
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BÁO CÁO HOÀN THÀNH THI CÔNG XÂY DỰNG HẠNG MỤC CÔNG TRÌNH, CÔNG TRÌNH XÂY DỰNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "Kính gửi: .........(2)..............",
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": ".......(1)........ báo cáo kết quả nghiệm thu hoàn thành thi công xây dựng hạng mục công trình, công trình xây dựng với các nội dung sau:",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "1. Tên hạng mục công trình, công trình xây dựng:..(3)... thuộc dự án.........",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "2. Mã định danh dự án... (4).. Mã định danh công trình xây dựng..(5)..",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "3. Địa điểm xây dựng: ...................................................................................................",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "4. Tên và số điện thoại liên lạc của cá nhân phụ trách trực tiếp: ...................................",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "5. Quy mô hạng mục công trình, công trình xây dựng: (nêu tóm tắt về các thông số kỹ thuật chủ yếu của công trình).",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "6. Danh sách các nhà thầu chính: khảo sát xây dựng, thiết kế xây dựng công trình, thi công xây dựng, giám sát thi công xây dựng.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "7. Ngày khởi công và ngày hoàn thành (dự kiến).",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "8. Khối lượng của các loại công việc xây dựng chủ yếu đã được thực hiện.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "9. Đánh giá về chất lượng hạng mục công trình, công trình xây dựng so với yêu cầu của thiết kế.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "10. Báo cáo về các điều kiện để đưa hạng mục công trình, công trình xây dựng vào sử dụng.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "11. Kèm theo báo cáo là danh mục hồ sơ hoàn thành hạng mục công trình, công trình xây dựng.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Chủ đầu tư cam kết đã tổ chức thi công xây dựng theo đúng hồ sơ thiết kế đã được thẩm định, phê duyệt, giấy phép xây dựng (hoặc căn cứ miễn phép theo quy định của pháp luật về xây dựng); tập hợp hồ sơ hoàn thành công trình đầy đủ và tổ chức nghiệm thu hạng mục công trình, công trình xây dựng theo đúng quy định của pháp luật. Đề nghị ....(2)... tổ chức kiểm tra công tác nghiệm thu hạng mục công trình, công trình xây dựng theo thẩm quyền.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Nơi nhận:",
+    "b": true,
+    "i": true
+   }
+  ],
+  [
+   "p",
+   "- Như trên;"
+  ],
+  [
+   "p",
+   "- Lưu: ...."
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT CỦA CHỦ ĐẦU TƯ",
+     "(Ký, ghi rõ họ tên, chức vụ và đóng dấu pháp nhân)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "___________________",
+    "Ghi chú:",
+    "(1) Tên của chủ đầu tư.",
+    "(2) Cơ quan chuyên môn về xây dựng kiểm tra công tác nghiệm thu của chủ đầu tư theo thẩm quyền quy định tại khoản 4 Điều 57 Luật Xây dựng số 135/2025/QH15.",
+    "(3) Tên hạng mục công trình, công trình xây dựng hoặc phần công trình trong trường hợp đề nghị kiểm tra công tác nghiệm thu từng phần công trình.",
+    "(4),(5) Mã định danh dự án/Mã định danh công trình xây dựng theo quy định của Chính phủ về điều kiện năng lực hoạt động xây dựng, Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng."
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "ma": "nd212-pl3-m06",
+ "ten": "Giấy ủy quyền (đề nghị cấp giấy phép hoạt động xây dựng cho nhà thầu nước ngoài)",
+ "nhom": "Năng lực hoạt động xây dựng (NĐ 212/2026)",
+ "nguon": "Mẫu số 06 Phụ lục III ban hành kèm theo Nghị định 212/2026/NĐ-CP ngày 17/6/2026 của Chính phủ",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "212-2026-nd-cp",
+   "44",
+   "điểm e khoản 2 Điều 44 Nghị định 212/2026/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Nhà thầu nước ngoài ủy quyền cho người không phải là người đại diện theo pháp luật ký giấy tờ, nộp hồ sơ, nhận kết quả thủ tục cấp giấy phép hoạt động xây dựng (điểm e khoản 2 Điều 44 Nghị định 212/2026/NĐ-CP).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 06"
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "TỔ CHỨC …",
+     "——-",
+     "Số: …/…"
+    ],
+    "ngay": "……, ngày… tháng… năm …"
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "GIẤY ỦY QUYỀN"
+   ]
+  ],
+  [
+   "p",
+   "Căn cứ Quyết định trúng thầu (hoặc được chọn thầu) số … ngày … tháng … năm …. giữa Chủ đầu tư (hoặc nhà thầu chính) với Công ty………:"
+  ],
+  [
+   "p",
+   "Tôi tên là: ……………………………………………………………………………………………."
+  ],
+  [
+   "p",
+   "Chức vụ: …………………………………………………………………………………………….."
+  ],
+  [
+   "p",
+   "Ủy quyền cho ông/bà …………………………………………………………………………….."
+  ],
+  [
+   "p",
+   "Chức vụ: ……………………………………………………………………………………………"
+  ],
+  [
+   "p",
+   "Số hộ chiếu:…………………………………….. Quốc tịch nước: …………………………………………."
+  ],
+  [
+   "p",
+   "Ông/Bà …… được ký các giấy tờ, nộp hồ sơ, bổ sung, giải trình và nhận kết quả giải quyết thủ tục đề nghị cấp giấy phép hoạt động xây dựng công việc ………………………………………………."
+  ],
+  [
+   "ky",
+   [
+    [
+     "Nơi nhận:\n– Chủ đầu tư;\n– Tên cơ quan có thẩm quyền;\n– Lưu: VT, đơn vị…",
+     ""
+    ],
+    [
+     "THAY MẶT (HOẶC THỪA ỦY QUYỀN)…",
+     "(Ký, ghi rõ họ tên, chức vụ và đóng dấu Công ty)"
+    ]
+   ]
+  ]
+ ]
+}

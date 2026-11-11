@@ -1059,9 +1059,9 @@ def _bieu_mau():
         ("h2", "Mẫu đang chờ bổ sung"),
         ("p", "Các mẫu sau có trong văn bản pháp luật nhưng thư viện của chúng tôi chưa có toàn văn phụ lục, sẽ được bổ sung khi nạp đủ văn bản gốc từ Cổng Pháp luật quốc gia:"),
         ("ul", [
-            "Các phụ lục của Nghị định 207/2026/NĐ-CP: nhật ký thi công, mẫu dấu bản vẽ hoàn công, báo cáo giám sát, thông báo khởi công, báo cáo hoàn thành thi công, thông báo kết quả kiểm tra công tác nghiệm thu, kéo dài thời hạn sử dụng công trình.",
-            "Nghị định 254/2025/NĐ-CP: Mẫu 04.d/TT, ủy nhiệm chi 05.b–05.e/TT (các mẫu phân bổ vốn của bộ, UBND, dự án ở nước ngoài và mẫu nội bộ của Kho bạc không đưa vào); Mẫu số 10–12/QTDA Thông tư 73/2026/TT-BTC.",
-            "Mẫu 01, 02/QĐ-QLDA, 01, 02/QT-QLDA, 01.QĐ, 02.QĐ/QT-QLDA Thông tư 79/2026/TT-BTC; Bảng 3.8, 3.9, 4.2, Phụ lục VI, Mẫu 01–02 Phụ lục VII và Mẫu 01–07 Phụ lục VIII Thông tư 36/2026/TT-BXD; mẫu đơn, chứng chỉ hành nghề, giấy phép hoạt động theo Phụ lục III Nghị định 212/2026/NĐ-CP.",
+            "Nghị định 212/2026/NĐ-CP Phụ lục III: Mẫu 03 (mẫu chứng chỉ hành nghề), 05, 08, 09, 10, 12, 13.",
+            "Nghị định 254/2025/NĐ-CP: Mẫu 04.d/TT (bản phụ lục hiện có bị thiếu chữ ở tiêu đề cột), ủy nhiệm chi 05.b–05.e/TT. Các mẫu phân bổ vốn của bộ, UBND, dự án ở nước ngoài và mẫu nội bộ của Kho bạc không đưa vào.",
+            "Phụ lục VI Thông tư 36/2026/TT-BXD (bản công bố là ảnh quét).",
             "Mẫu hợp đồng xây dựng theo Quyết định 1040/QĐ-BXD chưa đưa vào vì soạn theo Nghị định 37/2015/NĐ-CP (chỉ còn dùng cho hợp đồng ký trước 01/07/2026).",
             "Đã lược bỏ (11/11/2026): chứng từ chi ngân sách qua Kho bạc theo Nghị định 347/2025/NĐ-CP (không dùng cho thanh toán vốn đầu tư xây dựng) và Mẫu 09/QTDA (chỉ dùng cho dự án quan trọng quốc gia).",
         ]),

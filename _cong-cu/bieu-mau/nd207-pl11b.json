@@ -1,0 +1,211 @@
+{
+ "ma": "nd207-pl11b",
+ "ten": "Thông báo ý kiến về việc kéo dài thời hạn sử dụng của công trình",
+ "nhom": "Thi công – nghiệm thu (NĐ 207/2026)",
+ "nguon": "Phụ lục XIb Nghị định 207/2026/NĐ-CP",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "207-2026-nd-cp",
+   "43",
+   "điểm c khoản 4, khoản 9 Điều 43 Nghị định 207/2026/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Cơ quan nhà nước có thẩm quyền (khoản 9 Điều 43 Nghị định 207/2026/NĐ-CP) có văn bản cho ý kiến về việc kéo dài thời hạn sử dụng công trình sau khi nhận báo cáo của chủ sở hữu hoặc chủ quản lý, sử dụng công trình.",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục XIb"
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     ".............(1).....",
+     "_______",
+     "Số: ..............."
+    ],
+    "ngay": "............, ngày ......... tháng ...... năm......."
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "THÔNG BÁO Ý KIẾN VỀ VIỆC KÉO DÀI THỜI HẠN SỬ DỤNG CỦA CÔNG TRÌNH"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "Kính gửi: ..............(2)......................",
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ khoản 9 Điều 43 Nghị định số ..../2026/NĐ-CP ngày ..../.../2026 của Chính phủ quy định chi tiết một số điều của Luật Xây dựng về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng;",
+    "i": true,
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ báo cáo số ... ngày ... của ...(2)... về việc ... (Mã hồ sơ TTHC số...);",
+    "i": true,
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Căn cứ khác (nếu có);",
+    "i": true,
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "....(1) .... thông báo ý kiến về việc kéo dài thời hạn sử dụng đối với công trình như sau:",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "1. Thông tin về công trình",
+    "b": true,
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "- Tên và địa chỉ công trình;",
+    "b": false,
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "- Mã định danh công trình xây dựng..(4)..",
+    "b": false,
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "- Tên chủ sở hữu hoặc chủ quản lý, sử dụng công trình;",
+    "b": false,
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "- Loại và cấp công trình;",
+    "b": false,
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "- Quy mô công trình;",
+    "b": false,
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "- Năm xây dựng và năm đưa vào sử dụng;",
+    "b": false,
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "- Thời hạn sử dụng theo thiết kế.",
+    "b": false,
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "2. Ý kiến về việc kéo dài thời hạn sử dụng công trình",
+    "b": true,
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "...................",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Nơi nhận:",
+    "b": true,
+    "i": true
+   }
+  ],
+  [
+   "p",
+   "- Như trên;"
+  ],
+  [
+   "p",
+   "- .........(để b/c);"
+  ],
+  [
+   "p",
+   "- Bộ phận một cửa;"
+  ],
+  [
+   "p",
+   "- (3);"
+  ],
+  [
+   "p",
+   "- Lưu:..."
+  ],
+  [
+   "ky",
+   [
+    [
+     "LÃNH ĐẠO ĐƠN VỊ/NGƯỜI ĐƯỢC ỦY QUYỀN",
+     "(Ký, ghi rõ họ tên, chức vụ và đóng dấu pháp nhân)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "_______________________",
+    "Ghi chú:",
+    "(1) Cơ quan nhà nước có thẩm quyền theo quy định tại khoản 9 Điều 43 Nghị định này.",
+    "(2) Tên của chủ sở hữu hoặc chủ quản lý, sử dụng công trình.",
+    "(3) Các cơ quan có liên quan (nếu cần).",
+    "(4) Mã định danh công trình xây dựng theo quy định của Chính phủ về điều kiện năng lực hoạt động xây dựng, Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng."
+   ]
+  ]
+ ]
+}

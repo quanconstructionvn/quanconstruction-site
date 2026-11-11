@@ -1,0 +1,188 @@
+{
+ "ma": "nd207-pl4b",
+ "ten": "Báo cáo hoàn thành công tác giám sát thi công xây dựng gói thầu/giai đoạn/hạng mục công trình/công trình xây dựng",
+ "nhom": "Thi công – nghiệm thu (NĐ 207/2026)",
+ "nguon": "Phụ lục IVb Nghị định 207/2026/NĐ-CP",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "207-2026-nd-cp",
+   "20",
+   "khoản 3 Điều 20 Nghị định 207/2026/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Tổ chức giám sát thi công xây dựng lập báo cáo hoàn thành công tác giám sát thi công xây dựng gói thầu, giai đoạn, hạng mục công trình, công trình xây dựng gửi chủ đầu tư (khoản 3 Điều 20 Nghị định 207/2026/NĐ-CP).",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục IVb"
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "....(1)....",
+     "____",
+     "Số: ...../...."
+    ],
+    "ngay": "........, ngày ....... tháng ...... năm ......."
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BÁO CÁO HOÀN THÀNH CÔNG TÁC GIÁM SÁT THI CÔNG XÂY DỰNG",
+    "GÓI THẦU/GIAI ĐOẠN/HẠNG MỤC CÔNG TRÌNH/ CÔNG TRÌNH XÂY DỰNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "Kính gửi: ..........(2).........",
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "......(1)....... báo cáo về công tác giám sát thi công xây dựng .....(3).... như sau:",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "1. Quy mô công trình:",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "a) Mô tả quy mô và công năng của công trình: các thông số kỹ thuật chính, công năng chủ yếu của các phần hoặc hạng mục công trình;",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "b) Đánh giá sự phù hợp về quy mô, công năng của công trình so với giấy phép xây dựng (đối với công trình phải cấp phép xây dựng), thiết kế xây dựng, chỉ dẫn kỹ thuật, biện pháp thi công, biện pháp bảo đảm an toàn trong thi công xây dựng công trình được chấp thuận và các quy chuẩn kỹ thuật, tiêu chuẩn áp dụng cho công trình.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "2. Đánh giá sự phù hợp về năng lực của nhà thầu thi công xây dựng so với hồ sơ dự thầu và hợp đồng xây dựng.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "3. Đánh giá về khối lượng, tiến độ công việc đã hoàn thành, công tác tổ chức thi công và bảo đảm an toàn lao động trong thi công xây dựng công trình.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "4. Đánh giá công tác thí nghiệm, kiểm tra vật liệu, sản phẩm xây dựng, cấu kiện, thiết bị lắp đặt vào công trình theo kế hoạch tổ chức thí nghiệm đã được chấp thuận.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "5. Đánh giá về công tác tổ chức và kết quả kiểm định, quan trắc, thí nghiệm đối chứng (nếu có).",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "6. Đánh giá về công tác tổ chức nghiệm thu công việc xây dựng, nghiệm thu giai đoạn (nếu có).",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "7. Các thay đổi thiết kế và việc thẩm định, phê duyệt thiết kế điều chỉnh trong quá trình thi công xây dựng (nếu có).",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "8. Những tồn tại, khiếm khuyết về chất lượng, sự cố công trình trong quá trình thi công xây dựng công trình (nếu có) và đánh giá nguyên nhân, biện pháp và kết quả khắc phục theo quy định.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "9. Đánh giá về sự phù hợp của hồ sơ quản lý chất lượng theo chỉ dẫn kỹ thuật, hồ sơ thiết kế được thẩm định, phê duyệt và các quy định của pháp luật.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "10. Đánh giá công tác thi công xây dựng công trình theo thiết kế đã được thẩm định, phê duyệt về phòng cháy và chữa cháy, bao gồm các nội dung về khoảng cách phòng cháy, chữa cháy; đường bộ, bãi đỗ, khoảng trống phục vụ hoạt động phòng cháy, chữa cháy, cứu nạn, cứu hộ; giải pháp thoát nạn; bậc chịu lửa, giải pháp ngăn cháy, chống cháy lan; giải pháp chống khói và các quy định khác của pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ.",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "11. Đánh giá về sự tuân thủ các quy định của pháp luật về bảo vệ môi trường và các quy định của pháp luật khác có liên quan (nếu có).",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "12. Đánh giá về sự phù hợp của quy trình vận hành, quy trình bảo trì công trình xây dựng theo quy định (nếu có).",
+    "thut": 1
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "13. Đánh giá về các điều kiện nghiệm thu hoàn thành gói thầu, giai đoạn, hạng mục công trình, công trình xây dựng.",
+    "thut": 1
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "GIÁM SÁT TRƯỞNG",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     "NGƯỜI ĐẠI DIỆN THEO QUY ĐỊNH PHÁP LUẬT CỦA .....(1).....",
+     "(Ký, ghi rõ họ tên, chức vụ và đóng dấu)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "Ghi chú:",
+    "(1) Tên của tổ chức thực hiện giám sát thi công xây dựng.",
+    "(2) Tên chủ đầu tư.",
+    "(3) Tên gói thầu/giai đoạn/hạng mục công trình/công trình xây dựng."
+   ]
+  ]
+ ]
+}

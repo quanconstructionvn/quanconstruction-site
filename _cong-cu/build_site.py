@@ -101,8 +101,11 @@ def article(root, item, link, changed):
     return re.sub(r'\{\{(TITLE|DESC|URL|JSONLD|BODY)\}\}', lambda m: values[m[1]], page)
 
 
-def static_news(page, items, limit=0):
+def static_news(page, items, limit=0, en=False):
     cards = []
+    if en:  # Trang tiếng Anh: chỉ tin có bản dịch (title_en), dùng link_en
+        items = [dict(x, title=x['title_en'], summary=x.get('summary_en', ''), link=x.get('link_en', ''))
+                 for x in items if str(x.get('title_en') or '').strip()]
     for item in list(reversed(items))[:limit or None]:
         title = esc(item['title'])
         link = item.get('link', '')
@@ -196,10 +199,10 @@ def build(root, output):
         item['link'] = link
         changed_paths[link.lstrip('/')] = max(datetime.strptime(item['date'], '%d/%m/%Y').date().isoformat(), changed or '')
     (output / 'content/tin-tuc.json').write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-    for path, limit in [('tin-tuc.html', 0), ('index.html', 3)]:
+    for path, limit in [('tin-tuc.html', 0), ('index.html', 3), ('en/tin-tuc.html', 0), ('en/index.html', 3)]:
         file = output / path
         if file.exists():
-            file.write_text(static_news(file.read_text(encoding='utf-8'), items, limit), encoding='utf-8')
+            file.write_text(static_news(file.read_text(encoding='utf-8'), items, limit, path.startswith('en/')), encoding='utf-8')
             changed_paths[path] = max(filter(None, [changed, modified(root, path)]), default=None)
     sitemap(root, output, changed_paths)
     (output / '.nojekyll').touch()

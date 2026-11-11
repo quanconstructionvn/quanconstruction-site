@@ -1,0 +1,86 @@
+{
+ "title": "Site Coverage Area and Building Height Under QCVN 01:2026",
+ "desc": "QCVN 01:2026 from 2027: site coverage excludes canopies and awnings; how height is measured; a maximum land-use coefficient of 7; spacing between buildings.",
+ "summary": "Explains how site coverage area, building height, the land-use coefficient and spacing between buildings are calculated under QCVN 01:2026/BXD, applicable from 1 January 2027.",
+ "body": [
+  [
+   "p",
+   "QCVN 01:2026/BXD, issued with <a href=\"/phap-ly/46-2026-tt-bxd.html#d2\">Circular 46/2026/TT-BXD</a>, takes effect on <b>1 January 2027</b>. Many indicators such as building density, setbacks and spacing between houses depend on how site coverage area and building height are calculated. This article explains these concepts under <a href=\"/phap-ly/46-2026-tt-bxd.html#d1.4\">Section 1.4 of the Regulation</a>."
+  ],
+  [
+   "h2",
+   "1. Site coverage area: what is excluded?"
+  ],
+  [
+   "p",
+   "Site coverage area is the area of the horizontal projection of the whole building on the site (Section 1.4.19). The following are <b>not counted</b> in site coverage area:"
+  ],
+  [
+   "ul",
+   [
+    "Open ancillary works: gates, fences, decorative landscape features, outdoor swimming pools, outdoor parking lots, outdoor sports courts, guard houses, access ways, covered basement ventilation elements, technical infrastructure works, and non-permanent works.",
+    "Gutters, canopies, eaves, awnings, entrance steps, sills, escape stairs and bridge corridors – if they meet fire safety and construction safety requirements, do not obstruct circulation, and are not combined with another use."
+   ]
+  ],
+  [
+   "p",
+   "Net building density = site coverage area ÷ land plot area (Section 1.4.20)."
+  ],
+  [
+   "h2",
+   "2. Land-use coefficient: how many square meters of floor may be built?"
+  ],
+  [
+   "p",
+   "The land-use coefficient is the ratio (in times) of total floor area, including basements, to the site area; <b>excluding</b> all floor area for technical systems, fire prevention and fighting, refuge areas and <b>parking</b> (Section 1.4.22). For a detached house plot, this coefficient does not exceed <b>7 times</b> (Note 1 to Table 8, <a href=\"/phap-ly/46-2026-tt-bxd.html#d2.5\">Section 2.5.3.1</a>)."
+  ],
+  [
+   "p",
+   "Example: a 100 m² plot has a maximum building density of 90% under Table 8, so site coverage area may not exceed 90 m²; a maximum land-use coefficient of 7 corresponds to total floor area counted for the coefficient of no more than 700 m². This is the limit of the Regulation; the specific indicators for each plot (usually lower) are set by detailed planning and urban design."
+  ],
+  [
+   "h2",
+   "3. Where is building height measured from?"
+  ],
+  [
+   "p",
+   "Building height is measured vertically from the <b>lowest ground level under the approved planning</b> within the site coverage area to the <b>highest point of the building, including a penthouse or pitched roof</b> (Section 1.4.26). Not counted: antenna masts, lightning rods, solar energy equipment, water tanks, chimneys, vent pipes and decorative architectural details."
+  ],
+  [
+   "p",
+   "Height determines the minimum setback by road width (Table 7) – a house under 19 m high has a minimum setback of 0 at every road width. For details see <a href=\"/tin-tuc/mat-do-xay-dung-khoang-lui-nha-o-qcvn-01-2026.html\">Building density and setbacks for houses under QCVN 01:2026</a>."
+  ],
+  [
+   "h2",
+   "4. Spacing between buildings"
+  ],
+  [
+   "p",
+   "The minimum spacing between buildings is set by detailed planning and urban design, and must also meet the following (<a href=\"/phap-ly/46-2026-tt-bxd.html#d2.5\">Section 2.5.1</a>), for buildings under 46 m high:"
+  ],
+  [
+   "ul",
+   [
+    "Between the long sides of buildings: not less than 1/2 the building height and not less than 7 m;",
+    "Between a gable end and another gable end or long side of another building: not less than 1/3 of the height and not less than 4 m;",
+    "Rows of adjoining houses on the same plot that are planned to be separated: the distance between the rear sides is not less than 4 m."
+   ]
+  ],
+  [
+   "p",
+   "In existing areas that cannot meet this, the spacing is determined by detailed planning or urban design but must ensure fire prevention and fighting, firefighting vehicle access roads at least 4 m wide, and natural ventilation and lighting for every building (<a href=\"/phap-ly/46-2026-tt-bxd.html#d2.6\">Section 2.6.5</a>)."
+  ],
+  [
+   "h2",
+   "5. How does this apply to your house?"
+  ],
+  [
+   "p",
+   "The Regulation is a tool for state agencies to check the indicators in planning (<a href=\"/phap-ly/46-2026-tt-bxd.html#dP5\">Section 5.1</a>). Planning approved before 1 January 2027 continues to be implemented until the end of its term, and when adjusted it must follow the new regulation (<a href=\"/phap-ly/46-2026-tt-bxd.html#d5.4\">Section 5.4.1</a>). The indicators applicable to a land plot are shown in the planning information and the construction permit – see <a href=\"/tin-tuc/xin-thong-tin-quy-hoach-truoc-khi-mua-dat-xay-nha-2026.html\">how to obtain planning information</a>."
+  ],
+  [
+   "note",
+   "This article is only a summary for reference and does not replace legal documents. QCVN 01:2026/BXD (Circular 46/2026/TT-BXD) is effective from 1 January 2027, replacing QCVN 01:2021/BXD. The specific indicators for each land plot follow detailed planning, urban design and the local architectural management regulations."
+  ]
+ ]
+}

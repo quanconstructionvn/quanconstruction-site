@@ -1,0 +1,76 @@
+{
+ "title": "Design, Estimate and Fire Safety Appraisal Fees from 2027",
+ "desc": "From 1 January 2027, design, estimate, project and fire safety appraisal fees return to 100%. Formulas, VND 500,000 minimum, VND 150 million cap, examples.",
+ "summary": "Circular 64/2025/TT-BTC ceases to apply after 31 December 2026, so construction appraisal fees and fire safety design fees return to the full rate; this article explains how to calculate them, with examples.",
+ "body": [
+  [
+   "p",
+   "In 2025-2026, many construction appraisal fees were charged at only 50% under Circular 64/2025/TT-BTC. That circular applies until the end of 31 December 2026 (<a href=\"/phap-ly/64-2025-tt-btc.html#d4\">Article 4</a>). From 1 January 2027, the rates follow the original circulars (<a href=\"/phap-ly/64-2025-tt-btc.html#d1\">Clause 2, Article 1</a>). Below is how to calculate the fees most often met in projects and works."
+  ],
+  [
+   "h2",
+   "1. Which fees return to the full rate?"
+  ],
+  [
+   "ul",
+   [
+    "Fee for appraising technical design (the detailed design after the basic design) and fee for appraising construction cost estimates - Circular 27/2023/TT-BTC.",
+    "Fee for appraising construction investment projects (feasibility study report or economic-technical report) - Circular 28/2023/TT-BTC.",
+    "Fee for appraising and approving fire prevention and fighting designs - Circular 70/2025/TT-BTC.",
+    "Fee for issuing a construction activity practice certificate - Circular 38/2022/TT-BTC (not in our library, so the article does not state the rate)."
+   ]
+  ],
+  [
+   "h2",
+   "2. Fee for appraising technical design and construction cost estimates"
+  ],
+  [
+   "p",
+   "Under <a href=\"/phap-ly/27-2023-tt-btc.html#d4\">Article 4 of Circular 27/2023/TT-BTC</a>: <b>fee = construction cost (excluding VAT) in the estimate × rate</b>. The rate follows the schedule attached to the Circular; for example, for a civil work with construction cost up to VND 15 billion: <b>0.165%</b> (design) and <b>0.16%</b> (estimate). Where the cost falls between the milestones, interpolate using the formula in Clause 3, Article 4."
+  ],
+  [
+   "ul",
+   [
+    "Each fee is at least <b>VND 500,000</b> and at most <b>VND 150,000,000</b> for each appraising body (Point b, Clause 2, Article 4).",
+    "Adjusted designs or estimates that reuse content already appraised: 50% of the rate; not reusing it: 100% (Clause 4, Article 4).",
+    "The investor pays the fee <b>when receiving the appraisal result</b> (<a href=\"/phap-ly/27-2023-tt-btc.html#d2\">Article 2</a>)."
+   ]
+  ],
+  [
+   "p",
+   "Example: a civil work with a construction cost of VND 12 billion: design appraisal fee = VND 12 billion × 0.165% = VND 19.8 million; estimate appraisal fee = VND 12 billion × 0.16% = VND 19.2 million."
+  ],
+  [
+   "h2",
+   "3. Fee for appraising construction investment projects"
+  ],
+  [
+   "p",
+   "Under <a href=\"/phap-ly/28-2023-tt-btc.html#d4\">Article 4 of Circular 28/2023/TT-BTC</a>: <b>fee = total investment × rate</b>; for a project with a total investment up to VND 15 billion: <b>0.019%</b>. The minimum fee is VND 500,000 and the maximum is VND 150,000,000. The rate is 50% of the fee schedule when the appraising body requires the investor to hire a sufficiently capable organisation to verify the project as a basis for appraisal (Clause 3, Article 4). Example for a VND 12 billion project: VND 12 billion × 0.019% = VND 2.28 million."
+  ],
+  [
+   "h2",
+   "4. Fee for appraising fire prevention and fighting design"
+  ],
+  [
+   "p",
+   "Under <a href=\"/phap-ly/70-2025-tt-btc.html#d4\">Article 4 of Circular 70/2025/TT-BTC</a>: <b>fee = total investment (excluding compensation, support, resettlement and land use costs; calculated before tax) × fee rate</b>. For other civil and industrial projects and works with a total investment up to VND 15 billion: rate <b>0.00484%</b>. The minimum fee is <b>VND 500,000 per project</b> and the maximum is <b>VND 150,000,000 per project</b> (Clause 3, Article 4)."
+  ],
+  [
+   "p",
+   "Example: a civil work with a total investment of VND 10 billion: VND 10 billion × 0.00484% = VND 484,000, which is below the minimum, so <b>VND 500,000</b> is payable. For renovation or change of use, the fee is calculated on the total investment of the renovated part (Clause 2, Article 4). The fee payer is the organisation or individual issued the fire prevention and fighting design appraisal document (<a href=\"/phap-ly/70-2025-tt-btc.html#d2\">Article 2</a>)."
+  ],
+  [
+   "h2",
+   "5. Does a family home pay these fees?"
+  ],
+  [
+   "p",
+   "The fees above arise only when a work is appraised by a state agency. Single-family houses, including houses used for both living and business, are not on the list requiring fire prevention and fighting design appraisal; see <a href=\"/tin-tuc/tham-dinh-thiet-ke-pccc-cong-trinh-nao-phai-lam-2026.html\">Fire safety design appraisal: which works must do it</a>. If you build a guesthouse, karaoke venue or nursery, or run a project, include these fees in the estimate; see <a href=\"/tin-tuc/du-toan-xay-dung-gom-nhung-chi-phi-gi-2026.html\">What costs a construction estimate includes</a>."
+  ],
+  [
+   "note",
+   "This article is a summary for reference only and does not replace the legal texts. Circulars 27/2023/TT-BTC and 28/2023/TT-BTC still refer to Decree 15/2021/ND-CP, which has been replaced; the fee schedules in the library are a converted version from the National Legal Portal and some cells may have formatting errors. The specific amount is notified by the appraising body."
+  ]
+ ]
+}

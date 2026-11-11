@@ -69,3 +69,8 @@ Dữ liệu đã được chép vào repo tại `_cong-cu/so-tay-du-lieu/` (khi 
 - Cách lấy văn bản khi Bash bị chặn mạng: WebFetch đọc PDF có lớp chữ (trích từng đoạn ngắn); công cụ Google Drive đọc được bản .doc/PDF công khai; PDF quét thì tải qua Drive rồi đọc ảnh trang.
 - Còn thiếu: NĐ 212 Mẫu 03, 05, 08, 09, 10, 12, 13; NĐ 254 Mẫu 04.d (nguồn bị cắt chữ), 05.b–e; TT 36 PL VI (ảnh quét). QĐ 1040 không làm (theo NĐ 37/2015, chỉ cho hợp đồng ký trước 01/07/2026).
 - 11/11/2026: anh Phú DUYỆT. Đã gộp `nhap/chuyen-sau` vào `main` (commit 0d26027, 592435e), GitHub Actions "SEO build and Pages deployment" thành công; https://quanconstruction.biz.vn/so-tay-xay-dung.html đã lên mạng với 104 biểu mẫu. Việc mới sau này làm trên nhánh nháp, chờ anh duyệt rồi mới push main.
+
+## 9. Bản tiếng Anh bài viết (11/11/2026, anh Phú yêu cầu)
+- Mỗi bài trong `_cong-cu/bai-viet.py` có bản dịch `_cong-cu/bai-viet-en/<slug>.json` ({title, desc, summary, body} – cùng số khối, cùng liên kết với bản Việt). Đã dịch đủ 117 bài.
+- `tao-bai-viet.py` tạo `/en/tin-tuc/<slug>.html` cho bài đã tới ngày đăng và có bản dịch; thêm hreflang vi/en, nút đổi ngôn ngữ trỏ đúng bài; thêm title_en/summary_en/link_en vào `content/tin-tuc.json`. `build_site.py` dựng sẵn danh sách tin cho `en/tin-tuc.html`, `en/index.html`.
+- BÀI MỚI SAU NÀY: viết bản Việt xong phải dịch luôn sang tiếng Anh (cùng slug). Kiểm tra bằng script so khối/liên kết (mẫu ở `_cong-cu/kiem-dich.py`).

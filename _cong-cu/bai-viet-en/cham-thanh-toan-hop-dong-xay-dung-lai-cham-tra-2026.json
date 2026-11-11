@@ -1,0 +1,86 @@
+{
+ "title": "Late Payment Under Construction Contracts: How Is Interest Calculated?",
+ "desc": "What interest a homeowner owes a contractor for late payment in 2026: calculation under Decree 210, the Civil Code and the Commercial Law.",
+ "summary": "When the employer pays late, whether late-payment interest follows the agreement or bank rates, the Civil Code's 20% per year cap, and the consequences of a delay beyond 56 days.",
+ "body": [
+  [
+   "p",
+   "In a house construction contract, the homeowner's main obligation is to <b>pay in full and on time</b>. Late payment not only incurs interest but can also let the contractor suspend work or terminate the contract. This article summarizes the rules under <a href=\"/phap-ly/210-2026-nd-cp.html#d28\">Article 28 of Decree 210/2026/ND-CP</a> and civil law."
+  ],
+  [
+   "h2",
+   "1. The obligation to pay on time"
+  ],
+  [
+   "p",
+   "A construction contract must specify payment and interim payment. The parties agree the method, timing, documents, and conditions of payment; the employer pays in full and on time for each installment after deducting advance payments and amounts retained as agreed; the currency of payment is Vietnamese dong (<a href=\"/phap-ly/135-2025-qh15.html#d87\">Clauses 1 and 2, Article 87 of the Construction Law 2025</a>)."
+  ],
+  [
+   "h2",
+   "2. Late-payment interest under Decree 210/2026/ND-CP"
+  ],
+  [
+   "p",
+   "Under <a href=\"/phap-ly/210-2026-nd-cp.html#d28\">Clause 5, Article 28</a>, an employer that pays late must <b>pay interest on the overdue amount</b>, for the period of delay:"
+  ],
+  [
+   "ul",
+   [
+    "The late-payment interest rate is <b>agreed by the parties</b> in the contract.",
+    "If there is no agreement, it is calculated at the <b>overdue interest rate announced by the commercial bank where the contractor holds its payment account</b>, for the corresponding periods of delay."
+   ]
+  ],
+  [
+   "p",
+   "The right to claim late-payment interest is also recorded as a right of the contractor and an obligation of the investor (<a href=\"/phap-ly/210-2026-nd-cp.html#d15\">Point đ, Clause 2, Article 15</a>; <a href=\"/phap-ly/210-2026-nd-cp.html#d16\">Point đ, Clause 1, Article 16</a>)."
+  ],
+  [
+   "h2",
+   "3. Limits under the Civil Code and the Commercial Law"
+  ],
+  [
+   "ul",
+   [
+    "Under <a href=\"/phap-ly/91-2015-qh13.html#d357\">Article 357 of the Civil Code</a>, agreed interest for late payment of money <b>may not exceed</b> the rate in <a href=\"/phap-ly/91-2015-qh13.html#d468\">Clause 1, Article 468</a>, that is <b>20% per year</b> (unless another law provides otherwise); the excess has no effect.",
+    "If the parties agreed to pay interest but did not state the rate and a dispute arises, the rate is <b>50% of the cap</b>, that is 10% per year (<a href=\"/phap-ly/91-2015-qh13.html#d468\">Clause 2, Article 468</a>).",
+    "For contracts governed by the Commercial Law: interest is calculated at the <b>average overdue-debt interest rate on the market</b> at the time of payment, unless otherwise agreed (<a href=\"/phap-ly/36-2005-qh11.html#d306\">Article 306 of the Commercial Law</a>)."
+   ]
+  ],
+  [
+   "h2",
+   "4. Example of calculating interest"
+  ],
+  [
+   "p",
+   "A payment installment of VND 200 million falls due on 1 December and the homeowner pays on 31 December (30 days late). The contract agrees late-payment interest of 12% per year: interest = 200,000,000 × 12% × 30/365 ≈ <b>VND 1.97 million</b>. If the contract states 30% per year, the portion above 20% per year has no effect under the Civil Code."
+  ],
+  [
+   "h2",
+   "5. Long delays: the contractor may suspend or terminate"
+  ],
+  [
+   "ul",
+   [
+    "An employer that fails to pay <b>more than 56 days</b> after the payment due date commits a serious breach; the contractor has the right to cancel or unilaterally terminate the contract, unless otherwise agreed (<a href=\"/phap-ly/210-2026-nd-cp.html#d27\">Point d, Clause 2, Article 27</a>).",
+    "For public investment and PPP projects: the contractor may suspend if payment is more than 28 days late; the payment period is at most 14 working days from receipt of a complete valid dossier (<a href=\"/phap-ly/210-2026-nd-cp.html#d26\">Point a, Clause 2, Article 26</a>; <a href=\"/phap-ly/210-2026-nd-cp.html#d28\">Point l, Clause 4, Article 28</a>).",
+    "The contractor may also require the employer to prove its financial capacity or to provide payment security measures, except for contracts of public investment projects (<a href=\"/phap-ly/135-2025-qh15.html#d83\">Clause 3, Article 83 of the Construction Law</a>)."
+   ]
+  ],
+  [
+   "h2",
+   "6. Suggestions for homeowners and contractors"
+  ],
+  [
+   "ol",
+   [
+    "State clearly the payment dossier for each installment (acceptance minutes, quantity schedule) and the payment period after receiving a complete dossier.",
+    "State a specific late-payment interest rate (not above 20% per year if the Civil Code applies).",
+    "If you cannot pay yet, send written notice and renegotiate the payment schedule to avoid being treated as in serious breach."
+   ]
+  ],
+  [
+   "note",
+   "This article is a summary for reference only and does not replace legal documents. The interest example is illustrative only; in practice interest is calculated strictly under the agreement and the number of days late. The Commercial Law 2005 is partially no longer in force, so current documents should be checked when applying it."
+  ]
+ ]
+}

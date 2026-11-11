@@ -1,9 +1,10 @@
 # Người tạo: Quang Mai Phú
-name: Weekly SEO and indexing audit
+# Người chỉnh sửa: Quang Mai Phú – đổi lịch kiểm tra sang hằng ngày
+name: Daily SEO and indexing audit
 on:
-  # 01:00 UTC = 08:00 thứ Hai, giờ Việt Nam. GitHub có thể xếp hàng trễ.
+  # 01:00 UTC = 08:00 mỗi ngày, giờ Việt Nam. GitHub có thể xếp hàng trễ.
   schedule:
-    - cron: '0 1 * * 1'
+    - cron: '0 1 * * *'
   workflow_dispatch:
   push:
     branches: [main]

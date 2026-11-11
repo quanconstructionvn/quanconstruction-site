@@ -21,7 +21,7 @@
 | 16 | Điều kiện nhà ở được mua bán, tặng cho | 27-2023-qh15 Đ160 | đã đăng (03/11/2026) |
 | 17 | Công chứng hợp đồng mua bán nhà đất | 27-2023-qh15 Đ164; 46-2024-qh15 Đ44 | đã đăng (04/11/2026) |
 | 18 | Mua nhà hình thành trong tương lai cần biết gì | 29-2023-qh15 Đ24, 26 | đã đăng (10/11/2026) |
-| 19 | Thuế thu nhập cá nhân khi bán nhà đất | 109-2025-qh15 Đ14 (kiểm tra hiệu lực) | chờ |
+| 19 | Thuế thu nhập cá nhân khi bán nhà đất | 109-2025-qh15 Đ14 (kiểm tra hiệu lực) | đã đăng (11/11/2026) |
 | 20 | Những trường hợp không được cấp sổ đỏ | 31-2024-qh15 Đ151 | chờ |
 | 21 | Tiền sử dụng đất khi cấp sổ đỏ | 103-2024-nd-cp Đ9, 10, 11 | chờ |
 | 22 | Cách xin thông tin quy hoạch trước khi mua đất, xây nhà | 47-2024-qh15 Đ55 | chờ |

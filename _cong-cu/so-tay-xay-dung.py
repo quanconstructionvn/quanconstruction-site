@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Người tạo: Quang Mai Phú – Quan Construction
-# Dữ liệu nhánh "Chuyên sâu" (dân xây dựng & văn phòng: QA/QC, QS, CCM, Giám sát).
-# Tạo trang: python3 _cong-cu/tao-chuyen-sau.py  (xem định dạng khối trong file đó)
+# Dữ liệu nhánh "Sổ tay xây dựng" (dân xây dựng & văn phòng: QA/QC, QS, CCM, Giám sát).
+# Tạo trang: python3 _cong-cu/tao-so-tay-xay-dung.py  (xem định dạng khối trong file đó)
 # Liên kết điều luật: L(id, dieu, chữ) -> /phap-ly/<id>.html#d<dieu>
 
 
@@ -9,10 +9,10 @@ def L(i, d, t):
     return f'<a href="/phap-ly/{i}.html#d{d}">{t}</a>'
 
 
-TIEU_DE = "Chuyên sâu xây dựng: QA/QC, QS, CCM, giám sát, dự toán"
+TIEU_DE = "Sổ tay xây dựng: QA/QC, QS, CCM, giám sát, dự toán"
 MO_TA = "Sổ tay quản lý dự án, hồ sơ thủ tục, QA/QC, giám sát, dự toán định mức, thanh quyết toán, biểu mẫu, hỏi đáp và công cụ tính nhanh theo luật 2026."
 LEAD = "Cẩm nang cho kỹ sư, chỉ huy trưởng, giám sát, QA/QC, QS và nhân sự văn phòng dự án – bám sát Luật Xây dựng 2025 và các nghị định 2026."
-GIOI_THIEU = ("Nhánh Chuyên sâu tập hợp kiến thức thực hành cho người làm nghề: trình tự một dự án đầu tư xây dựng, hồ sơ – thủ tục cần chuẩn bị, "
+GIOI_THIEU = ("Sổ tay xây dựng tập hợp kiến thức thực hành cho người làm nghề: trình tự một dự án đầu tư xây dựng, hồ sơ – thủ tục cần chuẩn bị, "
               "quản lý chất lượng và giám sát, lập dự toán – định mức, thanh toán – quyết toán hợp đồng, kèm biểu mẫu, hỏi đáp tình huống và công cụ tính nhanh. "
               "Mỗi nội dung đều dẫn tới đúng điều luật trong thư viện pháp luật miễn phí của Quan Construction.")
 
@@ -76,7 +76,7 @@ TRANG = [
                 ["Nhóm B", "Không quá 20 ngày làm việc", "Không quá 16 ngày làm việc"],
                 ["Nhóm C", "Không quá 15 ngày làm việc", "Không quá 12 ngày làm việc"],
             ]}),
-            ("p", "Tính từ ngày nhận đủ hồ sơ hợp lệ; cơ quan thẩm định chỉ được gia hạn 01 lần, thời gian gia hạn không quá thời gian thẩm định tương ứng (" + L("217-2026-nd-cp", "37", "Điều 37 Nghị định 217/2026/NĐ-CP") + "). Hồ sơ trình thẩm định gồm Tờ trình theo Mẫu số 01 Phụ lục I, hồ sơ Báo cáo và văn bản pháp lý kèm theo (" + L("217-2026-nd-cp", "35", "Điều 35") + ") – xem chi tiết tại trang " + '<a href="/chuyen-sau/ho-so-thu-tuc-du-an.html">Hồ sơ – thủ tục pháp lý</a>' + "."),
+            ("p", "Tính từ ngày nhận đủ hồ sơ hợp lệ; cơ quan thẩm định chỉ được gia hạn 01 lần, thời gian gia hạn không quá thời gian thẩm định tương ứng (" + L("217-2026-nd-cp", "37", "Điều 37 Nghị định 217/2026/NĐ-CP") + "). Hồ sơ trình thẩm định gồm Tờ trình theo Mẫu số 01 Phụ lục I, hồ sơ Báo cáo và văn bản pháp lý kèm theo (" + L("217-2026-nd-cp", "35", "Điều 35") + ") – xem chi tiết tại trang " + '<a href="/so-tay-xay-dung/ho-so-thu-tuc-du-an.html">Hồ sơ – thủ tục pháp lý</a>' + "."),
             ("h2", "3. Giai đoạn thực hiện dự án"),
             ("p", "Các công việc theo " + L("217-2026-nd-cp", "4", "điểm b khoản 1 Điều 4 Nghị định 217/2026/NĐ-CP") + ":"),
             ("table", {"cot": ["Bước", "Việc chính / hồ sơ", "Ai làm – ai duyệt", "Căn cứ"], "dong": [
@@ -130,7 +130,7 @@ TRANG = [
                 ["Nhà thầu thi công (CCM, QS, QA/QC)", "–", "Thi công, tự kiểm tra chất lượng, hồ sơ thanh toán", "Quyết toán A–B, bảo hành, hoàn công"],
                 ["Cơ quan nhà nước", "Thẩm định (nếu thuộc diện)", "Cấp phép; thẩm định PCCC; kiểm tra công tác nghiệm thu", "Thẩm tra, phê duyệt quyết toán vốn (vốn nhà nước)"],
             ]}),
-            ("p", "Xem chi tiết theo vai trò: " + '<a href="/chuyen-sau/qa-qc-quan-ly-chat-luong.html">QA/QC</a>' + ", " + '<a href="/chuyen-sau/giam-sat-thi-cong.html">Giám sát thi công</a>' + ", " + '<a href="/chuyen-sau/qs-du-toan-thanh-quyet-toan.html">QS – thanh quyết toán</a>' + ", " + '<a href="/chuyen-sau/ccm-quan-ly-thi-cong.html">CCM – quản lý thi công</a>' + "."),
+            ("p", "Xem chi tiết theo vai trò: " + '<a href="/so-tay-xay-dung/qa-qc-quan-ly-chat-luong.html">QA/QC</a>' + ", " + '<a href="/so-tay-xay-dung/giam-sat-thi-cong.html">Giám sát thi công</a>' + ", " + '<a href="/so-tay-xay-dung/qs-du-toan-thanh-quyet-toan.html">QS – thanh quyết toán</a>' + ", " + '<a href="/so-tay-xay-dung/ccm-quan-ly-thi-cong.html">CCM – quản lý thi công</a>' + "."),
             ("h2", "7. Lỗi trình tự hay gặp"),
             ("ul", [
                 "Khởi công khi bản vẽ thi công chưa được phê duyệt hoặc chưa gửi thông báo khởi công.",
@@ -152,7 +152,7 @@ TRANG = [
         "lead": "Checklist cho văn phòng dự án: chuẩn bị hồ sơ gì, nộp ở đâu, chờ bao lâu, và lưu những gì khi công trình hoàn thành.",
         "ngay": "2026-11-11",
         "body": [
-            ("p", "Trang này gom các thủ tục pháp lý chính của một dự án, công trình xây dựng theo Luật Xây dựng 2025 và các nghị định 2026. Trình tự tổng thể xem tại " + '<a href="/chuyen-sau/so-tay-trinh-tu-du-an.html">Sổ tay trình tự dự án</a>' + "."),
+            ("p", "Trang này gom các thủ tục pháp lý chính của một dự án, công trình xây dựng theo Luật Xây dựng 2025 và các nghị định 2026. Trình tự tổng thể xem tại " + '<a href="/so-tay-xay-dung/so-tay-trinh-tu-du-an.html">Sổ tay trình tự dự án</a>' + "."),
             ("h2", "1. Bảng tổng hợp thủ tục – cơ quan – thời hạn"),
             ("table", {"cot": ["Thủ tục", "Cơ quan giải quyết", "Thời hạn", "Căn cứ"], "dong": [
                 ["Cung cấp thông tin quy hoạch đô thị và nông thôn", "Cơ quan chuyên môn về quy hoạch thuộc UBND cấp tỉnh; cơ quan có chức năng quản lý quy hoạch thuộc UBND cấp xã; cơ quan quản lý khu chức năng", "Theo quy định của Bộ trưởng Bộ Xây dựng", L("47-2024-qh15", "55", "Đ55 Luật QHĐTNT") + " (sửa đổi bởi " + L("144-2025-qh15", "1", "khoản 35 Điều 1 Luật 144/2025") + ")"],
@@ -218,7 +218,7 @@ TRANG = [
                 "Trước khi bàn giao, nhà thầu thi công giao bản vẽ hoàn công, quy trình vận hành, quy trình bảo trì, danh mục thiết bị, phụ tùng dự trữ (" + L("135-2025-qh15", "58", "khoản 3 Điều 58 Luật XD") + ").",
                 "Hồ sơ phục vụ quản lý, sử dụng do chủ quản lý, sử dụng lưu tối thiểu bằng thời hạn sử dụng công trình (" + L("135-2025-qh15", "42", "khoản 2 Điều 42") + ").",
             ]),
-            ("p", "Danh mục hồ sơ chất lượng chi tiết và biểu mẫu xem tại " + '<a href="/chuyen-sau/ho-so-chat-luong-nghiem-thu.html">Hồ sơ chất lượng – nghiệm thu</a>' + " và " + '<a href="/chuyen-sau/bieu-mau.html">Biểu mẫu</a>' + "."),
+            ("p", "Danh mục hồ sơ chất lượng chi tiết và biểu mẫu xem tại " + '<a href="/so-tay-xay-dung/ho-so-chat-luong-nghiem-thu.html">Hồ sơ chất lượng – nghiệm thu</a>' + " và " + '<a href="/so-tay-xay-dung/bieu-mau.html">Biểu mẫu</a>' + "."),
             ("note", "Nội dung tóm tắt để tham khảo, không thay thế văn bản pháp luật hay hướng dẫn của cơ quan giải quyết thủ tục. Các mẫu Phụ lục I, II, V, VI, VII của Nghị định 207/2026 và 217/2026 chưa có toàn văn trong thư viện. Luật Quy hoạch đô thị và nông thôn, Luật PCCC và Nghị định 105/2025/NĐ-CP đang hết hiệu lực một phần; văn bản sửa đổi Luật PCCC 118/2025/QH15 chưa có trong thư viện."),
         ],
     },
@@ -329,7 +329,7 @@ TRANG = [
                 "Tài liệu bàn giao: quy trình vận hành, quy trình bảo trì, danh mục thiết bị, phụ tùng dự trữ (" + L("207-2026-nd-cp", "30", "khoản 2 Điều 30") + ").",
                 "Lưu trữ hồ sơ phần việc do mình thực hiện (" + L("207-2026-nd-cp", "15", "khoản 17 Điều 15") + ").",
             ]),
-            ("p", "Xem thêm: <a href=\"/chuyen-sau/ho-so-chat-luong-nghiem-thu.html\">Hồ sơ chất lượng &amp; nghiệm thu</a>, <a href=\"/chuyen-sau/giam-sat-thi-cong.html\">Giám sát thi công</a>, <a href=\"/chuyen-sau/bieu-mau.html\">Biểu mẫu hồ sơ</a>."),
+            ("p", "Xem thêm: <a href=\"/so-tay-xay-dung/ho-so-chat-luong-nghiem-thu.html\">Hồ sơ chất lượng &amp; nghiệm thu</a>, <a href=\"/so-tay-xay-dung/giam-sat-thi-cong.html\">Giám sát thi công</a>, <a href=\"/so-tay-xay-dung/bieu-mau.html\">Biểu mẫu hồ sơ</a>."),
             ("note", "Nội dung tóm tắt để tham khảo, không thay thế văn bản pháp luật, hợp đồng và chỉ dẫn kỹ thuật của từng dự án. Mức phạt nêu trên là mức áp dụng cho tổ chức theo Nghị định 339/2026/NĐ-CP (hiệu lực từ 26/08/2026); cá nhân bằng một nửa. Phụ lục của Nghị định 207/2026/NĐ-CP và danh mục Phụ lục I–III của Thông tư 41/2026/TT-BXD cần tra theo văn bản gốc."),
         ],
     },
@@ -421,7 +421,7 @@ TRANG = [
                 "Cuối tuần/kỳ: báo cáo giám sát; rà soát hồ sơ chất lượng khớp ngày thực tế.",
                 "Khi có dấu hiệu sự cố hoặc nguy cơ tai nạn: yêu cầu tạm dừng, báo chủ đầu tư ngay.",
             ]),
-            ("p", "Xem thêm: <a href=\"/chuyen-sau/qa-qc-quan-ly-chat-luong.html\">QA/QC – Quản lý chất lượng</a>, <a href=\"/chuyen-sau/ho-so-chat-luong-nghiem-thu.html\">Hồ sơ chất lượng &amp; nghiệm thu</a>, <a href=\"/chuyen-sau/cong-cu-tinh-nhanh.html\">Công cụ tính nhanh</a>."),
+            ("p", "Xem thêm: <a href=\"/so-tay-xay-dung/qa-qc-quan-ly-chat-luong.html\">QA/QC – Quản lý chất lượng</a>, <a href=\"/so-tay-xay-dung/ho-so-chat-luong-nghiem-thu.html\">Hồ sơ chất lượng &amp; nghiệm thu</a>, <a href=\"/so-tay-xay-dung/cong-cu-tinh-nhanh.html\">Công cụ tính nhanh</a>."),
             ("note", "Nội dung tóm tắt để tham khảo, không thay thế văn bản pháp luật. Mức phạt là mức áp dụng cho tổ chức theo Nghị định 339/2026/NĐ-CP (hiệu lực từ 26/08/2026), cá nhân bằng một nửa. Từ 01/03/2027, khoản 1, 2 Điều 88 Luật Xây dựng 2025 được sửa đổi bởi Luật 24/2026/QH16; giám sát thi công vẫn phải có chứng chỉ hành nghề. Phụ lục II (phạm vi chứng chỉ) Nghị định 212/2026 và Phụ lục IV, IVa Nghị định 207/2026 cần tra theo văn bản gốc."),
         ],
     },
@@ -452,7 +452,7 @@ TRANG = [
                 'Tách riêng khối lượng chính thức và khối lượng ước tính (chưa đủ thiết kế) để không bị “đóng cứng” vào giá trọn gói.',
                 'Bộ Xây dựng có Quyết định 1041/QĐ-BXD hướng dẫn xác định khối lượng; văn bản này chưa có toàn văn trên Cổng Pháp luật quốc gia nên chưa có trong thư viện – nên đối chiếu bản gốc của Bộ Xây dựng.',
             ]),
-            ('p', 'Cách dùng khối lượng để tính dự toán, định mức và giá xem trang ' + '<a href="/chuyen-sau/lap-du-toan-xay-dung.html">Lập dự toán xây dựng</a>' + ' và ' + '<a href="/chuyen-sau/dinh-muc-don-gia-chi-so-gia.html">Định mức – đơn giá – chỉ số giá</a>' + '.'),
+            ('p', 'Cách dùng khối lượng để tính dự toán, định mức và giá xem trang ' + '<a href="/so-tay-xay-dung/lap-du-toan-xay-dung.html">Lập dự toán xây dựng</a>' + ' và ' + '<a href="/so-tay-xay-dung/dinh-muc-don-gia-chi-so-gia.html">Định mức – đơn giá – chỉ số giá</a>' + '.'),
             ('h2', 'Quản lý thay đổi, phát sinh khối lượng'),
             ('p', 'Nguyên tắc chung: các bên thỏa thuận cụ thể trong hợp đồng về các trường hợp được điều chỉnh khối lượng, công việc và trình tự, thủ tục điều chỉnh (' + L('210-2026-nd-cp', '23', 'khoản 1 Điều 23 NĐ 210/2026') + '). Với <b>khối lượng phát sinh hợp lý</b>, các bên phải thống nhất đơn giá (hoặc nguyên tắc, phương pháp xác định đơn giá) làm cơ sở sửa đổi hợp đồng <b>trước khi thực hiện</b> phần phát sinh (' + L('210-2026-nd-cp', '23', 'khoản 3 Điều 23') + ').'),
             ('p', 'Riêng hợp đồng thuộc dự án đầu tư công, dự án PPP (' + L('210-2026-nd-cp', '23', 'khoản 2 Điều 23') + ', ' + L('210-2026-nd-cp', '24', 'khoản 2 Điều 24') + '):'),
@@ -510,7 +510,7 @@ TRANG = [
                 'Lũy kế giá trị đã thanh toán không vượt giá hợp đồng (trừ phần điều chỉnh, phát sinh hợp lệ).',
                 'Lưu bản điện tử và bản ký; đánh số đợt thanh toán liên tục để quyết toán A-B nhanh.',
             ]),
-            ('p', 'Tính nhanh tạm ứng, lãi chậm thanh toán, khoản giữ lại: dùng ' + '<a href="/chuyen-sau/cong-cu-tinh-nhanh.html">Công cụ tính nhanh</a>' + '; mẫu đề nghị thanh toán: xem ' + '<a href="/chuyen-sau/bieu-mau.html">Biểu mẫu hồ sơ</a>' + '.'),
+            ('p', 'Tính nhanh tạm ứng, lãi chậm thanh toán, khoản giữ lại: dùng ' + '<a href="/so-tay-xay-dung/cong-cu-tinh-nhanh.html">Công cụ tính nhanh</a>' + '; mẫu đề nghị thanh toán: xem ' + '<a href="/so-tay-xay-dung/bieu-mau.html">Biểu mẫu hồ sơ</a>' + '.'),
             ('note', 'Nội dung tóm tắt để tham khảo, không thay thế văn bản pháp luật và hợp đồng cụ thể. Các thời hạn, tỷ lệ của NĐ 210/2026 và NĐ 193/2026 bắt buộc với dự án dùng vốn nhà nước, PPP; dự án vốn khác do các bên thỏa thuận. Phụ lục hệ số điều chỉnh giá (Pn) của NĐ 210/2026 và Quyết định 1041/QĐ-BXD chưa có toàn văn trong thư viện. Thông tư 36/2026/TT-BXD đã được đính chính bởi ' + L('1538-qd-bxd', '1', 'Quyết định 1538/QĐ-BXD') + ' – nên đọc bản hợp nhất 89/2026/VBHN-TT-BXD.'),
         ],
     },
@@ -654,7 +654,7 @@ TRANG = [
             ('h2', 'Trình tự lập dự toán công trình (gợi ý thực hành)'),
             ('ol', [
                 'Thu thập hồ sơ: thiết kế triển khai sau khi dự án được phê duyệt, chỉ dẫn kỹ thuật, biện pháp thi công định hướng, tiến độ dự kiến, tổng mức đầu tư được duyệt.',
-                'Đo bóc khối lượng theo đơn vị tính của giá xây dựng (có thể từ BIM) – xem trang ' + '<a href="/chuyen-sau/qs-du-toan-thanh-quyet-toan.html">QS – khối lượng, thanh quyết toán</a>' + '.',
+                'Đo bóc khối lượng theo đơn vị tính của giá xây dựng (có thể từ BIM) – xem trang ' + '<a href="/so-tay-xay-dung/qs-du-toan-thanh-quyet-toan.html">QS – khối lượng, thanh quyết toán</a>' + '.',
                 'Chọn định mức, giá: định mức do cơ quan nhà nước ban hành; giá vật liệu, nhân công, ca máy do Sở Xây dựng công bố; hoặc báo giá, dữ liệu công trình tương tự (' + L('206-2026-nd-cp', '12', 'khoản 1, 8 Điều 12') + ').',
                 'Tính chi phí trực tiếp → gián tiếp → thu nhập chịu thuế tính trước → thuế GTGT → nhà tạm; tổng hợp G<sub>XD</sub> theo Bảng 3.1.',
                 'Tính chi phí thiết bị, quản lý dự án, tư vấn, chi phí khác.',
@@ -754,7 +754,7 @@ TRANG = [
                 'Dự án tư nhân không bắt buộc dùng định mức nhà nước, nhưng định mức và giá công bố là “thước đo” khách quan để đối chiếu báo giá, thương thảo đơn giá và giải quyết tranh chấp.',
                 'Khi thỏa thuận điều chỉnh giá trong hợp đồng tư nhân, nên ghi rõ: nguồn chỉ số giá (Sở Xây dựng tỉnh nào, loại chỉ số nào), kỳ gốc, kỳ điều chỉnh và công thức.',
             ]),
-            ('p', 'Xem thêm: ' + '<a href="/chuyen-sau/lap-du-toan-xay-dung.html">Lập dự toán xây dựng</a>' + ', ' + '<a href="/chuyen-sau/qs-du-toan-thanh-quyet-toan.html">QS – khối lượng, thanh quyết toán</a>' + ', ' + '<a href="/chuyen-sau/hoi-dap-tinh-huong.html">Hỏi đáp tình huống</a>' + '.'),
+            ('p', 'Xem thêm: ' + '<a href="/so-tay-xay-dung/lap-du-toan-xay-dung.html">Lập dự toán xây dựng</a>' + ', ' + '<a href="/so-tay-xay-dung/qs-du-toan-thanh-quyet-toan.html">QS – khối lượng, thanh quyết toán</a>' + ', ' + '<a href="/so-tay-xay-dung/hoi-dap-tinh-huong.html">Hỏi đáp tình huống</a>' + '.'),
             ('note', 'Nội dung tóm tắt để tham khảo, không thay thế văn bản pháp luật. NĐ 206/2026/NĐ-CP bắt buộc với dự án đầu tư công, PPP, vốn ngân sách khác; dự án khác tham khảo. Thông tư 36/2026/TT-BXD đang “hết hiệu lực một phần” và đã được đính chính bởi QĐ 1538/QĐ-BXD (nên dùng bản hợp nhất 89/2026/VBHN-TT-BXD). Phụ lục định mức của TT 38/2026, phụ lục phương pháp của TT 37/2026, phụ lục hệ số Pn của NĐ 210/2026 và các quyết định công bố giá, suất vốn (425/QĐ-BXD) chưa có toàn văn trong thư viện. Giá vật liệu, nhân công, ca máy và chỉ số giá phải lấy theo công bố của Sở Xây dựng nơi có công trình tại thời điểm lập dự toán.'),
         ],
     },
@@ -834,7 +834,7 @@ TRANG = [
                 "Thiếu hồ sơ hợp quy với vật liệu thuộc diện bắt buộc.",
                 "Bản vẽ hoàn công không thể hiện thay đổi đã được chấp thuận.",
             ]),
-            ("p", "Xem thêm: <a href=\"/chuyen-sau/bieu-mau.html\">Biểu mẫu hồ sơ tải về</a>, <a href=\"/chuyen-sau/qa-qc-quan-ly-chat-luong.html\">QA/QC – Quản lý chất lượng</a>, <a href=\"/chuyen-sau/giam-sat-thi-cong.html\">Giám sát thi công</a>, <a href=\"/tin-tuc/hoan-cong-va-dang-ky-nha-vao-so-do-2026.html\">Hoàn công nhà ở và đăng ký vào sổ đỏ</a>."),
+            ("p", "Xem thêm: <a href=\"/so-tay-xay-dung/bieu-mau.html\">Biểu mẫu hồ sơ tải về</a>, <a href=\"/so-tay-xay-dung/qa-qc-quan-ly-chat-luong.html\">QA/QC – Quản lý chất lượng</a>, <a href=\"/so-tay-xay-dung/giam-sat-thi-cong.html\">Giám sát thi công</a>, <a href=\"/tin-tuc/hoan-cong-va-dang-ky-nha-vao-so-do-2026.html\">Hoàn công nhà ở và đăng ký vào sổ đỏ</a>."),
             ("note", "Nội dung tóm tắt để tham khảo, không thay thế văn bản pháp luật. Thư viện của Quan Construction chưa có toàn văn các phụ lục của Nghị định 207/2026/NĐ-CP; mẫu nhật ký, báo cáo, danh mục hồ sơ hoàn thành cần tra theo văn bản gốc. Công trình khởi công trước 01/07/2026 xem quy định chuyển tiếp tại " + L("207-2026-nd-cp", "53", "Điều 53 Nghị định 207/2026/NĐ-CP") + ". Mức phạt áp dụng cho tổ chức theo Nghị định 339/2026/NĐ-CP, cá nhân bằng một nửa."),
         ],
     },
@@ -859,64 +859,64 @@ TRANG = [
             'dong': [['Phiếu yêu cầu nghiệm thu',
                       'Nhà thầu đề nghị giám sát nghiệm thu công việc, vật liệu, giai đoạn; giám sát phải nghiệm thu trong không quá 24 giờ',
                       '<a href="/phap-ly/207-2026-nd-cp.html#d22">khoản 3 Điều 22 NĐ 207</a>',
-                      '<a href="/chuyen-sau/bieu-mau/phieu-yeu-cau-nghiem-thu.docx" download>Tải .docx</a>'],
+                      '<a href="/so-tay-xay-dung/bieu-mau/phieu-yeu-cau-nghiem-thu.docx" download>Tải .docx</a>'],
                      ['Biên bản nghiệm thu vật liệu, sản phẩm, cấu kiện, thiết bị',
                       'Trước khi đưa vật liệu, thiết bị vào công trình: kiểm tra chứng chỉ, hợp quy, thí nghiệm',
                       '<a href="/phap-ly/207-2026-nd-cp.html#d14">Điều 14 NĐ 207</a>',
-                      '<a href="/chuyen-sau/bieu-mau/bien-ban-nghiem-thu-vat-lieu-thiet-bi.docx" download>Tải .docx</a>'],
+                      '<a href="/so-tay-xay-dung/bieu-mau/bien-ban-nghiem-thu-vat-lieu-thiet-bi.docx" download>Tải .docx</a>'],
                      ['Biên bản nghiệm thu công việc xây dựng',
                       'Nghiệm thu từng công việc (hoặc nhiều công việc của một hạng mục) tại công trường',
                       '<a href="/phap-ly/207-2026-nd-cp.html#d22">khoản 4, 5 Điều 22 NĐ 207</a>',
-                      '<a href="/chuyen-sau/bieu-mau/bien-ban-nghiem-thu-cong-viec.docx" download>Tải .docx</a>'],
+                      '<a href="/so-tay-xay-dung/bieu-mau/bien-ban-nghiem-thu-cong-viec.docx" download>Tải .docx</a>'],
                      ['Biên bản nghiệm thu giai đoạn / bộ phận công trình',
                       'Kết thúc một giai đoạn, bộ phận hoặc gói thầu (khi các bên thỏa thuận tổ chức)',
                       '<a href="/phap-ly/207-2026-nd-cp.html#d23">Điều 23 NĐ 207</a>',
-                      '<a href="/chuyen-sau/bieu-mau/bien-ban-nghiem-thu-giai-doan.docx" download>Tải .docx</a>'],
+                      '<a href="/so-tay-xay-dung/bieu-mau/bien-ban-nghiem-thu-giai-doan.docx" download>Tải .docx</a>'],
                      ['Biên bản nghiệm thu hoàn thành hạng mục / công trình',
                       'Trước khi đưa vào sử dụng; có mục đánh giá PCCC, thời điểm và thời gian bảo hành',
                       '<a href="/phap-ly/207-2026-nd-cp.html#d24">khoản 5, 6 Điều 24 NĐ 207</a>',
-                      '<a href="/chuyen-sau/bieu-mau/bien-ban-nghiem-thu-hoan-thanh.docx" download>Tải .docx</a>']]}),
+                      '<a href="/so-tay-xay-dung/bieu-mau/bien-ban-nghiem-thu-hoan-thanh.docx" download>Tải .docx</a>']]}),
           ('h2', '2. Hồ sơ quản lý thi công hằng ngày'),
           ('table',
            {'cot': ['Mẫu', 'Dùng khi nào', 'Căn cứ', 'Tải về'],
             'dong': [['Nhật ký thi công (bìa + trang ghi chép)',
                       'Ghi hằng ngày: nhân lực, máy, công việc, vật liệu, nghiệm thu, sự cố, ý kiến giám sát',
                       '<a href="/phap-ly/207-2026-nd-cp.html#d15">khoản 13 Điều 15 NĐ 207</a>',
-                      '<a href="/chuyen-sau/bieu-mau/nhat-ky-thi-cong.docx" download>Tải .docx</a>'],
+                      '<a href="/so-tay-xay-dung/bieu-mau/nhat-ky-thi-cong.docx" download>Tải .docx</a>'],
                      ['Báo cáo thi công ngày',
                       'Nhà thầu báo cáo chủ đầu tư tiến độ, khối lượng, chất lượng, an toàn',
                       '<a href="/phap-ly/207-2026-nd-cp.html#d15">khoản 15 Điều 15 NĐ 207</a>',
-                      '<a href="/chuyen-sau/bieu-mau/bao-cao-ngay.docx" download>Tải .docx</a>'],
+                      '<a href="/so-tay-xay-dung/bieu-mau/bao-cao-ngay.docx" download>Tải .docx</a>'],
                      ['Biên bản hiện trường (sự cố, sai sót, vi phạm)',
                       'Ghi nhận ngay sự cố công trình, sự cố an toàn lao động, sai sót kỹ thuật để xử lý, báo cáo',
                       '<a href="/phap-ly/207-2026-nd-cp.html#d45">Điều 45</a>, <a href="/phap-ly/207-2026-nd-cp.html#d49">Điều 49 NĐ 207</a>',
-                      '<a href="/chuyen-sau/bieu-mau/bien-ban-hien-truong.docx" download>Tải .docx</a>']]}),
+                      '<a href="/so-tay-xay-dung/bieu-mau/bien-ban-hien-truong.docx" download>Tải .docx</a>']]}),
           ('h2', '3. Hồ sơ thanh toán'),
           ('table',
            {'cot': ['Mẫu', 'Dùng khi nào', 'Căn cứ', 'Tải về'],
             'dong': [['Đề nghị thanh toán',
                       'Mỗi lần thanh toán: giá trị hoàn thành, phát sinh, giảm trừ tạm ứng, giá trị đề nghị',
                       '<a href="/phap-ly/210-2026-nd-cp.html#d29">Điều 29 NĐ 210</a>',
-                      '<a href="/chuyen-sau/bieu-mau/de-nghi-thanh-toan.docx" download>Tải .docx</a>'],
+                      '<a href="/so-tay-xay-dung/bieu-mau/de-nghi-thanh-toan.docx" download>Tải .docx</a>'],
                      ['Bảng xác định giá trị khối lượng hoàn thành',
                       'Kèm đề nghị thanh toán với hợp đồng đơn giá; công việc phát sinh lập bảng riêng',
                       '<a href="/phap-ly/210-2026-nd-cp.html#d29">khoản 3, 4 Điều 29 NĐ 210</a>',
-                      '<a href="/chuyen-sau/bieu-mau/bang-xac-dinh-khoi-luong-hoan-thanh.docx" download>Tải .docx</a>']]}),
+                      '<a href="/so-tay-xay-dung/bieu-mau/bang-xac-dinh-khoi-luong-hoan-thanh.docx" download>Tải .docx</a>']]}),
           ('p',
            'Với hợp đồng thuộc dự án đầu tư công, dự án PPP, thành phần chủ yếu của hồ sơ thanh toán theo từng loại giá hợp đồng được quy định tại các khoản 2 đến 12 <a '
            'href="/phap-ly/210-2026-nd-cp.html#d29">Điều 29 Nghị định 210/2026/NĐ-CP</a>. Với dự án vốn khác, thành phần hồ sơ (kể cả biểu mẫu) do các bên thỏa thuận trong hợp đồng. Trình tự, thời '
-           'hạn thanh toán xem <a href="/phap-ly/210-2026-nd-cp.html#d28">Điều 28</a> và trang <a href="/chuyen-sau/qs-du-toan-thanh-quyet-toan.html">QS – khối lượng, thanh quyết toán</a>.'),
+           'hạn thanh toán xem <a href="/phap-ly/210-2026-nd-cp.html#d28">Điều 28</a> và trang <a href="/so-tay-xay-dung/qs-du-toan-thanh-quyet-toan.html">QS – khối lượng, thanh quyết toán</a>.'),
           ('h2', '4. Bàn giao và bảo hành'),
           ('table',
            {'cot': ['Mẫu', 'Dùng khi nào', 'Căn cứ', 'Tải về'],
             'dong': [['Biên bản bàn giao hạng mục / công trình',
                       'Sau nghiệm thu hoàn thành; kèm bản vẽ hoàn công, quy trình vận hành, bảo trì, danh mục thiết bị dự trữ',
                       '<a href="/phap-ly/135-2025-qh15.html#d58">Điều 58 Luật Xây dựng 2025</a>; <a href="/phap-ly/207-2026-nd-cp.html#d30">Điều 30 NĐ 207</a>',
-                      '<a href="/chuyen-sau/bieu-mau/bien-ban-ban-giao-cong-trinh.docx" download>Tải .docx</a>'],
+                      '<a href="/so-tay-xay-dung/bieu-mau/bien-ban-ban-giao-cong-trinh.docx" download>Tải .docx</a>'],
                      ['Phiếu yêu cầu bảo hành',
                       'Phát hiện hư hỏng, khiếm khuyết trong thời hạn bảo hành; xác nhận kết quả sửa chữa',
                       '<a href="/phap-ly/207-2026-nd-cp.html#d33">Điều 33 NĐ 207</a>',
-                      '<a href="/chuyen-sau/bieu-mau/phieu-yeu-cau-bao-hanh.docx" download>Tải .docx</a>']]}),
+                      '<a href="/so-tay-xay-dung/bieu-mau/phieu-yeu-cau-bao-hanh.docx" download>Tải .docx</a>']]}),
           ('p',
            'Thời hạn bảo hành tối thiểu 24 tháng (công trình cấp đặc biệt, cấp I) và 12 tháng (cấp còn lại) chỉ bắt buộc với công trình dùng vốn đầu tư công, vốn ngân sách nhà nước; công trình vốn '
            'khác có thể tham khảo (<a href="/phap-ly/207-2026-nd-cp.html#d32">khoản 5 Điều 32 NĐ 207</a>). Công trình nhà ở áp dụng pháp luật về nhà ở (<a '
@@ -928,7 +928,7 @@ TRANG = [
             'thu hoàn thành do người đại diện theo pháp luật (hoặc người được ủy quyền) của các bên ký và đóng dấu (<a href="/phap-ly/207-2026-nd-cp.html#d24">khoản 5, 6 Điều 24</a>).',
             '<b>Ghi rõ căn cứ</b>: số bản vẽ, chỉ dẫn kỹ thuật, kết quả thí nghiệm, số phiếu yêu cầu. Thiếu căn cứ là lỗi thường gặp khi kiểm tra, thanh tra.',
             '<b>Kết luận phải rõ ràng</b>: chấp nhận hay không chấp nhận; nếu không, ghi cụ thể yêu cầu sửa chữa.',
-            '<b>Lưu trữ</b> bản gốc theo hồ sơ hoàn thành công trình – xem <a href="/chuyen-sau/ho-so-chat-luong-nghiem-thu.html">Hồ sơ chất lượng &amp; nghiệm thu</a>.']),
+            '<b>Lưu trữ</b> bản gốc theo hồ sơ hoàn thành công trình – xem <a href="/so-tay-xay-dung/ho-so-chat-luong-nghiem-thu.html">Hồ sơ chất lượng &amp; nghiệm thu</a>.']),
           ('h2', '6. Lập hồ sơ tự động bằng phần mềm'),
           ('p',
            'Quan Construction phát triển phần mềm <b>QC Quản lý dự án</b> chạy trên máy tính và điện thoại: chỉ huy trưởng ghi nhật ký, báo cáo ngày ngay tại công trường; hệ thống tự đánh số và in '
@@ -1030,7 +1030,7 @@ TRANG = [
                 "Lãi chậm trả: " + L("91-2015-qh13", "357", "Điều 357") + ", " + L("91-2015-qh13", "468", "Điều 468 Bộ luật Dân sự") + ".",
                 "Thuế TNCN và lệ phí trước bạ: " + L("109-2025-qh15", "14", "Điều 14 Luật Thuế TNCN") + "; " + L("33-vbhn-btc", "8", "Điều 8 văn bản hợp nhất 33/VBHN-BTC") + ".",
             ]),
-            ("p", "Xem thêm: " + '<a href="/chuyen-sau/qs-du-toan-thanh-quyet-toan.html">QS – khối lượng, thanh toán, quyết toán</a>' + ", " + '<a href="/chuyen-sau/hoi-dap-tinh-huong.html">hỏi đáp tình huống</a>' + "."),
+            ("p", "Xem thêm: " + '<a href="/so-tay-xay-dung/qs-du-toan-thanh-quyet-toan.html">QS – khối lượng, thanh toán, quyết toán</a>' + ", " + '<a href="/so-tay-xay-dung/hoi-dap-tinh-huong.html">hỏi đáp tình huống</a>' + "."),
             ("note", "Kết quả chỉ để tham khảo nhanh, làm tròn đến đồng. Mức tạm ứng, bảo đảm, bảo hành tối thiểu chỉ bắt buộc với dự án đầu tư công, PPP hoặc vốn ngân sách nhà nước theo đúng phạm vi của từng điều. Luật Thuế TNCN 109/2025/QH15, Luật Thương mại 2005 đang ở trạng thái hết hiệu lực một phần. Giá tính thuế, lệ phí và các trường hợp miễn cần đối chiếu hồ sơ cụ thể."),
         ],
     },

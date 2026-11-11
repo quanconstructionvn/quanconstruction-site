@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 # Người tạo: Quang Mai Phú – Quan Construction
-# Tạo nhánh "Chuyên sâu" cho dân xây dựng & văn phòng (QA/QC, QS, CCM, Giám sát):
-#   /chuyen-sau.html (trang chủ nhánh) và /chuyen-sau/<slug>.html từ dữ liệu _cong-cu/chuyen-sau.py.
-# Chạy từ thư mục gốc website:  python3 _cong-cu/tao-chuyen-sau.py
+# Tạo nhánh "Sổ tay xây dựng" cho dân xây dựng & văn phòng (QA/QC, QS, CCM, Giám sát):
+#   /so-tay-xay-dung.html (trang chủ nhánh) và /so-tay-xay-dung/<slug>.html từ dữ liệu _cong-cu/so-tay-xay-dung.py.
+# Chạy từ thư mục gốc website:  python3 _cong-cu/tao-so-tay-xay-dung.py
 # Khối nội dung: ("h2", chữ) | ("h3", chữ) | ("p", html) | ("ul"/"ol", [html,...]) | ("note", html)
 #                | ("table", {"cot": [...], "dong": [[html,...], ...]}) | ("faq", [(câu hỏi, trả lời html), ...]) | ("html", html thô)
 import json, os, re, html, importlib.util
@@ -12,7 +12,7 @@ SITE = "https://quanconstruction.biz.vn"
 P = lambda *a: os.path.join(ROOT, *a)
 esc = lambda s: html.escape(str(s or ""), quote=True)
 
-spec = importlib.util.spec_from_file_location("chuyen_sau", P("_cong-cu", "chuyen-sau.py"))
+spec = importlib.util.spec_from_file_location("so_tay_xay_dung", P("_cong-cu", "so-tay-xay-dung.py"))
 cs = importlib.util.module_from_spec(spec); spec.loader.exec_module(cs)
 
 CSS = """<style>
@@ -79,30 +79,30 @@ def faq_ld(t):
 def main():
     tpl = open(P("_cong-cu", "mau-trang-van-ban.html"), encoding="utf-8").read()
     tpl = re.sub(r"<style>\n\.vb-ph.*?</style>", lambda m: CSS, tpl, flags=re.S)
-    tpl = tpl.replace("trang toàn văn văn bản (tạo tự động bằng _cong-cu/tao-trang-phap-ly.py)", "trang chuyên sâu (tạo tự động bằng _cong-cu/tao-chuyen-sau.py)")
-    tpl = tpl.replace('<a href="/phap-ly.html" class=on>Pháp lý</a>', '<a href="/phap-ly.html">Pháp lý</a>').replace('<a href="/chuyen-sau.html">Chuyên sâu</a>', '<a href="/chuyen-sau.html" class=on>Chuyên sâu</a>', 1)
-    os.makedirs(P("chuyen-sau"), exist_ok=True)
+    tpl = tpl.replace("trang toàn văn văn bản (tạo tự động bằng _cong-cu/tao-trang-phap-ly.py)", "trang sổ tay xây dựng (tạo tự động bằng _cong-cu/tao-so-tay-xay-dung.py)")
+    tpl = tpl.replace('<a href="/phap-ly.html" class=on>Pháp lý</a>', '<a href="/phap-ly.html">Pháp lý</a>').replace('<a href="/so-tay-xay-dung.html">Sổ tay xây dựng</a>', '<a href="/so-tay-xay-dung.html" class=on>Sổ tay xây dựng</a>', 1)
+    os.makedirs(P("so-tay-xay-dung"), exist_ok=True)
     pages = cs.TRANG
     slugs = {t["slug"] for t in pages}
-    for f in os.listdir(P("chuyen-sau")):  # xóa trang cũ không còn trong dữ liệu
-        if f.endswith(".html") and f[:-5] not in slugs: os.remove(P("chuyen-sau", f))
+    for f in os.listdir(P("so-tay-xay-dung")):  # xóa trang cũ không còn trong dữ liệu
+        if f.endswith(".html") and f[:-5] not in slugs: os.remove(P("so-tay-xay-dung", f))
 
     def side(cur):
         o = []
         for nhom, ten in cs.NHOM:
             ds = [t for t in pages if t["nhom"] == nhom]
             if ds:
-                o.append(f"<b>{esc(ten)}</b>" + "".join(f'<a href="/chuyen-sau/{t["slug"]}.html"{" class=on" if t["slug"] == cur else ""}>{esc(t["ngan"])}</a>' for t in ds))
-        return '<aside class="cs-nav"><a href="/chuyen-sau.html"' + (' class=on' if cur is None else '') + '>« Trang chủ Chuyên sâu</a>' + "".join(o) + "</aside>"
+                o.append(f"<b>{esc(ten)}</b>" + "".join(f'<a href="/so-tay-xay-dung/{t["slug"]}.html"{" class=on" if t["slug"] == cur else ""}>{esc(t["ngan"])}</a>' for t in ds))
+        return '<aside class="cs-nav"><a href="/so-tay-xay-dung.html"' + (' class=on' if cur is None else '') + '>« Sổ tay xây dựng</a>' + "".join(o) + "</aside>"
 
     def page(url, title, desc, crumb, h1, lead, inner, cur, extra_ld=None, upd=None):
         body = (f'<div class="ph cs-ph"><div class="w"><div class="cs-crumb"><a href="/index.html">Trang chủ</a> › {crumb}</div>'
-                f'<span class="eyebrow">Chuyên sâu · QA/QC · QS · CCM · Giám sát</span><h1>{esc(h1)}</h1>{"<p>" + lead + "</p>" if lead else ""}</div></div>\n'
+                f'<span class="eyebrow">Sổ tay xây dựng · QA/QC · QS · CCM · Giám sát</span><h1>{esc(h1)}</h1>{"<p>" + lead + "</p>" if lead else ""}</div></div>\n'
                 f'<div class="w cs-wrap">{side(cur)}<article class="cs-tx">{f"<div class=cs-meta>Quan Construction · cập nhật {upd}</div>" if upd else ""}{inner}'
                 f'<p style="margin-top:26px"><a class="btn p" href="/lien-he.html" style="color:#fff">Cần tư vấn quản lý dự án, dự toán, giám sát? Liên hệ Quan Construction →</a></p></article></div>')
         ld = [{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": SITE + "/"},
-            {"@type": "ListItem", "position": 2, "name": "Chuyên sâu", "item": SITE + "/chuyen-sau.html"}] +
+            {"@type": "ListItem", "position": 2, "name": "Sổ tay xây dựng", "item": SITE + "/so-tay-xay-dung.html"}] +
             ([{"@type": "ListItem", "position": 3, "name": h1, "item": url}] if cur else [])}]
         if extra_ld: ld.append(extra_ld)
         jl = "".join(f'<script type="application/ld+json">{json.dumps(x, ensure_ascii=False)}</script>' for x in ld)
@@ -111,35 +111,35 @@ def main():
                 .replace("{{JSONLD}}", jl).replace("{{BODY}}", body))
 
     for t in pages:
-        url = f'{SITE}/chuyen-sau/{t["slug"]}.html'
+        url = f'{SITE}/so-tay-xay-dung/{t["slug"]}.html'
         art = {"@context": "https://schema.org", "@type": "Article", "headline": t["title"], "description": t["desc"], "dateModified": t["ngay"],
                "inLanguage": "vi", "mainEntityOfPage": url, "author": {"@type": "Organization", "name": "Quan Construction", "url": SITE}}
-        h = page(url, t["title"], t["desc"], f'<a href="/chuyen-sau.html">Chuyên sâu</a> › {esc(t["ngan"])}', t["title"], t.get("lead", ""),
+        h = page(url, t["title"], t["desc"], f'<a href="/so-tay-xay-dung.html">Sổ tay xây dựng</a> › {esc(t["ngan"])}', t["title"], t.get("lead", ""),
                  render(t["body"]), t["slug"], faq_ld(t) or art, "/".join(reversed(t["ngay"].split("-"))))
-        open(P("chuyen-sau", t["slug"] + ".html"), "w", encoding="utf-8").write(h)
+        open(P("so-tay-xay-dung", t["slug"] + ".html"), "w", encoding="utf-8").write(h)
 
     # Trang chủ nhánh
-    roles = "".join(f'<a href="/chuyen-sau/{s}.html"><b>{esc(a)}</b><span>{esc(b)}</span></a>' for a, b, s in cs.VAI_TRO if s in slugs)
+    roles = "".join(f'<a href="/so-tay-xay-dung/{s}.html"><b>{esc(a)}</b><span>{esc(b)}</span></a>' for a, b, s in cs.VAI_TRO if s in slugs)
     cards = []
     for nhom, ten in cs.NHOM:
         ds = [t for t in pages if t["nhom"] == nhom]
         if ds:
             cards.append(f"<h2>{esc(ten)}</h2><div class=cs-grid>" + "".join(
-                f'<a class="cs-card" href="/chuyen-sau/{t["slug"]}.html"><span class="cs-tag">{esc(ten)}</span><b>{esc(t["title"])}</b><span>{esc(t["summary"])}</span></a>' for t in ds) + "</div>")
+                f'<a class="cs-card" href="/so-tay-xay-dung/{t["slug"]}.html"><span class="cs-tag">{esc(ten)}</span><b>{esc(t["title"])}</b><span>{esc(t["summary"])}</span></a>' for t in ds) + "</div>")
     inner = (f'<p>{cs.GIOI_THIEU}</p><h2>Theo vai trò</h2><div class="cs-roles">{roles}</div>' + "".join(cards) +
              '<div class="cs-note">Nội dung tóm tắt để tham khảo, dẫn tới toàn văn điều luật trong <a href="/phap-ly.html">thư viện pháp luật</a> của Quan Construction. Không thay thế văn bản pháp luật hay ý kiến của cơ quan có thẩm quyền.</div>')
-    h = page(SITE + "/chuyen-sau.html", cs.TIEU_DE, cs.MO_TA, "Chuyên sâu", cs.TIEU_DE, cs.LEAD, inner, None)
-    h = h.replace('href="/chuyen-sau.html">« Trang chủ', 'href="/chuyen-sau.html" class=on>« Trang chủ', 1) if 'class=on>« Trang' not in h else h
-    open(P("chuyen-sau.html"), "w", encoding="utf-8").write(h)
+    h = page(SITE + "/so-tay-xay-dung.html", cs.TIEU_DE, cs.MO_TA, "Sổ tay xây dựng", cs.TIEU_DE, cs.LEAD, inner, None)
+    h = h.replace('href="/so-tay-xay-dung.html">« Trang chủ', 'href="/so-tay-xay-dung.html" class=on>« Trang chủ', 1) if 'class=on>« Trang' not in h else h
+    open(P("so-tay-xay-dung.html"), "w", encoding="utf-8").write(h)
 
     # sitemap
     sm = open(P("sitemap.xml"), encoding="utf-8").read()
-    sm = re.sub(r"<url><loc>https://quanconstruction\.biz\.vn/chuyen-sau(?:\.html|/[^<]+)</loc>.*?</url>", "", sm)
+    sm = re.sub(r"<url><loc>https://quanconstruction\.biz\.vn/so-tay-xay-dung(?:\.html|/[^<]+)</loc>.*?</url>", "", sm)
     moi = max([t["ngay"] for t in pages] or ["2026-11-11"])
-    sm = sm.replace("</urlset>", f'<url><loc>{SITE}/chuyen-sau.html</loc><lastmod>{moi}</lastmod></url>' +
-                    "".join(f'<url><loc>{SITE}/chuyen-sau/{t["slug"]}.html</loc><lastmod>{t["ngay"]}</lastmod></url>' for t in pages) + "</urlset>")
+    sm = sm.replace("</urlset>", f'<url><loc>{SITE}/so-tay-xay-dung.html</loc><lastmod>{moi}</lastmod></url>' +
+                    "".join(f'<url><loc>{SITE}/so-tay-xay-dung/{t["slug"]}.html</loc><lastmod>{t["ngay"]}</lastmod></url>' for t in pages) + "</urlset>")
     open(P("sitemap.xml"), "w", encoding="utf-8").write(sm)
-    print(f"Đã tạo trang Chuyên sâu + {len(pages)} trang con")
+    print(f"Đã tạo trang Sổ tay xây dựng + {len(pages)} trang con")
 
 
 if __name__ == "__main__":

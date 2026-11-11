@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Người tạo: Quang Mai Phú – Quan Construction
-# Tạo 12 biểu mẫu Word (mẫu tham khảo, để trống) cho trang /chuyen-sau/bieu-mau.html
-# Chạy từ thư mục gốc website:  python3 _cong-cu/tao-bieu-mau.py   -> chuyen-sau/bieu-mau/*.docx
+# Tạo 12 biểu mẫu Word (mẫu tham khảo, để trống) cho trang /so-tay-xay-dung/bieu-mau.html
+# Chạy từ thư mục gốc website:  python3 _cong-cu/tao-bieu-mau.py   -> so-tay-xay-dung/bieu-mau/*.docx
 import os
 from docx import Document
 from docx.shared import Pt, Cm
@@ -10,7 +10,7 @@ from docx.enum.table import WD_TABLE_ALIGNMENT
 from docx.oxml.ns import qn
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OUT = os.path.join(ROOT, "chuyen-sau", "bieu-mau")
+OUT = os.path.join(ROOT, "so-tay-xay-dung", "bieu-mau")
 CHAM = "……………………………………………………"
 NGAN = "…………………"
 
@@ -25,7 +25,7 @@ def moi():
     st.element.rPr.rFonts.set(qn("w:eastAsia"), "Times New Roman")
     st.paragraph_format.space_after = Pt(3)
     d.core_properties.author = "Quang Mai Phú"
-    d.core_properties.comments = "Mẫu tham khảo – Quan Construction biên soạn (quanconstruction.biz.vn/chuyen-sau/bieu-mau.html)"
+    d.core_properties.comments = "Mẫu tham khảo – Quan Construction biên soạn (quanconstruction.biz.vn/so-tay-xay-dung/bieu-mau.html)"
     p = d.add_paragraph(); r = p.add_run("Mẫu tham khảo – Quan Construction biên soạn"); r.italic = True; r.font.size = Pt(9)
     p.alignment = WD_ALIGN_PARAGRAPH.RIGHT
     return d

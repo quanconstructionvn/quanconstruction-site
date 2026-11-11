@@ -1,0 +1,168 @@
+{
+ "ma": "tt36-b11",
+ "ten": "Tổng hợp sơ bộ tổng mức đầu tư xây dựng",
+ "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+ "nguon": "Bảng 1.1 Phụ lục I Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "89-2026-vbhn-nd-bxd",
+   "3",
+   "Điều 3 Thông tư 36/2026/TT-BXD"
+  ],
+  [
+   "89-2026-vbhn-nd-bxd",
+   "16",
+   "Phụ lục I Thông tư 36/2026/TT-BXD"
+  ]
+ ],
+ "dung_khi": "Tổng hợp sơ bộ tổng mức đầu tư xây dựng khi lập báo cáo nghiên cứu tiền khả thi, đề xuất chủ trương đầu tư (Điều 3, phần I Phụ lục I). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP.",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục I"
+  ],
+  [
+   "tieu_de",
+   [
+    "PHƯƠNG PHÁP XÁC ĐỊNH SƠ BỘ TỔNG MỨC ĐẦU TƯ XÂY DỰNG, TỔNG MỨC ĐẦU TƯ XÂY DỰNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Thông tư số 36/2026/TT-BXD ngày 26 tháng 6 năm 2026\ncủa Bộ trưởng Bộ Xây dựng)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Bảng 1.1: TỔNG HỢP SƠ BỘ TỔNG MỨC ĐẦU TƯ XÂY DỰNG",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "Dự án:...................................................................................................................."
+  ],
+  [
+   "p",
+   "Địa điểm xây dựng:.............................................................................................................."
+  ],
+  [
+   "p",
+   "Đơn vị tính:..."
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "STT",
+     "NỘI DUNG CHI PHÍ",
+     "GIÁ TRỊ TRƯỚC THUẾ",
+     "THUẾ GTGT",
+     "GIÁ TRỊ SAU THUẾ",
+     "KÝ HIỆU"
+    ],
+    "rong": [
+     1,
+     5,
+     2,
+     2,
+     2,
+     1.5
+    ],
+    "dong": [
+     [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[4]",
+      "[5]",
+      "[6]"
+     ],
+     [
+      "1",
+      "Chi phí bồi thường, hỗ trợ và tái định cư",
+      "",
+      "",
+      "",
+      "GBT,TĐC^SB"
+     ],
+     [
+      "2",
+      "Chi phí xây dựng",
+      "",
+      "",
+      "",
+      "GXD^SB"
+     ],
+     [
+      "3",
+      "Chi phí thiết bị",
+      "",
+      "",
+      "",
+      "GTB^SB"
+     ],
+     [
+      "4",
+      "Chi phí quản lý dự án",
+      "",
+      "",
+      "",
+      "GQLDA^SB"
+     ],
+     [
+      "5",
+      "Chi phí tư vấn xây dựng",
+      "",
+      "",
+      "",
+      "GTV^SB"
+     ],
+     [
+      "6",
+      "Chi phí khác",
+      "",
+      "",
+      "",
+      "GK^SB"
+     ],
+     [
+      "7",
+      "Chi phí dự phòng",
+      "",
+      "",
+      "",
+      "GDP^SB"
+     ],
+     [
+      "",
+      "TỔNG CỘNG (1+2+3+4+5+6+7)",
+      "",
+      "",
+      "",
+      "VSB"
+     ]
+    ]
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LẬP",
+     "(Ký, họ tên)"
+    ],
+    [
+     "NGƯỜI CHỦ TRÌ",
+     "(Ký, họ tên)"
+    ]
+   ]
+  ]
+ ]
+}

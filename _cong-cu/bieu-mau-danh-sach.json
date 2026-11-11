@@ -1,5 +1,35 @@
 [
  {
+  "ma": "nd193-m01",
+  "ten": "Bảng tính giá trị quyết toán hợp đồng giữa chủ đầu tư và nhà thầu (Quyết toán A - B)",
+  "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+  "nguon": "Mẫu số 01/QTDA ban hành kèm theo Nghị định 193/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "193-2026-nd-cp",
+    "7",
+    "Điều 7 Nghị định 193/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Dự án sử dụng vốn đầu tư công, chi thường xuyên từ ngân sách nhà nước, vốn ngân sách nhà nước khác (Điều 1 Nghị định 193/2026/NĐ-CP; hiệu lực từ 01/07/2026): chủ đầu tư và nhà thầu lập quyết toán A - B kèm hồ sơ trình thẩm tra, phê duyệt quyết toán (Điều 7). Khác với Mẫu số 01/QTDA của Thông tư 73/2026/TT-BTC (Báo cáo tổng hợp quyết toán)."
+ },
+ {
+  "ma": "nd193-m02",
+  "ten": "Văn bản đề nghị nhà thầu bổ sung, hoàn thiện hồ sơ, tài liệu quyết toán hợp đồng dự án",
+  "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+  "nguon": "Mẫu số 02/QTDA ban hành kèm theo Nghị định 193/2026/NĐ-CP",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "193-2026-nd-cp",
+    "7",
+    "khoản 5 Điều 7 Nghị định 193/2026/NĐ-CP"
+   ]
+  ],
+  "dung_khi": "Dự án sử dụng vốn đầu tư công, chi thường xuyên từ ngân sách nhà nước, vốn ngân sách nhà nước khác (Điều 1 Nghị định 193/2026/NĐ-CP; hiệu lực từ 01/07/2026): trường hợp nhà thầu không thực hiện quyết toán hợp đồng theo quy định, căn cứ hợp đồng chủ đầu tư có văn bản đề nghị nhà thầu thực hiện (khoản 5 Điều 7). Khác với Mẫu số 02/QTDA của Thông tư 73/2026/TT-BTC (Danh mục văn bản)."
+ },
+ {
   "ma": "nd207-nd-bao-cao-su-co",
   "ten": "Báo cáo sự cố công trình xây dựng",
   "nhom": "Thi công – nghiệm thu (NĐ 207/2026, theo nội dung bắt buộc)",
@@ -178,6 +208,286 @@
    ]
   ],
   "dung_khi": "Cơ quan/đơn vị được giao thẩm định đồng thời là cơ quan chuyên môn về xây dựng thông báo kết quả thẩm định Báo cáo nghiên cứu khả thi."
+ },
+ {
+  "ma": "tt36-b11",
+  "ten": "Tổng hợp sơ bộ tổng mức đầu tư xây dựng",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 1.1 Phụ lục I Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "3",
+    "Điều 3 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục I Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp sơ bộ tổng mức đầu tư xây dựng khi lập báo cáo nghiên cứu tiền khả thi, đề xuất chủ trương đầu tư (Điều 3, phần I Phụ lục I). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP."
+ },
+ {
+  "ma": "tt36-b12",
+  "ten": "Tổng hợp tổng mức đầu tư xây dựng",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 1.2 Phụ lục I Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "4",
+    "Điều 4 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục I Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp tổng mức đầu tư xây dựng khi lập báo cáo nghiên cứu khả thi đầu tư xây dựng (Điều 4, phần II Phụ lục I). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP."
+ },
+ {
+  "ma": "tt36-b21",
+  "ten": "Tổng hợp dự toán xây dựng công trình",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 2.1 Phụ lục II Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "6",
+    "Điều 6 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục II Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp dự toán xây dựng công trình theo công thức (2.1) Phụ lục II (Điều 6). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP."
+ },
+ {
+  "ma": "tt36-b22",
+  "ten": "Tổng hợp chi phí thiết bị",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 2.2 Phụ lục II Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "6",
+    "Điều 6 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục II Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp chi phí thiết bị trong dự toán xây dựng công trình theo công thức (2.2) Phụ lục II (Điều 6). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP."
+ },
+ {
+  "ma": "tt36-b24",
+  "ten": "Tổng hợp chi phí tư vấn xây dựng",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 2.4 Phụ lục II Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "6",
+    "Điều 6 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục II Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp chi phí tư vấn xây dựng trong dự toán xây dựng công trình (Điều 6, khoản 4 mục 1 Phụ lục II). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP."
+ },
+ {
+  "ma": "tt36-b25",
+  "ten": "Tổng hợp chi phí khác",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 2.5 Phụ lục II Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "6",
+    "Điều 6 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục II Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp chi phí khác trong dự toán xây dựng công trình theo công thức (2.6) Phụ lục II (Điều 6). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP."
+ },
+ {
+  "ma": "tt36-b26",
+  "ten": "Tổng hợp dự toán gói thầu xây dựng",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 2.6 Phụ lục II Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "7",
+    "Điều 7 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục II Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp dự toán gói thầu xây dựng (Điều 7). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP."
+ },
+ {
+  "ma": "tt36-b27",
+  "ten": "Tổng hợp dự toán công việc xây dựng",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 2.7 Phụ lục II Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "8",
+    "Điều 8 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục II Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp dự toán công việc xây dựng (khoản 4 Điều 76 Luật Xây dựng 135/2025/QH15; Điều 8 Thông tư 36/2026/TT-BXD). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP."
+ },
+ {
+  "ma": "tt36-b31",
+  "ten": "Tổng hợp chi phí xây dựng",
+  "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+  "nguon": "Bảng 3.1 Phụ lục III Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "89-2026-vbhn-nd-bxd",
+    "6",
+    "Điều 6 Thông tư 36/2026/TT-BXD"
+   ],
+   [
+    "89-2026-vbhn-nd-bxd",
+    "16",
+    "Phụ lục III Thông tư 36/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Tổng hợp chi phí xây dựng của công trình theo Phụ lục III (phương pháp xác định chi phí xây dựng) khi lập dự toán (Điều 6). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP."
+ },
+ {
+  "ma": "tt40-b1",
+  "ten": "Tổng hợp chi phí bảo trì công trình xây dựng",
+  "nhom": "Chi phí bảo trì công trình (TT 40/2026/TT-BXD)",
+  "nguon": "Bảng 1 Phụ lục I ban hành kèm theo Thông tư 40/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "40-2026-tt-bxd",
+    "2",
+    "Điều 2 Thông tư 40/2026/TT-BXD"
+   ],
+   [
+    "40-2026-tt-bxd",
+    "8",
+    "Phụ lục I Thông tư 40/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Xác định, tổng hợp chi phí bảo trì công trình xây dựng gồm chi phí bảo dưỡng, sửa chữa và các công việc khác trong kế hoạch bảo trì (Điều 2 Thông tư 40/2026/TT-BXD; hiệu lực từ 01/07/2026)."
+ },
+ {
+  "ma": "tt40-b21",
+  "ten": "Tổng hợp dự toán chi phí bảo dưỡng công trình",
+  "nhom": "Chi phí bảo trì công trình (TT 40/2026/TT-BXD)",
+  "nguon": "Bảng 2.1 Phụ lục II ban hành kèm theo Thông tư 40/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "40-2026-tt-bxd",
+    "3",
+    "Điều 3 Thông tư 40/2026/TT-BXD"
+   ],
+   [
+    "40-2026-tt-bxd",
+    "8",
+    "Phụ lục II Thông tư 40/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Lập, tổng hợp dự toán chi phí bảo dưỡng công trình (Điều 3, Phụ lục II Thông tư 40/2026/TT-BXD; hiệu lực từ 01/07/2026)."
+ },
+ {
+  "ma": "tt40-b25",
+  "ten": "Dự toán chi phí thực hiện bảo dưỡng",
+  "nhom": "Chi phí bảo trì công trình (TT 40/2026/TT-BXD)",
+  "nguon": "Bảng 2.5 Phụ lục II ban hành kèm theo Thông tư 40/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "40-2026-tt-bxd",
+    "3",
+    "Điều 3 Thông tư 40/2026/TT-BXD"
+   ],
+   [
+    "40-2026-tt-bxd",
+    "8",
+    "mục II Phụ lục II Thông tư 40/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Lập dự toán chi phí thực hiện bảo dưỡng (chi phí trực tiếp, gián tiếp, thu nhập chịu thuế tính trước, thuế GTGT, nhà tạm) theo mục II Phụ lục II Thông tư 40/2026/TT-BXD; hiệu lực từ 01/07/2026."
+ },
+ {
+  "ma": "tt40-b31",
+  "ten": "Tổng hợp dự toán chi phí sửa chữa công trình",
+  "nhom": "Chi phí bảo trì công trình (TT 40/2026/TT-BXD)",
+  "nguon": "Bảng 3.1 Phụ lục III ban hành kèm theo Thông tư 40/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "40-2026-tt-bxd",
+    "4",
+    "Điều 4 Thông tư 40/2026/TT-BXD"
+   ],
+   [
+    "40-2026-tt-bxd",
+    "8",
+    "Phụ lục III Thông tư 40/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Lập, tổng hợp dự toán chi phí sửa chữa công trình xây dựng (Điều 4, Phụ lục III Thông tư 40/2026/TT-BXD; hiệu lực từ 01/07/2026)."
+ },
+ {
+  "ma": "tt40-b32",
+  "ten": "Dự toán chi phí thực hiện sửa chữa công trình",
+  "nhom": "Chi phí bảo trì công trình (TT 40/2026/TT-BXD)",
+  "nguon": "Bảng 3.2 Phụ lục III ban hành kèm theo Thông tư 40/2026/TT-BXD",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "40-2026-tt-bxd",
+    "4",
+    "Điều 4 Thông tư 40/2026/TT-BXD"
+   ],
+   [
+    "40-2026-tt-bxd",
+    "8",
+    "mục II Phụ lục III Thông tư 40/2026/TT-BXD"
+   ]
+  ],
+  "dung_khi": "Lập dự toán chi phí thực hiện sửa chữa công trình (chi phí trực tiếp, gián tiếp, thu nhập chịu thuế tính trước, thuế GTGT, nhà tạm) theo mục II Phụ lục III Thông tư 40/2026/TT-BXD; hiệu lực từ 01/07/2026."
  },
  {
   "ma": "tt73-m01",
@@ -388,5 +698,70 @@
    ]
   ],
   "dung_khi": "Dự án quy hoạch, dự án chuẩn bị đầu tư, dự án dừng thực hiện chưa có khối lượng thi công xây dựng, lắp đặt thiết bị được nghiệm thu (khoản 2 Điều 4 Thông tư 73/2026/TT-BTC)."
+ },
+ {
+  "ma": "tt79-dt01",
+  "ten": "Bảng tính chi phí tư vấn, quản lý dự án (lập riêng cho từng dự án)",
+  "nhom": "Dự toán, quyết toán thu chi quản lý dự án (TT 79/2026/TT-BTC)",
+  "nguon": "Mẫu số 01(i)/DT-QLDA ban hành kèm theo Thông tư 79/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "79-2026-tt-btc",
+    "6",
+    "Điều 6 Thông tư 79/2026/TT-BTC"
+   ],
+   [
+    "79-2026-tt-btc",
+    "9",
+    "điểm b khoản 2 Điều 9 Thông tư 79/2026/TT-BTC"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư, ban quản lý dự án có dự án sử dụng vốn ngân sách nhà nước (Điều 1 Thông tư 79/2026/TT-BTC; hiệu lực từ 01/07/2026) xác định nguồn thu từ chi phí do mình thực hiện của từng dự án được giao quản lý, làm căn cứ lập dự toán thu (Điều 6) và hồ sơ trình thẩm định, phê duyệt dự toán hằng năm (Điều 9)."
+ },
+ {
+  "ma": "tt79-dt02",
+  "ten": "Bảng tính lương năm",
+  "nhom": "Dự toán, quyết toán thu chi quản lý dự án (TT 79/2026/TT-BTC)",
+  "nguon": "Mẫu số 02/DT-QLDA ban hành kèm theo Thông tư 79/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "79-2026-tt-btc",
+    "5",
+    "khoản 5 Điều 5 Thông tư 79/2026/TT-BTC"
+   ],
+   [
+    "79-2026-tt-btc",
+    "9",
+    "điểm c khoản 2 Điều 9 Thông tư 79/2026/TT-BTC"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư, ban quản lý dự án có dự án sử dụng vốn ngân sách nhà nước (Điều 1 Thông tư 79/2026/TT-BTC; hiệu lực từ 01/07/2026) lập bảng tính tiền lương năm của từng người lao động tham gia quản lý dự án làm căn cứ lập dự toán thu, chi (khoản 5 Điều 5) và hồ sơ trình phê duyệt dự toán hằng năm (Điều 9)."
+ },
+ {
+  "ma": "tt79-dt03",
+  "ten": "Dự toán thu, chi quản lý dự án năm",
+  "nhom": "Dự toán, quyết toán thu chi quản lý dự án (TT 79/2026/TT-BTC)",
+  "nguon": "Mẫu số 03/DT-QLDA ban hành kèm theo Thông tư 79/2026/TT-BTC",
+  "loai": "chinh-thuc",
+  "can_cu": [
+   [
+    "79-2026-tt-btc",
+    "7",
+    "khoản 3 Điều 7 Thông tư 79/2026/TT-BTC"
+   ],
+   [
+    "79-2026-tt-btc",
+    "9",
+    "điểm d khoản 2 Điều 9 Thông tư 79/2026/TT-BTC"
+   ],
+   [
+    "79-2026-tt-btc",
+    "12",
+    "Điều 12 Thông tư 79/2026/TT-BTC"
+   ]
+  ],
+  "dung_khi": "Chủ đầu tư, ban quản lý dự án có dự án sử dụng vốn ngân sách nhà nước (Điều 1 Thông tư 79/2026/TT-BTC; hiệu lực từ 01/07/2026) lập dự toán thu, chi hằng năm (khoản 3 Điều 7), trình thẩm định, phê duyệt (Điều 9); BQLDA lập và chấp hành dự toán hằng năm (Điều 12)."
  }
 ]

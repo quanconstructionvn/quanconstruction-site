@@ -1,0 +1,198 @@
+{
+ "ma": "tt40-b32",
+ "ten": "Dự toán chi phí thực hiện sửa chữa công trình",
+ "nhom": "Chi phí bảo trì công trình (TT 40/2026/TT-BXD)",
+ "nguon": "Bảng 3.2 Phụ lục III ban hành kèm theo Thông tư 40/2026/TT-BXD",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "40-2026-tt-bxd",
+   "4",
+   "Điều 4 Thông tư 40/2026/TT-BXD"
+  ],
+  [
+   "40-2026-tt-bxd",
+   "8",
+   "mục II Phụ lục III Thông tư 40/2026/TT-BXD"
+  ]
+ ],
+ "dung_khi": "Lập dự toán chi phí thực hiện sửa chữa công trình (chi phí trực tiếp, gián tiếp, thu nhập chịu thuế tính trước, thuế GTGT, nhà tạm) theo mục II Phụ lục III Thông tư 40/2026/TT-BXD; hiệu lực từ 01/07/2026.",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục III"
+  ],
+  [
+   "tieu_de",
+   [
+    "DỰ TOÁN CHI PHÍ SỬA CHỮA CÔNG TRÌNH XÂY DỰNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "(Ban hành kèm theo Thông tư số 40/2026/TT-BXD ngày 26 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Bảng 3.2. DỰ TOÁN CHI PHÍ THỰC HIỆN SỬA CHỮA CÔNG TRÌNH",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "Công trình: ………………………………………………………………………"
+  ],
+  [
+   "p",
+   "Địa điểm:…………………………………………………………………………"
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị tính: đồng",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "STT",
+     "NỘI DUNG CHI PHÍ",
+     "CÁCH TÍNH",
+     "GIÁ TRỊ",
+     "KÝ HIỆU"
+    ],
+    "rong": [
+     1,
+     5,
+     3,
+     2,
+     1.5
+    ],
+    "dong": [
+     [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[4]",
+      "[5]"
+     ],
+     [
+      "I",
+      "CHI PHÍ TRỰC TIẾP",
+      "VL + NC + M",
+      "",
+      "T"
+     ],
+     [
+      "1",
+      "Chi phí vật liệu",
+      "Σ(j=1→n) Qj x DjVL",
+      "",
+      "VL"
+     ],
+     [
+      "2",
+      "Chi phí nhân công",
+      "Σ(j=1→n) Qj x DjNC",
+      "",
+      "NC"
+     ],
+     [
+      "3",
+      "Chi phí máy và thiết bị thi công",
+      "Σ(j=1→n) Qj x DjMTC",
+      "",
+      "M"
+     ],
+     [
+      "II",
+      "CHI PHÍ GIÁN TIẾP",
+      "NC x Tỷ lệ",
+      "",
+      "GT"
+     ],
+     [
+      "III",
+      "THU NHẬP CHỊU THUẾ TÍNH TRƯỚC",
+      "(T + GT) x Tỷ lệ",
+      "",
+      "TL"
+     ],
+     [
+      "",
+      "Chi phí thực hiện sửa chữa trước thuế",
+      "(T + GT + TL)",
+      "",
+      "GTHSCTT"
+     ],
+     [
+      "IV",
+      "THUẾ GIÁ TRỊ GIA TĂNG",
+      "GTHSCTT x TGTGT",
+      "",
+      "GTGT"
+     ],
+     [
+      "",
+      "Chi phí thực hiện sửa chữa sau thuế",
+      "GTHSCTT + GTGT",
+      "",
+      "GTHSC"
+     ],
+     [
+      "V",
+      "Chi phí nhà tạm",
+      "GTHSC x Tỷ lệ",
+      "",
+      "LT"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "Trong đó:"
+  ],
+  [
+   "p",
+   "+ Qj là khối lượng công tác thực hiện sửa chữa công trình thứ j (j = 1 + n);"
+  ],
+  [
+   "p",
+   "+ DjVL, DjNC, DjMTC chi phí vật liệu, nhân công, máy thi công trong giá công tác thực hiện sửa chữa trực tiếp của công trình đối với công tác thực hiện sửa chữa thứ j;"
+  ],
+  [
+   "p",
+   "+ GT: Chi phí gián tiếp;"
+  ],
+  [
+   "p",
+   "+ TL: thu nhập chịu thuế tính trước;"
+  ],
+  [
+   "p",
+   "+ GTHSCTT: Chi phí thực hiện sửa chữa phần xây dựng công trình trước thuế;"
+  ],
+  [
+   "p",
+   "+ TGTGT: mức thuế suất thuế GTGT (nếu có);"
+  ],
+  [
+   "p",
+   "+ GTHSC: Chi phí thực hiện sửa chữa phần xây dựng công trình sau thuế."
+  ],
+  [
+   "p",
+   "+ LT: Chi phí nhà tạm."
+  ]
+ ]
+}

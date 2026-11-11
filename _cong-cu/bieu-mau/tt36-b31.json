@@ -1,0 +1,160 @@
+{
+ "ma": "tt36-b31",
+ "ten": "Tổng hợp chi phí xây dựng",
+ "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+ "nguon": "Bảng 3.1 Phụ lục III Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "89-2026-vbhn-nd-bxd",
+   "6",
+   "Điều 6 Thông tư 36/2026/TT-BXD"
+  ],
+  [
+   "89-2026-vbhn-nd-bxd",
+   "16",
+   "Phụ lục III Thông tư 36/2026/TT-BXD"
+  ]
+ ],
+ "dung_khi": "Tổng hợp chi phí xây dựng của công trình theo Phụ lục III (phương pháp xác định chi phí xây dựng) khi lập dự toán (Điều 6). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP.",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục III"
+  ],
+  [
+   "tieu_de",
+   [
+    "PHƯƠNG PHÁP XÁC ĐỊNH CHI PHÍ XÂY DỰNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Thông tư số 36/2026/TT-BXD ngày 26 tháng 6 năm 2026\ncủa Bộ trưởng Bộ Xây dựng)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Bảng 3.1: TỔNG HỢP CHI PHÍ XÂY DỰNG",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "Dự án:...................................................................................................................."
+  ],
+  [
+   "p",
+   "Công trình:.............................................................................................................."
+  ],
+  [
+   "p",
+   "Đơn vị tính:..."
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "STT",
+     "NỘI DUNG CHI PHÍ",
+     "GIÁ TRỊ TRƯỚC THUẾ",
+     "THUẾ GTGT",
+     "GIÁ TRỊ SAU THUẾ",
+     "KÝ HIỆU"
+    ],
+    "rong": [
+     1,
+     5,
+     2,
+     2,
+     2,
+     1.5
+    ],
+    "dong": [
+     [
+      "",
+      "Chi phí xây dựng",
+      "",
+      "",
+      "",
+      "GXD"
+     ],
+     [
+      "1",
+      "Chi phí xây dựng của công trình thuộc dự án",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2",
+      "Chi phí xây dựng công trình, hạng mục công trình tạm, phụ trợ phục vụ thi công thuộc công trình:",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2.1",
+      "Kho bãi chứa vật liệu (nếu có)",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2.2",
+      "Nhà bao che cho máy (nếu có)",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "…",
+      "…..",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "3",
+      "Chi phí nhà tạm để ở và điều hành thi công",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "4",
+      "Chi phí phá dỡ (nếu có)",
+      "",
+      "",
+      "",
+      ""
+     ]
+    ]
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LẬP",
+     "(Ký, họ tên)"
+    ],
+    [
+     "NGƯỜI CHỦ TRÌ",
+     "(Ký, họ tên)"
+    ]
+   ]
+  ]
+ ]
+}

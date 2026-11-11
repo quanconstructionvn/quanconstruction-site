@@ -10,7 +10,7 @@ Người tạo: Quang Mai Phú – Quan Construction. Cập nhật: 11/11/2026.
 
 ## 2. Trạng thái hiện tại
 - Toàn bộ nằm trên nhánh git **`nhap/chuyen-sau`** (repo `quanconstructionvn/quanconstruction-site`). Đã push nhánh này, CHƯA gộp vào `main`.
-- Đã có: 12 trang (sổ tay trình tự dự án, hồ sơ – thủ tục, QA/QC, giám sát, QS, CCM, lập dự toán, định mức – đơn giá – chỉ số giá, hồ sơ chất lượng & nghiệm thu, biểu mẫu, hỏi đáp 40 câu, công cụ tính nhanh 7 công cụ); menu "Sổ tay xây dựng" trên mọi trang; 24 biểu mẫu × 3 định dạng.
+- Đã có: 12 trang (sổ tay trình tự dự án, hồ sơ – thủ tục, QA/QC, giám sát, QS, CCM, lập dự toán, định mức – đơn giá – chỉ số giá, hồ sơ chất lượng & nghiệm thu, biểu mẫu, hỏi đáp 40 câu, công cụ tính nhanh 7 công cụ); menu "Sổ tay xây dựng" trên mọi trang; 39 biểu mẫu × 3 định dạng (cập nhật 11/11/2026).
 - Đợt 1 (anh duyệt làm **tất cả**): **đã gộp vào nhánh `nhap/chuyen-sau`** (dữ liệu trong `_cong-cu/so-tay-du-lieu/`, nạp bởi hàm `_dot_1()` cuối `_cong-cu/so-tay-xay-dung.py`), **đang chờ anh duyệt đăng**:
   1. Bản đồ công việc tương tác (21 công việc, 5 giai đoạn, lọc loại dự án, checklist, trạng thái, người phụ trách, hạn, lưu trình duyệt, xuất CSV, in).
   2. Checklist hồ sơ khi thanh tra, kiểm tra (182 mục, 10 nhóm; có/thiếu/không áp dụng, ghi chú, xuất CSV, in).
@@ -63,3 +63,5 @@ Dữ liệu đã được chép vào repo tại `_cong-cu/so-tay-du-lieu/` (khi 
 - Văn bản hết hiệu lực vẫn giữ trong thư viện vì còn dùng cho chuyển tiếp: NĐ 16/2022 (vi phạm trước 26/08/2026), NĐ 37/2015 + 50/2021 và Luật Xây dựng 2014 (hợp đồng ký trước 01/07/2026 – khoản 7 Điều 95 Luật Xây dựng 2025).
 
 - 11/11/2026: thêm trang `ho-so-thanh-toan-von-dau-tu-cong` (Hồ sơ tạm ứng, thanh toán vốn đầu tư công theo NĐ 254/2025: hồ sơ pháp lý, tạm ứng, thanh toán, thời hạn, thu hồi tạm ứng); liên kết từ trang QS và bản đồ công việc. Mẫu 02.a, 03.a, 04.a, 04.b, 05.a… chưa làm được vì thư viện chỉ có danh mục phụ lục NĐ 254 (cần nạp toàn văn phụ lục).
+- 11/11/2026: bổ sung 19 mẫu có hiệu lực từ 01/07/2026 lấy từ phụ lục trong thư viện → tổng **39 biểu mẫu × 3 định dạng**: TT 79/2026 (Mẫu 01, 02, 03/DT-QLDA), TT 40/2026 (Bảng 1, 2.1, 2.5, 3.1, 3.2 – bảo dưỡng/bảo trì), TT 36/2026 qua VBHN 89 (Bảng 1.1, 1.2, 2.1, 2.2, 2.4–2.7, 3.1 – sơ bộ TMĐT, TMĐT, dự toán), NĐ 193/2026 (Mẫu 01 quyết toán A-B, Mẫu 02). Lưu ý khi dựng: tiêu đề bảng nhiều tầng đã gộp thành 1 hàng; Mẫu 03/DT-QLDA phần A suy bố cục cột từ văn bản; công thức LaTeX chuyển sang chữ thường.
+- Còn thiếu (thư viện bị cắt chữ hoặc không có phụ lục): TT 79 sáu mẫu QĐ/QT-QLDA; TT 36 từ Bảng 3.4 và Phụ lục IV–VIII; NĐ 207 phụ lục; NĐ 217 Phụ lục II và Mẫu 09–17 PL I; NĐ 254; NĐ 212; QĐ 1040.

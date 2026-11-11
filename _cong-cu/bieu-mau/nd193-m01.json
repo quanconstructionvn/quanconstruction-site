@@ -1,0 +1,179 @@
+{
+ "ma": "nd193-m01",
+ "ten": "Bảng tính giá trị quyết toán hợp đồng giữa chủ đầu tư và nhà thầu (Quyết toán A - B)",
+ "nhom": "Quyết toán vốn dự án (TT 73/2026/TT-BTC)",
+ "nguon": "Mẫu số 01/QTDA ban hành kèm theo Nghị định 193/2026/NĐ-CP",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "193-2026-nd-cp",
+   "7",
+   "Điều 7 Nghị định 193/2026/NĐ-CP"
+  ]
+ ],
+ "dung_khi": "Dự án sử dụng vốn đầu tư công, chi thường xuyên từ ngân sách nhà nước, vốn ngân sách nhà nước khác (Điều 1 Nghị định 193/2026/NĐ-CP; hiệu lực từ 01/07/2026): chủ đầu tư và nhà thầu lập quyết toán A - B kèm hồ sơ trình thẩm tra, phê duyệt quyết toán (Điều 7). Khác với Mẫu số 01/QTDA của Thông tư 73/2026/TT-BTC (Báo cáo tổng hợp quyết toán).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số 01/QTDA"
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Nghị định số 193/2026/NĐ-CP\nngày 01 tháng 6 năm 2026 của Chính phủ)",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [],
+    "ngay": "........., ngày .... tháng .... năm ........."
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BẢNG TÍNH GIÁ TRỊ QUYẾT TOÁN HỢP ĐỒNG GIỮA CHỦ ĐẦU TƯ VÀ NHÀ THẦU (QUYẾT TOÁN A - B)"
+   ]
+  ],
+  [
+   "p",
+   "1. Tên dự án: ............................................................................................................................................................"
+  ],
+  [
+   "p",
+   "2. Tên gói thầu: ......................................................................................"
+  ],
+  [
+   "p",
+   "3. Hợp đồng (gồm cả hợp đồng điều chỉnh, bổ sung, phụ lục hợp đồng (nếu có)): ..........................................................................."
+  ],
+  [
+   "p",
+   "4. Chủ đầu tư/Ban quản lý dự án: ......................................................................"
+  ],
+  [
+   "p",
+   "5. Nhà thầu: ........................................................................................................"
+  ],
+  [
+   "p",
+   "6. Căn cứ xác định: Biên bản nghiệm thu khối lượng công việc hoàn thành của toàn bộ hợp đồng hoặc Biên bản nghiệm thu khối lượng công việc hoàn thành từng lần của hợp đồng (trong trường hợp hợp đồng dừng thực hiện khi chưa hoàn thành toàn bộ hợp đồng); Biên bản nghiệm thu bàn giao đưa vào sử dụng (nếu có)"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "STT",
+     "Tên công việc (gồm công việc, giai đoạn, bộ phận/hàng hóa/thiết bị/tư vấn/chi phí khác) theo hợp đồng",
+     "Khối lượng hoàn thành – Đơn vị tính",
+     "Khối lượng hoàn thành – Theo HĐ/PLHĐ",
+     "Khối lượng hoàn thành – Quyết toán",
+     "Đơn giá theo HĐ/PLHĐ (đồng)",
+     "Giá trị đề nghị quyết toán (đồng)",
+     "Ghi chú"
+    ],
+    "rong": [
+     0.8,
+     4,
+     1.2,
+     1.3,
+     1.3,
+     1.6,
+     1.8,
+     1.2
+    ],
+    "dong": [
+     [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7 = 5*6",
+      "8"
+     ],
+     [
+      "A",
+      "THEO HỢP ĐỒNG (HĐ)/ PHỤ LỤC HỢP ĐỒNG (PLHĐ)"
+     ],
+     [
+      "1",
+      "Trong HĐ ban đầu (bao gồm cả khối lượng tăng, giảm các công việc trong HĐ ban đầu)"
+     ],
+     [
+      "",
+      "..."
+     ],
+     [
+      "2",
+      "Công việc phát sinh được bổ sung ngoài HĐ ban đầu theo quy định (nếu có)"
+     ],
+     [
+      "",
+      "..."
+     ],
+     [
+      "B",
+      "ĐIỀU CHỈNH THEO QUY ĐỊNH CỦA NHÀ NƯỚC (THUẾ, PHÍ,...)"
+     ],
+     [
+      "",
+      "..."
+     ],
+     [
+      "C",
+      "ĐIỀU CHỈNH THEO KẾT LUẬN CỦA CƠ QUAN CÓ THẨM QUYỀN (THANH TRA, KIỂM TOÁN NHÀ NƯỚC,...) trong trường hợp chưa giảm trừ (khối lượng, dự toán, thanh toán) trong quá trình thực hiện HĐ."
+     ],
+     [
+      "",
+      "..."
+     ],
+     [
+      "D",
+      "GIÁ TRỊ ĐIỀU CHỈNH GIÁ (Đối với các HĐ theo đơn giá điều chỉnh)"
+     ],
+     [
+      "",
+      "TỔNG CỘNG (A+B+C+D)"
+     ],
+     [
+      "",
+      "TỔNG CỘNG (LÀM TRÒN)"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Giá trị quyết toán:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   "Bằng số: ...............................................................đồng"
+  ],
+  [
+   "p",
+   "Bằng chữ: ...................................................................."
+  ],
+  [
+   "ky",
+   [
+    [
+     "NHÀ THẦU",
+     "(Ký, ghi rõ họ tên, chức vụ và đóng dấu)"
+    ],
+    [
+     "CHỦ ĐẦU TƯ",
+     "(Ký, ghi rõ họ tên, chức vụ và đóng dấu)"
+    ]
+   ]
+  ]
+ ]
+}

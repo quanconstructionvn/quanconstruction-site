@@ -1,0 +1,231 @@
+{
+ "ma": "tt40-b1",
+ "ten": "Tổng hợp chi phí bảo trì công trình xây dựng",
+ "nhom": "Chi phí bảo trì công trình (TT 40/2026/TT-BXD)",
+ "nguon": "Bảng 1 Phụ lục I ban hành kèm theo Thông tư 40/2026/TT-BXD",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "40-2026-tt-bxd",
+   "2",
+   "Điều 2 Thông tư 40/2026/TT-BXD"
+  ],
+  [
+   "40-2026-tt-bxd",
+   "8",
+   "Phụ lục I Thông tư 40/2026/TT-BXD"
+  ]
+ ],
+ "dung_khi": "Xác định, tổng hợp chi phí bảo trì công trình xây dựng gồm chi phí bảo dưỡng, sửa chữa và các công việc khác trong kế hoạch bảo trì (Điều 2 Thông tư 40/2026/TT-BXD; hiệu lực từ 01/07/2026).",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục I"
+  ],
+  [
+   "tieu_de",
+   [
+    "TỔNG HỢP CHI PHÍ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "(Ban hành kèm theo Thông tư số 40/2026/TT-BXD ngày 26 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Bảng 1. TỔNG HỢP CHI PHÍ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị tính: đồng",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "TT",
+     "Khoản mục chi phí",
+     "Giá trị trước thuế",
+     "Thuế GTGT",
+     "Giá trị sau thuế",
+     "Ký hiệu"
+    ],
+    "rong": [
+     1,
+     5,
+     2,
+     2,
+     2,
+     1.5
+    ],
+    "dong": [
+     [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[4]",
+      "[5]",
+      "[6]"
+     ],
+     [
+      "1",
+      "Chi phí bảo dưỡng công trình",
+      "",
+      "",
+      "",
+      "GBD"
+     ],
+     [
+      "1.1",
+      "Chi phí thực hiện bảo dưỡng",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "1.2",
+      "Chi phí khác",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "1.3",
+      "Chi phí dự phòng (nếu có)",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2",
+      "Chi phí sửa chữa công trình",
+      "",
+      "",
+      "",
+      "GSC"
+     ],
+     [
+      "2.1",
+      "Chi phí thực hiện sửa chữa",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2.2",
+      "Chi phí khác",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "2.3",
+      "Chi phí dự phòng (nếu có)",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "3",
+      "Chi phí các công việc khác trong kế hoạch bảo trì công trình",
+      "",
+      "",
+      "",
+      "GK"
+     ],
+     [
+      "3.1",
+      "Chi phí quản lý của chủ sở hữu, chủ sử dụng công trình",
+      "",
+      "",
+      "",
+      "GQL"
+     ],
+     [
+      "3.2",
+      "Chi phí kiểm tra",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "3.3",
+      "Chi phí quan trắc (nếu có)",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "3.4",
+      "Chi phí kiểm định chất lượng (nếu có)",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "3.5",
+      "Chi phí đánh giá an toàn công trình (nếu có)",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "3.6",
+      "Lập kế hoạch bảo trì hàng năm",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "3.7",
+      "Lập, thẩm tra hoặc điều chỉnh quy trình bảo trì công trình xây dựng (nếu có)",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "3.8",
+      "Các chi phí thực hiện các công việc khác có liên quan theo quy định của pháp luật chuyên ngành (nếu có)",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "",
+      "TỔNG CỘNG (1+2+3)",
+      "",
+      "",
+      "",
+      "GBT"
+     ]
+    ]
+   }
+  ]
+ ]
+}

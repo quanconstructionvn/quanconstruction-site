@@ -1,0 +1,144 @@
+{
+ "ma": "tt36-b24",
+ "ten": "Tổng hợp chi phí tư vấn xây dựng",
+ "nhom": "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)",
+ "nguon": "Bảng 2.4 Phụ lục II Thông tư 36/2026/TT-BXD (Văn bản hợp nhất 89/2026/VBHN-TT-BXD)",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "89-2026-vbhn-nd-bxd",
+   "6",
+   "Điều 6 Thông tư 36/2026/TT-BXD"
+  ],
+  [
+   "89-2026-vbhn-nd-bxd",
+   "16",
+   "Phụ lục II Thông tư 36/2026/TT-BXD"
+  ]
+ ],
+ "dung_khi": "Tổng hợp chi phí tư vấn xây dựng trong dự toán xây dựng công trình (Điều 6, khoản 4 mục 1 Phụ lục II). Thông tư 36/2026/TT-BXD hiệu lực từ 01/07/2026; áp dụng cho các đối tượng quy định tại Điều 2 Nghị định 206/2026/NĐ-CP.",
+ "khoi": [
+  [
+   "mau_so",
+   "Phụ lục II"
+  ],
+  [
+   "tieu_de",
+   [
+    "PHƯƠNG PHÁP XÁC ĐỊNH DỰ TOÁN XÂY DỰNG"
+   ]
+  ],
+  [
+   "p",
+   {
+    "t": "(Kèm theo Thông tư số 36/2026/TT-BXD ngày 26 tháng 6 năm 2026\ncủa Bộ trưởng Bộ Xây dựng)",
+    "i": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Bảng 2.4: TỔNG HỢP CHI PHÍ TƯ VẤN XÂY DỰNG",
+    "b": true,
+    "can": "center"
+   }
+  ],
+  [
+   "p",
+   "Dự án:...................................................................................................................."
+  ],
+  [
+   "p",
+   "Công trình:.............................................................................................................."
+  ],
+  [
+   "p",
+   "Đơn vị tính:..."
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "STT",
+     "NỘI DUNG CHI PHÍ",
+     "GIÁ TRỊ TRƯỚC THUẾ",
+     "THUẾ GTGT",
+     "GIÁ TRỊ SAU THUẾ",
+     "KÝ HIỆU"
+    ],
+    "rong": [
+     1,
+     5,
+     2,
+     2,
+     2,
+     1.5
+    ],
+    "dong": [
+     [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[4]",
+      "[5]",
+      "[6]"
+     ],
+     [
+      "1",
+      "Chi phí thiết kế xây dựng công trình",
+      "",
+      "",
+      "",
+      "GTK"
+     ],
+     [
+      "2",
+      "Chi phí giám sát thi công xây dựng",
+      "",
+      "",
+      "",
+      "GGS"
+     ],
+     [
+      "...",
+      "...",
+      "",
+      "",
+      "",
+      ""
+     ],
+     [
+      "...",
+      "Chi phí tư vấn khác có liên quan đến công trình (nếu có)",
+      "",
+      "",
+      "",
+      "GTVK"
+     ],
+     [
+      "",
+      "TỔNG CỘNG",
+      "",
+      "",
+      "",
+      "GTV"
+     ]
+    ]
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LẬP",
+     "(Ký, họ tên)"
+    ],
+    [
+     "NGƯỜI CHỦ TRÌ",
+     "(Ký, họ tên)"
+    ]
+   ]
+  ]
+ ]
+}

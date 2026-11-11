@@ -1,0 +1,217 @@
+{
+ "ma": "tt79-dt01",
+ "ten": "Bảng tính chi phí tư vấn, quản lý dự án (lập riêng cho từng dự án)",
+ "nhom": "Dự toán, quyết toán thu chi quản lý dự án (TT 79/2026/TT-BTC)",
+ "nguon": "Mẫu số 01(i)/DT-QLDA ban hành kèm theo Thông tư 79/2026/TT-BTC",
+ "loai": "chinh-thuc",
+ "can_cu": [
+  [
+   "79-2026-tt-btc",
+   "6",
+   "Điều 6 Thông tư 79/2026/TT-BTC"
+  ],
+  [
+   "79-2026-tt-btc",
+   "9",
+   "điểm b khoản 2 Điều 9 Thông tư 79/2026/TT-BTC"
+  ]
+ ],
+ "dung_khi": "Chủ đầu tư, ban quản lý dự án có dự án sử dụng vốn ngân sách nhà nước (Điều 1 Thông tư 79/2026/TT-BTC; hiệu lực từ 01/07/2026) xác định nguồn thu từ chi phí do mình thực hiện của từng dự án được giao quản lý, làm căn cứ lập dự toán thu (Điều 6) và hồ sơ trình thẩm định, phê duyệt dự toán hằng năm (Điều 9).",
+ "khoi": [
+  [
+   "mau_so",
+   "Mẫu số: 01(i)/DT-QLDA"
+  ],
+  [
+   "p",
+   {
+    "t": "(Lập riêng cho từng dự án)",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "quoc_hieu",
+   {
+    "trai": [
+     "CHỦ ĐẦU TƯ/BQLDA",
+     "__________"
+    ],
+    "ngay": "..........., ngày     tháng     năm"
+   }
+  ],
+  [
+   "tieu_de",
+   [
+    "BẢNG TÍNH CHI PHÍ TƯ VẤN, QUẢN LÝ DỰ ÁN"
+   ]
+  ],
+  [
+   "p",
+   "Chủ đầu tư:"
+  ],
+  [
+   "p",
+   "Ban quản lý dự án (BQLDA):"
+  ],
+  [
+   "p",
+   "Tên dự án:"
+  ],
+  [
+   "p",
+   "Thời gian thực hiện dự án: Từ tháng...năm.... đến tháng...năm...."
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị tính: đồng",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Số TT",
+     "Nội dung",
+     "Ký hiệu"
+    ],
+    "rong": [
+     1,
+     7,
+     2.5
+    ],
+    "dong": [
+     [
+      "I",
+      "Chi phí quản lý dự án:",
+      "GQLDA"
+     ],
+     [
+      "II",
+      "Các khoản chi phí tư vấn do chủ đầu tư, BQLDA tự thực hiện:",
+      "GTV"
+     ],
+     [
+      "1",
+      "......",
+      ""
+     ],
+     [
+      "...",
+      "......",
+      ""
+     ],
+     [
+      "III",
+      "Chi khác do chủ đầu tư, BQLDA được phép thực hiện theo quy định của pháp luật (nếu có):",
+      "GK"
+     ],
+     [
+      "1",
+      "......",
+      ""
+     ],
+     [
+      "...",
+      "......",
+      ""
+     ],
+     [
+      "IV",
+      "Dự kiến những công việc thuộc chi phí QLDA cần phải thuê tư vấn (nếu có):",
+      "GT"
+     ],
+     [
+      "1",
+      "......",
+      ""
+     ],
+     [
+      "...",
+      "......",
+      ""
+     ],
+     [
+      "V",
+      "Tổng mức kinh phí do chủ đầu tư, BQLDA được sử dụng\n(V = I + II + III - IV)\nGQLDA (CĐT) = GQLDA + GTV + GK - GT\nTrong đó: - Chủ đầu tư sử dụng:\n- BQLDA sử dụng:",
+      "GQLDA (CĐT)"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Dự kiến phân bổ cho các năm:",
+    "b": true
+   }
+  ],
+  [
+   "p",
+   {
+    "t": "Đơn vị tính: đồng",
+    "i": true,
+    "can": "right"
+   }
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Năm",
+     "Tổng số",
+     "Trong đó – Chủ đầu tư sử dụng",
+     "Trong đó – BQLDA sử dụng"
+    ],
+    "rong": [
+     2,
+     2,
+     2,
+     2
+    ],
+    "dong": [
+     [
+      "...",
+      "",
+      "",
+      ""
+     ],
+     [
+      "...",
+      "",
+      "",
+      ""
+     ],
+     [
+      "Chi dự phòng",
+      "",
+      "",
+      ""
+     ]
+    ]
+   }
+  ],
+  [
+   "ky",
+   [
+    [
+     "NGƯỜI LẬP BIỂU",
+     "(Ký, ghi rõ họ tên)"
+    ],
+    [
+     "THỦ TRƯỞNG",
+     "(Ký, đóng dấu, ghi rõ họ tên)"
+    ]
+   ]
+  ],
+  [
+   "ghi_chu",
+   [
+    "Mẫu số 01(i)/DT-QLDA lập riêng cho từng dự án; (i) sẽ chạy từ 1 đến n đối với trường hợp chủ đầu tư được giao quản lý nhiều dự án."
+   ]
+  ]
+ ]
+}

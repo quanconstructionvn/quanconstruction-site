@@ -1042,7 +1042,7 @@ def _bieu_mau():
     import json, os
     f = os.path.join(os.path.dirname(os.path.abspath(__file__)), "bieu-mau-danh-sach.json")
     ds = json.load(open(f, encoding="utf-8")) if os.path.exists(f) else []
-    thu_tu = ["Thẩm định", "Thi công", "Thanh toán", "Quyết toán"]
+    thu_tu = ["Thẩm định", "Tổng mức", "Thi công", "Chi phí bảo trì", "Thanh toán", "Quyết toán", "Dự toán, quyết toán thu chi"]
     nhom = sorted({m["nhom"] for m in ds}, key=lambda n: next((i for i, k in enumerate(thu_tu) if n.startswith(k)), 9))
     tai = lambda m: " · ".join(f'<a href="/so-tay-xay-dung/bieu-mau/{m["ma"]}.{e}" download>{t}</a>' for e, t in (("pdf", "PDF"), ("docx", "Word"), ("xlsx", "Excel")))
     body = [
@@ -1062,6 +1062,7 @@ def _bieu_mau():
             "Phụ lục II Nghị định 217/2026/NĐ-CP: đơn đề nghị cấp, điều chỉnh, gia hạn, cấp lại giấy phép xây dựng và mẫu giấy phép xây dựng; các Mẫu số 09–17 Phụ lục I (quyết định phê duyệt dự án, thiết kế, phiếu bổ sung hồ sơ…).",
             "Các phụ lục của Nghị định 207/2026/NĐ-CP: nhật ký thi công, mẫu dấu bản vẽ hoàn công, báo cáo giám sát, thông báo khởi công, báo cáo hoàn thành thi công, thông báo kết quả kiểm tra công tác nghiệm thu.",
             "Mẫu thanh toán vốn đầu tư công (Nghị định 254/2025/NĐ-CP); Mẫu số 10–12/QTDA Thông tư 73/2026/TT-BTC.",
+            "Mẫu 01, 02/QĐ-QLDA, 01, 02/QT-QLDA, 01.QĐ, 02.QĐ/QT-QLDA Thông tư 79/2026/TT-BTC; các bảng từ Bảng 3.4 trở đi và Phụ lục IV–VIII Thông tư 36/2026/TT-BXD; mẫu hồ sơ chứng chỉ hành nghề, chứng chỉ năng lực theo Nghị định 212/2026/NĐ-CP; mẫu hợp đồng xây dựng theo Quyết định 1040/QĐ-BXD.",
             "Đã lược bỏ (11/11/2026): chứng từ chi ngân sách qua Kho bạc theo Nghị định 347/2025/NĐ-CP (không dùng cho thanh toán vốn đầu tư xây dựng) và Mẫu 09/QTDA (chỉ dùng cho dự án quan trọng quốc gia).",
         ]),
         ("p", "Muốn tạo các hồ sơ này tự động từ dữ liệu công trường (nhật ký, phiếu yêu cầu nghiệm thu, biên bản, bộ hồ sơ hoàn thành), có thể dùng phần mềm <b>QC Quản lý dự án</b> của Quan Construction – <a href=\"/lien-he.html\">liên hệ</a> để được giới thiệu. Xem thêm " + '<a href="/so-tay-xay-dung/ho-so-chat-luong-nghiem-thu.html">hồ sơ chất lượng và nghiệm thu</a>' + "."),

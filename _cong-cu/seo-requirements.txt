@@ -1,0 +1,2 @@
+# Người tạo: Quang Mai Phú
+google-auth[requests]==2.62.0

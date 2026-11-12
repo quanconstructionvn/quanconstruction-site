@@ -60,6 +60,7 @@ class AuditTests(unittest.TestCase):
 
     def test_connection_error_stops_batch_and_preserves_unknown_states(self):
         m = self.module()
+        m.sleep = lambda seconds: None
         class Session:
             def __init__(self):
                 self.calls = 0
@@ -74,9 +75,47 @@ class AuditTests(unittest.TestCase):
         rows = [{'url':m.SITE+'/a','index_status':'not_checked'},
                 {'url':m.SITE+'/b','index_status':'not_checked'}]
         self.assertEqual(m.inspect_pages(rows,'configured',m.SITE+'/'), 'connection_error')
-        self.assertEqual(session.calls, 1)
+        self.assertEqual(session.calls, 3)
         self.assertTrue(session.closed)
         self.assertEqual(rows[1]['index_status'],'not_checked')
+
+    def test_transient_network_and_server_errors_recover_without_losing_result(self):
+        m = self.module()
+        delays = []
+        m.sleep = delays.append
+        class Response:
+            def __init__(self, code): self.status_code = code
+            def json(self): return {'inspectionResult':{'indexStatusResult':{'verdict':'PASS'}}}
+        class Session:
+            def __init__(self): self.calls = 0
+            def post(self, *args, **kwargs):
+                self.calls += 1
+                if self.calls == 1: raise TimeoutError()
+                return Response(503 if self.calls == 2 else 200)
+            def close(self): pass
+        session = Session()
+        m.gsc_session = lambda raw: session
+        rows = [{'url':m.SITE+'/a', 'index_status':'not_checked'},
+                {'url':m.SITE+'/b', 'index_status':'not_checked'}]
+        self.assertEqual(m.inspect_pages(rows,'configured',m.SITE+'/'),'connected')
+        self.assertEqual([r['index_status'] for r in rows],['indexed','indexed'])
+        self.assertEqual(session.calls,4)
+        self.assertEqual(delays,[2,4])
+
+    def test_permission_error_does_not_retry_or_claim_indexed(self):
+        m = self.module()
+        class Session:
+            calls = 0
+            def post(self, *args, **kwargs):
+                self.calls += 1
+                return type('Response',(),{'status_code':403})()
+            def close(self): pass
+        session = Session()
+        m.gsc_session = lambda raw: session
+        rows = [{'url':m.SITE+'/a','index_status':'not_checked'}]
+        self.assertEqual(m.inspect_pages(rows,'configured',m.SITE+'/'),'permission_error')
+        self.assertEqual(session.calls,1)
+        self.assertEqual(rows[0]['index_status'],'not_checked')
 
 
 if __name__ == '__main__':

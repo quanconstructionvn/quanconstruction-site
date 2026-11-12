@@ -1,6 +1,9 @@
 # Kiểm tra SEO và lập chỉ mục định kỳ
 Người tạo: Quang Mai Phú
 
+Người chỉnh sửa: Quang Mai Phú – bổ sung thử lại lỗi kết nối tạm thời ngày 12/11/2026.
+Mỗi yêu cầu URL Inspection thử tối đa 3 lần nếu lỗi mạng, HTTP 408 hoặc 5xx, chờ 2 và 4 giây giữa các lần thử. Lỗi xác thực, thiếu quyền hoặc hạn mức không được thử lặp lại. Nếu vẫn không đọc được Google, giữ báo cáo chưa đầy đủ và trạng thái lỗi; không biến lỗi API thành URL chưa lập chỉ mục. Giới hạn lượt kiểm tra là 30 phút.
+
 ## Đã cấu hình
 Workflow **Daily SEO and indexing audit** chạy 08:00 hằng ngày theo giờ Việt Nam (GitHub có thể xếp hàng trễ), hoặc chạy tay bằng Actions → chọn workflow → Run workflow → main.
 

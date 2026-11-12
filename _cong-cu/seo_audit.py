@@ -8,6 +8,7 @@ import json
 import os
 from pathlib import Path
 import re
+from time import sleep
 from urllib.error import HTTPError
 from urllib.parse import urlsplit
 from urllib.request import Request, HTTPRedirectHandler, build_opener
@@ -139,15 +140,31 @@ def inspect_pages(rows, raw, property_url):
     try:
         for position, row in enumerate(rows, 1):
             print(f'Google URL Inspection {position}/{len(rows)}', flush=True)
+            response = None
+            # Người chỉnh sửa: Quang Mai Phú – thử lại lỗi mạng/5xx tạm thời.
+            # URL Inspection chỉ đọc trạng thái nên thử lại không thay đổi Google index.
+            for attempt in range(3):
+                try:
+                    response = session.post(API, json={'inspectionUrl':row['url'], 'siteUrl':property_url,
+                                                     'languageCode':'vi-VN'}, timeout=30)
+                except Exception:
+                    response = None
+                if response is not None and response.status_code < 500 and response.status_code != 408:
+                    break
+                if attempt < 2:
+                    print(f'Google API tạm gián đoạn, thử lại {attempt + 2}/3.', flush=True)
+                    sleep(2 ** (attempt + 1))
+            if response is None:
+                row['index_status'] = 'api_error'
+                state = 'connection_error'
+                break
             try:
-                response = session.post(API, json={'inspectionUrl':row['url'], 'siteUrl':property_url,
-                                                 'languageCode':'vi-VN'}, timeout=30)
                 if response.status_code in (401,403,429):
                     state = {401:'authentication_error',403:'permission_error',429:'quota_exceeded'}[response.status_code]
                     break
                 if response.status_code != 200:
                     row['index_status'] = 'api_error'
-                    if response.status_code >= 500:
+                    if response.status_code >= 500 or response.status_code == 408:
                         state = 'service_error'
                         break
                 else:

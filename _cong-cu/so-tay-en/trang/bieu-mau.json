@@ -1,0 +1,47 @@
+{
+ "title": "Construction forms under Decrees and Circulars: PDF, Word, Excel",
+ "ngan": "Downloadable forms",
+ "desc": "Forms reproduced verbatim from decree and circular appendices: appraisal, acceptance, payment, capital settlement. Free PDF, Word and Excel downloads.",
+ "summary": "104 forms taken from the appendices of legal documents, each available in 3 versions: PDF, Word and Excel.",
+ "lead": "Forms reproduced verbatim from decree and circular appendices, with the form number and source document stated.",
+ "body": [
+  [
+   "p",
+   "This page gathers <b>{N} forms</b> taken from the appendices of decrees and circulars currently in force; the forms themselves are in Vietnamese, as issued under Vietnamese law. Each form comes in 3 versions, <b>PDF, Word and Excel</b>, to print or to complete on a computer. The content of each form is reproduced verbatim from the legal document, with nothing added or removed; the form number, appendix and source document are stated on each form."
+  ],
+  [
+   "p",
+   "For some documents that the law <b>does not provide a form template</b> for but only prescribes mandatory content (for example, the record of acceptance of work items), the form is presented in line with, and consists only of, that mandatory content, with a note at the top of the form: “The law does not issue a template - presented according to the mandatory content in …”."
+  ],
+  [
+   "bieu-mau",
+   "groups"
+  ],
+  [
+   "h2",
+   "Forms pending addition"
+  ],
+  [
+   "p",
+   "The following forms appear in legal documents, but our library does not yet have the full text of the appendices. They will be added once the original documents have been loaded from the National Legal Portal:"
+  ],
+  [
+   "ul",
+   [
+    "Decree 212/2026/ND-CP, Appendix III: Forms 03 (practice certificate form), 05, 08, 09, 10, 12, 13.",
+    "Decree 254/2025/ND-CP: Form 04.d/TT (the existing appendix text is missing words in the column headings), and payment orders 05.b-05.e/TT. Capital allocation forms of ministries, People's Committees and overseas projects, and the State Treasury's internal forms, are not included.",
+    "Appendix VI of Circular 36/2026/TT-BXD (the published version is a scanned image).",
+    "Construction contract templates under Decision 1040/QD-BXD are not included because they were drafted under Decree 37/2015/ND-CP (still used only for contracts signed before 1 July 2026).",
+    "Removed (11 November 2026): State Treasury budget expenditure vouchers under Decree 347/2025/ND-CP (not used for payment of construction investment capital) and Form 09/QTDA (used only for nationally important projects)."
+   ]
+  ],
+  [
+   "p",
+   "To generate these documents automatically from site data (diaries, acceptance request forms, records, completion dossiers), you can use the <b>QC Project Management</b> software of Quan Construction - <a href=\"/lien-he.html\">contact us</a> for an introduction. See also <a href=\"/so-tay-xay-dung/ho-so-chat-luong-nghiem-thu.html\">quality and acceptance records</a>."
+  ],
+  [
+   "note",
+   "The forms are reproduced from legal documents for reference and use; when a document is amended or replaced, use the new form. Some source documents are partially no longer in force - see the status of each document in the library. Multi-column tables have been rebuilt from the full text, so the layout may differ from the printed version of the issuing authority; the wording is unchanged."
+  ]
+ ]
+}

@@ -42,7 +42,7 @@ CSS = """<style>
 </style>"""
 
 
-def block(k, v):
+def block(k, v, en=False):
     if k == "h2":
         a = re.sub(r"[^a-z0-9]+", "-", v.lower().encode("ascii", "ignore").decode()).strip("-")
         return f"<h2>{esc(v)}</h2>"
@@ -56,20 +56,22 @@ def block(k, v):
     if k == "faq": return '<div class="cs-faq">' + "".join(f"<details><summary>{esc(q)}</summary><div>{a}</div></details>" for q, a in v) + "</div>"
     if k == "html": return v
     if k == "st":  # công cụ tương tác: [kiểu, file JSON trong _cong-cu/so-tay-du-lieu/]
-        d = open(P("_cong-cu", "so-tay-du-lieu", v[1]), encoding="utf-8").read().replace("</", "<\\/")
+        fn = v[1].replace(".json", ".en.json") if en and os.path.exists(P("_cong-cu", "so-tay-du-lieu", v[1].replace(".json", ".en.json"))) else v[1]
+        d = open(P("_cong-cu", "so-tay-du-lieu", fn), encoding="utf-8").read().replace("</", "<\\/")
         return (f'<script type="application/json" data-st="{v[0]}">{d}</script>'
-                '<noscript><p>Công cụ này cần bật JavaScript.</p></noscript><script src="/js/so-tay-tuong-tac.js?v=1" defer></script>')
+                + ('<noscript><p>This tool requires JavaScript.</p></noscript>' if en else '<noscript><p>Công cụ này cần bật JavaScript.</p></noscript>')
+                + '<script src="/js/so-tay-tuong-tac.js?v=2" defer></script>')
     raise ValueError(k)
 
 
-def render(blocks):
+def render(blocks, en=False):
     out, toc, n = [], [], 0
     for k, v in blocks:
         if k == "h2":
             n += 1; toc.append(v); out.append(f'<h2 id="m{n}">{esc(v)}</h2>')
         else:
-            out.append(block(k, v))
-    t = ('<nav class="cs-toc"><b>Nội dung trang</b><ol>' + "".join(f'<li><a href="#m{i+1}">{esc(x)}</a></li>' for i, x in enumerate(toc)) + "</ol></nav>") if len(toc) >= 4 else ""
+            out.append(block(k, v, en))
+    t = (f'<nav class="cs-toc"><b>{"On this page" if en else "Nội dung trang"}</b><ol>' + "".join(f'<li><a href="#m{i+1}">{esc(x)}</a></li>' for i, x in enumerate(toc)) + "</ol></nav>") if len(toc) >= 4 else ""
     return t + "".join(out)
 
 
@@ -146,5 +148,155 @@ def main():
     print(f"Đã tạo trang Sổ tay xây dựng + {len(pages)} trang con")
 
 
+# ---- Bản tiếng Anh (Quang Mai Phú, 12/11/2026): dữ liệu dịch trong _cong-cu/so-tay-en/ ----
+#   chung.json (tiêu đề, giới thiệu, nhóm, vai trò); trang/<slug>.json (title, ngan, desc, summary, lead, body);
+#   bieu-mau.json (tên, công dụng, nguồn từng biểu mẫu – bản mẫu tải về giữ tiếng Việt); so-tay-du-lieu/*.en.json (công cụ tương tác).
+#   Tạo /en/so-tay-xay-dung.html và /en/so-tay-xay-dung/<slug>.html; trang Việt được thêm hreflang en và nút đổi ngôn ngữ.
+def _en_tpl():
+    s = open(P("en", "tin-tuc.html"), encoding="utf-8").read()
+    def absol(x):
+        x = re.sub(r'(href|src)="\.\./', r'\1="/', x)
+        return re.sub(r'(href|src)="(?!/|https?:|tel:|mailto:|#)([^"]+)"', r'\1="/en/\2"', x)
+    hdr = absol(s[s.index("<header"):s.index("</header>") + 9])
+    hdr = hdr.replace('<a href="/en/tin-tuc.html" class=on>News</a>', '<a href="/en/tin-tuc.html">News</a>').replace('<a href="/en/so-tay-xay-dung.html">Handbook</a>', '<a href="/en/so-tay-xay-dung.html" class=on>Handbook</a>', 1)
+    foot = re.sub(r'<script src="/js/content\.js[^"]*"></script>', '', absol(s[s.index('<div class="fab"'):]))
+    return hdr, foot
+
+
+def _en_links(h):
+    def f(m):
+        u = m.group(1)
+        if u.startswith("/phap-ly") or u.startswith("/en/"): return m.group(0)
+        return f'href="/en{u}"' if os.path.exists(P("en", u.lstrip("/"))) else m.group(0)
+    return re.sub(r'href="(/[a-z0-9/-]+\.html)"', f, h)
+
+
+def tao_en():
+    d = P("_cong-cu", "so-tay-en")
+    if not os.path.exists(os.path.join(d, "chung.json")): return
+    ch = json.load(open(os.path.join(d, "chung.json"), encoding="utf-8"))
+    nhom_en = dict(ch["NHOM"])
+    pages = []
+    for t in cs.TRANG:
+        f = os.path.join(d, "trang", t["slug"] + ".json")
+        if os.path.exists(f):
+            e = json.load(open(f, encoding="utf-8")); e.update(slug=t["slug"], nhom=t["nhom"], ngay=t["ngay"], an_menu=t.get("an_menu")); pages.append(e)
+    slugs = {t["slug"] for t in pages}
+    os.makedirs(P("en", "so-tay-xay-dung"), exist_ok=True)
+    for f in os.listdir(P("en", "so-tay-xay-dung")):
+        if f.endswith(".html") and f[:-5] not in slugs: os.remove(P("en", "so-tay-xay-dung", f))
+    # Trang con tiếng Anh tồn tại trước khi đổi liên kết
+    for t in pages: open(P("en", "so-tay-xay-dung", t["slug"] + ".html"), "a").close()
+    open(P("en", "so-tay-xay-dung.html"), "a").close()
+    hdr0, foot = _en_tpl()
+    bm = json.load(open(os.path.join(d, "bieu-mau.json"), encoding="utf-8")) if os.path.exists(os.path.join(d, "bieu-mau.json")) else {"forms": {}, "nhom": {}}
+
+    def bieu_mau_groups():
+        ds = json.load(open(P("_cong-cu", "bieu-mau-danh-sach.json"), encoding="utf-8"))
+        thu_tu = ["Thẩm định", "Tổng mức", "Thi công", "Chi phí bảo trì", "Thanh toán", "Quyết toán", "Dự toán, quyết toán thu chi"]
+        nhom = sorted({m["nhom"] for m in ds}, key=lambda n: next((i for i, k in enumerate(thu_tu) if n.startswith(k)), 9))
+        tai = lambda m: " · ".join(f'<a href="/so-tay-xay-dung/bieu-mau/{m["ma"]}.{x}" download>{y}</a>' for x, y in (("pdf", "PDF"), ("docx", "Word"), ("xlsx", "Excel")))
+        out = []
+        for n in nhom:
+            ms = [m for m in ds if m["nhom"] == n]
+            out.append(("h2", bm["nhom"].get(n, n)))
+            rows = []
+            for m in ms:
+                e = bm["forms"].get(m["ma"], {})
+                lab = e.get("can_cu") or [x[2] for x in m["can_cu"]]
+                rows.append([f'<b>{e.get("ten", m["ten"])}</b>' + (" <i>(mandatory content per the law)</i>" if m["loai"] == "noi-dung" else ""), e.get("dung_khi", m["dung_khi"]),
+                             e.get("nguon", m["nguon"]) + "<br>" + "; ".join(cs.L(i, dd, lab[k] if k < len(lab) else tt) for k, (i, dd, tt) in enumerate(m["can_cu"])), tai(m)])
+            out.append(("table", {"cot": ["Form", "When used", "Source – legal basis", "Download (Vietnamese)"], "dong": rows}))
+        return out, len(ds)
+
+    def side(cur):
+        o = []
+        for nh, _ in cs.NHOM:
+            ds = [t for t in pages if t["nhom"] == nh and not t.get("an_menu")]
+            if ds:
+                o.append(f"<b>{esc(nhom_en.get(nh, nh))}</b>" + "".join(f'<a href="/en/so-tay-xay-dung/{t["slug"]}.html"{" class=on" if t["slug"] == cur else ""}>{esc(t["ngan"])}</a>' for t in ds))
+        return '<aside class="cs-nav"><a href="/en/so-tay-xay-dung.html"' + (' class=on' if cur is None else '') + '>« Construction Handbook</a>' + "".join(o) + "</aside>"
+
+    def page(path_vi, path_en, title, desc, crumb, h1, lead, inner, cur, extra_ld=None, upd=None):
+        url, vi = SITE + path_en, SITE + path_vi
+        h = (hdr0.replace('<a class="lg" href="/tin-tuc.html">', f'<a class="lg" href="{path_vi}">')
+             .replace('<a class="" href="/tin-tuc.html" title="Tiếng Việt"', f'<a class="" href="{path_vi}" title="Tiếng Việt"')
+             .replace('<a class="on" href="/en/tin-tuc.html" title="English"', f'<a class="on" href="{path_en}" title="English"'))
+        body = (f'<div class="ph cs-ph"><div class="w"><div class="cs-crumb"><a href="/en/index.html">Home</a> › {crumb}</div>'
+                f'<span class="eyebrow">Construction Handbook · QA/QC · QS · CCM · Supervision</span><h1>{esc(h1)}</h1>{"<p>" + _en_links(lead) + "</p>" if lead else ""}</div></div>\n'
+                f'<div class="w cs-wrap">{side(cur)}<article class="cs-tx">{f"<div class=cs-meta>Quan Construction · updated {upd}</div>" if upd else ""}{_en_links(inner)}'
+                f'<p style="font-size:14px;color:var(--mut)">Linked legal documents and downloadable forms are in Vietnamese. <a href="{path_vi}" hreflang="vi">View this page in Vietnamese</a>.</p>'
+                f'<p style="margin-top:26px"><a class="btn p" href="/en/lien-he.html" style="color:#fff">Need project management, cost estimating or supervision support? Contact Quan Construction →</a></p></article></div>')
+        ld = [{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": SITE + "/en/index.html"},
+            {"@type": "ListItem", "position": 2, "name": "Construction Handbook", "item": SITE + "/en/so-tay-xay-dung.html"}] +
+            ([{"@type": "ListItem", "position": 3, "name": h1, "item": url}] if cur else [])}]
+        if extra_ld: ld.append(extra_ld)
+        jl = "".join(f'<script type="application/ld+json">{json.dumps(x, ensure_ascii=False)}</script>' for x in ld)
+        t = esc((title if len(title) <= 70 else title[:68].rsplit(" ", 1)[0] + "…") + " | Quan Construction")
+        de = esc(desc)
+        return ('<!doctype html><!-- Created by: Quang Mai Phú – Construction Handbook, English (generated by _cong-cu/tao-so-tay-xay-dung.py) -->\n'
+                '<html lang="en"><head><meta charset="utf-8"><script src="/js/thong-ke.js?v=2"></script><meta name="viewport" content="width=device-width,initial-scale=1">\n'
+                f'<title>{t}</title><meta name="description" content="{de}">'
+                f'<link rel="alternate" hreflang="vi" href="{vi}"><link rel="alternate" hreflang="en" href="{url}"><link rel="alternate" hreflang="x-default" href="{vi}"><link rel="canonical" href="{url}">\n'
+                f'<meta property="og:title" content="{t}"><meta property="og:description" content="{de}"><meta property="og:type" content="article"><meta property="og:locale" content="en_US"><meta property="og:url" content="{url}"><meta property="og:image" content="https://quanconstruction.biz.vn/img/logo.png">\n'
+                '<meta name="theme-color" content="#0a1d3f"><link rel="icon" href="/favicon.ico" sizes="48x48"><link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png"><link rel="icon" type="image/png" sizes="192x192" href="/favicon-192x192.png"><link rel="apple-touch-icon" href="/apple-touch-icon.png">\n'
+                '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n'
+                '<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">\n'
+                f'<link rel="stylesheet" href="/css/style.css?v=74">{CSS}{jl}</head><body>\n{h}\n{body}\n{foot}')
+
+    for t in pages:
+        body = []
+        for k, v in t["body"]:
+            if k == "bieu-mau":
+                g, n = bieu_mau_groups(); body += g
+            else:
+                body.append((k, v))
+        if t["slug"] == "bieu-mau":
+            n = len(json.load(open(P("_cong-cu", "bieu-mau-danh-sach.json"), encoding="utf-8")))
+            body = [(k, v.replace("{N}", str(n)) if isinstance(v, str) else v) for k, v in body]
+            t = dict(t, summary=t["summary"].replace("{N}", str(n)), desc=t["desc"].replace("{N}", str(n)))
+        pv, pe = f'/so-tay-xay-dung/{t["slug"]}.html', f'/en/so-tay-xay-dung/{t["slug"]}.html'
+        faq = [(a, b) for k, v in body if k == "faq" for a, b in v]
+        ld = ({"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": "en", "mainEntity": [
+                {"@type": "Question", "name": a, "acceptedAnswer": {"@type": "Answer", "text": re.sub("<[^>]+>", "", b)}} for a, b in faq]} if faq else
+              {"@context": "https://schema.org", "@type": "Article", "headline": t["title"], "description": t["desc"], "dateModified": t["ngay"],
+               "inLanguage": "en", "mainEntityOfPage": SITE + pe, "author": {"@type": "Organization", "name": "Quan Construction", "url": SITE}})
+        h = page(pv, pe, t["title"], t["desc"], f'<a href="/en/so-tay-xay-dung.html">Construction Handbook</a> › {esc(t["ngan"])}', t["title"], t.get("lead", ""),
+                 render(body, True), t["slug"], ld, "/".join(reversed(t["ngay"].split("-"))))
+        open(P("en", "so-tay-xay-dung", t["slug"] + ".html"), "w", encoding="utf-8").write(h)
+    # Trang chủ nhánh tiếng Anh
+    roles = "".join(f'<a href="/en/so-tay-xay-dung/{sl}.html"><b>{esc(a)}</b><span>{esc(b)}</span></a>' for a, b, sl in ch["VAI_TRO"] if sl in slugs)
+    cards = []
+    for nh, _ in cs.NHOM:
+        ds = [t for t in pages if t["nhom"] == nh and not t.get("an_menu")]
+        if ds:
+            ten = nhom_en.get(nh, nh)
+            n = len(json.load(open(P("_cong-cu", "bieu-mau-danh-sach.json"), encoding="utf-8")))
+            cards.append(f"<h2>{esc(ten)}</h2><div class=cs-grid>" + "".join(
+                f'<a class="cs-card" href="/en/so-tay-xay-dung/{t["slug"]}.html"><span class="cs-tag">{esc(ten)}</span><b>{esc(t["title"])}</b><span>{esc(t["summary"].replace("{N}", str(n)))}</span></a>' for t in ds) + "</div>")
+    inner = (f'<p>{ch["GIOI_THIEU"]}</p><h2>By role</h2><div class="cs-roles">{roles}</div>' + "".join(cards) +
+             '<div class="cs-note">This handbook summarizes Vietnamese regulations for reference and links to the full legal texts (in Vietnamese) in the Quan Construction <a href="/phap-ly.html">legal library</a>. It does not replace the legal documents or the opinion of competent authorities.</div>')
+    open(P("en", "so-tay-xay-dung.html"), "w", encoding="utf-8").write(
+        page("/so-tay-xay-dung.html", "/en/so-tay-xay-dung.html", ch["TIEU_DE"], ch["MO_TA"], "Construction Handbook", ch["TIEU_DE"], ch["LEAD"], inner, None))
+    # Trang tiếng Việt: thêm hreflang en + nút đổi ngôn ngữ
+    for pv, pe in [("/so-tay-xay-dung.html", "/en/so-tay-xay-dung.html")] + [(f'/so-tay-xay-dung/{sl}.html', f'/en/so-tay-xay-dung/{sl}.html') for sl in slugs]:
+        f = P(pv.lstrip("/"))
+        h = open(f, encoding="utf-8").read()
+        if 'hreflang="en"' not in h.split("</head>")[0]:
+            h = h.replace('<link rel="alternate" hreflang="x-default"', f'<link rel="alternate" hreflang="en" href="{SITE}{pe}"><link rel="alternate" hreflang="x-default"', 1)
+        h = (h.replace('<a class="lg" href="/en/index.html">English</a>', f'<a class="lg" href="{pe}">English</a>')
+             .replace('<a class="" href="/en/index.html" title="English"', f'<a class="" href="{pe}" title="English"'))
+        open(f, "w", encoding="utf-8").write(h)
+    # sitemap
+    sm = open(P("sitemap.xml"), encoding="utf-8").read()
+    sm = re.sub(r"<url><loc>https://quanconstruction\.biz\.vn/en/so-tay-xay-dung(?:\.html|/[^<]+)</loc>.*?</url>", "", sm)
+    sm = sm.replace("</urlset>", f'<url><loc>{SITE}/en/so-tay-xay-dung.html</loc><lastmod>{max(t["ngay"] for t in pages)}</lastmod></url>' +
+                    "".join(f'<url><loc>{SITE}/en/so-tay-xay-dung/{t["slug"]}.html</loc><lastmod>{t["ngay"]}</lastmod></url>' for t in pages) + "</urlset>")
+    open(P("sitemap.xml"), "w", encoding="utf-8").write(sm)
+    print(f"Đã tạo bản tiếng Anh: trang chủ Sổ tay + {len(pages)} trang con")
+
+
 if __name__ == "__main__":
     main()
+    tao_en()

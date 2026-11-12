@@ -1,0 +1,173 @@
+{
+ "title": "Advance and payment dossiers for public investment capital: Decree 254/2025",
+ "ngan": "Public capital payment dossiers",
+ "desc": "Legal, advance and completed-work payment dossiers for public investment capital through the State Treasury under Decree 254/2025/ND-CP: forms and deadlines.",
+ "summary": "A list of the dossiers an investor sends to the State Treasury for advance payment and payment of public investment capital under Decree 254/2025/ND-CP, with deadlines and advance recovery rules.",
+ "lead": "Applies to tasks and projects using public investment capital - prepared by the investor and sent to the payment authority (State Treasury).",
+ "body": [
+  [
+   "p",
+   "Decree 254/2025/ND-CP (signed on 26 September 2025, effective from the date of signing) governs the management and payment of public investment capital and replaces Decree 99/2021/ND-CP (<a href=\"/phap-ly/254-2025-nd-cp.html#d56\">Article 56</a>). Final settlement of completed-project capital is now carried out under <a href=\"/phap-ly/193-2026-nd-cp.html#d1\">Decree 193/2026/ND-CP</a> (see <a href=\"/so-tay-xay-dung/qs-du-toan-thanh-quyet-toan.html\">QS - payment and final settlement</a>); the advance payment and payment rules below continue to apply under Decree 254/2025."
+  ],
+  [
+   "p",
+   "These are dossiers that the <b>investor sends to the payment authority</b> (the State Treasury - <a href=\"/phap-ly/254-2025-nd-cp.html#d4\">Article 4</a>). The dossier a contractor sends to the investor to be paid under a contract is governed by <a href=\"/phap-ly/210-2026-nd-cp.html#d29\">Article 29 of Decree 210/2026/ND-CP</a>."
+  ],
+  [
+   "h2",
+   "1. Legal dossier (sent the first time, or when adjusted)"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "No.",
+     "Document",
+     "Notes"
+    ],
+    "dong": [
+     [
+      "1",
+      "Annual public investment plan assigned by the competent authority",
+      ""
+     ],
+     [
+      "2",
+      "Decision/document assigning the task; decision approving the investment project and any adjustment decision (if any)",
+      ""
+     ],
+     [
+      "3",
+      "Document permitting self-performance; document assigning work or internal contracting",
+      "Where work is self-performed or contracted internally"
+     ],
+     [
+      "4",
+      "Contract information summary sheet - <b>Form No. 02.a/TT</b>",
+      "Prepared by the investor on the basis of a contract that has taken effect; the investor is responsible for its content"
+     ],
+     [
+      "5",
+      "Cost estimate information summary sheet - <b>Form No. 02.b/TT</b>; annual revenue and expenditure estimate of the investor or PMU (if any)",
+      "Work not performed under a contract"
+     ],
+     [
+      "6",
+      "Compensation, support and resettlement information summary sheet - <b>Form No. 02.c/TT</b>",
+      "Where there is compensation or site clearance"
+     ],
+     [
+      "7",
+      "Decision establishing the unit; decision granting financial autonomy",
+      "PMU, organization carrying out compensation and site clearance"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "Basis: <a href=\"/phap-ly/254-2025-nd-cp.html#d8\">Clause 1, Article 8</a>. A legal dossier already sent before the decree took effect does not need to be resubmitted; it is supplemented only when there are changes (<a href=\"/phap-ly/254-2025-nd-cp.html#d54\">Clause 1, Article 54</a>)."
+  ],
+  [
+   "h2",
+   "2. Advance payment dossier (sent with each advance request)"
+  ],
+  [
+   "ol",
+   [
+    "Request for payment of capital - <b>Form No. 04.a/TT</b>.",
+    "Withdrawal request - <b>Form No. 05.a/TT</b>.",
+    "Contract advance payment guarantee (original or certified copy) where a guarantee is required."
+   ]
+  ],
+  [
+   "p",
+   "Basis: <a href=\"/phap-ly/254-2025-nd-cp.html#d8\">Clause 2, Article 8</a>. Principles for advance payment (<a href=\"/phap-ly/254-2025-nd-cp.html#d9\">Article 9</a>):"
+  ],
+  [
+   "ul",
+   [
+    "An advance may be made only after the contract has taken effect and the investor has received the advance payment guarantee (if required); a construction contract involving site clearance must have a site clearance plan or a site handover record.",
+    "<b>An advance payment guarantee is mandatory where the contract advance exceeds VND 1 billion</b>; the guarantee value decreases as the advance is recovered and remains valid until fully recovered. No guarantee is required for: advances of VND 1 billion or less (by agreement), self-performance, hiring project management consultants, work not under a contract, compensation and site clearance (except for building works), and project management costs.",
+    "The contract advance rate for construction contracts complies with construction law (see <a href=\"/phap-ly/210-2026-nd-cp.html#d12\">Article 12 of Decree 210/2026/ND-CP</a>) and must not exceed the amount in the contract/estimate information summary sheet or the annual capital plan.",
+    "<b>Recovery of the advance</b> is made through successive payments and must be completed in full when disbursement reaches <b>80%</b> of the contract or estimate value; advances for compensation, support and resettlement must be processed for payment and recovery no later than <b>30 days</b> from the date of the advance.",
+    "Overdue advances: if an advance has not been recovered <b>3 months</b> after the time by which it had to be fully recovered under the contract (or if use for a wrong purpose is detected), the investor, together with the payment authority, leads recovery and may request the credit institution to perform its guarantee."
+   ]
+  ],
+  [
+   "h2",
+   "3. Dossier for payment of completed work volumes"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Case",
+     "Dossier sent to the payment authority"
+    ],
+    "dong": [
+     [
+      "Work performed under a contract",
+      "<b>Form No. 04.a/TT</b> request for payment of capital; <b>Form No. 05.a/TT</b> withdrawal request; <b>Form No. 04.b/TT</b> request for recovery of advanced capital (if recovering); <b>Form No. 03.a/TT</b> sheet determining the value of completed work volumes"
+     ],
+     [
+      "Compensation, support and resettlement",
+      "04.a/TT; 05.a/TT; 04.b/TT (if recovering); <b>Form No. 03.b/TT</b> statement of the value of compensation, support and resettlement work"
+     ],
+     [
+      "Other work not under a contract (including project management costs when managing 1 project)",
+      "04.a/TT; 05.a/TT; 04.b/TT (if recovering); 03.a/TT"
+     ],
+     [
+      "Project with approved final settlement but not yet fully paid",
+      "04.a/TT; decision approving final settlement; 05.a/TT"
+     ],
+     [
+      "Insurance contracts, appraisal fees, audit and final settlement approval costs",
+      "04.a/TT; 05.a/TT"
+     ],
+     [
+      "Project management costs when managing several projects",
+      "04.a/TT; 05.a/TT; 04.b/TT (if recovering); decision approving final settlement or <b>Form No. 09/QLDA</b> project management cost allocation sheet + 03.a/TT"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "Basis: <a href=\"/phap-ly/254-2025-nd-cp.html#d8\">Clauses 3 and 6, Article 8</a>. Payment under a contract must conform to the contract type, contract price and contract conditions; amounts retained for final settlement purposes (if agreed in the contract) are transferred to the investor's deposit account at the Treasury (<a href=\"/phap-ly/254-2025-nd-cp.html#d10\">Article 10</a>). Disbursed capital must not exceed the total investment, the annual capital plan, or the contract/estimate value in the information summary sheets (<a href=\"/phap-ly/254-2025-nd-cp.html#d6\">Article 6</a>)."
+  ],
+  [
+   "h2",
+   "4. Deadlines"
+  ],
+  [
+   "ul",
+   [
+    "The Treasury makes payment within <b>2 working days</b> of receiving a complete dossier; advances within <b>1 working day</b> (<a href=\"/phap-ly/254-2025-nd-cp.html#d12\">Clause 4, Article 12</a>).",
+    "For a deficient or incorrect dossier, the payment authority rejects it and notifies the reason in writing <b>once</b>, within <b>2 working days</b> at the latest (<a href=\"/phap-ly/254-2025-nd-cp.html#d8\">Clause 9, Article 8</a>).",
+    "Annual plan capital may be advanced until the end of <b>31 December</b> of the plan year (compensation and site clearance until 31 January of the following year); payment for accepted completed work volumes is made until 31 December, with the payment deadline running to the end of <b>31 January</b> of the following year (<a href=\"/phap-ly/254-2025-nd-cp.html#d12\">Clauses 1 and 2, Article 12</a>)."
+   ]
+  ],
+  [
+   "h2",
+   "5. Periodic advance reports"
+  ],
+  [
+   "p",
+   "Before the 5th of the first month of the following quarter, the investor prepares a report on advance payments and recovery of advances for each task and project (<b>Form No. 08.a/SDTƯ</b>), stating clearly the balance of overdue advances, and sends it to the payment authority, the superior agency and the financial agency (<a href=\"/phap-ly/254-2025-nd-cp.html#d9\">Point b, Clause 6, Article 9</a>)."
+  ],
+  [
+   "h2",
+   "6. Forms"
+  ],
+  [
+   "p",
+   "The forms system is in the Appendix to Decree 254/2025/ND-CP (Form 01.a/PB to 10/CT - list in the <a href=\"/phap-ly/254-2025-nd-cp.html#d56\">Appendix section</a>). Our library currently has only the list and not the content of each form; the forms will be added to the <a href=\"/so-tay-xay-dung/bieu-mau.html\">Forms</a> page (in PDF, Word and Excel) once the full text of the appendix has been loaded from the National Legal Portal."
+  ],
+  [
+   "note",
+   "This summary is for reference and applies only to tasks and projects using public investment capital. Decree 254/2025/ND-CP is partially no longer in force (final settlement of completed-project capital has been replaced by Decree 193/2026/ND-CP). Overseas public investment projects, State secret projects, emergency projects and National Target Programs have separate provisions in Articles 8 and 14-24. Also consult the guidance of the State Treasury office where you transact."
+  ]
+ ]
+}

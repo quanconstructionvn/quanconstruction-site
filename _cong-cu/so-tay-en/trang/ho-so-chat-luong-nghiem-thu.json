@@ -1,0 +1,249 @@
+{
+ "title": "Quality Records, Acceptance and As-Built Records for Works 2026",
+ "ngan": "Quality records & acceptance",
+ "desc": "Quality record list under Decree 207/2026: construction diary, work, stage and completion acceptance records, as-built drawings, completion file.",
+ "summary": "A summary table of quality records – who prepares them, when and under which article: construction diary, types of acceptance records, as-built drawings, work completion file, inspection of acceptance and archiving.",
+ "lead": "A complete set of quality records is a condition for acceptance, payment and final settlement and for passing inspection and audit. This page lists each type of record, who prepares it, when, and the legal basis.",
+ "body": [
+  [
+   "p",
+   "From 1 July 2026, quality management, acceptance and work completion records follow the <a href=\"/phap-ly/135-2025-qh15.html#d57\">Construction Law 2025</a> and <a href=\"/phap-ly/207-2026-nd-cp.html#d52\">Decree 207/2026/ND-CP</a>. The principle throughout: <b>quality management records must match the actual time of performance on site</b> (<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 8, Article 15</a>)."
+  ],
+  [
+   "h2",
+   "1. Summary table: record – who prepares – when – basis"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Record",
+     "Prepared / signed by",
+     "When",
+     "Basis"
+    ],
+    "dong": [
+     [
+      "Notice of the contractor's construction management system",
+      "Construction contractor",
+      "Before construction",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Cl. 2, Art. 15 Decree 207</a>"
+     ],
+     [
+      "Notice of duties and powers of the investor's / supervision consultant's management system",
+      "Investor",
+      "Before construction",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d16\">Cl. 3, Art. 16</a>"
+     ],
+     [
+      "Testing plan; material control measures; construction method; progress schedule; acceptance plan (approved version)",
+      "Prepared by the contractor, approved by the investor / supervisor",
+      "Before and during construction",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Cl. 3, Art. 15</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Point b, Cl. 1, Art. 20</a>"
+     ],
+     [
+      "Quality records of materials, products, components and equipment (certificates, origin, conformity, tests)",
+      "Prepared by the employer; the supplier provides documents",
+      "Each batch before use",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Cl. 7, Art. 14</a>"
+     ],
+     [
+      "Acceptance record of materials, products, components and equipment",
+      "Accepted by the investor's supervisor",
+      "Before being put to use",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Cl. 6, Art. 14</a>"
+     ],
+     [
+      "Construction diary",
+      "Construction contractor",
+      "Daily throughout construction",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Cl. 13, Art. 15</a> (Appendix II)"
+     ],
+     [
+      "Acceptance record of construction work",
+      "Direct supervisor + contractor's engineer (and subcontractor)",
+      "Within 24 hours of the request",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Art. 22</a>"
+     ],
+     [
+      "Acceptance record of a stage / part of the work",
+      "Investor, chief supervisor and contractor as agreed",
+      "At the end of a stage, part or package",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d23\">Art. 23</a>"
+     ],
+     [
+      "Construction supervision report",
+      "Supervising organization / individual",
+      "Periodically / by stage and at stage and completion acceptance",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Cl. 3, Art. 20</a> (Appendices IV, IVa)"
+     ],
+     [
+      "Statement confirming completed and additional quantities",
+      "Supervisor + contractor; investor confirms",
+      "By period / stage, as the basis for payment",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d18\">Art. 18</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d16\">Cl. 5, Art. 16</a>"
+     ],
+     [
+      "As-built drawings",
+      "Prepared by the contractor; supervisor checks and confirms",
+      "On completion of a part or item",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Cl. 13, Art. 15</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Point l, Cl. 1, Art. 20</a>"
+     ],
+     [
+      "Completion acceptance record of an item or work",
+      "Organized by the investor; parties under Cl. 6, Art. 24",
+      "When acceptance conditions are met",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d24\">Art. 24</a>"
+     ],
+     [
+      "Construction completion report sent to the acceptance inspection agency",
+      "Investor",
+      "For works subject to inspection",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d27\">Cl. 4, Art. 27</a> (Appendix VI)"
+     ],
+     [
+      "Work completion file",
+      "Organized and prepared by the investor",
+      "After completion acceptance",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d28\">Art. 28</a> (Appendix VII)"
+     ],
+     [
+      "File for management and use of the work",
+      "Investor prepares 01 set, hands over to the owner / managing party",
+      "At handover",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d30\">Cl. 5, Art. 30</a> (Appendix X)"
+     ],
+     [
+      "Incident file (if any)",
+      "Investor / owner / managing party",
+      "When an incident occurs",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d48\">Art. 48</a>"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "Note: our legal library currently has the articles of Decree 207/2026/ND-CP but <b>not the full text of the appendices</b> (Appendix II diary and as-built drawings, Appendices IV/IVa supervision reports, Appendices VI, VII, VIII, X). When preparing records, check the forms in the original document."
+  ],
+  [
+   "h2",
+   "2. Construction diary"
+  ],
+  [
+   "p",
+   "The construction contractor prepares the construction diary and as-built drawings under Appendix II of Decree 207/2026/ND-CP (<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 13, Article 15</a>). Not having a construction diary, or keeping it incorrectly, is fined <b>VND 10–20 million</b> and the diary must be written up (<a href=\"/phap-ly/339-2026-nd-cp.html#d23\">Point c, Clause 1, Article 23 of Decree 339/2026/ND-CP</a>). Good practice:"
+  ],
+  [
+   "ul",
+   [
+    "Record daily: weather, manpower, equipment, work done, materials delivered, inspection results, incidents, supervisor's requests;",
+    "The supervisor writes comments and signs the diary directly;",
+    "Dates in the diary must match the acceptance records, test sheets and site photos."
+   ]
+  ],
+  [
+   "h2",
+   "3. Types of acceptance records"
+  ],
+  [
+   "h3",
+   "Acceptance of construction work"
+  ],
+  [
+   "p",
+   "Based on the testing and inspection plan and the actual progress, the direct supervisor and the contractor's person in direct charge of engineering carry out acceptance on site (<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Clause 1, Article 22</a>). The record is prepared for each piece of work or jointly for several pieces of work of an item in construction sequence, and contains: name of the work; time and place; signatories; conclusion on acceptance or not, permission to proceed to the next work, and requests for rectification; signature, full name and position; appendices (<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Clause 4, Article 22</a>). EPC, turnkey and joint venture contracts have separate signatories (<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Clauses 6, 7 and 8, Article 22</a>)."
+  ],
+  [
+   "h3",
+   "Acceptance of a stage or part of the work"
+  ],
+  [
+   "p",
+   "Not compulsory for every work: the investor and contractor agree to hold it at the end of a stage or part that needs evaluating before moving to the next step, or at the end of a package; the participants include the chief supervisor (<a href=\"/phap-ly/207-2026-nd-cp.html#d23\">Article 23</a>)."
+  ],
+  [
+   "h3",
+   "Completion acceptance of an item or work"
+  ],
+  [
+   "p",
+   "Organized by the investor, who takes part directly, when the conditions are met: construction fully per the design; all work and stages accepted; test, monitoring, inspection and commissioning results satisfactory; compliance with fire protection and environmental law (<a href=\"/phap-ly/207-2026-nd-cp.html#d24\">Clause 1, Article 24</a>). The record must include an assessment of conformity with the appraised fire protection design, the starting point and duration of the warranty, signatures and the <b>legal entity seal</b> (<a href=\"/phap-ly/207-2026-nd-cp.html#d24\">Clause 5, Article 24</a>). Signatories: the legal representative (or authorized person) of the investor; the supervision contractor with the chief supervisor; the main construction contractor with the site manager; the design contractor with the design lead as per the contract (<a href=\"/phap-ly/207-2026-nd-cp.html#d24\">Clause 6, Article 24</a>)."
+  ],
+  [
+   "p",
+   "<b>Partial acceptance</b> may be carried out to put a part into operation, or <b>conditional acceptance</b> where outstanding defects do not affect load-bearing capacity, service life or function; the record must state clearly the defects and the deadline to remedy them (<a href=\"/phap-ly/207-2026-nd-cp.html#d24\">Clauses 2 and 3, Article 24</a>)."
+  ],
+  [
+   "h2",
+   "4. As-built drawings"
+  ],
+  [
+   "p",
+   "As-built drawings are drawings of the completed work showing the position, dimensions, materials and equipment actually used (<a href=\"/phap-ly/207-2026-nd-cp.html#d2\">Clause 3, Article 2</a>). Prepared by the construction contractor (<a href=\"/phap-ly/135-2025-qh15.html#d61\">Point h, Clause 2, Article 61 of the Construction Law</a>); the supervisor checks and confirms (<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Point l, Clause 1, Article 20</a>). A contractor that does not prepare them or prepares them incorrectly is fined VND 40–60 million (<a href=\"/phap-ly/339-2026-nd-cp.html#d23\">Point a, Clause 3, Article 23</a>); a supervisor that does not confirm or confirms incorrectly is fined VND 40–60 million (<a href=\"/phap-ly/339-2026-nd-cp.html#d29\">Point dd, Clause 2, Article 29</a>)."
+  ],
+  [
+   "h2",
+   "5. State inspection of acceptance work"
+  ],
+  [
+   "p",
+   "Not every work is inspected. The inspected works are those of projects of national importance, large scale or technical complexity (Appendix IX) and works with major impact on safety and community interests (<a href=\"/phap-ly/207-2026-nd-cp.html#d25\">Clause 1, Article 25</a>; <a href=\"/phap-ly/135-2025-qh15.html#d57\">Clause 4, Article 57 of the Construction Law</a>)."
+  ],
+  [
+   "ul",
+   [
+    "Authority: the State Inspection Council; the specialized agency under the ministry managing the specialized sector; the specialized construction agency under the provincial People's Committee (<a href=\"/phap-ly/207-2026-nd-cp.html#d26\">Article 26</a>).",
+    "During construction: inspection <b>no more than 03 times</b> for special-grade and grade I works and <b>no more than 02 times</b> for the other works; a written result within no more than 10 working days from the date of inspection (<a href=\"/phap-ly/207-2026-nd-cp.html#d27\">Clause 3, Article 27</a>).",
+    "On completion: the investor sends 01 construction completion report (Appendix VI); the agency issues a written approval or non-approval within <b>16 working days</b> (grade I, special) or <b>12 working days</b> (others) from receipt of the file (<a href=\"/phap-ly/207-2026-nd-cp.html#d27\">Clause 4, Article 27</a>).",
+    "A work subject to inspection must have a written approval of the acceptance result before being put into use (<a href=\"/phap-ly/207-2026-nd-cp.html#d29\">Clause 2, Article 29</a>). The inspection cost is estimated by the investor and included in total investment (<a href=\"/phap-ly/207-2026-nd-cp.html#d25\">Clause 5, Article 25</a>)."
+   ]
+  ],
+  [
+   "p",
+   "An investor that does not send the report requesting inspection is fined VND 40–60 million; putting a work into use before conditions are met is fined VND 100–120 million (<a href=\"/phap-ly/339-2026-nd-cp.html#d30\">Article 30 of Decree 339/2026</a>)."
+  ],
+  [
+   "h2",
+   "6. Work completion file and archiving"
+  ],
+  [
+   "ul",
+   [
+    "The investor organizes the preparation of the work completion file after completion acceptance (per Appendix VII) and is responsible for its accuracy; contractors are responsible for the parts of the file they prepare (<a href=\"/phap-ly/207-2026-nd-cp.html#d28\">Clause 1, Article 28</a>).",
+    "Prepared in Vietnamese; where there is a foreign element, the parties additionally agree on a language (<a href=\"/phap-ly/207-2026-nd-cp.html#d28\">Clause 2, Article 28</a>).",
+    "Prepared jointly for the whole project if put into use at the same time; if at different times, prepared separately for each work or item (<a href=\"/phap-ly/207-2026-nd-cp.html#d28\">Clause 3, Article 28</a>).",
+    "Keep the <b>originals and electronic copies</b>; where there is no original, use the principal copy or a lawful copy (<a href=\"/phap-ly/207-2026-nd-cp.html#d28\">Clause 4, Article 28</a>).",
+    "Before handover, the contractor gives the investor the as-built drawings, operating procedures, maintenance procedures, and the list of equipment and spare parts (<a href=\"/phap-ly/207-2026-nd-cp.html#d30\">Clause 2, Article 30</a>).",
+    "The file for management and use of the work is kept by the owner or user <b>for at least the service life of the work</b> (<a href=\"/phap-ly/135-2025-qh15.html#d42\">Clause 2, Article 42 of the Construction Law</a>)."
+   ]
+  ],
+  [
+   "p",
+   "An investor that does not organize the preparation of the completion file or the file for management and use is fined VND 60–80 million (<a href=\"/phap-ly/339-2026-nd-cp.html#d22\">Point c, Clause 4, Article 22</a>)."
+  ],
+  [
+   "h2",
+   "7. Common record defects found in inspection and audit"
+  ],
+  [
+   "ol",
+   [
+    "The acceptance record is dated before the material test results are available.",
+    "Construction diary written up retroactively, signature dates not matching the records.",
+    "Wrong signatories on the record (missing chief supervisor, missing site manager, signer not authorized) – the contractor is fined VND 40–60 million (<a href=\"/phap-ly/339-2026-nd-cp.html#d31\">Clause 2, Article 31</a>).",
+    "Accepted quantities greater than actual – the contractor is fined VND 60–80 million and the quantities for payment must be recalculated (<a href=\"/phap-ly/339-2026-nd-cp.html#d31\">Clause 3, Article 31</a>).",
+    "Missing conformity records for materials that are subject to mandatory conformity.",
+    "As-built drawings do not show approved changes."
+   ]
+  ],
+  [
+   "p",
+   "See also: <a href=\"/so-tay-xay-dung/bieu-mau.html\">Downloadable record forms</a>, <a href=\"/so-tay-xay-dung/qa-qc-quan-ly-chat-luong.html\">QA/QC – Quality management</a>, <a href=\"/so-tay-xay-dung/giam-sat-thi-cong.html\">Construction supervision</a>, <a href=\"/tin-tuc/hoan-cong-va-dang-ky-nha-vao-so-do-2026.html\">As-built completion of housing and registration on the land use certificate (red book)</a>."
+  ],
+  [
+   "note",
+   "This summary is for reference only and does not replace legal documents. The Quan Construction library does not yet have the full text of the appendices of Decree 207/2026/ND-CP; the forms of diary, reports and the completion file list must be checked in the original document. For works commenced before 1 July 2026, see the transitional provisions in <a href=\"/phap-ly/207-2026-nd-cp.html#d53\">Article 53 of Decree 207/2026/ND-CP</a>. Fines apply to organizations under Decree 339/2026/ND-CP; individuals are fined half."
+  ]
+ ]
+}

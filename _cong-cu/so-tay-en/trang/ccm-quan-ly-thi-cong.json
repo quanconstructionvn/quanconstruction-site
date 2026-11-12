@@ -1,0 +1,248 @@
+{
+ "title": "Site Construction Manager (CCM) 2026: Requirements and Duties",
+ "ngan": "CCM: site manager",
+ "desc": "Guide for site construction managers under the Construction Law 2025 and Decrees 207/2026 and 212/2026: competence conditions, submissions, safety, acceptance, fines.",
+ "summary": "Competence conditions for the site manager, what the construction contractor must do under Decree 207/2026, site safety, diary, acceptance, common fines and a weekly checklist.",
+ "lead": "The site construction manager (Construction Manager – CCM; chỉ huy trưởng công trường) runs construction on behalf of the contractor. This page summarizes what the law requires of this position, with a checklist for immediate use on site.",
+ "body": [
+  [
+   "h2",
+   "1. Competence conditions for the site manager"
+  ],
+  [
+   "p",
+   "Under <a href=\"/phap-ly/135-2025-qh15.html#d88\">Clause 2, Article 88 of the Construction Law 2025</a>, the site construction manager is <b>not among the titles that must hold a practising certificate</b> (Clause 1), but must <b>meet competence and professional experience conditions</b>. Law <a href=\"/phap-ly/24-2026-qh16.html#d2\">24/2026/QH16</a>, which amends Clauses 1 and 2 of Article 88 (effective 1 March 2027), still keeps the site manager in the group that must meet competence and experience conditions."
+  ],
+  [
+   "p",
+   "Conditions by grade are set out in <a href=\"/phap-ly/212-2026-nd-cp.html#d38\">Clause 2, Article 38 of Decree 212/2026/ND-CP</a> (referring to the conditions for the project management director in Clause 1), with a relevant specialization under item 6 of Appendix I of the Decree:"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Grade",
+     "Qualification and years of experience",
+     "Project experience"
+    ],
+    "dong": [
+     [
+      "Grade I",
+      "University degree; at least 07 years of construction activity experience",
+      "Has served as site manager for the work within the scope of practice on 01 grade I or higher work or 02 grade II works (or as PMU director of 01 group A project or 02 group B projects)"
+     ],
+     [
+      "Grade II",
+      "University degree; at least 04 years of experience",
+      "Has served as site manager of 01 grade II work or 02 grade III works (or as PMU director of 01 group B project or 02 group C projects)"
+     ],
+     [
+      "Grade III",
+      "At least 02 years (university) or 03 years (college) of experience",
+      "Has taken part in construction of the work within the scope of practice on 01 grade III or higher work or 02 grade IV works (or taken part in project management of 01 group C or higher project)"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "A contractor that assigns a person who <b>does not meet the competence conditions</b> to the position may be fined VND 20 to 40 million and have its construction activities suspended for 01–03 months (<a href=\"/phap-ly/339-2026-nd-cp.html#d13\">Clauses 2 and 4, Article 13 of Decree 339/2026/ND-CP</a>)."
+  ],
+  [
+   "h2",
+   "2. What the construction contractor must do – the CCM coordinates"
+  ],
+  [
+   "p",
+   "The responsibilities of the construction contractor are set out in <a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Article 15 of Decree 207/2026/ND-CP</a>. The main matters the site manager must know:"
+  ],
+  [
+   "ul",
+   [
+    "Receive and manage the site, preserve positioning and boundary markers; manage the site (Clause 1).",
+    "Establish and notify the investor of the <b>construction management system</b>: organization chart and responsibilities of each person – site manager, construction engineering, quality management, safety, quantities, progress, records (Clause 2).",
+    "Build in accordance with the contract, the building permit (if any) and the design; notify the investor immediately when the design or contract differs from actual conditions (Clause 8).",
+    "Stop construction on discovering quality defects, work incidents or risk of occupational accidents, and remedy them before continuing (Clause 9).",
+    "The main contractor checks the work of subcontractors (Clause 11); use safety costs for their proper purpose (Clause 12).",
+    "Prepare the construction diary and as-built drawings under Appendix II of Decree 207 (Clause 13); report to the investor on progress, quality, quantities and safety (Clause 15); keep records of its own work (Clause 17)."
+   ]
+  ],
+  [
+   "h2",
+   "3. Submissions requiring the investor's approval before construction"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Submission",
+     "Basis",
+     "Fine for not submitting (organization rate)"
+    ],
+    "dong": [
+     [
+      "Plan for testing, inspection, verification, commissioning, monitoring and surveying",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Point a, Clause 3, Article 15 of Decree 207</a>",
+      "VND 20–40 million (<a href=\"/phap-ly/339-2026-nd-cp.html#d23\">Clause 2, Article 23 of Decree 339</a>)"
+     ],
+     [
+      "Quality control measures for materials, components and equipment; construction method statement with safety measures",
+      "Point b, Clause 3, Article 15",
+      "VND 40–60 million (Clause 3, Article 23)"
+     ],
+     [
+      "Construction progress schedule",
+      "Point c, Clause 3, Article 15; <a href=\"/phap-ly/207-2026-nd-cp.html#d19\">Article 19</a>",
+      "VND 20–40 million (Clause 2, Article 23)"
+     ],
+     [
+      "Plan for inspection and acceptance of work items, stages and completion",
+      "Point d, Clause 3, Article 15",
+      "VND 20–40 million (Clause 2, Article 23)"
+     ],
+     [
+      "Safety measures in hazard zones",
+      "<a href=\"/phap-ly/135-2025-qh15.html#d51\">Clause 3, Article 51 of the Construction Law</a>; Clause 4, Article 15",
+      "VND 40–60 million (Clause 3, Article 23)"
+     ]
+    ]
+   }
+  ],
+  [
+   "h2",
+   "4. Site, occupational safety, environment and fire protection"
+  ],
+  [
+   "p",
+   "Construction must ensure occupational safety and hygiene, safety of adjacent works, fire prevention and fighting, and environmental protection (<a href=\"/phap-ly/135-2025-qh15.html#d50\">Article 50</a>, <a href=\"/phap-ly/135-2025-qh15.html#d51\">Article 51 of the Construction Law 2025</a>). Machinery, equipment and materials with strict safety requirements must be inspected before use (Clause 5, Article 51)."
+  ],
+  [
+   "ul",
+   [
+    "<b>Project sign</b> at the entrance: name and scale of the work; start and completion dates; name, address and telephone number of the investor; perspective drawing (<a href=\"/phap-ly/207-2026-nd-cp.html#d13\">Clause 1, Article 13 of Decree 207</a>).",
+    "<b>Barriers</b> against intrusion; lay out the site according to the approved construction method; materials stacked neatly within the site; signs showing the site layout, safety and fire and explosion prevention (Clause 2, Article 13).",
+    "The contractor's safety manager must be trained in occupational safety or construction engineering (Clause 5, Article 15); instruct workers to recognize hazards, check the use of personal protective equipment, and manage the number of people on site (Clause 18, Article 15).",
+    "Workers have the right to refuse work that is not safe or when not issued sufficient personal protective equipment; they may take on work with strict safety requirements only once trained and issued a card (<a href=\"/phap-ly/207-2026-nd-cp.html#d17\">Article 17 of Decree 207</a>).",
+    "Incidents involving machinery and equipment, and occupational accidents: declare, investigate and report under <a href=\"/phap-ly/207-2026-nd-cp.html#d49\">Article 49</a> and the law on occupational safety and hygiene."
+   ]
+  ],
+  [
+   "p",
+   "The construction contractor must buy insurance for workers on site and third-party civil liability insurance as prescribed; failure to do so may be fined VND 60–80 million (<a href=\"/phap-ly/339-2026-nd-cp.html#d27\">Article 27 of Decree 339</a>). Failing to provide screening or allowing materials to fall around the site is fined under <a href=\"/phap-ly/339-2026-nd-cp.html#d26\">Clause 1, Article 26</a>."
+  ],
+  [
+   "h2",
+   "5. Quantities, progress, diary, as-built drawings"
+  ],
+  [
+   "ul",
+   [
+    "<b>Quantities</b> are calculated and confirmed between the investor's supervisor and the contractor by period or stage, checked against design quantities for acceptance and payment; additional quantities must be approved by the investor or the investment decision-maker to be a basis for payment (<a href=\"/phap-ly/207-2026-nd-cp.html#d18\">Article 18 of Decree 207</a>).",
+    "Falsifying or inflating quantities is prohibited; violations are fined VND 60–80 million and the quantities must be recalculated (<a href=\"/phap-ly/339-2026-nd-cp.html#d31\">Clause 3, Article 31 of Decree 339</a>).",
+    "<b>Progress schedule</b> is prepared before construction, consistent with the contract duration and the overall schedule; large works are scheduled by month, quarter and year; it may be adjusted by stage but without affecting the overall schedule (<a href=\"/phap-ly/207-2026-nd-cp.html#d19\">Article 19</a>).",
+    "<b>The construction diary</b> must exist and be kept as prescribed – not having one or keeping it incorrectly is fined VND 10–20 million (<a href=\"/phap-ly/339-2026-nd-cp.html#d23\">Point c, Clause 1, Article 23</a>). Quality management records that do not match actual times are fined VND 60–80 million (Point dd, Clause 4).",
+    "<b>As-built drawings</b>: failing to prepare them or preparing them incorrectly is fined VND 40–60 million (Point a, Clause 3, Article 23)."
+   ]
+  ],
+  [
+   "h2",
+   "6. Coordinating acceptance"
+  ],
+  [
+   "p",
+   "Under <a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Article 22 of Decree 207</a>, the investor's direct supervisor and the contractor's person in charge of construction engineering accept work on site. The supervisor must accept <b>within 24 hours</b> of receiving the request; if not agreeing, the supervisor must give reasons in writing. The record states the name of the work, time, location, participants, conclusion and signatures; the signatories include the investor's supervisor, the contractor's engineer (or the main contractor's) and the subcontractor's engineer, if any."
+  ],
+  [
+   "p",
+   "Completion acceptance of an item or work takes place only when construction is complete per the design, all steps have been fully accepted, testing and commissioning results are satisfactory, and fire protection and environmental requirements are met (<a href=\"/phap-ly/207-2026-nd-cp.html#d24\">Clause 1, Article 24</a>). Before requesting acceptance, the contractor must carry out surveying, monitoring, testing and commissioning according to the plan (Clause 10, Article 15)."
+  ],
+  [
+   "h2",
+   "7. Common fines for the construction contractor"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Violation",
+     "Fine (organization)",
+     "Basis"
+    ],
+    "dong": [
+     [
+      "No construction diary, no report to the investor, misuse of safety costs",
+      "VND 10–20 million",
+      "<a href=\"/phap-ly/339-2026-nd-cp.html#d23\">Clause 1, Article 23</a>"
+     ],
+     [
+      "Acceptance record missing content",
+      "VND 30–40 million",
+      "<a href=\"/phap-ly/339-2026-nd-cp.html#d31\">Clause 1, Article 31</a>"
+     ],
+     [
+      "Wrong signatories for acceptance; acceptance before conditions are met",
+      "VND 40–60 million",
+      "Clause 2, Article 31"
+     ],
+     [
+      "Building contrary to the contract or design; not implementing construction or safety measures",
+      "VND 40–60 million",
+      "Clause 3, Article 23"
+     ],
+     [
+      "No construction management system; not stopping construction when an incident occurs",
+      "VND 60–80 million",
+      "Clause 4, Article 23"
+     ],
+     [
+      "Falsifying or inflating quantities",
+      "VND 60–80 million",
+      "Clause 3, Article 31"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "The amounts in the table are those applied to organizations; an individual committing the same violation is fined half (<a href=\"/phap-ly/339-2026-nd-cp.html#d5\">Clause 4, Article 5 of Decree 339</a>). In addition to fines there are remedial measures such as being required to re-prepare records, re-accept and recalculate quantities."
+  ],
+  [
+   "h2",
+   "8. Checklist before commencement and weekly"
+  ],
+  [
+   "h3",
+   "Before commencement"
+  ],
+  [
+   "ol",
+   [
+    "Check commencement conditions: site, building permit (if required), approved construction drawings, signed contract, commencement notice sent (<a href=\"/phap-ly/135-2025-qh15.html#d48\">Clause 1, Article 48 of the Construction Law</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d12\">Article 12 of Decree 207</a>).",
+    "Site handover record, positioning and boundary markers.",
+    "Notify the construction management system and the list of key personnel.",
+    "Submit all 5 groups of documents in section 3 for approval; identify hazard zones.",
+    "Install project signs, barriers and information signs; give safety training to workers; inspect strictly regulated equipment.",
+    "Check insurance contracts for workers and third-party civil liability; open the construction diary."
+   ]
+  ],
+  [
+   "h3",
+   "Weekly"
+  ],
+  [
+   "ol",
+   [
+    "Compare actual progress with the approved schedule; propose stage adjustments if behind.",
+    "Reconcile quantities built, accepted and confirmed with the supervisor.",
+    "Review the construction diary, acceptance records and test results: dates must match actual events.",
+    "Check safety: scaffolding, electricity, work at height, personal protective equipment, hazard zones.",
+    "Check materials delivered: certificates, origin, sampling for testing according to plan.",
+    "Send progress, quality, quantity and safety reports to the investor as required by the contract."
+   ]
+  ],
+  [
+   "note",
+   "This summary is for reference only and does not replace legal documents. Fines are under Decree 339/2026/ND-CP (effective 26 August 2026). Appendix I of Decree 212/2026/ND-CP (relevant specialization) and Appendix II of Decree 207/2026/ND-CP (diary and as-built drawing forms) are not yet available in full text in the library; specialized occupational safety and hygiene rules and compulsory insurance need to be checked further against guiding documents."
+  ]
+ ]
+}

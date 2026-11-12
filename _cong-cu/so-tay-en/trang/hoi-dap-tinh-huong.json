@@ -1,0 +1,659 @@
+{
+ "title": "129 Q&A Scenarios: Project, Cost and Contract Management 2026",
+ "ngan": "Scenario Q&A",
+ "desc": "129 practical Q&As on estimates, norms, prices, contracts, payment and final settlement, acceptance, permits and certificates, with short answers citing 2026 law.",
+ "summary": "129 real-life scenarios on estimates, norms, prices, contracts, payment and final settlement, acceptance, permits and capability, with short answers citing the law.",
+ "lead": "Short answers to situations that engineers, QS, supervisors and project office staff often face. Each answer points to the exact article so you can read the original text. Note: many specific levels are mandatory only for public investment and PPP projects.",
+ "body": [
+  [
+   "p",
+   "From 1 July 2026, construction contracts, quality management, costs and construction activities are governed by the Construction Law 2025 together with Decrees 206, 207, 210, 212 and 217/2026/ND-CP. Decree 210/2026 applies to all construction contracts, but most of the specific figures (advance payment rates, payment periods, final settlement, etc.) are mandatory only for <b>public investment and PPP projects</b>; for other projects the parties agree."
+  ],
+  [
+   "h2",
+   "1. Contracts – advance payments – guarantees"
+  ],
+  [
+   "faq",
+   [
+    [
+     "Is interest charged on an advance payment under a construction contract?",
+     "No. An advance payment is a sum the employer (bên giao thầu) pays to the contractor ahead of time <b>free of interest</b>. The amount, number of instalments, timing, guarantee and recovery rate are agreed in the contract (<a href=\"/phap-ly/210-2026-nd-cp.html#d12\">Clauses 1 and 2, Article 12, Decree 210/2026/ND-CP</a>). Public investment and PPP projects must also comply with Clause 3 of the same Article."
+    ],
+    [
+     "What is the maximum advance payment on a State-funded project?",
+     "For public investment and PPP projects: the advance payment <b>must not exceed 30% of the contract price</b> at the time of signing (including contingency, if any). A higher advance payment (for example, to place a deposit with an equipment manufacturer) must be permitted by the investment decision-maker (<a href=\"/phap-ly/210-2026-nd-cp.html#d12\">Point g, Clause 3, Article 12, Decree 210</a>)."
+    ],
+    [
+     "What is the minimum advance payment for construction and consultancy contracts?",
+     "Public investment and PPP projects: for construction contracts, at least 10% (value over VND 50 billion), 15% (VND 10 to 50 billion) or 20% (under VND 10 billion); for consultancy contracts, at least 15% (over VND 10 billion) or 20% (up to VND 10 billion); for equipment supply, EPC, turnkey and other contracts, at least 10% (<a href=\"/phap-ly/210-2026-nd-cp.html#d12\">Points h, i and k, Clause 3, Article 12</a>)."
+    ],
+    [
+     "When must the contractor provide an advance payment guarantee?",
+     "Public investment and PPP projects: if the advance payment is <b>greater than VND 1 billion</b>, an advance payment guarantee of equal value must be submitted before receiving the money; for VND 1 billion or less, or for self-performed contracts, it is not mandatory. The guarantee value decreases in line with the advance payment recovered (<a href=\"/phap-ly/210-2026-nd-cp.html#d12\">Points c and d, Clause 3, Article 12</a>)."
+    ],
+    [
+     "What percentage is the performance security for a construction contract?",
+     "Public investment and PPP projects: <b>2% to 10% of the contract price</b>; if more than 10% is needed, the bidding law applies. The parties give preference to a guarantee; if a deposit is made or payment is withheld, the party providing the security is entitled to the interest accrued (<a href=\"/phap-ly/210-2026-nd-cp.html#d13\">Clause 2, Article 13, Decree 210</a>). For other projects, the parties agree in line with <a href=\"/phap-ly/135-2025-qh15.html#d83\">Article 83 of the Construction Law</a>."
+    ],
+    [
+     "In which cases does the contractor not get the performance security back?",
+     "When it refuses to perform the contract after the contract takes effect; when it is behind schedule through its own fault but refuses to extend the validity of the security; or when it commits another breach serious enough for the security to be forfeited under the agreement. The security is returned once the contractor has fulfilled its obligations, or moved into the warranty period and submitted the warranty security (<a href=\"/phap-ly/210-2026-nd-cp.html#d13\">Point dd, Clause 2, Article 13</a>)."
+    ],
+    [
+     "What is the maximum penalty for breach of a construction contract?",
+     "Bonuses, penalties and compensation are agreed by the parties; compensation is based on actual damage or a pre-agreed amount of damage. For works under public investment and PPP projects specifically: the penalty is <b>no more than 12% of the value of the part of the contract in breach</b>, and damages must still be compensated as agreed (<a href=\"/phap-ly/135-2025-qh15.html#d86\">Article 86, Construction Law 2025</a>)."
+    ]
+   ]
+  ],
+  [
+   "h2",
+   "2. Payment – final settlement – variations"
+  ],
+  [
+   "faq",
+   [
+    [
+     "How long does the investor have to pay after receiving the payment dossier?",
+     "Public investment and PPP projects: at most <b>14 working days</b> from the date the employer receives a complete and valid payment dossier as required by the contract; for projects using ODA or foreign loans, the period follows the international treaty (<a href=\"/phap-ly/210-2026-nd-cp.html#d28\">Points l and m, Clause 4, Article 28, Decree 210</a>). For other projects, the contract terms apply."
+    ],
+    [
+     "Does a lump-sum contract require detailed quantity measurement at every payment?",
+     "No. For public investment and PPP projects, a lump-sum contract is paid as a percentage of the contract price or of the price of the item corresponding to the agreed stage; <b>detailed confirmation of completed quantities must not be required</b>, except for work outside the scope (<a href=\"/phap-ly/210-2026-nd-cp.html#d28\">Point c, Clause 4, Article 28</a>). The dossier consists of the acceptance record, the variation calculation sheet (if any) and the payment request (<a href=\"/phap-ly/210-2026-nd-cp.html#d29\">Clause 2, Article 29</a>)."
+    ],
+    [
+     "If the investor pays late, may the contractor stop work?",
+     "For public investment and PPP projects: the contractor may suspend the contract if the employer fails to pay in full for an agreed stage <b>more than 28 days</b> after the payment due date, unless otherwise agreed. The suspending party must give written notice stating the reasons (<a href=\"/phap-ly/210-2026-nd-cp.html#d26\">Clause 2, Article 26, Decree 210</a>)."
+    ],
+    [
+     "What rate applies to interest on late payment?",
+     "A party paying late must pay interest on the overdue amount for the period of delay. The rate is agreed by the parties but must not exceed 20% per year; if there is no agreement, Clause 2, Article 468 applies (50% of the limit) (<a href=\"/phap-ly/91-2015-qh13.html#d357\">Article 357</a>, <a href=\"/phap-ly/91-2015-qh13.html#d468\">Article 468 of the Civil Code</a>)."
+    ],
+    [
+     "How are quantities that arise outside the design handled?",
+     "The investor, supervisor, design consultant and contractor review them together; only once the investor or the investment decision-maker approves the additional quantities do they become a basis for payment and final settlement (<a href=\"/phap-ly/207-2026-nd-cp.html#d18\">Clause 3, Article 18, Decree 207</a>). Reasonable unit prices for the additional work must be agreed so that the contract can be amended <b>before construction</b> (<a href=\"/phap-ly/210-2026-nd-cp.html#d23\">Clause 3, Article 23, Decree 210</a>)."
+    ],
+    [
+     "If actual quantities rise by more than 20%, does the unit price change?",
+     "For public investment and PPP projects, if the contract so provides: when a quantity increases or decreases by more than 20%, and this changes the contract price by more than 0.25% and the unit price by 1%, the parties determine a new unit price. The new unit price applies to the portion above 120%; if the quantity falls by more than 20%, it applies to the entire accepted completed quantity (<a href=\"/phap-ly/210-2026-nd-cp.html#d24\">Point b, Clause 2, Article 24</a>)."
+    ],
+    [
+     "What is the time limit for final settlement and contract liquidation?",
+     "Public investment and PPP projects: final settlement within at most <b>60 days</b> from when all work is completed and accepted, or at most 120 days for large and complex projects (<a href=\"/phap-ly/210-2026-nd-cp.html#d30\">Clause 3, Article 30</a>); liquidation within at most <b>45 days</b>, or at most 90 days for large-scale projects (<a href=\"/phap-ly/210-2026-nd-cp.html#d31\">Point b, Clause 3, Article 31</a>). The final settlement dossier includes the completion acceptance record, the A–B settlement statement, the as-built drawings and the construction diary."
+    ]
+   ]
+  ],
+  [
+   "h2",
+   "3. Quality – acceptance – warranty"
+  ],
+  [
+   "faq",
+   [
+    [
+     "How soon must the supervisor accept work when the contractor requests it?",
+     "No later than <b>24 hours</b> after receiving the acceptance request for the work. If it does not agree to accept, the supervisor must notify the contractor of the reasons in writing (<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Clause 3, Article 22, Decree 207/2026/ND-CP</a>)."
+    ],
+    [
+     "Who signs the acceptance record for construction work?",
+     "The investor's person directly supervising construction; the contractor's person directly in charge of construction technique (or the main contractor); and the subcontractor's technical person, if any (<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Clause 5, Article 22</a>). Signatories who do not comply with the rules may be fined VND 40–60 million (<a href=\"/phap-ly/339-2026-nd-cp.html#d31\">Clause 2, Article 31, Decree 339</a>, organization rate)."
+    ],
+    [
+     "What must a work acceptance record contain?",
+     "The name of the work; time and place; the signatories; the conclusion on whether the work is accepted, whether to proceed to the next work or to require rectification; signatures, full names and positions of the signatories; and appendices, if any. It may be prepared for each work item or jointly for several work items of one component (<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Clause 4, Article 22</a>). Missing content may be fined VND 30–40 million (<a href=\"/phap-ly/339-2026-nd-cp.html#d31\">Clause 1, Article 31</a>)."
+    ],
+    [
+     "When may the completed works be accepted?",
+     "When the work has been built in full in accordance with the approved design; all work items, parts and stages have been fully accepted; test, monitoring, inspection and commissioning results meet requirements; and fire prevention and environmental regulations are complied with. The investor organizes and directly participates (<a href=\"/phap-ly/207-2026-nd-cp.html#d24\">Clause 1, Article 24, Decree 207</a>)."
+    ],
+    [
+     "May part of a building be accepted so it can be put into use early?",
+     "Yes. For a part of the works that is completed and meets all acceptance conditions, the investor may decide to accept it for operation; the record must clearly state the part accepted. Continued construction of the remainder must ensure safety and not affect the part in operation (<a href=\"/phap-ly/207-2026-nd-cp.html#d24\">Clause 2, Article 24</a>)."
+    ],
+    [
+     "What is the minimum warranty period for works?",
+     "For works using public investment or budget funds: not less than <b>24 months</b> for special-grade and Grade I works and <b>12 months</b> for the other grades, counted from the investor's acceptance. For works with other funding sources, this may serve as a reference (<a href=\"/phap-ly/207-2026-nd-cp.html#d32\">Clause 5, Article 32, Decree 207</a>)."
+    ],
+    [
+     "How much warranty retention is held, and when is it paid back?",
+     "State-funded works: at least 3% of the contract value (special-grade and Grade I works) or 5% (other grades), in cash or as a bank guarantee letter; for other funding sources it is a reference. The contractor is refunded only after the warranty period ends and the investor confirms that warranty obligations are completed (<a href=\"/phap-ly/207-2026-nd-cp.html#d32\">Clauses 2 and 7, Article 32</a>)."
+    ],
+    [
+     "What can the investor do if the contractor refuses to carry out warranty work?",
+     "If damage is due to the contractor's fault and the contractor does not carry out warranty work, the investor may use the warranty retention to hire another party to repair it (<a href=\"/phap-ly/207-2026-nd-cp.html#d33\">Clause 3, Article 33, Decree 207</a>; <a href=\"/phap-ly/210-2026-nd-cp.html#d20\">Clause 2, Article 20, Decree 210</a>). The contractor may refuse warranty work where the damage is not its fault or results from force majeure as defined in the contract."
+    ],
+    [
+     "What happens if a site has no construction diary?",
+     "A contractor without a construction diary, or one prepared contrary to the rules, may be fined VND 10–20 million (organization rate) and be required to keep the diary for works under construction (<a href=\"/phap-ly/339-2026-nd-cp.html#d23\">Point c, Clause 1 and Point c, Clause 5, Article 23, Decree 339</a>). The diary is prepared in accordance with Appendix II of Decree 207/2026/ND-CP (<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 13, Article 15</a>)."
+    ]
+   ]
+  ],
+  [
+   "h2",
+   "4. Permits – commencement – construction order"
+  ],
+  [
+   "faq",
+   [
+    [
+     "How long does a building permit allow for starting construction, and how many times can it be extended?",
+     "Construction must start within <b>12 months</b> from the date the permit is issued or extended (<a href=\"/phap-ly/217-2026-nd-cp.html#d49\">Clause 10, Article 49, Decree 217/2026/ND-CP</a>). If that period passes without a start, an extension must be requested; each permit may be extended at most <b>2 times, 12 months each time</b> (<a href=\"/phap-ly/217-2026-nd-cp.html#d63\">Point a, Clause 3, Article 63</a>)."
+    ],
+    [
+     "Which design changes require the building permit to be adjusted?",
+     "When the exterior architectural form changes (in areas with architectural management requirements); when the location, construction area, number of floors or main structural solution changes; or when the main internal functional zoning changes. Design adjustments that do not touch these matters do not require the permit to be adjusted (<a href=\"/phap-ly/217-2026-nd-cp.html#d63\">Clause 1, Article 63</a>)."
+    ],
+    [
+     "How long does the licensing authority take to process a dossier?",
+     "From receipt of a complete and valid dossier: 7 working days for individual houses; for other works, 10 days (new issuance, relocation, time-limited permits) or 9 days (adjustment, repair, renovation); 5 days for extension or re-issuance. Dossiers are submitted online on the National Public Service Portal (<a href=\"/phap-ly/217-2026-nd-cp.html#d54\">Clause 1, Article 54, Decree 217</a>)."
+    ],
+    [
+     "When are works eligible to start construction?",
+     "Site handed over; building permit obtained (if required); approved construction drawing design for the part being started; contract with the contractor signed; and notice of commencement sent. For individual houses, only the permit (if required) and lawful residential land are needed (<a href=\"/phap-ly/135-2025-qh15.html#d48\">Article 48, Construction Law 2025</a>). See also <a href=\"/tin-tuc/dieu-kien-khoi-cong-xay-dung-nha-o-2026.html\">conditions for starting construction of a house</a>."
+    ],
+    [
+     "Where is the notice of commencement sent, and on what form?",
+     "The investor sends it in person, by post or online to the local state construction management authority, on the form in Appendix V of Decree 207/2026/ND-CP (<a href=\"/phap-ly/207-2026-nd-cp.html#d12\">Clause 2, Article 12</a>). Individual houses of households and individuals do not need to send a notice (<a href=\"/phap-ly/135-2025-qh15.html#d48\">Point dd, Clause 1, Article 48, Construction Law</a>)."
+    ],
+    [
+     "What must the site signboard show?",
+     "The name and scale of the works; the start date and completion date; the investor's name, address and telephone number; and a perspective drawing. The site must have hoarding and signs showing the general layout, safety, and fire and explosion prevention (<a href=\"/phap-ly/207-2026-nd-cp.html#d13\">Article 13, Decree 207</a>)."
+    ],
+    [
+     "What is the fine for failing to cover or screen the site and for spilled materials?",
+     "The contractor is fined VND 3–5 million for individual houses or other works, VND 15–20 million for works with a Technical–Economic Report, and VND 20–25 million for works with a Feasibility Study Report. Causing subsidence or cracking of neighboring works when building an individual house: VND 30–40 million (<a href=\"/phap-ly/339-2026-nd-cp.html#d26\">Clauses 1 and 2, Article 26, Decree 339</a>; organization rate)."
+    ]
+   ]
+  ],
+  [
+   "h2",
+   "5. Capability – practicing certificates"
+  ],
+  [
+   "faq",
+   [
+    [
+     "Does the site manager need a practicing certificate?",
+     "It is not among the titles that must hold a practicing certificate, but the person must meet capability and experience requirements (<a href=\"/phap-ly/135-2025-qh15.html#d88\">Clause 2, Article 88, Construction Law</a>). The Grade I, II and III conditions are in <a href=\"/phap-ly/212-2026-nd-cp.html#d38\">Clause 2, Article 38, Decree 212/2026/ND-CP</a>. From 1 March 2027, Law No. 24/2026/QH16 amending Article 88 still keeps this requirement."
+    ],
+    [
+     "Which titles must hold a practicing certificate?",
+     "Head and lead of planning preparation; head of survey; head and lead of design and of design verification; construction supervision; and lead of cost determination, verification and management (<a href=\"/phap-ly/135-2025-qh15.html#d88\">Clause 1, Article 88</a>). From <b>1 March 2027</b>, the cost management title is removed from this list (<a href=\"/phap-ly/24-2026-qh16.html#d2\">Clause 4, Article 2, Law No. 24/2026/QH16</a>)."
+    ],
+    [
+     "What are the conditions for a Grade III supervision certificate?",
+     "Meet the general conditions in Article 33 and have taken part in supervision, design or construction of suitable work on 1 work of Grade III or above, or 2 works of Grade IV; having a certificate is not required when taking part in supervision at this level (<a href=\"/phap-ly/212-2026-nd-cp.html#d37\">Clause 3, Article 37, Decree 212/2026/ND-CP</a>)."
+    ],
+    [
+     "Do construction enterprises still have to apply for a capability certificate?",
+     "The Construction Law 2025 moves to a mechanism of <b>self-disclosure of capability</b> on the Ministry of Construction's information portal (<a href=\"/phap-ly/135-2025-qh15.html#d88\">Clause 6, Article 88</a>), at csdlhdxd.gov.vn, with the legal representative responsible for the truthfulness of the information (<a href=\"/phap-ly/212-2026-nd-cp.html#d41\">Article 41, Decree 212</a>). Failure to disclose may be fined VND 20–40 million (<a href=\"/phap-ly/339-2026-nd-cp.html#d13\">Clause 2, Article 13, Decree 339</a>)."
+    ],
+    [
+     "How is borrowing or lending a practicing certificate dealt with?",
+     "An individual who borrows, lends, rents or rents out a certificate is fined VND 10–20 million; the borrower or renter also has the right to use the certificate withdrawn for 6–12 months (<a href=\"/phap-ly/339-2026-nd-cp.html#d13\">Point b, Clause 1 and Point a, Clause 4, Article 13, Decree 339</a>). The lender or lessor has the certificate revoked and may apply for a new one only 12 months after the revocation decision (<a href=\"/phap-ly/212-2026-nd-cp.html#d29\">Clauses 2 and 3, Article 29, Decree 212</a>)."
+    ],
+    [
+     "Can certificates issued under the 2014 Construction Law still be used?",
+     "They may continue to be used within the field and scope stated on the certificate until they expire (<a href=\"/phap-ly/212-2026-nd-cp.html#d55\">Clause 5, Article 55, Decree 212/2026/ND-CP</a>). Note that the competent authority no longer issues Project Management or Construction Cost Estimation practicing certificates for dossiers submitted before the Decree takes effect (Clause 2)."
+    ]
+   ]
+  ],
+  [
+   "h2",
+   "6. Costs – estimates – norms"
+  ],
+  [
+   "faq",
+   [
+    [
+     "What cost items does the construction cost in a cost estimate include?",
+     "Direct costs (materials, labor, machinery), indirect costs, pre-determined taxable income, VAT, and the cost of temporary housing for living and for site management (<a href=\"/phap-ly/206-2026-nd-cp.html#d12\">Clause 2, Article 12, Decree 206/2026/ND-CP</a>). Decree 206 is mandatory for public investment projects, PPP projects and projects using the budget; other projects use it as a reference and are responsible for their own decisions (<a href=\"/phap-ly/206-2026-nd-cp.html#d2\">Article 2</a>)."
+    ],
+    [
+     "How do estimating norms differ from basic norms?",
+     "Basic norms are the rates of material use, labor productivity and machine productivity, used to determine or adjust estimating norms. Estimating norms are the consumption of materials, labor and machinery needed to complete one unit of work quantity, used to determine construction prices (<a href=\"/phap-ly/206-2026-nd-cp.html#d19\">Clauses 2 and 3, Article 19, Decree 206</a>)."
+    ],
+    [
+     "Who publishes the construction price index, and what is it used for?",
+     "The Ministry of Construction publishes the national index annually; the Department of Construction determines the local index for the Provincial People's Committee (or the authorized Department) to publish. The index is used to determine or adjust the total investment, cost estimate, package price and contract price (<a href=\"/phap-ly/206-2026-nd-cp.html#d23\">Article 23, Decree 206</a>)."
+    ],
+    [
+     "In which cases may an approved cost estimate be adjusted?",
+     "When the project, total investment or design is adjusted; or when the structure of cost items is adjusted without changing the objectives or scale and without exceeding the total investment. For a package that has not yet opened bids, prices are calculated at the price level at the time of adjustment; for a signed contract, the contract terms are the basis (<a href=\"/phap-ly/206-2026-nd-cp.html#d18\">Article 18, Decree 206</a>)."
+    ]
+   ]
+  ],
+  [
+   "h2",
+   "Total investment – estimates – appraisal and adjustment"
+  ],
+  [
+   "faq",
+   [
+    [
+     "Is Decree 206/2026/ND-CP on cost management mandatory for privately funded projects?",
+     "No. The Decree applies to public investment projects, PPP projects and projects funded by recurrent expenditure or other State budget funds. Projects outside this scope use it only as a <b>reference</b> for determining and managing costs and are responsible for their own decisions (<a href=\"/phap-ly/206-2026-nd-cp.html#d2\">Article 2, Decree 206/2026/ND-CP</a>). Even so, projects with other funding must still comply with the cost management principles of the Construction Law."
+    ],
+    [
+     "What cost items does the preliminary total investment include, and how is it calculated?",
+     "The preliminary total investment includes compensation, support and resettlement costs (if any), construction, equipment (if any), project management, consultancy, other costs and contingency. The value is estimated from the scale and capacity under the preliminary design option multiplied by investment capital rates, cost rates, prices of structural parts or data from similar works, analyzed against the market price level (<a href=\"/phap-ly/206-2026-nd-cp.html#d4\">Clauses 1 and 2, Article 4, Decree 206/2026/ND-CP</a>)."
+    ],
+    [
+     "How many cost items does the total investment have?",
+     "Seven items: (1) compensation, support and resettlement; (2) construction costs; (3) equipment costs; (4) project management costs; (5) construction consultancy costs; (6) other costs; (7) contingency costs (for additional quantities and price escalation). The content of each item is set out in <a href=\"/phap-ly/206-2026-nd-cp.html#d5\">Clause 1, Article 5, Decree 206/2026/ND-CP</a>; Circular 36/2026/TT-BXD gives further detail in <a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d4\">Article 4 (consolidated document 89/2026)</a>."
+    ],
+    [
+     "Under which item do temporary housing, storage yards and concrete batching plants for construction fall?",
+     "Under <b>construction costs</b>, in the cost of temporary and auxiliary works and items serving construction. This part covers one or more of the following: temporary housing for living and site management, material storage yards, machine shelters, erection and dismantling of certain construction machines, temporary roads for construction, beam casting yards, concrete batching plants, and so on, according to the planned construction organization (<a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d4\">Clause 2, Article 4, Circular 36/2026/TT-BXD (consolidated)</a>)."
+    ],
+    [
+     "Under which cost item do unexploded ordnance clearance, interest during construction and works insurance fall?",
+     "These fall under <b>other costs</b> of the total investment, together with: relocation of special-purpose construction machinery, traffic safety for construction, restoration of technical infrastructure, auditing, verification and approval of final settlement, inspection of acceptance work by the specialized agency, resource taxes, fees and charges, and so on (<a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d4\">Clause 5, Article 4, Circular 36/2026/TT-BXD (consolidated)</a>). Unexploded ordnance clearance costs in particular are determined under the regulations of the Ministry of National Defence (<a href=\"/phap-ly/206-2026-nd-cp.html#d6\">Point e, Clause 2, Article 6, Decree 206/2026/ND-CP</a>)."
+    ],
+    [
+     "What is the maximum percentage of contingency for additional quantities?",
+     "Under the method in Circular 36/2026/TT-BXD: in the <b>preliminary total investment</b>, no more than 15%; in the <b>total investment</b>, a rate of kps ≤ 10%; in the <b>construction works cost estimate</b>, kps ≤ 5%, depending on the complexity of the works and geological conditions. The rate is applied to the total of the cost items before contingency (<a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d16\">Appendices I and II, Circular 36/2026/TT-BXD (consolidated)</a>; <a href=\"/phap-ly/206-2026-nd-cp.html#d12\">Clause 7, Article 12, Decree 206/2026/ND-CP</a>). The price escalation contingency is calculated separately according to the construction period and price indices."
+    ],
+    [
+     "On what basis is the price escalation contingency in an estimate calculated?",
+     "The price escalation contingency is determined by the <b>planned duration and schedule</b> of the works (by quarter or year) and the <b>construction price index</b> suited to the type of works, taking into account possible domestic and international price fluctuations (<a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d6\">Point b, Clause 7, Article 6, Circular 36/2026/TT-BXD (consolidated)</a>). The guided method uses the average price fluctuation over at least the 3 most recent years (<a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d16\">Appendix I, Circular 36/2026/TT-BXD</a>)."
+    ],
+    [
+     "Do the other costs in a works cost estimate include interest, auditing and unexploded ordnance clearance?",
+     "No. Other costs in the <b>construction works cost estimate</b> do not include interest during construction, unexploded ordnance clearance, auditing and verification and approval of final settlement, scientific research, initial working capital, line commissioning, project appraisal costs, resource taxes, fees and charges, and costs shared across the whole project (<a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d6\">Point b, Clause 6, Article 6, Circular 36/2026/TT-BXD (consolidated)</a>). Those items sit in the total investment."
+    ],
+    [
+     "For a project with a FEED/technical design at the Feasibility Study Report stage and an EPC contractor already selected, must the cost estimate be appraised at a later step?",
+     "No. A project using a FEED design or technical design at the Feasibility Study Report stage, and which has already selected an EPC, EC, EP or construction contractor, <b>does not need to have the construction works cost estimate appraised</b> at the implementation step after the project is approved (<a href=\"/phap-ly/206-2026-nd-cp.html#d16\">Clause 11, Article 16, Decree 206/2026/ND-CP</a>); the authority to approve estimates also excludes this case (<a href=\"/phap-ly/206-2026-nd-cp.html#d17\">Clause 1, Article 17</a>)."
+    ],
+    [
+     "Who appraises the construction works cost estimate under the new rules?",
+     "The estimate prepared by the investor is appraised <b>together with the implementation design</b> after the project is approved (<a href=\"/phap-ly/206-2026-nd-cp.html#d16\">Clause 1, Article 16, Decree 206/2026/ND-CP</a>). The investor's appraisal covers: completeness of the dossier and verification results (if any); consistency of main quantities with the design; the estimate value against the total investment and price level; and analysis of the causes of increases and decreases (<a href=\"/phap-ly/206-2026-nd-cp.html#d16\">Clause 3, Article 16</a>)."
+    ],
+    [
+     "Is it mandatory to hire a consultant to verify the estimate before appraisal?",
+     "No. Verification of the construction works cost estimate is <b>decided by the investor</b>, based on the characteristics, nature and necessity of the estimate; the verification content may cover some or all of the investor's appraisal content (<a href=\"/phap-ly/206-2026-nd-cp.html#d16\">Clause 8, Article 16, Decree 206/2026/ND-CP</a>). The cost of verifying and appraising estimates is set by the Ministry of Construction; the estimate appraisal fee is set by the Ministry of Finance (<a href=\"/phap-ly/206-2026-nd-cp.html#d16\">Clause 10, Article 16</a>)."
+    ],
+    [
+     "What does verification of the total investment cover?",
+     "A consultant with cost management capability checks: (a) the list of cost items against regulations and the project's scale and objectives; (b) whether the method of determining each item suits the type of design; (c) main quantities, the use of prices, norms, data from similar works and policies in force at the time of determination; (d) the value after verification, the causes of increases and decreases, and investment efficiency (<a href=\"/phap-ly/206-2026-nd-cp.html#d8\">Article 8, Decree 206/2026/ND-CP</a>)."
+    ],
+    [
+     "Does an approved package estimate replace the package price in the contractor selection plan?",
+     "Yes. The investor approves the package estimate to <b>replace the package price</b> in the contractor selection plan under the bidding law (<a href=\"/phap-ly/206-2026-nd-cp.html#d17\">Clause 3, Article 17, Decree 206/2026/ND-CP</a>). The package price is the value approved in the contractor selection plan, including all costs of carrying out the package, including contingency, fees, charges and taxes (<a href=\"/phap-ly/206-2026-nd-cp.html#d15\">Article 15</a>)."
+    ],
+    [
+     "Does adjusting the structure of items in an estimate require permission?",
+     "The structure of estimate cost items may be adjusted provided it <b>does not change the objectives or scale and does not exceed the total investment</b> of the project (<a href=\"/phap-ly/206-2026-nd-cp.html#d18\">Clause 1, Article 18, Decree 206/2026/ND-CP</a>). The investor itself organizes the appraisal and approval of the adjusted estimate under Clause 2, Article 31 of the Construction Law 2025 and the implementing decree (<a href=\"/phap-ly/206-2026-nd-cp.html#d18\">Clause 2, Article 18</a>)."
+    ],
+    [
+     "When a component project adjusts its total investment, must the project's Feasibility Study Report also be adjusted?",
+     "No, if adjusting the component project's total investment does not change the content, objectives or scale, <b>does not exceed the total investment of the whole project</b> and ensures investment efficiency; in that case the investor adjusts the component project's total investment itself. If it would exceed the whole project's total investment, it is reported to the investment decision-maker for consideration (<a href=\"/phap-ly/206-2026-nd-cp.html#d10\">Clause 3, Article 10, Decree 206/2026/ND-CP</a>)."
+    ],
+    [
+     "When the total investment is adjusted, how are packages already finally settled included?",
+     "For a project already in the implementation stage: works and packages not part of the adjustment take the approved estimate, the updated package estimate value or the contract final settlement value; for a package <b>whose contract has been finally settled, the settlement value is entered</b> in the adjusted total investment (<a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d5\">Clause 2, Article 5, Circular 36/2026/TT-BXD (consolidated)</a>; <a href=\"/phap-ly/206-2026-nd-cp.html#d10\">Clause 2, Article 10, Decree 206/2026/ND-CP</a>)."
+    ],
+    [
+     "An estimate was sent to the specialized agency for appraisal before 1 July 2026 but no result has been issued. How is it handled?",
+     "The specialized construction agency <b>stops the appraisal</b> and issues a document so the investor can take back the dossier; the investor appraises and approves it itself under Decree 206/2026. If the appraisal result has already been notified, the investor takes on the comments, updates the estimate, and appraises and approves it under the new rules (<a href=\"/phap-ly/206-2026-nd-cp.html#d36\">Clause 5, Article 36, Decree 206/2026/ND-CP</a>). Estimates approved before 1 July 2026 do not need to be re-approved (<a href=\"/phap-ly/206-2026-nd-cp.html#d36\">Clause 2, Article 36</a>)."
+    ],
+    [
+     "Can norms, unit prices for labor and machine shifts published before 1 July 2026 still be used?",
+     "Yes. The system of norms, construction prices, labor prices and machine shift prices already issued or published before 1 July 2026 <b>continues to be applied or referred to</b> until the specialized Ministries and Provincial People's Committees review, update and issue new ones that take effect (<a href=\"/phap-ly/206-2026-nd-cp.html#d36\">Clause 7, Article 36, Decree 206/2026/ND-CP</a>). For packages with a signed contract, the signed contract applies (<a href=\"/phap-ly/206-2026-nd-cp.html#d36\">Clause 6, Article 36</a>)."
+    ]
+   ]
+  ],
+  [
+   "h2",
+   "Construction norms"
+  ],
+  [
+   "faq",
+   [
+    [
+     "Which norm volumes does Circular 38/2026/TT-BXD issue, and which documents does it replace?",
+     "It has 8 appendices: survey; building works; installation of technical systems; installation of machinery and process equipment; specialized testing; repair and maintenance of works; use of materials; project management and consultancy costs (<a href=\"/phap-ly/38-2026-tt-bxd.html#d1\">Article 1, Circular 38/2026/TT-BXD</a>). It takes effect on 1 July 2026 and replaces Circulars 12/2021/TT-BXD, 09/2024/TT-BXD, 08/2025/TT-BXD and Article 2 of Circular 60/2025/TT-BXD (<a href=\"/phap-ly/38-2026-tt-bxd.html#d2\">Article 2</a>)."
+    ],
+    [
+     "Which agency issues estimating norms?",
+     "The Ministry of Construction issues norms for nationwide use; the Ministry managing specialized works issues norms for specialized work not in the Ministry of Construction's system; the Provincial People's Committee issues norms for work in its area not yet issued by the Ministry of Construction or specialized Ministries (<a href=\"/phap-ly/206-2026-nd-cp.html#d20\">Clause 1, Article 20, Decree 206/2026/ND-CP</a>)."
+    ],
+    [
+     "How is an estimate prepared for work with no norm or an unsuitable norm?",
+     "When preparing the total investment and estimate, the investor and the estimating unit may <b>apply, adapt or adjust</b> norms in the existing system, or determine norms based on the planned technology, methods and construction conditions (<a href=\"/phap-ly/206-2026-nd-cp.html#d20\">Point a, Clause 5, Article 20, Decree 206/2026/ND-CP</a>). The method for determining new norms and adjusting norms is in Appendix I of Circular 37/2026/TT-BXD (<a href=\"/phap-ly/37-2026-tt-bxd.html#d1\">Article 1, Circular 37/2026/TT-BXD</a>)."
+    ],
+    [
+     "During construction, what are the responsibilities of the investor of a public investment project regarding norms?",
+     "The investor of a public investment project organizes <b>surveying, collecting and determining works estimating norms</b> for work that has no norm, or has one that does not fit reality, using the Ministry of Construction's method, then sends them to the Ministry of Construction and the norm-issuing agency for review and updating (<a href=\"/phap-ly/206-2026-nd-cp.html#d20\">Point b, Clause 5, Article 20, Decree 206/2026/ND-CP</a>). The funding to develop new norms or adjust these norms is included in the project's investment costs (<a href=\"/phap-ly/206-2026-nd-cp.html#d21\">Clause 2, Article 21</a>)."
+    ],
+    [
+     "May large projects use foreign norms?",
+     "Yes, for large-scale public investment projects with complex techniques and new technology not yet common in Vietnam. The investor collects and translates foreign norms, hires a capable consultant to analyze and assess them and determine what to apply in order to decide on their use; reports to the investment decision-maker; and during construction collects verification data and sends the results to the management agency (<a href=\"/phap-ly/206-2026-nd-cp.html#d20\">Point d, Clause 5, Article 20, Decree 206/2026/ND-CP</a>; <a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d10\">Clause 3, Article 10, Circular 36/2026/TT-BXD (consolidated)</a>)."
+    ],
+    [
+     "What are works-specific estimating norms, and how do they differ from general estimating norms?",
+     "Works-specific estimating norms apply to large-scale projects, with complex techniques and new technology not yet common; or to work using new construction technology or new materials <b>not in the system of norms</b> issued by State agencies (<a href=\"/phap-ly/206-2026-nd-cp.html#d19\">Clause 6, Article 19, Decree 206/2026/ND-CP</a>). These norms are determined by the investor using the method in Circular 37/2026/TT-BXD (<a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d10\">Clause 2, Article 10, Circular 36/2026/TT-BXD (consolidated)</a>)."
+    ],
+    [
+     "What must be converted in norms issued by ministries, sectors and provinces before 1 July 2026?",
+     "Estimating norms issued by specialized Ministries and Provincial People's Committees before 1 July 2026 must have their <b>labor consumption component converted to the labor groups</b> of Circular 37/2026/TT-BXD before 1 September 2026 (<a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d10\">Clause 1, Article 10, Circular 36/2026/TT-BXD (consolidated)</a>). For norms not yet converted, the suitable labor group is chosen according to the nature of the work using Table 3.1 of Appendix III of Circular 37/2026 (<a href=\"/phap-ly/37-2026-tt-bxd.html#d2\">Clause 3, Article 2, Circular 37/2026/TT-BXD</a>)."
+    ],
+    [
+     "Under which norms is the cost of maintenance and repair of works estimated?",
+     "The owner or the manager-user of the works may apply, adapt or adjust the maintenance work norms in the system issued by State agencies; where there are none or they are unsuitable, norms are determined under guidance from the Ministry of Construction (<a href=\"/phap-ly/40-2026-tt-bxd.html#d6\">Clause 2, Article 6, Circular 40/2026/TT-BXD</a>). Estimating norms for repair and maintenance of works are in Appendix VI of Circular 38/2026/TT-BXD (<a href=\"/phap-ly/38-2026-tt-bxd.html#d1\">Article 1, Circular 38/2026/TT-BXD</a>)."
+    ],
+    [
+     "What does Circular 37/2026/TT-BXD guide, and which documents does it replace?",
+     "It has 6 appendices: methods for determining new and adjusted estimating norms and for reviewing norms; surveying and publishing material prices; the method for determining labor prices; machine shift and construction equipment prices; construction price indices; investment capital rates and cost rates (<a href=\"/phap-ly/37-2026-tt-bxd.html#d1\">Article 1, Circular 37/2026/TT-BXD</a>). The Circular replaces Circulars 13/2021/TT-BXD, 01/2025/TT-BXD and some articles of Circulars 09/2025 and 60/2025 (<a href=\"/phap-ly/37-2026-tt-bxd.html#d4\">Article 4</a>)."
+    ]
+   ]
+  ],
+  [
+   "h2",
+   "Construction prices – price indices – maintenance"
+  ],
+  [
+   "faq",
+   [
+    [
+     "What types of construction price are there?",
+     "Prices of construction work items, prices of groups of construction work items, prices of structural parts and units of works, cost rates and construction investment capital rates (<a href=\"/phap-ly/206-2026-nd-cp.html#d22\">Clause 1, Article 22, Decree 206/2026/ND-CP</a>). The prices of the direct cost elements that make up the price of a work item are material prices, labor prices, and machine and construction equipment shift prices (<a href=\"/phap-ly/206-2026-nd-cp.html#d22\">Clause 2, Article 22</a>)."
+    ],
+    [
+     "From which sources may material prices be taken when preparing a State-funded estimate?",
+     "Material, labor, machinery and equipment prices are determined by reviewing these sources: the National Database on Construction Activities, local price announcements, quotations from suppliers and producers, and data from similar works; the price chosen, or an average price, must fit the standard, origin, quality and market price. If no suitable source exists, the investor may hire a price appraisal organization (<a href=\"/phap-ly/206-2026-nd-cp.html#d6\">Point dd, Clause 5, Article 6, Decree 206/2026/ND-CP</a>)."
+    ],
+    [
+     "When does the Department of Construction publish construction material prices?",
+     "Material prices are collected monthly and published periodically each month or each quarter; materials with abnormal fluctuations are published monthly. Quarterly publication is <b>before the 15th of the first month of the next quarter</b>; monthly publication is <b>before the 10th of the next month</b>. The published price is the monthly average by brand and manufacturer (<a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d11\">Clause 3, Article 11, Circular 36/2026/TT-BXD (consolidated)</a>; <a href=\"/phap-ly/206-2026-nd-cp.html#d24\">Clauses 3 and 4, Article 24, Decree 206/2026/ND-CP</a>)."
+    ],
+    [
+     "Do the published construction labor unit prices already include employee insurance?",
+     "Yes. Published labor prices include wages, wage allowances according to the characteristics of construction production, and amounts that the employee is responsible for paying such as social insurance, health insurance, unemployment insurance and trade union funds (<a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d11\">Point a, Clause 4, Article 11, Circular 36/2026/TT-BXD (consolidated)</a>). Labor and machine shift prices are published annually, before 15 January of the following year, or earlier when there are abnormal fluctuations (<a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d11\">Point c, Clause 4 and Point c, Clause 5, Article 11</a>)."
+    ],
+    [
+     "How does a locality that has not yet published labor prices under the new method apply them?",
+     "The Department of Construction takes the labor price tables published earlier and <b>converts</b> them under the method in Clause 4, Section I of Appendix III of Circular 37/2026, publishing them for application from the date the Circular takes effect; it also surveys and determines labor prices under the new method for publication and application <b>from 1 January 2027</b> (<a href=\"/phap-ly/37-2026-tt-bxd.html#d2\">Clauses 1 and 2, Article 2, Circular 37/2026/TT-BXD</a>)."
+    ],
+    [
+     "If no suitable work item price exists for the works, may the investor determine it itself?",
+     "Yes. Where State-published construction prices, cost element prices and norms are missing or unsuitable, the investor and consultant use Appendix IV of Circular 36/2026 and Circular 37/2026 to determine prices of work items, groups of work items, structural parts and cost rates. The results of determining labor prices and machine shift prices must be sent to the Department of Construction for monitoring (<a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d12\">Clauses 3 and 4, Article 12, Circular 36/2026/TT-BXD (consolidated)</a>)."
+    ],
+    [
+     "When do State agencies publish the construction price index?",
+     "The quarterly price index is published <b>before the 15th of the first month of the next quarter</b>; the annual index <b>before 15 January of the following year</b>; if a monthly index is needed, before the 10th of the next month (<a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d13\">Clause 2, Article 13, Circular 36/2026/TT-BXD (consolidated)</a>). The Ministry of Construction publishes the national price index annually; the Department of Construction determines the local price index for the Provincial People's Committee or the Department to publish (<a href=\"/phap-ly/206-2026-nd-cp.html#d23\">Clause 3, Article 23, Decree 206/2026/ND-CP</a>)."
+    ],
+    [
+     "May the investor determine a price index itself to adjust the contract price?",
+     "Yes. Based on the contract type and the nature of the work, the investor decides to use the price index published by the Ministry of Construction or the Provincial People's Committee (if suitable) or to <b>have a price index determined</b> by the Ministry of Construction's method for adjusting the contract price; it may hire a capable consultant to calculate it. The cost of determining the works price index is included in the project's investment costs (<a href=\"/phap-ly/206-2026-nd-cp.html#d23\">Clauses 4 and 5, Article 23, Decree 206/2026/ND-CP</a>)."
+    ],
+    [
+     "What is the maximum contingency in an estimate for maintenance and repair of works?",
+     "No more than <b>5%</b> of the total cost of carrying out maintenance (or repair) plus other costs (<a href=\"/phap-ly/40-2026-tt-bxd.html#d3\">Clause 4, Article 3</a>, <a href=\"/phap-ly/40-2026-tt-bxd.html#d4\">Clause 5, Article 4, Circular 40/2026/TT-BXD</a>). The Circular is mandatory for works maintained with recurrent budget expenditure and PPP works; for works with other funding, the owner or user decides whether to apply it (<a href=\"/phap-ly/40-2026-tt-bxd.html#d7\">Clause 2, Article 7</a>)."
+    ]
+   ]
+  ],
+  [
+   "h2",
+   "Project management costs, consultancy, appraisal fees"
+  ],
+  [
+   "faq",
+   [
+    [
+     "How is the project management cost determined, and is it a maximum cost?",
+     "Project management cost is the <b>maximum cost</b> for managing the project in line with the approved duration and scope of work; it is determined by percentage norms as prescribed, or by preparing an estimate suited to the management organization form, duration and scale of the project. The cost is managed by annual estimate and adjusted only when the scope of work, schedule or project is adjusted (<a href=\"/phap-ly/206-2026-nd-cp.html#d25\">Clause 1, Article 25, Decree 206/2026/ND-CP</a>). Percentage norms are in Appendix VIII of Circular 38/2026 (<a href=\"/phap-ly/38-2026-tt-bxd.html#d1\">Article 1</a>)."
+    ],
+    [
+     "What expenses does project management cost include?",
+     "Salaries of project management staff; wages of contract workers; allowances, bonuses and welfare; insurance contributions and trade union funds; application of science and technology and training; public utilities, stationery and communications; conferences; business travel allowances; rental, repair and purchase of assets serving project management; and other costs and contingency (<a href=\"/phap-ly/206-2026-nd-cp.html#d25\">Clause 2, Article 25, Decree 206/2026/ND-CP</a>)."
+    ],
+    [
+     "If a project management consultant is hired, how is the cost calculated?",
+     "The project management consultancy cost is determined by <b>preparing an estimate</b> according to the content and quantity of work agreed in the consultancy contract. The total of the part the investor does itself plus the part done by the project management consultant or EPC contractor <b>must not exceed</b> the approved project management cost (<a href=\"/phap-ly/206-2026-nd-cp.html#d25\">Clauses 3 and 5, Article 25, Decree 206/2026/ND-CP</a>)."
+    ],
+    [
+     "If an EPC contractor performs some project management work, is it entitled to project management cost?",
+     "It is entitled to <b>part</b> of the project management cost corresponding to the scope and quantity of project management work assigned by the investor and agreed in the contract (<a href=\"/phap-ly/206-2026-nd-cp.html#d25\">Clause 4, Article 25, Decree 206/2026/ND-CP</a>). The total project management cost across all parties still does not exceed the approved amount (<a href=\"/phap-ly/206-2026-nd-cp.html#d25\">Clause 5, Article 25</a>)."
+    ],
+    [
+     "If the project management unit performs some consultancy work itself, how is the cost handled?",
+     "If the investor or project management unit ensures it completes project management tasks and has the capability to carry out some consultancy work, it <b>may add the cost</b> of that consultancy work to the project management cost (<a href=\"/phap-ly/206-2026-nd-cp.html#d26\">Clause 4, Article 26, Decree 206/2026/ND-CP</a>). For budget-funded projects, the investor's and project management unit's revenues and expenditures follow Circular 79/2026/TT-BTC (<a href=\"/phap-ly/79-2026-tt-btc.html#d1\">Article 1, Circular 79/2026/TT-BTC</a>)."
+    ],
+    [
+     "How is construction consultancy cost determined?",
+     "By <b>percentage norms</b> in the Circular issuing construction norms; for work with no norm or an unsuitable norm, by <b>preparing an estimate</b> under Part II of Appendix VI of Circular 36/2026; for specialized surveying and testing, the estimate is prepared under Appendix V (<a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d14\">Article 14, Circular 36/2026/TT-BXD (consolidated)</a>). The approved consultancy cost is a maximum cost, adjusted only when the scope, conditions or schedule of the consultancy changes (<a href=\"/phap-ly/206-2026-nd-cp.html#d26\">Clause 3, Article 26, Decree 206/2026/ND-CP</a>)."
+    ],
+    [
+     "What does the estimate include when a foreign consultant is hired?",
+     "The estimate for hiring a foreign consultant includes expert costs, management costs, other related costs, pre-determined taxable income, contingency and taxes payable; it is determined by the number, qualifications, working time and salary of the experts, or by data on hiring foreign consultants for similar projects in Vietnam (<a href=\"/phap-ly/206-2026-nd-cp.html#d27\">Article 27, Decree 206/2026/ND-CP</a>). Detailed guidance is in Part III of Appendix VI of Circular 36/2026 (<a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d14\">Clause 2, Article 14</a>)."
+    ],
+    [
+     "On what value is the construction estimate appraisal fee calculated, and what is the maximum?",
+     "Fee = <b>construction cost excluding VAT</b> in the estimate submitted for appraisal × the rate in the Fee Schedule; minimum VND 500,000 and maximum VND 150,000,000 per appraisal at each agency; values falling between thresholds are interpolated. The investor pays the fee when receiving the appraisal result (<a href=\"/phap-ly/27-2023-tt-btc.html#d4\">Article 4</a>, <a href=\"/phap-ly/27-2023-tt-btc.html#d2\">Article 2, Circular 27/2023/TT-BTC</a>). From 1 July 2025 to 31 December 2026 the rate is 50% of the Fee Schedule (<a href=\"/phap-ly/64-2025-tt-btc.html#d1\">Article 1, Circular 64/2025/TT-BTC</a>)."
+    ],
+    [
+     "In which cases is the Feasibility Study Report appraisal fee reduced or increased?",
+     "Fee = total investment submitted for appraisal × the rate in the Fee Schedule (minimum VND 500,000, maximum VND 150 million). The rate is <b>50%</b> when the appraising agency requires verification, or when an adjusted project reuses content already appraised; <b>100%</b> if the adjustment does not reuse the old content; <b>150%</b> when the specialized agency is also the lead appraising agency for the investment decision-maker (<a href=\"/phap-ly/28-2023-tt-btc.html#d4\">Article 4, Circular 28/2023/TT-BTC</a>). In particular, from 1 July 2025 to 31 December 2026 the Fee Schedule is reduced by 50% (<a href=\"/phap-ly/64-2025-tt-btc.html#d1\">Article 1, Circular 64/2025/TT-BTC</a>)."
+    ],
+    [
+     "How are taxable income and contingency calculated in the estimate for construction work (work with no norm)?",
+     "The estimate for construction work is prepared according to the terms of reference and includes direct costs (personnel, materials, machinery), other costs, pre-determined taxable income, taxes and contingency (<a href=\"/phap-ly/206-2026-nd-cp.html#d14\">Article 14, Decree 206/2026/ND-CP</a>). Under the method in Circular 36/2026: pre-determined taxable income equals <b>6%</b> of total direct and other costs; contingency is <b>at most 5%</b> (<a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d16\">Appendix II, Circular 36/2026/TT-BXD (consolidated)</a>). The investor appraises this estimate itself (<a href=\"/phap-ly/206-2026-nd-cp.html#d16\">Clause 6, Article 16</a>)."
+    ]
+   ]
+  ],
+  [
+   "h2",
+   "Appraisal of projects, designs and building permits"
+  ],
+  [
+   "faq",
+   [
+    [
+     "Which projects must submit the Feasibility Study Report to the specialized construction agency for appraisal?",
+     "Under <a href=\"/phap-ly/217-2026-nd-cp.html#d32\">Clause 1, Article 32, Decree 217/2026/ND-CP</a>: public investment projects; PPP projects; large-scale business investment projects (those whose investment policy is approved by the National Assembly or Prime Minister, or that meet criteria like nationally important projects); and business investment projects with works affecting community safety and interests on the list in Appendix IV. All other projects are appraised under the organization of the investment decision-maker."
+    ],
+    [
+     "How long does the specialized construction agency take to appraise a Feasibility Study Report?",
+     "Counted from receipt of a complete and valid dossier: no more than 60 days for nationally important projects; Group A projects with Grade I or higher works, 25 working days, other Group A projects 20 days; Group B projects with Grade I or higher works 20 days, others 16 days; Group C projects with Grade I or higher works 15 days, others 12 working days. It may be extended only once, by a document stating the reasons (<a href=\"/phap-ly/217-2026-nd-cp.html#d37\">Article 37, Decree 217/2026/ND-CP</a>)."
+    ],
+    [
+     "For a project not subject to appraisal by the specialized agency, who appraises it?",
+     "The investment decision-maker assigns an affiliated specialized agency or affiliated specialized construction agency to lead the appraisal; if there is none, it assigns an organization with individuals of suitable expertise and experience as the lead appraising agency. The project preparation agency prepares and submits the dossier; the appraisal result uses Forms No. 03 and 04 of Appendix I (<a href=\"/phap-ly/217-2026-nd-cp.html#d31\">Clauses 3 and 4, Article 31, Decree 217/2026/ND-CP</a>)."
+    ],
+    [
+     "When a project is adjusted, when must it be re-submitted to the specialized agency for appraisal?",
+     "Under <a href=\"/phap-ly/217-2026-nd-cp.html#d40\">Clause 2, Article 40, Decree 217/2026/ND-CP</a>, only when: a planning adjustment changes indicators within the project site; the investment objectives or scale change (except for correcting figures or cutting independent items that has been approved); the architectural solution for the main functional zones, the main structural solution or the principle diagram of the technical systems changes; for public investment and PPP projects, when the total investment increases (except due to compensation, resettlement or price indices)."
+    ],
+    [
+     "Who appraises the construction drawing design after the project is approved?",
+     "The investor appraises the design step carried out immediately before selecting the construction contractor or the EPC, EC or EP contractor, as the basis for approval; for the remaining design steps, the investor decides on the control method under the contract (<a href=\"/phap-ly/217-2026-nd-cp.html#d41\">Clause 1, Article 41, Decree 217/2026/ND-CP</a>). For PPP projects, if the PPP law assigns the competent authority to appraise, that authority does so."
+    ],
+    [
+     "If construction has not started and the approved design needs adjusting, what should be done?",
+     "If the adjustment does not require the project to be adjusted, the investor reports to the investment decision-maker for consideration and approval before implementing; the investor then appraises and approves the adjusted design itself and ensures consistency between design steps (<a href=\"/phap-ly/217-2026-nd-cp.html#d43\">Clauses 2, 3 and 4, Article 43, Decree 217/2026/ND-CP</a>). Adjustment may be made only in the cases in Clause 1, Article 31 of the Construction Law 2025."
+    ],
+    [
+     "May a public investment project let the investor manage the project itself?",
+     "The project management form for public investment projects is a Construction Investment Project Management Board. Only where the investment decision-maker has no affiliated Project Management Board, or has one that does not meet the conditions to take on the task at the time of assignment, may it decide to apply the form in which the investor organizes project management (<a href=\"/phap-ly/217-2026-nd-cp.html#d44\">Clause 2, Article 44, Decree 217/2026/ND-CP</a>). For business projects, the investment decision-maker chooses a suitable form."
+    ],
+    [
+     "Which agency issues building permits for Grade II works?",
+     "Under <a href=\"/phap-ly/217-2026-nd-cp.html#d53\">Article 53, Decree 217/2026/ND-CP</a>: the commune-level People's Committee issues permits for Grade III and Grade IV works and individual houses; the Management Board of the industrial park or economic zone issues for works within the zone it manages; the Department of Construction issues for all other works in the province. Accordingly, Grade II works outside these zones are permitted by the Department of Construction. For a project with several works, the work of the highest grade decides."
+    ],
+    [
+     "Which land documents may be used to apply for a building permit?",
+     "One of the types in <a href=\"/phap-ly/217-2026-nd-cp.html#d55\">Article 55, Decree 217/2026/ND-CP</a>: a Certificate of land use rights, house ownership rights and other assets attached to land (including certificates issued in different periods); documents qualifying for a Certificate under Article 137 of the Land Law 2024; a decision on land allocation, land lease or change of purpose (with the land lease contract, if any), or documents on winning an auction or bidding for a project using land since 1 July 2004..."
+    ],
+    [
+     "In which cases is a building permit revoked?",
+     "When the permit was issued contrary to regulations, or the investor fails to remedy construction that departs from the permit within the period stated in the violation-handling document. The investor must return the original within 5 working days of receiving the revocation decision; if it is not returned after 10 working days, the permit is cancelled (<a href=\"/phap-ly/217-2026-nd-cp.html#d65\">Article 65, Decree 217/2026/ND-CP</a>)."
+    ],
+    [
+     "Must the investor publicly display the building permit at the site?",
+     "Yes. The investor must publicly display the content of the building permit at the construction location throughout construction; the licensing authority publishes the permit content on its website for at least 12 months from the date of issue or extension (<a href=\"/phap-ly/217-2026-nd-cp.html#d66\">Article 66, Decree 217/2026/ND-CP</a>)."
+    ]
+   ]
+  ],
+  [
+   "h2",
+   "Contracts, payment and capital final settlement"
+  ],
+  [
+   "faq",
+   [
+    [
+     "How do EPC, EC and EP contracts differ?",
+     "Under <a href=\"/phap-ly/210-2026-nd-cp.html#d6\">Article 6, Decree 210/2026/ND-CP</a>: an EP contract covers design and supply of materials and equipment under the process design; an EC contract covers design and construction of the works; an EPC contract covers design, supply of materials and equipment, and construction. There are also consultancy, construction, supply of materials and equipment, PC, turnkey contracts and others. The contract type determines the contents of the payment dossier and how it is managed."
+    ],
+    [
+     "May the main contractor assign work to a subcontractor?",
+     "Yes, if the contract so agrees; but it may assign only work within the subcontractor's capability, and the main contractor remains responsible to the investor for the schedule, quality, safety and environment of the subcontracted work. For public investment projects, a subcontractor not on the list attached to the contract must be approved in writing by the investor (<a href=\"/phap-ly/210-2026-nd-cp.html#d19\">Clause 1, Article 19, Decree 210/2026/ND-CP</a>)."
+    ],
+    [
+     "May the investor designate a subcontractor for the main contractor?",
+     "Only when the main contractor fails to meet requirements for safety, quality or schedule after the investor has made a request, and the situations in which designation is allowed must be set out in advance in the contract. The main contractor has the right to refuse a subcontractor designated by the investor if the designation is not among the agreed cases (<a href=\"/phap-ly/210-2026-nd-cp.html#d19\">Clause 2, Article 19, Decree 210/2026/ND-CP</a>)."
+    ],
+    [
+     "If material prices spike after the contract is signed, will the contractor be considered?",
+     "When prices fluctuate abnormally, beyond what the parties could foresee when signing and likely to cause serious damage, the parties must analyze and assess the impact based on the signing date, the quantities done and still to be done, and the scope affected, in order to agree how to handle it (<a href=\"/phap-ly/210-2026-nd-cp.html#d18\">Clause 3, Article 18, Decree 210/2026/ND-CP</a>). Force majeure and fundamental change of circumstances are subject to Article 13 of the Construction Law; it is advisable to set out the handling procedure in the contract in advance."
+    ],
+    [
+     "What if the other party does not respond to a contract claim?",
+     "The party receiving the claim must give specific grounds and evidence. For contracts of public investment and PPP projects, it must reply in writing within 7 days of receiving the claim at the latest, stating clearly whether it is accepted and the reasons. A claim that cannot be resolved moves to dispute resolution as agreed (<a href=\"/phap-ly/210-2026-nd-cp.html#d21\">Article 21, Decree 210/2026/ND-CP</a>)."
+    ],
+    [
+     "During a contract dispute, may the contractor stop the whole site?",
+     "No. While a dispute is being resolved, the parties must continue to perform their obligations for work not affected by the dispute and must not interrupt the contract, except for force majeure, at the request of a competent authority, or the cases where suspension is permitted under Points a and b, Clause 2, Article 26 (<a href=\"/phap-ly/210-2026-nd-cp.html#d17\">Clause 2, Article 17, Decree 210/2026/ND-CP</a>)."
+    ],
+    [
+     "When may a construction contract be unilaterally terminated?",
+     "Certain serious breaches are listed in <a href=\"/phap-ly/210-2026-nd-cp.html#d27\">Clause 2, Article 27, Decree 210/2026/ND-CP</a>: assignment of the contract without the other party's approval; the contractor refusing to work, or not working for 56 consecutive days, seriously affecting the schedule; work stopped for more than 56 consecutive days through the employer's fault; the employer failing to pay for more than 56 days after the payment due date (unless otherwise agreed). A party that abandons the contract without grounds bears civil liability."
+    ],
+    [
+     "If extending the contract schedule goes beyond the project implementation period, what must be done first?",
+     "For contracts of public investment and PPP projects, if adjusting the contract duration or schedule results in exceeding the project implementation period, the investor must report to the investment decision-maker to decide on adjusting the project implementation period first, and only then do the parties agree to adjust the contract schedule (<a href=\"/phap-ly/210-2026-nd-cp.html#d25\">Clause 2, Article 25, Decree 210/2026/ND-CP</a>)."
+    ],
+    [
+     "What does the payment dossier for a lump-sum contract include?",
+     "For public investment and PPP projects: the acceptance record for the quantities and work completed in the stage (no detailed quantity confirmation needed); the calculation sheet for the value of work arising outside the contract (if any); and the payment request showing the completed value, variations, deduction of the advance payment and the amount requested for payment (<a href=\"/phap-ly/210-2026-nd-cp.html#d29\">Clause 2, Article 29, Decree 210/2026/ND-CP</a>). For projects with other funding, the parties agree the contents of the dossier."
+    ],
+    [
+     "Which projects must have the final settlement report audited before it is submitted for verification?",
+     "Nationally important projects, Group A projects using public investment capital (except those on the State secret list), and projects using recurrent expenditure and other State budget funds outside public investment. If the State Audit Office or an inspection agency has already audited or inspected the full content under Article 11, those results are used and no independent audit needs to be hired (<a href=\"/phap-ly/193-2026-nd-cp.html#d9\">Article 9, Decree 193/2026/ND-CP</a>)."
+    ],
+    [
+     "What are the time limits for preparing and approving the final settlement of capital for a completed project?",
+     "Dossier preparation by the investor: nationally important and Group A projects 9 months, Group B 6 months, Group C 4 months, from the date of handover for use. Verification: 4 months; 4 months; 2.5 months; 2 months. Approval: 15; 15; 10; 7 days (<a href=\"/phap-ly/193-2026-nd-cp.html#d21\">Article 21, Decree 193/2026/ND-CP</a>). This applies to projects using public investment capital and State capital within the scope of the decree."
+    ]
+   ]
+  ],
+  [
+   "h2",
+   "Quality, acceptance, incidents, maintenance, fire safety"
+  ],
+  [
+   "faq",
+   [
+    [
+     "When must counter-testing or quality inspection be carried out?",
+     "Counter-testing is required when the technical specifications, design or contract so provide, or when materials, equipment or works show signs of not meeting quality requirements. Inspection and load testing are required when the design or contract so provides; when works show signs of not meeting quality requirements, lack grounds for acceptance or have had an incident; to serve renovation, upgrading or maintenance; or at the request of the agency signing the PPP contract (<a href=\"/phap-ly/207-2026-nd-cp.html#d8\">Article 8, Decree 207/2026/ND-CP</a>)."
+    ],
+    [
+     "Whose approval is needed before quantities arising outside the design can be paid?",
+     "The investor, supervisor, design consultant and construction contractor review and resolve them together; additional quantities become a basis for payment and final settlement only when approved by the investor or the investment decision-maker. It is strictly prohibited to falsely declare or inflate quantities, or to collude in falsifying payment quantities (<a href=\"/phap-ly/207-2026-nd-cp.html#d18\">Clauses 3 and 4, Article 18, Decree 207/2026/ND-CP</a>)."
+    ],
+    [
+     "When must the construction schedule be prepared, and who monitors it?",
+     "Before construction, the contractor must prepare a schedule consistent with the contract duration and the overall project schedule, and have it approved; for large and long-running works it is prepared by month, quarter and year. The investor, supervisor and contractor monitor it together; the schedule of each stage may be adjusted, but not so as to affect the overall schedule (<a href=\"/phap-ly/207-2026-nd-cp.html#d19\">Article 19, Decree 207/2026/ND-CP</a>)."
+    ],
+    [
+     "What does the designer's author supervision cover?",
+     "Explaining and clarifying design documents on request; coordinating the handling of problems and variations and adjusting the design to suit actual conditions; notifying promptly and recommending a solution on discovering construction that departs from the design; taking part in acceptance as provided in the contract and giving a written opinion if the works do not meet the conditions for acceptance. On completion, a report assessing the author supervision must be prepared (<a href=\"/phap-ly/207-2026-nd-cp.html#d21\">Article 21, Decree 207/2026/ND-CP</a>)."
+    ],
+    [
+     "Which agency inspects the investor's acceptance work?",
+     "The State Inspection Council for works of nationally important projects and large-scale, technically complex works under Appendix IX; the specialized construction agency under the specialized managing ministry for works assigned by the Prime Minister, special-grade works of the sector, and works across 2 or more provinces; the specialized agency under the Provincial People's Committee for the remaining works in its area (<a href=\"/phap-ly/207-2026-nd-cp.html#d26\">Clause 1, Article 26, Decree 207/2026/ND-CP</a>), with certain separate cases in Clause 2."
+    ],
+    [
+     "What conditions must be met before works are put into use?",
+     "The works have been accepted on completion under Article 24; works subject to inspection must have a document from the competent authority approving the acceptance results; for urban area projects, infrastructure must be completed according to the approved plan; and an environmental permit or environmental registration must be held where required (<a href=\"/phap-ly/207-2026-nd-cp.html#d29\">Article 29, Decree 207/2026/ND-CP</a>)."
+    ],
+    [
+     "After 15 September 2026, who carries out fire prevention and fighting acceptance of works?",
+     "The investor or owner organizes fire prevention and fighting acceptance itself, is legally responsible for the results and registers them on the Database on Fire Prevention and Fighting, Rescue and Relief before putting the works into operation, under <a href=\"/phap-ly/105-2025-nd-cp.html#d12\">Point dd, Clause 1, Article 12, Decree 105/2025/ND-CP</a> as amended by <a href=\"/phap-ly/347-2026-nd-cp.html#d16\">Article 16, Decree 347/2026/ND-CP</a> (effective from 15 September 2026)."
+    ],
+    [
+     "If a works incident occurs, how soon must the investor report?",
+     "Immediately when it occurs, notify the commune-level People's Committee of the location and the superior authority (if any) by the fastest means. Within 24 hours, the investor reports in writing to the Provincial People's Committee; an incident involving casualties must also be reported to the Ministry of Construction and other competent authorities (<a href=\"/phap-ly/207-2026-nd-cp.html#d45\">Article 45, Decree 207/2026/ND-CP</a>). Rescue and securing of the scene must be carried out at the same time under <a href=\"/phap-ly/207-2026-nd-cp.html#d46\">Article 46</a>."
+    ],
+    [
+     "Under which rules are occupational accidents on the site reported?",
+     "Occupational safety incidents include incidents caused by construction machinery and equipment and occupational accidents. Machinery and equipment incidents are reported and handled under Article 50 of Decree 207/2026; those causing death or serious injury to 2 or more people, and all occupational accidents, follow the law on occupational safety and health (<a href=\"/phap-ly/207-2026-nd-cp.html#d49\">Article 49, Decree 207/2026/ND-CP</a>)."
+    ],
+    [
+     "What must the works maintenance procedure contain?",
+     "Under <a href=\"/phap-ly/207-2026-nd-cp.html#d34\">Clause 1, Article 34, Decree 207/2026/ND-CP</a>: technical parameters of the works and equipment; the items, methods and frequency of inspection; maintenance instructions; timing of periodic equipment replacement; methods of repairing damage; the service life of the works and parts; safety assessment (if one is required); periodic inspection; and monitoring (if required)... Each year the owner prepares a maintenance plan under <a href=\"/phap-ly/207-2026-nd-cp.html#d35\">Article 35</a>."
+    ],
+    [
+     "What steps are needed to demolish old works to build new ones?",
+     "Prepare a demolition plan and solutions (with a demolition decision if one is required); verify and approve the design of the plan for works with major impact on safety and community interests; prepare construction methods and safety measures; organize supervision and acceptance of the demolition work, ensuring safety for people and neighboring works and environmental hygiene (<a href=\"/phap-ly/207-2026-nd-cp.html#d44\">Clause 1, Article 44, Decree 207/2026/ND-CP</a>)."
+    ]
+   ]
+  ],
+  [
+   "h2",
+   "Capability, certificates, bidding, penalties"
+  ],
+  [
+   "faq",
+   [
+    [
+     "From 1 March 2027, which titles still must hold a practicing certificate?",
+     "Under Clause 1, Article 88 of the Construction Law as amended by <a href=\"/phap-ly/24-2026-qh16.html#d2\">Clause 4, Article 2, Law No. 24/2026/QH16</a> (effective 1 March 2027): head and lead of urban and rural planning preparation; head of survey; head and lead of design and design verification; construction supervision, Grades I, II and III. Project management directors and site managers must meet professional capability and experience requirements."
+    ],
+    [
+     "What are the general conditions for being granted a practicing certificate?",
+     "Full civil legal capacity (foreigners with a residence document or work permit); professional qualifications that suit Appendix I, determined by the specialization stated on the degree or transcript; and experience suitable for the grade and field within the most recent 10 years, where experience older than 10 years may be considered only at 1 grade lower (<a href=\"/phap-ly/212-2026-nd-cp.html#d33\">Article 33, Decree 212/2026/ND-CP</a>)."
+    ],
+    [
+     "If a practicing certificate is lost or has wrong information, is a new one or a re-issue applied for?",
+     "If a certificate is still valid but lost, damaged, has wrong information or needs personal information adjusted, the re-issuance procedure applies. New issuance applies to a first-time grant, a grade adjustment, an expired certificate, or a re-issue request that does not fall under the cases above (<a href=\"/phap-ly/212-2026-nd-cp.html#d29\">Clause 1, Article 29, Decree 212/2026/ND-CP</a>)."
+    ],
+    [
+     "Must a foreign contractor form a joint venture with a Vietnamese contractor?",
+     "Yes. A foreign contractor must form a joint venture with a Vietnamese contractor or use a Vietnamese subcontractor, unless domestic contractors lack the capability for any part of the package; the quantity and value of the Vietnamese contractor's share must be clearly delineated. The condition for the permit is a decision on contract award or selection as contractor (<a href=\"/phap-ly/212-2026-nd-cp.html#d43\">Article 43, Decree 212/2026/ND-CP</a>)."
+    ],
+    [
+     "How long does it take to issue a construction activity permit to a foreign contractor?",
+     "Within 6 working days of receiving a complete and valid dossier; a refusal must be answered in writing stating the reasons. The contractor pays the fee when receiving the permit. The permit expires when the contract has been completed and liquidated, or when the contract is no longer valid because the contractor is suspended, dissolved or bankrupt... (<a href=\"/phap-ly/212-2026-nd-cp.html#d46\">Article 46, Decree 212/2026/ND-CP</a>)."
+    ],
+    [
+     "Which construction and installation packages may use direct appointment of a contractor?",
+     "Under <a href=\"/phap-ly/22-2023-qh15.html#d23\">Clause 1, Article 23, Bidding Law 2023</a>, for example: urgent packages protecting sovereignty and security; immediate remediation of the consequences of natural disasters, fires or incidents; construction and installation packages that must be carried out immediately to avoid danger to life or community property or serious impact on adjacent works; packages protecting State secrets... and other cases in this Article. The Bidding Law has been amended (the amending document is not yet in the library), so the current text must be checked."
+    ],
+    [
+     "May the investor carry out a package itself?",
+     "Yes, when all of the following are met: it has a suitable function and line of business; it has sufficient technical and financial capability and experience; and it has a feasible plan to mobilize personnel and machinery. The assigned unit must not transfer a quantity of 10% or more, or work worth more than VND 50 billion (<a href=\"/phap-ly/22-2023-qh15.html#d26\">Article 26, Bidding Law 2023</a>). The law has been partly amended, so check the current text."
+    ],
+    [
+     "What is the fine for not buying compulsory insurance in construction?",
+     "A fine of VND 60–80 million (organization rate) when: a survey or design contractor does not buy professional liability insurance; the investor does not buy works insurance during construction; a construction contractor does not buy insurance for workers and civil liability to third parties; insurance must also be bought for works under construction (<a href=\"/phap-ly/339-2026-nd-cp.html#d27\">Article 27, Decree 339/2026/ND-CP</a>)."
+    ],
+    [
+     "After how long can an administrative violation in construction no longer be penalized?",
+     "The limitation period is 2 years for construction and housing development management; 1 year for real estate business and technical infrastructure. For a violation that has ended, the period runs from when the act ceased, usually the date of handover of the works; for individual houses, the date of putting into use or the completion date stated in the construction contract (<a href=\"/phap-ly/339-2026-nd-cp.html#d6\">Article 6, Decree 339/2026/ND-CP</a>)."
+    ],
+    [
+     "If it is discovered during construction that there is no building permit, can it be legalized?",
+     "If the works do not meet the conditions for a permit, the violating part must be demolished. If they do, construction must be stopped; within 120 days (works with a Technical–Economic Report or Feasibility Study) or 35 days (individual houses, other works) from the date of the penalty decision, the dossier must be completed and the permit issued (<a href=\"/phap-ly/339-2026-nd-cp.html#d85\">Article 85, Decree 339/2026/ND-CP</a>); if the permit cannot be produced when the period ends, the violator is required to demolish the violating part itself."
+    ]
+   ]
+  ],
+  [
+   "note",
+   "This summary is for reference and does not replace legal documents or the opinion of the competent authority. Penalty levels under Decree 339/2026/ND-CP are the rates for organizations; the rate for individuals is half (except for acts for which the Decree sets a separate rate for individuals). Contracts signed before 1 July 2026 are handled under the transitional provisions in <a href=\"/phap-ly/210-2026-nd-cp.html#d33\">Article 33, Decree 210/2026/ND-CP</a>."
+  ]
+ ]
+}

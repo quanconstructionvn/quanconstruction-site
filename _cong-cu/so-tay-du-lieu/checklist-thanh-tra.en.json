@@ -1,0 +1,965 @@
+{
+ "ma": "checklist-thanh-tra",
+ "nhom": [
+  {
+   "ten": "1. Investor's project legal documents",
+   "muc": [
+    {
+     "ten": "Document on the construction investment policy for the project (or document approving project information)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d35\">Point a, Clause 2, Article 35 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Document of approval/decision approving, and planning drawings used as the basis for preparing the project",
+     "don_vi": "Competent authority",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d26\">Article 26 of Decree 217/2026/ND-CP</a>; <a href=\"/phap-ly/217-2026-nd-cp.html#d35\">Point d, Clause 2, Article 35</a>"
+    },
+    {
+     "ten": "Document approving the architectural design option through design competition and accompanying drawings (if a competition is required)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d35\">Point c, Clause 2, Article 35 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Document agreeing to and confirming technical infrastructure connections; document approving the works height (if any)",
+     "don_vi": "Competent authority",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d35\">Point đ, Clause 2, Article 35 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Construction design task approved by the investor",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d17\">Article 17 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Submission for appraisal of the Feasibility Study Report (Form No. 01 of Appendix I)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d35\">Clause 2, Article 35 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Notice of appraisal results of the Feasibility Study Report/Economic-Technical Report",
+     "don_vi": "Competent authority",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d38\">Article 38 of Decree 217/2026/ND-CP</a>; <a href=\"/phap-ly/135-2025-qh15.html#d26\">Article 26 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Design verification report (for works requiring verification)",
+     "don_vi": "Verification consultant",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d35\">Article 35 of Decree 217/2026/ND-CP</a>; <a href=\"/phap-ly/135-2025-qh15.html#d26\">Clause 5, Article 26 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Decision approving the project; construction investment decision",
+     "don_vi": "Investment decision maker",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d39\">Article 39 of Decree 217/2026/ND-CP</a>; <a href=\"/phap-ly/135-2025-qh15.html#d28\">Article 28 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Decision approving project adjustment (if any)",
+     "don_vi": "Investment decision maker",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d40\">Article 40 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Total investment appraisal document and decision approving the total investment",
+     "don_vi": "Appraisal agency / investment decision maker",
+     "can_cu": "<a href=\"/phap-ly/206-2026-nd-cp.html#d7\">Article 7</a>; <a href=\"/phap-ly/206-2026-nd-cp.html#d9\">Article 9 of Decree 206/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Decision establishing the project management unit (PMU) or document assigning/hiring a project management consultant; notice of the duties and powers of the project management apparatus",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d44\">Article 44</a>; <a href=\"/phap-ly/217-2026-nd-cp.html#d46\">Article 46 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Lawful land documents for issuing the building permit",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d55\">Article 55 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Building permit (where required) and permit application with stamped drawings",
+     "don_vi": "Competent authority",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d43\">Article 43 of Construction Law 2025</a>; <a href=\"/phap-ly/217-2026-nd-cp.html#d56\">Article 56 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Adjusted or extended building permit (if any)",
+     "don_vi": "Competent authority",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d63\">Article 63 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Public display of the building permit content at the construction site throughout construction",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d66\">Clause 2, Article 66 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Site handover record (whole or in part) to the contractor",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d48\">Point a, Clause 1, Article 48 of Construction Law 2025</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d12\">Clause 3, Article 12 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Commencement notice sent to the local state construction management agency (Appendix V of Decree 207/2026/ND-CP)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d48\">Point đ, Clause 1, Article 48 of Construction Law 2025</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d12\">Clause 2, Article 12 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Fire prevention and fighting design appraisal document (for works subject to appraisal)",
+     "don_vi": "Police authority / specialized agency",
+     "can_cu": "<a href=\"/phap-ly/55-2024-qh15.html#d17\">Article 17 of Law on Fire Prevention, Fire Fighting and Rescue</a>; <a href=\"/phap-ly/105-2025-nd-cp.html#d9\">Article 9 of Decree 105/2025/ND-CP</a>"
+    },
+    {
+     "ten": "Environmental permit or environmental registration dossier (where required)",
+     "don_vi": "Competent authority",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d29\">Clause 4, Article 29 of Decree 207/2026/ND-CP</a>"
+    }
+   ]
+  },
+  {
+   "ten": "2. Survey – design",
+   "muc": [
+    {
+     "ten": "Approved construction survey task",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d11\">Article 11 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Approved construction survey technical plan",
+     "don_vi": "Survey contractor",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d12\">Article 12 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Construction survey results report (with full content as prescribed)",
+     "don_vi": "Survey contractor",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d14\">Article 14 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Document approving the construction survey results report",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d15\">Article 15 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Acceptance record for the construction survey results",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d10\">Clause 4, Article 10 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Basic design/preliminary design dossier in the Feasibility Study Report",
+     "don_vi": "Design consultant",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d20\">Article 20 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Technical design dossier (if any)",
+     "don_vi": "Design consultant",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d22\">Article 22 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Approved construction drawing design dossier for the part of the works being commenced",
+     "don_vi": "Design consultant",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d23\">Article 23 of Decree 217/2026/ND-CP</a>; <a href=\"/phap-ly/135-2025-qh15.html#d48\">Point c, Clause 1, Article 48 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Technical specifications",
+     "don_vi": "Design consultant",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d24\">Article 24 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Design dossier format: explanatory report, drawings, title block, signatures and stamp of the design contractor",
+     "don_vi": "Design consultant",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d18\">Article 18 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Appraisal results of the detailed construction design after project approval",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d41\">Article 41 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Decision approving the detailed construction design after project approval (with cost estimate)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d42\">Article 42 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Design adjustment dossier and appraisal and approval documents for the adjustment (if any)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d43\">Article 43 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Acceptance record for the construction design dossier",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/217-2026-nd-cp.html#d25\">Clause 3, Article 25 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Appraisal and verification document for the construction cost estimate",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/206-2026-nd-cp.html#d16\">Article 16 of Decree 206/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Decision approving the construction cost estimate; decision adjusting the cost estimate (if any)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/206-2026-nd-cp.html#d17\">Article 17</a>; <a href=\"/phap-ly/206-2026-nd-cp.html#d18\">Article 18 of Decree 206/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Report assessing the performance of author supervision upon completion of construction",
+     "don_vi": "Design consultant",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d21\">Clause 1, Article 21 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Document explaining and clarifying the design; design contractor's opinions on construction difficulties",
+     "don_vi": "Design consultant",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d21\">Clause 2, Article 21 of Decree 207/2026/ND-CP</a>"
+    }
+   ]
+  },
+  {
+   "ten": "3. Contractor selection – contracts",
+   "muc": [
+    {
+     "ten": "Construction bid package cost estimate and bid package price",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/206-2026-nd-cp.html#d13\">Article 13</a>; <a href=\"/phap-ly/206-2026-nd-cp.html#d15\">Article 15 of Decree 206/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Notice of contract award or direct appointment",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d82\">Point b, Clause 5, Article 82 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Bid form, bid/proposal documents of the contractor",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d82\">Clause 5, Article 82 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Bidding documents or request for proposals",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d82\">Point e, Clause 5, Article 82 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Contract negotiation record",
+     "don_vi": "Investor, contractor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d82\">Point i, Clause 5, Article 82 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Construction contract signed before commencement (with general and particular conditions)",
+     "don_vi": "Investor, contractor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d48\">Point d, Clause 1, Article 48 of Construction Law 2025</a>; <a href=\"/phap-ly/135-2025-qh15.html#d82\">Clause 4, Article 82</a>"
+    },
+    {
+     "ten": "Consulting contracts for survey, design, supervision and project management",
+     "don_vi": "Investor, consulting contractor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d82\">Article 82 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Contract information: number, bid package name, representatives, tax code, account, joint venture members",
+     "don_vi": "Investor, contractor",
+     "can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d7\">Clause 2, Article 7 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Performance security (guarantee letter/deposit) <i>(public investment, PPP projects)</i>",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d83\">Article 83 of Construction Law 2025</a>; <a href=\"/phap-ly/210-2026-nd-cp.html#d13\">Article 13 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Advance payment guarantee (contracts with an advance exceeding VND 1 billion) <i>(public investment, PPP projects)</i>",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d12\">Point c, Clause 3, Article 12 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Contract appendices, documents amending and supplementing the contract",
+     "don_vi": "Investor, contractor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d84\">Article 84 of Construction Law 2025</a>; <a href=\"/phap-ly/210-2026-nd-cp.html#d22\">Article 22 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Dossier adjusting quantities, unit prices and contract price (if any)",
+     "don_vi": "Investor, contractor",
+     "can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d23\">Article 23</a>; <a href=\"/phap-ly/210-2026-nd-cp.html#d24\">Article 24 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Dossier adjusting the contract duration and schedule (if any)",
+     "don_vi": "Investor, contractor",
+     "can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d25\">Article 25 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Subcontracts (if any)",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d19\">Article 19 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Complaints and complaint resolution documents in contract performance (if any)",
+     "don_vi": "Investor, contractor",
+     "can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d21\">Article 21 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Documents suspending or terminating the contract (if any)",
+     "don_vi": "Investor, contractor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d85\">Article 85 of Construction Law 2025</a>; <a href=\"/phap-ly/210-2026-nd-cp.html#d26\">Article 26</a>; <a href=\"/phap-ly/210-2026-nd-cp.html#d27\">Article 27 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Dossiers on bonuses, penalties for contract breaches and compensation for damages (if any)",
+     "don_vi": "Investor, contractor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d86\">Article 86 of Construction Law 2025</a>"
+    }
+   ]
+  },
+  {
+   "ten": "4. Capacity of the parties",
+   "muc": [
+    {
+     "ten": "Construction activity capacity information self-published by the organization on csdlhdxd.gov.vn (construction contractor, consultants)",
+     "don_vi": "Contractors",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">Clause 6, Article 88 of Construction Law 2025</a>; <a href=\"/phap-ly/212-2026-nd-cp.html#d41\">Article 41 of Decree 212/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Practicing certificate of the construction survey lead",
+     "don_vi": "Survey contractor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">Clause 1, Article 88 of Construction Law 2025</a>; <a href=\"/phap-ly/212-2026-nd-cp.html#d27\">Article 27 of Decree 212/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Practicing certificate of the design lead and design chief",
+     "don_vi": "Design consultant",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">Clause 1, Article 88 of Construction Law 2025</a>; <a href=\"/phap-ly/212-2026-nd-cp.html#d28\">Article 28 of Decree 212/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Practicing certificate of the design verification lead and chief",
+     "don_vi": "Verification consultant",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">Clause 1, Article 88 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Construction supervision practicing certificates of the chief supervisor and supervisors",
+     "don_vi": "Supervision consultant",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">Clause 1, Article 88 of Construction Law 2025</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Clause 2, Article 20 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Practicing certificate of the person leading cost determination, verification and management",
+     "don_vi": "Cost consultant",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">Clause 1, Article 88 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Documents proving the capacity and experience conditions of the site manager",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">Clause 2, Article 88 of Construction Law 2025</a>; <a href=\"/phap-ly/212-2026-nd-cp.html#d38\">Article 38 of Decree 212/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Capacity documents of the project management director and professional staff of the PMU/project management consultant",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">Clause 2, Article 88</a>; <a href=\"/phap-ly/217-2026-nd-cp.html#d46\">Clause 2, Article 46 of Decree 217/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Capacity documents of the person leading construction inspection and testing (if inspection and testing is carried out)",
+     "don_vi": "Inspection and testing unit",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">Clause 2, Article 88 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Construction activity license of foreign contractors (if any)",
+     "don_vi": "Foreign contractor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d88\">Clause 3, Article 88 of Construction Law 2025</a>; <a href=\"/phap-ly/212-2026-nd-cp.html#d43\">Article 43 of Decree 212/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Organization chart and construction management system of the contractor (site manager, technical, QA/QC, safety, quantities, records)",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 2, Article 15 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Notice of the construction management system, duties and powers of the investor's supervision personnel",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d16\">Clause 3, Article 16 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Record/document checking contractor capacity (personnel, equipment, quality management system) against the bid documents and contract",
+     "don_vi": "Supervision consultant",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Point a, Clause 1, Article 20 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Supervision organization dossier: quality and safety management system; list of chief supervisor and supervisors at the site",
+     "don_vi": "Supervision consultant",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Clause 2, Article 20 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Supervision contractor's proposed supervision solutions and procedures for controlling quality, quantities, schedule, safety and the environment",
+     "don_vi": "Supervision consultant",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d56\">Clause 3, Article 56 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Diplomas and specialized training in occupational safety/construction engineering of the safety manager (contractor, investor)",
+     "don_vi": "Contractor, investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 5, Article 15</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d16\">Clause 3, Article 16 of Decree 207/2026/ND-CP</a>"
+    }
+   ]
+  },
+  {
+   "ten": "5. Construction – safety – environment – site fire prevention and fighting (PCCC)",
+   "muc": [
+    {
+     "ten": "Project signboard at the site entrance with full content (name, scale, commencement/completion dates, investor, perspective)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d13\">Clause 1, Article 13 of Decree 207/2026/ND-CP</a>; <a href=\"/phap-ly/135-2025-qh15.html#d49\">Clause 1, Article 49 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Site barriers, signs showing the site layout, safety, and fire and explosion prevention",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d13\">Clause 2, Article 13 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Site layout suitable for the accepted construction method",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d13\">Point b, Clause 2, Article 13 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Construction method accepted by the investor",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Point b, Clause 3, Article 15 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Accepted construction safety measures (may be prepared separately)",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Point b, Clause 3, Article 15 of Decree 207/2026/ND-CP</a>; <a href=\"/phap-ly/135-2025-qh15.html#d51\">Clause 3, Article 51 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Dossier identifying danger zones and safety measures within them; results of periodic and unscheduled reviews",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d51\">Clause 3, Article 51 of Construction Law 2025</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 4, Article 15 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Safety measures report sent to the specialized construction agency (danger zones extending beyond the site)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d51\">Clause 4, Article 51 of Construction Law 2025</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d16\">Clause 8, Article 16 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Overall and detailed construction schedule accepted by the investor",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Point c, Clause 3, Article 15</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d19\">Article 19 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Dossier adjusting the construction schedule (if any)",
+     "don_vi": "Investor, contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d19\">Clause 3, Article 19 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Inspection results of machinery, equipment and materials with strict safety requirements before putting into use",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d51\">Clause 5, Article 51 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Environmental protection measures during construction (air, water, solid waste, noise)",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d52\">Clause 1, Article 52 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Dossier on collecting and treating construction waste; safety for people and vehicles entering and leaving the site",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d49\">Clause 3, Article 49 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Contract/certificate of works insurance during construction (for works subject to compulsory insurance)",
+     "don_vi": "Investor (or the assigned contractor)",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d10\">Point a, Clause 1, Article 10 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Insurance for workers on the site and third-party civil liability insurance",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d10\">Point c, Clause 1, Article 10 of Construction Law 2025</a>; <a href=\"/phap-ly/210-2026-nd-cp.html#d20\">Clause 1, Article 20 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Professional liability insurance for survey and design consultants (works of Grade II or higher)",
+     "don_vi": "Consulting contractor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d10\">Point b, Clause 1, Article 10 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Dossier showing construction safety costs are used for their intended purpose",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 12, Article 15 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Dossier on stopping work on discovering quality defects or accident risks, and remedial measures (if any)",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 9, Article 15 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Document of the investor suspending or halting construction due to safety violations (if any)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d51\">Clause 2, Article 51 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Decision to install site monitoring equipment (if the investor so decides)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d13\">Clause 3, Article 13 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Works incident report (if an incident occurs) sent within 24 hours",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d45\">Article 45 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Incident dossier: site inspection record, related design and construction documents, expert assessment dossier, resolution documents (if any)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d48\">Article 48 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Dossier declaring and reporting incidents caused by construction machinery and equipment (if any)",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d49\">Article 49</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d50\">Article 50 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Works monitoring dossier during construction: accepted outline, results of each cycle (where monitoring is required)",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d7\">Article 7 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Surveying and monitoring dossier as required by the design",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 10, Article 15 of Decree 207/2026/ND-CP</a>"
+    }
+   ]
+  },
+  {
+   "ten": "6. Construction supervision",
+   "muc": [
+    {
+     "ten": "Document accepting the contractor's plan for testing, inspection, verification, trial operation and monitoring",
+     "don_vi": "Supervision consultant",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Point b, Clause 1, Article 20</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Point a, Clause 3, Article 15 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Document accepting the measures for inspecting and controlling the quality of materials, products, components and equipment",
+     "don_vi": "Supervision consultant",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Point b, Clause 1, Article 20 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Document accepting the plan for inspection and acceptance of work items, stages and completion",
+     "don_vi": "Supervision consultant",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Point d, Clause 3, Article 15</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Point b, Clause 1, Article 20 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Dossier checking the organization of construction against the accepted construction and safety methods",
+     "don_vi": "Supervision consultant",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Point c, Clause 1, Article 20 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Document inspecting and accepting materials, components and equipment used for the works",
+     "don_vi": "Supervision consultant",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Point d, Clause 1, Article 20 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Supervision dossier on safety, measures ensuring safety of adjacent works, and monitoring",
+     "don_vi": "Supervision consultant",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Point e, Clause 1, Article 20 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Document requesting the investor to adjust the design on discovering errors (if any)",
+     "don_vi": "Supervision consultant",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Point g, Clause 1, Article 20 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Document requiring the contractor to suspend construction (if any)",
+     "don_vi": "Supervision consultant",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Point h, Clause 1, Article 20 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Record of inspection of the laboratory, sampling, sample retention and testing",
+     "don_vi": "Supervision consultant",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Point i, Clause 1, Article 20 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Dossier assessing material test results and monitoring results for acceptance",
+     "don_vi": "Supervision consultant",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Point i, Clause 1, Article 20 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Record confirming the quantity of completed construction work",
+     "don_vi": "Supervision consultant, contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d18\">Clause 2, Article 18</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Point l, Clause 1, Article 20 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Dossier handling and approving quantities arising outside the design and cost estimate (if any)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d18\">Clause 3, Article 18 of Decree 207/2026/ND-CP</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d16\">Clause 5, Article 16</a>"
+    },
+    {
+     "ten": "Confirmation of as-built drawings",
+     "don_vi": "Supervision consultant",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Point l, Clause 1, Article 20 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Record inspecting and assessing the conformity of actual construction with the appraised design and the building permit",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d16\">Clause 6, Article 16 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Control testing and quality inspection dossier (where required)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d8\">Article 8</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d16\">Clause 9, Article 16 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Construction inspection results and load-bearing tests of structures (if any)",
+     "don_vi": "Inspection and testing unit",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d8\">Clause 2, Article 8 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Construction contractor's report on schedule, quality, quantities and safety under the contract",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 15, Article 15 of Decree 207/2026/ND-CP</a>"
+    }
+   ]
+  },
+  {
+   "ten": "7. Materials – testing – inspection",
+   "muc": [
+    {
+     "ten": "Supply contract clearly stating the quantity, type and technical requirements of materials, products, components and equipment",
+     "don_vi": "Employer",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Point a, Clause 4, Article 14 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Information on imported materials in the contract: type, specifications, manufacturer, place of manufacture, origin documents",
+     "don_vi": "Investor, contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Clause 5, Article 14 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Manufacturer's quality certificate",
+     "don_vi": "Supplying contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Point a, Clause 7, Article 14 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Documents proving origin (imported materials)",
+     "don_vi": "Supplying contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Point b, Clause 7, Article 14 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Certificate of conformity and notice of receipt of the declaration of conformity (materials in high- and medium-risk groups)",
+     "don_vi": "Supplying contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Point c, Clause 7, Article 14 of Decree 207/2026/ND-CP</a>; <a href=\"/phap-ly/41-2026-tt-bxd.html#d12\">Article 12 of Circular 41/2026/TT-BXD</a>"
+    },
+    {
+     "ten": "Declaration of applied standards and traceability information for construction materials",
+     "don_vi": "Supplying contractor",
+     "can_cu": "<a href=\"/phap-ly/41-2026-tt-bxd.html#d5\">Clause 1, Article 5 of Circular 41/2026/TT-BXD</a>"
+    },
+    {
+     "ten": "Construction material product labels",
+     "don_vi": "Supplying contractor",
+     "can_cu": "<a href=\"/phap-ly/41-2026-tt-bxd.html#d4\">Article 4 of Circular 41/2026/TT-BXD</a>"
+    },
+    {
+     "ten": "Results of testing, trial and inspection of materials, products, components and equipment during construction",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Point đ, Clause 7, Article 14 of Decree 207/2026/ND-CP</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 7, Article 15</a>"
+    },
+    {
+     "ten": "Acceptance record for materials, products, components and equipment before putting into use",
+     "don_vi": "Supervision consultant, contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Clause 6, Article 14 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Procedures for manufacturing, testing and quality control of components and equipment fabricated to the design's special requirements (accepted)",
+     "don_vi": "Fabricating contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Clause 2, Article 14 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Inspection and acceptance record for fabricated components and equipment before handover",
+     "don_vi": "Fabricating contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Point c, Clause 2, Article 14 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Operation and maintenance procedures for materials and equipment (if any)",
+     "don_vi": "Supplying contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Clause 3, Article 14 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Document accepting changes to the type or origin of materials and equipment (if any)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Clause 8, Article 14 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Capacity dossier of the construction laboratory (the contractor's own or hired)",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d6\">Clause 1, Article 6</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 7, Article 15 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Accepted testing plan; supervised sampling records",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d6\">Clauses 3 and 4, Article 6 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Results of individual and interlocked trial run tests before requesting acceptance",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 10, Article 15 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Quality management dossier for materials, products, components and equipment prepared by the employer",
+     "don_vi": "Employer",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Point d, Clause 4 and Clause 7, Article 14 of Decree 207/2026/ND-CP</a>"
+    }
+   ]
+  },
+  {
+   "ten": "8. Acceptance – quality management",
+   "muc": [
+    {
+     "ten": "Contractor's request for work acceptance (supervisor accepts within 24 hours)",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Clause 3, Article 22 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Notice of reasons for not agreeing to acceptance (if any)",
+     "don_vi": "Supervision consultant",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Clause 3, Article 22 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Acceptance record for underground construction work (foundation, piles, basement)",
+     "don_vi": "Supervision consultant, contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Clauses 4 and 5, Article 22 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Acceptance record for superstructure and structural work (reinforcement, formwork, concrete, etc.)",
+     "don_vi": "Supervision consultant, contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Clauses 4 and 5, Article 22 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Acceptance record for finishing work",
+     "don_vi": "Supervision consultant, contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Clauses 4 and 5, Article 22 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Acceptance record for equipment and technical system installation (electricity, water, PCCC, etc.)",
+     "don_vi": "Supervision consultant, contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Clauses 4 and 5, Article 22 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Acceptance record bearing the construction technical signature of the subcontractor (where there is a main contractor)",
+     "don_vi": "Subcontractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Point c, Clause 5, Article 22 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Main contractor's inspection dossier for the work performed by the subcontractor",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 11, Article 15 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Acceptance record for a construction stage or works part (signed by the chief supervisor)",
+     "don_vi": "Investor, contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d23\">Article 23 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Completion acceptance record for a work item or the works (with all mandatory content, including PCCC assessment)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d24\">Clauses 5 and 6, Article 24 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Acceptance record for a part of the works put into operation (if any)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d24\">Clause 2, Article 24 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Conditional acceptance record stating outstanding issues and the deadline for remedying them (if any)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d24\">Clause 3, Article 24 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Investor's PCCC acceptance results and declaration in the PCCC Database before putting into operation",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/347-2026-nd-cp.html#d16\">Article 16 of Decree 347/2026/ND-CP (amending Point đ, Clause 1, Article 12 of Decree 105/2025/ND-CP)</a>"
+    },
+    {
+     "ten": "Construction diary of the works (Appendix II of Decree 207/2026/ND-CP)",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 13, Article 15 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "As-built drawings (Appendix II of Decree 207/2026/ND-CP)",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 13, Article 15 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Quality management records for work items consistent with the actual implementation time at the site",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 8, Article 15 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Document of the competent authority accepting the acceptance results (works subject to acceptance inspection)",
+     "don_vi": "Competent authority",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d25\">Article 25</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d29\">Clause 2, Article 29 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Dossier supporting acceptance inspection during construction and on completion (if subject to inspection)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d27\">Article 27 of Decree 207/2026/ND-CP</a>; <a href=\"/phap-ly/135-2025-qh15.html#d57\">Clause 4, Article 57 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Report on completion of construction of the work item/works (Appendix VI of Decree 207/2026/ND-CP, if subject to inspection)",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d27\">Article 27 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Construction supervision reports: periodic/per-stage and completion report (Appendices IVa and IVb of Decree 207/2026/ND-CP)",
+     "don_vi": "Supervision consultant",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Clause 3, Article 20 of Decree 207/2026/ND-CP</a>"
+    }
+   ]
+  },
+  {
+   "ten": "9. Payment – final settlement",
+   "muc": [
+    {
+     "ten": "Advance payment dossier: effective contract, advance payment guarantee (if required), site clearance plan/site handover record",
+     "don_vi": "Investor, contractor",
+     "can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d12\">Clause 3, Article 12 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Acceptance record for quantities and work completed in the payment period <i>(public investment, PPP projects)</i>",
+     "don_vi": "Investor, contractor",
+     "can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d29\">Article 29 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Calculation of the value of variation work and work without unit prices (if any) <i>(public investment, PPP projects)</i>",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d29\">Clauses 2, 3 and 4, Article 29 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Calculation of adjusted unit prices and prices (adjustable unit price contracts) <i>(public investment, PPP projects)</i>",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d29\">Point b, Clause 4, Article 29 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Contractor's payment request (completed value, variations, advance deductions, amount requested)",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d29\">Article 29 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Payment dossier confirmed by representatives of the employer/consultant and the contractor",
+     "don_vi": "Investor, contractor",
+     "can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d29\">Clause 1, Article 29 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Completion acceptance record for all work within the contract scope and variation work <i>(public investment, PPP projects)</i>",
+     "don_vi": "Investor, contractor",
+     "can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d30\">Point a, Clause 2, Article 30 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Calculation of the contract final settlement value (A–B final settlement) <i>(public investment, PPP projects)</i>",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d30\">Point b, Clause 2, Article 30 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "As-built dossier and construction diary attached to the contract final settlement dossier <i>(public investment, PPP projects)</i>",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d30\">Point c, Clause 2, Article 30 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Construction contract liquidation record",
+     "don_vi": "Investor, contractor",
+     "can_cu": "<a href=\"/phap-ly/210-2026-nd-cp.html#d31\">Article 31 of Decree 210/2026/ND-CP</a>; <a href=\"/phap-ly/135-2025-qh15.html#d87\">Article 87 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Submission requesting approval of the project investment capital final settlement (stating compliance with inspection and audit conclusions, if any) <i>(State capital projects, PPP)</i>",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/193-2026-nd-cp.html#d7\">Point a, Clause 1, Article 7 of Decree 193/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Final settlement report forms (Forms 01–09/QTDA of Circular 73/2026/TT-BTC) <i>(State capital projects, PPP)</i>",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/193-2026-nd-cp.html#d6\">Article 6 of Decree 193/2026/ND-CP</a>; <a href=\"/phap-ly/73-2026-tt-btc.html#d4\">Article 4 of Circular 73/2026/TT-BTC</a>"
+    },
+    {
+     "ten": "The project's legal documents attached to the final settlement dossier <i>(State capital projects, PPP)</i>",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/193-2026-nd-cp.html#d7\">Point c, Clause 1, Article 7 of Decree 193/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Final settlement dossier for each contract: contract, appendices, acceptance records, A–B final settlement, liquidation <i>(State capital projects, PPP)</i>",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/193-2026-nd-cp.html#d7\">Point d, Clause 1, Article 7 of Decree 193/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Document of handover for operation and use (if any) in the final settlement dossier <i>(State capital projects, PPP)</i>",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/193-2026-nd-cp.html#d7\">Point e, Clause 1, Article 7 of Decree 193/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Audit report of the independent auditor (if an audit is hired) <i>(State capital projects, PPP)</i>",
+     "don_vi": "Independent auditor",
+     "can_cu": "<a href=\"/phap-ly/193-2026-nd-cp.html#d7\">Point g, Clause 1, Article 7</a>; <a href=\"/phap-ly/193-2026-nd-cp.html#d9\">Article 9 of Decree 193/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Verification report on the final settlement and decision approving the final settlement <i>(State capital projects, PPP)</i>",
+     "don_vi": "Competent authority",
+     "can_cu": "<a href=\"/phap-ly/193-2026-nd-cp.html#d19\">Article 19 of Decree 193/2026/ND-CP</a>"
+    }
+   ]
+  },
+  {
+   "ten": "10. Handover – warranty – maintenance – archiving",
+   "muc": [
+    {
+     "ten": "Works completion dossier (Appendix VII of Decree 207/2026/ND-CP), prepared in Vietnamese",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d28\">Clauses 1 and 2, Article 28 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Original and electronic copy of the works completion dossier archived",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d28\">Clause 4, Article 28 of Decree 207/2026/ND-CP</a>; <a href=\"/phap-ly/135-2025-qh15.html#d42\">Clause 1, Article 42 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Archived dossier for each contractor's portion of the work",
+     "don_vi": "Contractors",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d42\">Clause 1, Article 42 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Handover record for the work item or construction works",
+     "don_vi": "Investor, contractor",
+     "can_cu": "<a href=\"/phap-ly/135-2025-qh15.html#d58\">Article 58 of Construction Law 2025</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d30\">Clause 1, Article 30 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Documents handed over by the contractor: as-built drawings, operation procedure, maintenance procedure, list of equipment, spare parts and reserve materials",
+     "don_vi": "Construction contractor, equipment supplier",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d30\">Clause 2, Article 30 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Records for managing and using the works (Appendix X of Decree 207/2026/ND-CP) handed over to the owner/managing user",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d30\">Clause 5, Article 30 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Warranty agreement in the contract: period, measures, value, return of warranty money",
+     "don_vi": "Investor, contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d32\">Clause 2, Article 32 of Decree 207/2026/ND-CP</a>; <a href=\"/phap-ly/210-2026-nd-cp.html#d20\">Clause 2, Article 20 of Decree 210/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Warranty guarantee/money (minimum level for State-funded works)",
+     "don_vi": "Construction contractor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d32\">Clause 7, Article 32 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Warranty request notice and warranty performance dossier (if damage occurs)",
+     "don_vi": "Investor / owner",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d33\">Article 33 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Investor's confirmation of completion of warranty responsibility before returning the warranty money",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d32\">Clause 2, Article 32 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Approved construction works maintenance procedure",
+     "don_vi": "Design contractor / investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d34\">Article 34 of Decree 207/2026/ND-CP</a>; <a href=\"/phap-ly/135-2025-qh15.html#d65\">Article 65 of Construction Law 2025</a>"
+    },
+    {
+     "ten": "Annual works maintenance plan",
+     "don_vi": "Owner / managing user",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d35\">Article 35 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Dossier of inspection, upkeep and repair of the works under the maintenance procedure",
+     "don_vi": "Owner / managing user",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d36\">Article 36 of Decree 207/2026/ND-CP</a>"
+    },
+    {
+     "ten": "Facility PCCC dossier when put into operation (information form PC01, internal rules, PCCC design appraisal document, fire fighting plan PC06, as-built drawings of the PCCC system, etc.)",
+     "don_vi": "Head of the facility",
+     "can_cu": "<a href=\"/phap-ly/105-2025-nd-cp.html#d4\">Article 4 of Decree 105/2025/ND-CP</a>"
+    },
+    {
+     "ten": "Compulsory fire and explosion insurance certificate (which the facility must purchase)",
+     "don_vi": "Head of the facility",
+     "can_cu": "<a href=\"/phap-ly/105-2025-nd-cp.html#d4\">Point i, Clause 1, Article 4 of Decree 105/2025/ND-CP</a>"
+    },
+    {
+     "ten": "Document recording that the conditions for putting the works into operation and use have been met",
+     "don_vi": "Investor",
+     "can_cu": "<a href=\"/phap-ly/207-2026-nd-cp.html#d29\">Article 29 of Decree 207/2026/ND-CP</a>"
+    }
+   ]
+  }
+ ]
+}

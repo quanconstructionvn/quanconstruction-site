@@ -1,0 +1,918 @@
+{
+ "forms": {
+  "nd193-m01": {
+   "ten": "Contract settlement value calculation sheet between investor and contractor (A-B final settlement)",
+   "dung_khi": "Projects using public investment capital, recurrent State budget expenditure or other State budget funds (Article 1, Decree 193/2026/ND-CP; effective from 1 July 2026): the investor and the contractor prepare the A-B final settlement to accompany the dossier submitted for audit and approval of final settlement (Article 7). Not to be confused with Form No. 01/QTDA of Circular 73/2026/TT-BTC (Consolidated final settlement report).",
+   "nguon": "Form No. 01/QTDA issued with Decree 193/2026/ND-CP",
+   "can_cu": [
+    "Article 7, Decree 193/2026/ND-CP"
+   ]
+  },
+  "nd193-m02": {
+   "ten": "Written request to the contractor to supplement and complete the project contract final settlement documents",
+   "dung_khi": "Projects using public investment capital, recurrent State budget expenditure or other State budget funds (Article 1, Decree 193/2026/ND-CP; effective from 1 July 2026): where the contractor does not carry out the contract final settlement as required, the investor issues a written request to the contractor on the basis of the contract (Clause 5, Article 7). Not to be confused with Form No. 02/QTDA of Circular 73/2026/TT-BTC (List of documents).",
+   "nguon": "Form No. 02/QTDA issued with Decree 193/2026/ND-CP",
+   "can_cu": [
+    "Clause 5, Article 7, Decree 193/2026/ND-CP"
+   ]
+  },
+  "nd207-nd-bao-cao-su-co": {
+   "ten": "Construction incident report",
+   "dung_khi": "Within 24 hours of an incident, the investor reports in writing to the provincial People's Committee of the locality where the incident occurred (incidents causing casualties: also send to the Ministry of Construction and the competent authority).",
+   "nguon": "Clause 2, Article 45, Decree 207/2026/ND-CP",
+   "can_cu": [
+    "Clause 2, Article 45"
+   ]
+  },
+  "nd207-nd-bien-ban-nghiem-thu-cong-viec": {
+   "ten": "Record of acceptance of construction work items",
+   "dung_khi": "Acceptance of each work item (or several work items of one component in construction sequence) on site; the supervisor carries out acceptance within no more than 24 hours of receiving the contractor's request.",
+   "nguon": "Clauses 4 and 5, Article 22, Decree 207/2026/ND-CP",
+   "can_cu": [
+    "Clauses 4 and 5, Article 22"
+   ]
+  },
+  "nd207-nd-bien-ban-nghiem-thu-hoan-thanh": {
+   "ten": "Record of completion acceptance of a construction component or construction work",
+   "dung_khi": "The investor organizes completion acceptance of the construction component or work before it is put into use (including partial acceptance and conditional acceptance - Clauses 2 and 3, Article 24).",
+   "nguon": "Clauses 5 and 6, Article 24, Decree 207/2026/ND-CP",
+   "can_cu": [
+    "Clauses 5 and 6, Article 24"
+   ]
+  },
+  "nd207-nd-bien-ban-nghiem-thu-vat-lieu": {
+   "ten": "Record of acceptance of materials, products, components and equipment used for the work",
+   "dung_khi": "The investor's construction supervisor accepts materials, products, components and equipment before they are used for the work.",
+   "nguon": "Clause 6, Article 14, Decree 207/2026/ND-CP",
+   "can_cu": [
+    "Clause 6, Article 14"
+   ]
+  },
+  "nd207-pl11a": {
+   "ten": "Report on extending the service life of a work",
+   "dung_khi": "The owner or the managing/operating entity of a work that has reached its design service life sends a report on the results of inspection, assessment and strengthening or repair (if any) to the competent State authority to obtain its opinion on extending the service life (Point c, Clause 4, Article 43, Decree 207/2026/ND-CP).",
+   "nguon": "Appendix XIa, Decree 207/2026/ND-CP",
+   "can_cu": [
+    "Point c, Clause 4, Article 43, Decree 207/2026/ND-CP"
+   ]
+  },
+  "nd207-pl11b": {
+   "ten": "Notice of opinion on extending the service life of a work",
+   "dung_khi": "The competent State authority (Clause 9, Article 43, Decree 207/2026/ND-CP) issues a written opinion on extending the service life of the work after receiving the report of the owner or the managing/operating entity.",
+   "nguon": "Appendix XIb, Decree 207/2026/ND-CP",
+   "can_cu": [
+    "Point c, Clause 4 and Clause 9, Article 43, Decree 207/2026/ND-CP"
+   ]
+  },
+  "nd207-pl2b": {
+   "ten": "As-built drawings - as-built drawing stamp template",
+   "dung_khi": "The construction contractor prepares as-built drawings and affixes the as-built drawing stamp (Clause 13, Article 15, Decree 207/2026/ND-CP); Template No. 1 where the main contractor-subcontractor, EPC or turnkey contract form is not applied; Template No. 2 where those forms are applied.",
+   "nguon": "Appendix IIb, Decree 207/2026/ND-CP",
+   "can_cu": [
+    "Clause 13, Article 15, Decree 207/2026/ND-CP"
+   ]
+  },
+  "nd207-pl4a": {
+   "ten": "Periodic report on construction supervision of a work or work component",
+   "dung_khi": "The construction supervision organization or individual prepares a periodic report, or a report by construction stage, and sends it to the investor; the investor specifies in the contract or the assignment decision the reporting period and timing (Point a, Clause 3, Article 20, Decree 207/2026/ND-CP).",
+   "nguon": "Appendix IVa, Decree 207/2026/ND-CP",
+   "can_cu": [
+    "Point a, Clause 3, Article 20, Decree 207/2026/ND-CP"
+   ]
+  },
+  "nd207-pl4b": {
+   "ten": "Report on completion of construction supervision of a package, stage, work component or work",
+   "dung_khi": "The construction supervision organization prepares a report on completion of construction supervision of a package, stage, work component or work and sends it to the investor (Clause 3, Article 20, Decree 207/2026/ND-CP).",
+   "nguon": "Appendix IVb, Decree 207/2026/ND-CP",
+   "can_cu": [
+    "Clause 3, Article 20, Decree 207/2026/ND-CP"
+   ]
+  },
+  "nd207-pl5": {
+   "ten": "Notice of commencement of construction of a work component or work",
+   "dung_khi": "Before commencing construction, the investor sends a commencement notice, in person, by post or online, to the local State construction management authority (Clause 2, Article 12, Decree 207/2026/ND-CP).",
+   "nguon": "Appendix V, Decree 207/2026/ND-CP",
+   "can_cu": [
+    "Clause 2, Article 12, Decree 207/2026/ND-CP"
+   ]
+  },
+  "nd207-pl6": {
+   "ten": "Report on completion of construction of a work component or work",
+   "dung_khi": "The investor sends 1 report on completion of construction of the work component or work to the specialized construction agency so that it can inspect the completion acceptance of the work (Point a, Clause 4, Article 27, Decree 207/2026/ND-CP).",
+   "nguon": "Appendix VI, Decree 207/2026/ND-CP",
+   "can_cu": [
+    "Point a, Clause 4, Article 27, Decree 207/2026/ND-CP"
+   ]
+  },
+  "nd207-pl8": {
+   "ten": "Notice of results of inspection of completion acceptance of a work component or work",
+   "dung_khi": "The specialized construction agency issues a notice of the results of its inspection of the completion acceptance of the work component or work, clearly stating whether it accepts or does not accept the investor's acceptance results (Point b, Clause 4, Article 27, Decree 207/2026/ND-CP).",
+   "nguon": "Appendix VIII, Decree 207/2026/ND-CP",
+   "can_cu": [
+    "Point b, Clause 4, Article 27, Decree 207/2026/ND-CP"
+   ]
+  },
+  "nd212-pl3-m01": {
+   "ten": "Application for a construction practice certificate",
+   "dung_khi": "Submitted by an individual with the dossier for a new or re-issued construction practice certificate (Point a, Clause 1, Article 39, Decree 212/2026/ND-CP); for online submission, the information is declared on the electronic form on the National Public Service Portal.",
+   "nguon": "Form No. 01, Appendix III, issued with Decree 212/2026/ND-CP of 17 June 2026 of the Government",
+   "can_cu": [
+    "Point a, Clause 1, Article 39, Decree 212/2026/ND-CP",
+    "Clause 1, Article 29",
+    "Article 30"
+   ]
+  },
+  "nd212-pl3-m02": {
+   "ten": "Application for conversion of a construction practice certificate",
+   "dung_khi": "A foreign individual or an overseas Vietnamese who holds a practice license issued abroad and has practiced in Vietnam for 6 months or more applies to convert the practice certificate (Clause 2, Article 27 and Article 39, Decree 212/2026/ND-CP).",
+   "nguon": "Form No. 02, Appendix III, issued with Decree 212/2026/ND-CP of 17 June 2026 of the Government",
+   "can_cu": [
+    "Article 39, Decree 212/2026/ND-CP",
+    "Clause 2, Article 27"
+   ]
+  },
+  "nd212-pl3-m04": {
+   "ten": "Application for a construction activity license (contractor being an organization)",
+   "dung_khi": "A foreign contractor that is an organization submits this with the dossier for a construction activity license (Point a, Clause 2, Article 44, Decree 212/2026/ND-CP); the application is prepared in Vietnamese.",
+   "nguon": "Form No. 04, Appendix III, issued with Decree 212/2026/ND-CP of 17 June 2026 of the Government",
+   "can_cu": [
+    "Point a, Clause 2, Article 44, Decree 212/2026/ND-CP",
+    "Article 43",
+    "Article 46"
+   ]
+  },
+  "nd212-pl3-m06": {
+   "ten": "Power of attorney (application for a construction activity license for a foreign contractor)",
+   "dung_khi": "A foreign contractor authorizes a person who is not its legal representative to sign documents, submit the dossier and receive the result of the procedure for a construction activity license (Point e, Clause 2, Article 44, Decree 212/2026/ND-CP).",
+   "nguon": "Form No. 06, Appendix III, issued with Decree 212/2026/ND-CP of 17 June 2026 of the Government",
+   "can_cu": [
+    "Point e, Clause 2, Article 44, Decree 212/2026/ND-CP"
+   ]
+  },
+  "nd212-pl3-m07": {
+   "ten": "Application for a construction activity license (contractor being an individual)",
+   "dung_khi": "A foreign contractor that is an individual submits this with the dossier for a construction activity license (Point a, Clause 2, Article 44, Decree 212/2026/ND-CP); the application is prepared in Vietnamese.",
+   "nguon": "Form No. 07, Appendix III, issued with Decree 212/2026/ND-CP of 17 June 2026 of the Government",
+   "can_cu": [
+    "Point a, Clause 2, Article 44, Decree 212/2026/ND-CP",
+    "Article 43",
+    "Article 46"
+   ]
+  },
+  "nd212-pl3-m11": {
+   "ten": "Application for adjustment of a construction activity license",
+   "dung_khi": "A foreign contractor that has been granted a construction activity license applies for adjustment when its name, address, joint-venture members, subcontractors or other details stated in the license change (Article 45, Decree 212/2026/ND-CP).",
+   "nguon": "Form No. 11, Appendix III, issued with Decree 212/2026/ND-CP of 17 June 2026 of the Government",
+   "can_cu": [
+    "Point a, Clause 2, Article 45, Decree 212/2026/ND-CP"
+   ]
+  },
+  "nd217-pl1-m01": {
+   "ten": "Submission for appraisal of the Feasibility Study Report",
+   "dung_khi": "The project preparation body submits the Feasibility Study Report to the specialized construction agency for appraisal.",
+   "nguon": "Form No. 01, Appendix I, Decree 217/2026/ND-CP (consolidated text 91/2026/VBHN-BXD)",
+   "can_cu": [
+    "Article 35, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl1-m02": {
+   "ten": "Report on the results of verification of construction design in the Feasibility Study Report",
+   "dung_khi": "The contractor verifies and reports the results of verification of the construction design in the Feasibility Study Report (attached to the dossier submitted for appraisal).",
+   "nguon": "Form No. 02, Appendix I, Decree 217/2026/ND-CP (consolidated text 91/2026/VBHN-BXD)",
+   "can_cu": [
+    "Article 35, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl1-m03": {
+   "ten": "Notice of results of appraisal of the Feasibility Study Report by the specialized construction agency",
+   "dung_khi": "The specialized construction agency notifies the results of its appraisal of the Feasibility Study Report.",
+   "nguon": "Form No. 03, Appendix I, Decree 217/2026/ND-CP (consolidated text 91/2026/VBHN-BXD)",
+   "can_cu": [
+    "Article 38, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl1-m04": {
+   "ten": "Request for appraisal of the Economic-Technical Report",
+   "dung_khi": "The project preparation body requests the agency/unit assigned by the investment decision-maker to appraise the Economic-Technical Report.",
+   "nguon": "Form No. 04, Appendix I, Decree 217/2026/ND-CP (consolidated text 91/2026/VBHN-BXD)",
+   "can_cu": [
+    "Article 31, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl1-m05": {
+   "ten": "Request for appraisal of the Feasibility Study Report",
+   "dung_khi": "The project preparation body requests the agency/unit assigned by the investment decision-maker to appraise the Feasibility Study Report.",
+   "nguon": "Form No. 05, Appendix I, Decree 217/2026/ND-CP (consolidated text 91/2026/VBHN-BXD)",
+   "can_cu": [
+    "Article 31, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl1-m06": {
+   "ten": "Notice of results of appraisal of the Economic-Technical Report by the agency/unit assigned by the investment decision-maker (for reference)",
+   "dung_khi": "The agency/unit assigned to carry out the appraisal notifies the results of appraisal of the Economic-Technical Report.",
+   "nguon": "Form No. 06, Appendix I, Decree 217/2026/ND-CP (consolidated text 91/2026/VBHN-BXD)",
+   "can_cu": [
+    "Article 31, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl1-m07": {
+   "ten": "Notice of results of appraisal of the Feasibility Study Report by the agency/unit assigned by the investment decision-maker (for reference)",
+   "dung_khi": "The agency/unit assigned to carry out the appraisal notifies the results of appraisal of the Feasibility Study Report.",
+   "nguon": "Form No. 07, Appendix I, Decree 217/2026/ND-CP (consolidated text 91/2026/VBHN-BXD)",
+   "can_cu": [
+    "Article 31, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl1-m08": {
+   "ten": "Notice of results of appraisal of the Feasibility Study Report by the agency/unit assigned by the investment decision-maker that is also the specialized construction agency (for reference)",
+   "dung_khi": "The agency/unit assigned to carry out the appraisal that is also the specialized construction agency notifies the results of appraisal of the Feasibility Study Report.",
+   "nguon": "Form No. 08, Appendix I, Decree 217/2026/ND-CP (consolidated text 91/2026/VBHN-BXD)",
+   "can_cu": [
+    "Article 31, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl1-m09": {
+   "ten": "Decision approving the project (project requiring a Feasibility Study Report)",
+   "dung_khi": "The investment decision-maker issues the decision approving a project that requires a Feasibility Study Report.",
+   "nguon": "Form No. 09, Appendix I, Decree 217/2026/ND-CP",
+   "can_cu": [
+    "Article 39, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl1-m10": {
+   "ten": "Decision approving the project (project requiring only an Economic-Technical Report)",
+   "dung_khi": "The investment decision-maker issues the decision approving a project that requires only an Economic-Technical Report.",
+   "nguon": "Form No. 10, Appendix I, Decree 217/2026/ND-CP",
+   "can_cu": [
+    "Article 39, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl1-m11": {
+   "ten": "Report on the results of verification of detailed construction design after project approval",
+   "dung_khi": "The contractor verifies and reports to the investor the results of verification of the detailed construction design after the project has been approved.",
+   "nguon": "Form No. 11, Appendix I, Decree 217/2026/ND-CP",
+   "can_cu": [
+    "Point c, Clause 4, Article 41, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl1-m12": {
+   "ten": "Notice of results of appraisal of detailed construction design after project approval",
+   "dung_khi": "The agency/unit assigned to carry out the appraisal notifies the investor of the results of appraisal of the detailed construction design after the project has been approved.",
+   "nguon": "Form No. 12, Appendix I, Decree 217/2026/ND-CP",
+   "can_cu": [
+    "Article 41, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl1-m13": {
+   "ten": "Decision approving detailed construction design after project approval",
+   "dung_khi": "The approving agency/organization issues the decision approving the detailed construction design after the project has been approved, on the basis of the notice of appraisal results.",
+   "nguon": "Form No. 13, Appendix I, Decree 217/2026/ND-CP",
+   "can_cu": [
+    "Article 42, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl1-m14": {
+   "ten": "Stamp templates for appraisal, verification and approval of construction design",
+   "dung_khi": "Stamps affixed to construction design drawings that have been appraised, verified or approved, as confirmation.",
+   "nguon": "Form No. 14, Appendix I, Decree 217/2026/ND-CP",
+   "can_cu": [
+    "Point a, Clause 8, Article 36, Decree 217/2026/ND-CP",
+    "Article 41, Decree 217/2026/ND-CP",
+    "Article 42, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl1-m15": {
+   "ten": "Notice requesting supplementation and completion of the dossier",
+   "dung_khi": "The specialized construction agency requests the project preparation body to supplement the dossier submitted for appraisal of the Feasibility Study Report.",
+   "nguon": "Form No. 15, Appendix I, Decree 217/2026/ND-CP",
+   "can_cu": [
+    "Point a, Clause 3 and Clause 5, Article 36, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl1-m16": {
+   "ten": "Notice of suspension of appraisal",
+   "dung_khi": "The specialized construction agency suspends the appraisal of the Feasibility Study Report (no more than once) where the dossier contains errors or omissions that make it impossible to reach an appraisal conclusion.",
+   "nguon": "Form No. 16, Appendix I, Decree 217/2026/ND-CP",
+   "can_cu": [
+    "Clauses 4 and 5, Article 36, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl1-m17": {
+   "ten": "Decision issuing an emergency construction order",
+   "dung_khi": "The investment decision-maker issues an emergency construction order for an emergency construction project or work.",
+   "nguon": "Form No. 17, Appendix I, Decree 217/2026/ND-CP",
+   "can_cu": [
+    "Article 69, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl2-m01": {
+   "ten": "Application for a new building permit",
+   "dung_khi": "Submitted by the investor with the dossier for a new building permit, a phased building permit, for a project, a detached house, or for repair, renovation or relocation of a work (for a temporary building permit, the title of the application changes under Clause 2, Article 62).",
+   "nguon": "Form No. 01, Appendix II, Decree 217/2026/ND-CP",
+   "can_cu": [
+    "Point a, Clause 1, Article 57, Decree 217/2026/ND-CP",
+    "Article 58, Decree 217/2026/ND-CP",
+    "Article 59, Decree 217/2026/ND-CP",
+    "Article 60, Decree 217/2026/ND-CP",
+    "Article 61, Decree 217/2026/ND-CP",
+    "Clause 2, Article 62, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl2-m02": {
+   "ten": "Application for adjustment/extension/re-issuance of a building permit",
+   "dung_khi": "Submitted by the investor to request adjustment, extension or re-issuance of an issued building permit (a request for re-issuance must state the reason).",
+   "nguon": "Form No. 02, Appendix II, Decree 217/2026/ND-CP",
+   "can_cu": [
+    "Clause 2, Article 63, Decree 217/2026/ND-CP",
+    "Article 64, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl2-m03": {
+   "ten": "New building permit / adjusted or extended building permit",
+   "dung_khi": "The building permit issuing authority issues a new building permit (or records an adjustment or extension) to the investor.",
+   "nguon": "Form No. 03, Appendix II, Decree 217/2026/ND-CP",
+   "can_cu": [
+    "Article 49, Decree 217/2026/ND-CP",
+    "Point c, Clause 2, Article 63, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl2-m04": {
+   "ten": "Permit for repair, renovation or relocation of a work",
+   "dung_khi": "The building permit issuing authority issues a permit for repair, renovation or relocation of a work (or records an adjustment or extension) to the investor.",
+   "nguon": "Form No. 04, Appendix II, Decree 217/2026/ND-CP",
+   "can_cu": [
+    "Article 49, Decree 217/2026/ND-CP",
+    "Point c, Clause 2, Article 63, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl2-m05": {
+   "ten": "Temporary building permit",
+   "dung_khi": "The building permit issuing authority issues a temporary building permit for a work or detached house (or records an adjustment or extension).",
+   "nguon": "Form No. 05, Appendix II, Decree 217/2026/ND-CP",
+   "can_cu": [
+    "Article 49, Decree 217/2026/ND-CP",
+    "Article 52, Decree 217/2026/ND-CP",
+    "Article 62, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd217-pl2-m06": {
+   "ten": "Stamp template of the building permit issuing authority",
+   "dung_khi": "The building permit issuing authority stamps the design drawings attached to the building permit issued to the investor (when electronic signatures are not used).",
+   "nguon": "Form No. 06, Appendix II, Decree 217/2026/ND-CP",
+   "can_cu": [
+    "Point b, Clause 5, Article 54, Decree 217/2026/ND-CP"
+   ]
+  },
+  "nd254-m02a": {
+   "ten": "Contract information summary sheet (where performed under a contract)",
+   "dung_khi": "Prepared by the investor on the basis of a contract that has taken effect and sent to the payment authority in the legal dossier for first transactions or when changes, adjustments or additions arise (Point d, Clause 1, Article 8).",
+   "nguon": "Form No. 02.a/TT, Forms System Appendix to Decree 254/2025/ND-CP of 26 September 2025 of the Government",
+   "can_cu": [
+    "Point d, Clause 1, Article 8"
+   ]
+  },
+  "nd254-m02b": {
+   "ten": "Cost estimate information summary sheet (where not performed under a contract)",
+   "dung_khi": "Prepared by the investor on the basis of the approved cost estimate for work not performed under a contract, and sent to the payment authority in the legal dossier (Point dd, Clause 1, Article 8).",
+   "nguon": "Form No. 02.b/TT, Forms System Appendix to Decree 254/2025/ND-CP of 26 September 2025 of the Government",
+   "can_cu": [
+    "Point dd, Clause 1, Article 8"
+   ]
+  },
+  "nd254-m02c": {
+   "ten": "Compensation, support and resettlement information summary sheet",
+   "dung_khi": "Prepared by the investor or the unit/organization carrying out compensation, support and resettlement on the basis of the approved plan, and sent to the payment authority in the legal dossier (Point e, Clause 1, Article 8).",
+   "nguon": "Form No. 02.c/TT, Forms System Appendix to Decree 254/2025/ND-CP of 26 September 2025 of the Government",
+   "can_cu": [
+    "Point e, Clause 1, Article 8"
+   ]
+  },
+  "nd254-m03a": {
+   "ten": "Sheet determining the value of completed work volumes",
+   "dung_khi": "Prepared each time payment is requested for completed work volumes (including recovery of advance payments), together with the Request for Payment of Capital and the Withdrawal Request (Clause 3, Article 8; Clause 5, Article 9).",
+   "nguon": "Form No. 03.a/TT, Forms System Appendix to Decree 254/2025/ND-CP of 26 September 2025 of the Government",
+   "can_cu": [
+    "Points a and b, Clause 3 and Clause 6, Article 8",
+    "Clause 5, Article 9 (recovery of advance payment)"
+   ]
+  },
+  "nd254-m03b": {
+   "ten": "Statement of the value of compensation, support and resettlement work carried out",
+   "dung_khi": "Prepared each time payment is requested for compensation, support and resettlement, together with the Request for Payment of Capital and the Withdrawal Request (Sub-point (i), Point b, Clause 3, Article 8).",
+   "nguon": "Form No. 03.b/TT, Forms System Appendix to Decree 254/2025/ND-CP of 26 September 2025 of the Government",
+   "can_cu": [
+    "Sub-point (i), Point b, Clause 3, Article 8"
+   ]
+  },
+  "nd254-m04a": {
+   "ten": "Request for payment of capital",
+   "dung_khi": "Sent by the investor/PMU to the payment authority each time an advance payment or payment for completed work is requested (Clauses 2 and 3, Article 8).",
+   "nguon": "Form No. 04.a/TT, Forms System Appendix to Decree 254/2025/ND-CP of 26 September 2025 of the Government",
+   "can_cu": [
+    "Clauses 2 and 3 and Clause 6, Article 8"
+   ]
+  },
+  "nd254-m04b": {
+   "ten": "Request for recovery of capital",
+   "dung_khi": "Prepared by the investor when requesting recovery of capital already advanced (converting the advance into actual expenditure) or converting an advance made ahead of plan that did not yet meet payment conditions into an advance that meets payment conditions, together with the payment dossier (Clause 3, Article 8).",
+   "nguon": "Form No. 04.b/TT, Forms System Appendix to Decree 254/2025/ND-CP of 26 September 2025 of the Government",
+   "can_cu": [
+    "Points a and b, Clause 3 and Clause 6, Article 8"
+   ]
+  },
+  "nd254-m04c": {
+   "ten": "Request for recovery of capital advanced ahead of plan",
+   "dung_khi": "Prepared by the investor to recover capital advanced ahead of plan once the annual public investment plan has been assigned (Clause 7, Article 8).",
+   "nguon": "Form No. 04.c/TT, Forms System Appendix to Decree 254/2025/ND-CP of 26 September 2025 of the Government",
+   "can_cu": [
+    "Point b, Clause 7, Article 8"
+   ]
+  },
+  "nd254-m05a": {
+   "ten": "Withdrawal request",
+   "dung_khi": "Sent by the investor to the payment authority together with the Request for Payment of Capital in the advance payment dossier and the payment dossier (Clauses 2 and 3, Article 8).",
+   "nguon": "Form No. 05.a/TT, Forms System Appendix to Decree 254/2025/ND-CP of 26 September 2025 of the Government",
+   "can_cu": [
+    "Clauses 2 and 3 and Clause 6, Article 8"
+   ]
+  },
+  "nd254-m08a": {
+   "ten": "Consolidated report on advance payments and recovery of advances (of the investor, or the unit/organization carrying out compensation, support and resettlement)",
+   "dung_khi": "Each quarter, the investor (before the 5th) and the unit/organization carrying out compensation, support and resettlement (before the 3rd of the first month of the following quarter) report on advance payments and recovery of advances for each project (Point b, Clause 6, Article 9).",
+   "nguon": "Form No. 08.a/SDTƯ, Forms System Appendix to Decree 254/2025/ND-CP of 26 September 2025 of the Government",
+   "can_cu": [
+    "Point b, Clause 6, Article 9"
+   ]
+  },
+  "nd254-m09": {
+   "ten": "Project management cost allocation sheet for requesting payment to clear project management cost advances",
+   "dung_khi": "Prepared by an investor or PMU directly managing several projects to allocate project management costs when requesting payment or recovery of advances of project management costs (Clause 6, Article 8; Point c, Clause 5, Article 9).",
+   "nguon": "Form No. 09/QLDA, Forms System Appendix to Decree 254/2025/ND-CP of 26 September 2025 of the Government",
+   "can_cu": [
+    "Clause 6, Article 8",
+    "Point c, Clause 5, Article 9"
+   ]
+  },
+  "tt36-b11": {
+   "ten": "Preliminary summary of total construction investment",
+   "dung_khi": "Preliminary summary of total construction investment when preparing the pre-feasibility study report and the investment policy proposal (Article 3, Part I of Appendix I). Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Table 1.1, Appendix I, Circular 36/2026/TT-BXD (consolidated text 89/2026/VBHN-TT-BXD)",
+   "can_cu": [
+    "Article 3, Circular 36/2026/TT-BXD",
+    "Appendix I, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-b12": {
+   "ten": "Summary of total construction investment",
+   "dung_khi": "Summary of total construction investment when preparing the construction investment feasibility study report (Article 4, Part II of Appendix I). Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Table 1.2, Appendix I, Circular 36/2026/TT-BXD (consolidated text 89/2026/VBHN-TT-BXD)",
+   "can_cu": [
+    "Article 4, Circular 36/2026/TT-BXD",
+    "Appendix I, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-b21": {
+   "ten": "Summary of construction work cost estimate",
+   "dung_khi": "Summary of the construction work cost estimate under formula (2.1) of Appendix II (Article 6). Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Table 2.1, Appendix II, Circular 36/2026/TT-BXD (consolidated text 89/2026/VBHN-TT-BXD)",
+   "can_cu": [
+    "Article 6, Circular 36/2026/TT-BXD",
+    "Appendix II, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-b22": {
+   "ten": "Summary of equipment costs",
+   "dung_khi": "Summary of equipment costs in the construction work cost estimate under formula (2.2) of Appendix II (Article 6). Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Table 2.2, Appendix II, Circular 36/2026/TT-BXD (consolidated text 89/2026/VBHN-TT-BXD)",
+   "can_cu": [
+    "Article 6, Circular 36/2026/TT-BXD",
+    "Appendix II, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-b24": {
+   "ten": "Summary of construction consultancy costs",
+   "dung_khi": "Summary of construction consultancy costs in the construction work cost estimate (Article 6; Clause 4, Section 1 of Appendix II). Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Table 2.4, Appendix II, Circular 36/2026/TT-BXD (consolidated text 89/2026/VBHN-TT-BXD)",
+   "can_cu": [
+    "Article 6, Circular 36/2026/TT-BXD",
+    "Appendix II, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-b25": {
+   "ten": "Summary of other costs",
+   "dung_khi": "Summary of other costs in the construction work cost estimate under formula (2.6) of Appendix II (Article 6). Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Table 2.5, Appendix II, Circular 36/2026/TT-BXD (consolidated text 89/2026/VBHN-TT-BXD)",
+   "can_cu": [
+    "Article 6, Circular 36/2026/TT-BXD",
+    "Appendix II, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-b26": {
+   "ten": "Summary of construction package cost estimate",
+   "dung_khi": "Summary of the construction package cost estimate (Article 7). Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Table 2.6, Appendix II, Circular 36/2026/TT-BXD (consolidated text 89/2026/VBHN-TT-BXD)",
+   "can_cu": [
+    "Article 7, Circular 36/2026/TT-BXD",
+    "Appendix II, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-b27": {
+   "ten": "Summary of construction work item cost estimate",
+   "dung_khi": "Summary of the construction work item cost estimate (Clause 4, Article 76, Construction Law No. 135/2025/QH15; Article 8, Circular 36/2026/TT-BXD). Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Table 2.7, Appendix II, Circular 36/2026/TT-BXD (consolidated text 89/2026/VBHN-TT-BXD)",
+   "can_cu": [
+    "Article 8, Circular 36/2026/TT-BXD",
+    "Appendix II, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-b31": {
+   "ten": "Summary of construction costs",
+   "dung_khi": "Summary of the construction costs of a work under Appendix III (method of determining construction costs) when preparing the cost estimate (Article 6). Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Table 3.1, Appendix III, Circular 36/2026/TT-BXD (consolidated text 89/2026/VBHN-TT-BXD)",
+   "can_cu": [
+    "Article 6, Circular 36/2026/TT-BXD",
+    "Appendix III, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-b38": {
+   "ten": "Summary of construction cost estimate (determined by quantities and construction unit prices)",
+   "dung_khi": "Summary of the construction cost estimate where construction costs are determined by quantities and construction prices as guided in Points 2.1 and 2.2 of Appendix III. Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Table 3.8, Appendix III, Circular 36/2026/TT-BXD (checked against corrective Decision 1538/QD-BXD)",
+   "can_cu": [
+    "Article 6, Circular 36/2026/TT-BXD",
+    "Appendix III, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-b39": {
+   "ten": "Summary of construction cost estimate (direct costs based on lump-sum quotations)",
+   "dung_khi": "Summary of the construction cost estimate for work items, parts or components that require a separate design or specialized technology or construction methods, where direct costs are determined from lump-sum quotations of a qualified entity (Appendix III). Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Table 3.9, Appendix III, Circular 36/2026/TT-BXD (checked against corrective Decision 1538/QD-BXD)",
+   "can_cu": [
+    "Article 6, Circular 36/2026/TT-BXD",
+    "Appendix III, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-b41": {
+   "ten": "Calculation sheet for the price of materials delivered to the site",
+   "dung_khi": "Calculation of the price of materials delivered to the site where the investor or consultant determines construction work prices itself under Appendix IV because the issued or published prices and norms are unavailable or unsuitable (Clause 3, Article 12). Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Table 4.1, Appendix IV, Circular 36/2026/TT-BXD (checked against corrective Decision 1538/QD-BXD)",
+   "can_cu": [
+    "Clause 3, Article 12, Circular 36/2026/TT-BXD",
+    "Appendix IV, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-b42": {
+   "ten": "Summary of construction work item prices",
+   "dung_khi": "Summary of construction work item prices (material, labor and construction machinery costs for each work item) where the investor or consultant determines prices itself under Appendix IV because the issued or published prices and norms are unavailable or unsuitable (Clause 3, Article 12). Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Table 4.2, Appendix IV, Circular 36/2026/TT-BXD",
+   "can_cu": [
+    "Clause 3, Article 12, Circular 36/2026/TT-BXD",
+    "Appendix IV, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-b43": {
+   "ten": "Summary of construction work group prices",
+   "dung_khi": "Summary of construction work group prices from the prices of individual construction work items where the investor or consultant determines prices itself under Appendix IV (Clause 3, Article 12). Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Table 4.3, Appendix IV, Circular 36/2026/TT-BXD (checked against corrective Decision 1538/QD-BXD)",
+   "can_cu": [
+    "Clause 3, Article 12, Circular 36/2026/TT-BXD",
+    "Appendix IV, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-b54": {
+   "ten": "Summary of construction survey cost estimate",
+   "dung_khi": "Summary of the construction survey cost estimate, since construction survey costs are determined by an estimate as guided in Appendix V (Point c, Clause 1, Article 14). Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Table 5.4, Appendix V, Circular 36/2026/TT-BXD (checked against corrective Decision 1538/QD-BXD)",
+   "can_cu": [
+    "Point c, Clause 1, Article 14, Circular 36/2026/TT-BXD",
+    "Appendix V, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-pl7-m01": {
+   "ten": "Announcement of monthly/quarterly construction material prices in the province/city",
+   "dung_khi": "The Department of Construction announces construction material prices monthly/quarterly in its locality using the template in Appendix VII; enterprises use it to look up and compare against announced material prices. Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Form No. 01, Appendix VII, Circular 36/2026/TT-BXD",
+   "can_cu": [
+    "Appendix VII, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-pl7-m02": {
+   "ten": "Announcement of annual construction labor prices in the province/city",
+   "dung_khi": "The Department of Construction announces construction labor prices annually in its locality using the template in Appendix VII; enterprises use it to look up and compare against announced labor unit prices. Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Form No. 02, Appendix VII, Circular 36/2026/TT-BXD",
+   "can_cu": [
+    "Appendix VII, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-pl7-m03": {
+   "ten": "Announcement of construction machinery and equipment shift prices in the province/city",
+   "dung_khi": "The Department of Construction announces construction machinery and equipment shift prices in its locality using the template in Appendix VII (Point b, Clause 5, Article 11); enterprises use it to look up and compare against announced machine shift prices. Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Form No. 03, Appendix VII, Circular 36/2026/TT-BXD (checked against corrective Decision 1538/QD-BXD)",
+   "can_cu": [
+    "Point b, Clause 5, Article 11, Circular 36/2026/TT-BXD",
+    "Appendix VII, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-pl8-m01": {
+   "ten": "Report on the results of verification of total construction investment",
+   "dung_khi": "The consultant verifies and reports to the project preparation body the results of verification of the total construction investment where an independent verification of total investment is requested. Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Form No. 01, Appendix VIII, Circular 36/2026/TT-BXD",
+   "can_cu": [
+    "Appendix VIII, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-pl8-m02": {
+   "ten": "Notice of results of appraisal of total construction investment by the specialized construction agency",
+   "dung_khi": "The specialized construction agency notifies the project preparation body of the results of appraisal of the total construction investment where an independent appraisal of total investment is requested. Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Form No. 02, Appendix VIII, Circular 36/2026/TT-BXD",
+   "can_cu": [
+    "Appendix VIII, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-pl8-m03": {
+   "ten": "Notice of results of appraisal of total construction investment by the agency assigned by the investment decision-maker to lead the appraisal",
+   "dung_khi": "The agency/unit assigned by the investment decision-maker to carry out the appraisal notifies the project preparation body of the results of appraisal of the total construction investment where an independent appraisal of total investment is requested. Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Form No. 03, Appendix VIII, Circular 36/2026/TT-BXD",
+   "can_cu": [
+    "Appendix VIII, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-pl8-m04": {
+   "ten": "Report on the results of appraisal of total construction investment for projects with FEED design or technical design in the Feasibility Study Report, and projects requiring only an Economic-Technical Report",
+   "dung_khi": "The investor reports to the investment decision-maker (or the appraisal-leading agency under the investment decision-maker) the results of appraisal of the total construction investment for projects with FEED design or technical design in the Feasibility Study Report, and projects requiring only an Economic-Technical Report. Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Form No. 04, Appendix VIII, Circular 36/2026/TT-BXD",
+   "can_cu": [
+    "Appendix VIII, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-pl8-m05": {
+   "ten": "Report on the results of verification of construction work cost estimate",
+   "dung_khi": "The consultant verifies and reports to the investor the results of verification of the construction work cost estimate where an independent verification of the construction work cost estimate is requested. Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Form No. 05, Appendix VIII, Circular 36/2026/TT-BXD",
+   "can_cu": [
+    "Appendix VIII, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-pl8-m06": {
+   "ten": "Notice of results of appraisal of construction work cost estimate by the specialized construction agency for works under sub-projects or components using public investment capital in PPP projects",
+   "dung_khi": "The specialized construction agency notifies the investor of the results of appraisal of the construction work cost estimate for works under sub-projects or components using public investment capital in a PPP project, where an independent appraisal of the cost estimate is requested. Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Form No. 06, Appendix VIII, Circular 36/2026/TT-BXD",
+   "can_cu": [
+    "Appendix VIII, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt36-pl8-m07": {
+   "ten": "Report on the results of appraisal of construction work cost estimate",
+   "dung_khi": "The agency/unit within the investor assigned to carry out the appraisal notifies the results of appraisal of the construction work cost estimate where an independent appraisal of the cost estimate is requested. Applies to the entities specified in Article 2 of Decree 206/2026/ND-CP; Circular 36/2026/TT-BXD takes effect on 1 July 2026.",
+   "nguon": "Form No. 07, Appendix VIII, Circular 36/2026/TT-BXD",
+   "can_cu": [
+    "Appendix VIII, Circular 36/2026/TT-BXD"
+   ]
+  },
+  "tt40-b1": {
+   "ten": "Summary of construction work maintenance costs",
+   "dung_khi": "Determination and summary of construction work maintenance costs, comprising upkeep and repair costs and other work items in the maintenance plan (Article 2, Circular 40/2026/TT-BXD; effective from 1 July 2026).",
+   "nguon": "Table 1, Appendix I, issued with Circular 40/2026/TT-BXD",
+   "can_cu": [
+    "Article 2, Circular 40/2026/TT-BXD",
+    "Appendix I, Circular 40/2026/TT-BXD"
+   ]
+  },
+  "tt40-b21": {
+   "ten": "Summary of work upkeep cost estimate",
+   "dung_khi": "Preparation and summary of the work upkeep cost estimate (Article 3, Appendix II, Circular 40/2026/TT-BXD; effective from 1 July 2026).",
+   "nguon": "Table 2.1, Appendix II, issued with Circular 40/2026/TT-BXD",
+   "can_cu": [
+    "Article 3, Circular 40/2026/TT-BXD",
+    "Appendix II, Circular 40/2026/TT-BXD"
+   ]
+  },
+  "tt40-b25": {
+   "ten": "Upkeep execution cost estimate",
+   "dung_khi": "Preparation of the upkeep execution cost estimate (direct costs, indirect costs, estimated taxable income, VAT, temporary facilities) under Section II of Appendix II, Circular 40/2026/TT-BXD; effective from 1 July 2026.",
+   "nguon": "Table 2.5, Appendix II, issued with Circular 40/2026/TT-BXD",
+   "can_cu": [
+    "Article 3, Circular 40/2026/TT-BXD",
+    "Section II, Appendix II, Circular 40/2026/TT-BXD"
+   ]
+  },
+  "tt40-b31": {
+   "ten": "Summary of work repair cost estimate",
+   "dung_khi": "Preparation and summary of the construction work repair cost estimate (Article 4, Appendix III, Circular 40/2026/TT-BXD; effective from 1 July 2026).",
+   "nguon": "Table 3.1, Appendix III, issued with Circular 40/2026/TT-BXD",
+   "can_cu": [
+    "Article 4, Circular 40/2026/TT-BXD",
+    "Appendix III, Circular 40/2026/TT-BXD"
+   ]
+  },
+  "tt40-b32": {
+   "ten": "Repair execution cost estimate",
+   "dung_khi": "Preparation of the work repair execution cost estimate (direct costs, indirect costs, estimated taxable income, VAT, temporary facilities) under Section II of Appendix III, Circular 40/2026/TT-BXD; effective from 1 July 2026.",
+   "nguon": "Table 3.2, Appendix III, issued with Circular 40/2026/TT-BXD",
+   "can_cu": [
+    "Article 4, Circular 40/2026/TT-BXD",
+    "Section II, Appendix III, Circular 40/2026/TT-BXD"
+   ]
+  },
+  "tt73-m01": {
+   "ten": "Consolidated report on project investment capital final settlement",
+   "dung_khi": "A project (component project, sub-project, independent work or work component) that is completed, or a terminated project with accepted construction and equipment installation volumes (Clause 1, Article 4, Circular 73/2026/TT-BTC; effective from 1 July 2026).",
+   "nguon": "Form No. 01/QTDA issued with Circular 73/2026/TT-BTC",
+   "can_cu": [
+    "Article 3",
+    "Clause 1, Article 4, Circular 73/2026/TT-BTC",
+    "Clause 1, Article 7, Decree 193/2026/ND-CP"
+   ]
+  },
+  "tt73-m02": {
+   "ten": "List of documents",
+   "dung_khi": "A project (component project, sub-project, independent work or work component) that is completed, or a terminated project with accepted construction and equipment installation volumes (Clause 1, Article 4, Circular 73/2026/TT-BTC; effective from 1 July 2026).",
+   "nguon": "Form No. 02/QTDA issued with Circular 73/2026/TT-BTC",
+   "can_cu": [
+    "Article 3",
+    "Clause 1, Article 4, Circular 73/2026/TT-BTC",
+    "Clause 1, Article 7, Decree 193/2026/ND-CP"
+   ]
+  },
+  "tt73-m03": {
+   "ten": "Data reconciliation sheet",
+   "dung_khi": "Used both for completed/terminated projects with volumes (Clause 1, Article 4) and for planning, investment preparation or terminated projects without volumes (Clause 2, Article 4, Circular 73/2026/TT-BTC); reconciled with the payment authority.",
+   "nguon": "Form No. 03/QTDA issued with Circular 73/2026/TT-BTC",
+   "can_cu": [
+    "Article 3",
+    "Clause 1, Article 4, Circular 73/2026/TT-BTC",
+    "Clause 1, Article 7, Decree 193/2026/ND-CP",
+    "Clause 2, Article 4, Circular 73/2026/TT-BTC"
+   ]
+  },
+  "tt73-m04": {
+   "ten": "Details of investment costs proposed for final settlement",
+   "dung_khi": "A project (component project, sub-project, independent work or work component) that is completed, or a terminated project with accepted construction and equipment installation volumes (Clause 1, Article 4, Circular 73/2026/TT-BTC; effective from 1 July 2026).",
+   "nguon": "Form No. 04/QTDA issued with Circular 73/2026/TT-BTC",
+   "can_cu": [
+    "Article 3",
+    "Clause 1, Article 4, Circular 73/2026/TT-BTC",
+    "Clause 1, Article 7, Decree 193/2026/ND-CP"
+   ]
+  },
+  "tt73-m05": {
+   "ten": "Details of the value of assets formed",
+   "dung_khi": "A project (component project, sub-project, independent work or work component) that is completed, or a terminated project with accepted construction and equipment installation volumes (Clause 1, Article 4, Circular 73/2026/TT-BTC; effective from 1 July 2026).",
+   "nguon": "Form No. 05/QTDA issued with Circular 73/2026/TT-BTC",
+   "can_cu": [
+    "Article 3",
+    "Clause 1, Article 4, Circular 73/2026/TT-BTC",
+    "Clause 1, Article 7, Decree 193/2026/ND-CP"
+   ]
+  },
+  "tt73-m06": {
+   "ten": "Details of the value of surplus materials, supplies and equipment",
+   "dung_khi": "A project (component project, sub-project, independent work or work component) that is completed, or a terminated project with accepted construction and equipment installation volumes (Clause 1, Article 4, Circular 73/2026/TT-BTC; effective from 1 July 2026).",
+   "nguon": "Form No. 06/QTDA issued with Circular 73/2026/TT-BTC",
+   "can_cu": [
+    "Article 3",
+    "Clause 1, Article 4, Circular 73/2026/TT-BTC",
+    "Clause 1, Article 7, Decree 193/2026/ND-CP"
+   ]
+  },
+  "tt73-m07": {
+   "ten": "Project debt position",
+   "dung_khi": "Used both for completed/terminated projects with volumes (Clause 1, Article 4) and for planning, investment preparation or terminated projects without volumes (Clause 2, Article 4, Circular 73/2026/TT-BTC).",
+   "nguon": "Form No. 07/QTDA issued with Circular 73/2026/TT-BTC",
+   "can_cu": [
+    "Article 3",
+    "Clause 1, Article 4, Circular 73/2026/TT-BTC",
+    "Clause 1, Article 7, Decree 193/2026/ND-CP",
+    "Clause 2, Article 4, Circular 73/2026/TT-BTC"
+   ]
+  },
+  "tt73-m08": {
+   "ten": "Project investment capital final settlement report (planning, investment preparation, or terminated projects without volumes)",
+   "dung_khi": "Planning projects, investment preparation projects, or terminated projects with no accepted construction and equipment installation volumes (Clause 2, Article 4, Circular 73/2026/TT-BTC).",
+   "nguon": "Form No. 08/QTDA issued with Circular 73/2026/TT-BTC",
+   "can_cu": [
+    "Clause 2, Article 4, Circular 73/2026/TT-BTC",
+    "Clause 2, Article 7, Decree 193/2026/ND-CP",
+    "Clause 8, Article 3"
+   ]
+  },
+  "tt73-m10": {
+   "ten": "Decision approving investment capital final settlement (of a project, component project, independent sub-project, independent work or work component)",
+   "dung_khi": "The agency leading the audit prepares the draft decision approving the final settlement as part of the dossier submitted to the competent approving authority (Clause 4, Article 4, Circular 73/2026/TT-BTC; Clause 1, Article 19, Decree 193/2026/ND-CP).",
+   "nguon": "Form No. 10/QTDA issued with Circular 73/2026/TT-BTC",
+   "can_cu": [
+    "Clause 4, Article 4, Circular 73/2026/TT-BTC",
+    "Clause 1, Article 19, Decree 193/2026/ND-CP",
+    "Clause 10, Article 3"
+   ]
+  },
+  "tt73-m11": {
+   "ten": "Annual report on the final settlement of projects using public investment capital",
+   "dung_khi": "Ministries, central agencies, State-owned groups and corporations, provincial People's Committees (and subordinate units, commune-level People's Committees) report on the final settlement of projects using public investment capital during the year (Clause 5, Article 4, Circular 73/2026/TT-BTC; Article 22, Decree 193/2026/ND-CP).",
+   "nguon": "Form No. 11/QTDA issued with Circular 73/2026/TT-BTC",
+   "can_cu": [
+    "Clause 5, Article 4, Circular 73/2026/TT-BTC",
+    "Article 22, Decree 193/2026/ND-CP",
+    "Clause 11, Article 3"
+   ]
+  },
+  "tt73-m12": {
+   "ten": "Receipt for handover of the project investment capital final settlement dossier",
+   "dung_khi": "The investor/PMU hands the final settlement dossier directly to the agency leading the audit; the dossier receipt time counts from when representatives of both parties sign the receipt (Point a, Clause 6, Article 4, Circular 73/2026/TT-BTC).",
+   "nguon": "Form No. 12/QTDA issued with Circular 73/2026/TT-BTC",
+   "can_cu": [
+    "Point a, Clause 6, Article 4, Circular 73/2026/TT-BTC",
+    "Clause 12, Article 3"
+   ]
+  },
+  "tt79-dt01": {
+   "ten": "Consultancy and project management cost calculation sheet (prepared separately for each project)",
+   "dung_khi": "An investor or PMU with a project using State budget funds (Article 1, Circular 79/2026/TT-BTC; effective from 1 July 2026) determines the revenue from costs it carries out for each project assigned to it, as the basis for preparing the revenue estimate (Article 6) and the dossier submitted for appraisal and approval of the annual estimate (Article 9).",
+   "nguon": "Form No. 01(i)/DT-QLDA issued with Circular 79/2026/TT-BTC",
+   "can_cu": [
+    "Article 6, Circular 79/2026/TT-BTC",
+    "Point b, Clause 2, Article 9, Circular 79/2026/TT-BTC"
+   ]
+  },
+  "tt79-dt02": {
+   "ten": "Annual salary calculation sheet",
+   "dung_khi": "An investor or PMU with a project using State budget funds (Article 1, Circular 79/2026/TT-BTC; effective from 1 July 2026) prepares the annual salary calculation sheet for each employee involved in project management, as the basis for preparing the revenue and expenditure estimate (Clause 5, Article 5) and the dossier submitted for approval of the annual estimate (Article 9).",
+   "nguon": "Form No. 02/DT-QLDA issued with Circular 79/2026/TT-BTC",
+   "can_cu": [
+    "Clause 5, Article 5, Circular 79/2026/TT-BTC",
+    "Point c, Clause 2, Article 9, Circular 79/2026/TT-BTC"
+   ]
+  },
+  "tt79-dt03": {
+   "ten": "Annual project management revenue and expenditure estimate",
+   "dung_khi": "An investor or PMU with a project using State budget funds (Article 1, Circular 79/2026/TT-BTC; effective from 1 July 2026) prepares the annual revenue and expenditure estimate (Clause 3, Article 7) and submits it for appraisal and approval (Article 9); the PMU prepares and implements the annual estimate (Article 12).",
+   "nguon": "Form No. 03/DT-QLDA issued with Circular 79/2026/TT-BTC",
+   "can_cu": [
+    "Clause 3, Article 7, Circular 79/2026/TT-BTC",
+    "Point d, Clause 2, Article 9, Circular 79/2026/TT-BTC",
+    "Article 12, Circular 79/2026/TT-BTC"
+   ]
+  },
+  "tt79-qd01": {
+   "ten": "Decision approving the annual project management revenue and expenditure estimate of a Group I PMU",
+   "dung_khi": "The head of the agency or unit assigned as investor approves the planning-year revenue and expenditure estimate of the investor or Group I PMU no later than 31 December of the year preceding the planning year (Point b, Clause 4, Article 9, Circular 79/2026/TT-BTC).",
+   "nguon": "Form No. 01/QĐ-QLDA issued with Circular 79/2026/TT-BTC",
+   "can_cu": [
+    "Point b, Clause 4, Article 9, Circular 79/2026/TT-BTC"
+   ]
+  },
+  "tt79-qd02": {
+   "ten": "Decision approving the annual project management revenue and expenditure estimate of a Group II PMU",
+   "dung_khi": "The director of a Group II PMU (a public non-business unit) approves the PMU's annual revenue and expenditure estimate (Article 12, Circular 79/2026/TT-BTC); the approved estimate is sent to the superior managing agency and the financial agency of the same level.",
+   "nguon": "Form No. 02/QĐ-QLDA issued with Circular 79/2026/TT-BTC",
+   "can_cu": [
+    "Point b, Clause 1, Article 12, Circular 79/2026/TT-BTC"
+   ]
+  },
+  "tt79-qdqt01": {
+   "ten": "Decision approving the annual project management revenue and expenditure final settlement of the investor or a Group I PMU",
+   "dung_khi": "The head of the investor agency approves the annual revenue and expenditure final settlement of the investor or Group I PMU within a maximum of 15 working days from receipt of a valid and complete annual final settlement report dossier (Clauses 2, 5 and 7, Article 10, Circular 79/2026/TT-BTC).",
+   "nguon": "Form No. 01.QĐ/QT-QLDA issued with Circular 79/2026/TT-BTC",
+   "can_cu": [
+    "Clauses 2 and 7, Article 10, Circular 79/2026/TT-BTC"
+   ]
+  },
+  "tt79-qdqt02": {
+   "ten": "Decision approving the annual project management revenue and expenditure final settlement of a Group II PMU",
+   "dung_khi": "The financial agency of the same level audits and approves the annual revenue and expenditure final settlement of a Group II PMU within a maximum of 15 working days from receipt of a valid and complete annual final settlement report dossier (Clause 4, Article 13, Circular 79/2026/TT-BTC).",
+   "nguon": "Form No. 02.QĐ/QT-QLDA issued with Circular 79/2026/TT-BTC",
+   "can_cu": [
+    "Clauses 3 and 4, Article 13, Circular 79/2026/TT-BTC"
+   ]
+  },
+  "tt79-qt01": {
+   "ten": "Annual project management revenue and expenditure final settlement report of the investor or a Group I PMU",
+   "dung_khi": "After the planning year ends, the investor or Group I PMU obtains the confirmation of the payment authority in order to prepare the revenue and expenditure final settlement report no later than 28 February of the following year (Clause 1, Article 10, Circular 79/2026/TT-BTC).",
+   "nguon": "Form No. 01/QT-QLDA issued with Circular 79/2026/TT-BTC",
+   "can_cu": [
+    "Clause 1 and Point b, Clause 4, Article 10, Circular 79/2026/TT-BTC",
+    "Point b, Clause 3, Article 14, Circular 79/2026/TT-BTC"
+   ]
+  },
+  "tt79-qt02": {
+   "ten": "Annual project management revenue and expenditure final settlement report of a Group II PMU",
+   "dung_khi": "A Group II PMU (a public non-business unit) prepares the annual revenue and expenditure final settlement report within the annual final settlement report dossier sent to the financial agency of the same level for audit and approval (Article 13, Circular 79/2026/TT-BTC).",
+   "nguon": "Form No. 02/QT-QLDA issued with Circular 79/2026/TT-BTC",
+   "can_cu": [
+    "Point b, Clause 1 and Clause 3, Article 13, Circular 79/2026/TT-BTC",
+    "Point b, Clause 3, Article 14, Circular 79/2026/TT-BTC"
+   ]
+  }
+ },
+ "nhom": {
+  "Quyết toán vốn dự án (TT 73/2026/TT-BTC)": "Project capital final settlement (Circular 73/2026/TT-BTC)",
+  "Thi công – nghiệm thu (NĐ 207/2026, theo nội dung bắt buộc)": "Construction and acceptance (Decree 207/2026, mandatory-content forms)",
+  "Thi công – nghiệm thu (NĐ 207/2026)": "Construction and acceptance (Decree 207/2026)",
+  "Năng lực hoạt động xây dựng (NĐ 212/2026)": "Construction activity capacity (Decree 212/2026)",
+  "Thẩm định – giấy phép xây dựng (NĐ 217/2026)": "Appraisal and building permits (Decree 217/2026)",
+  "Thanh toán vốn đầu tư công (NĐ 254/2025/NĐ-CP)": "Public investment capital payment (Decree 254/2025/ND-CP)",
+  "Tổng mức đầu tư, dự toán xây dựng (TT 36/2026/TT-BXD)": "Total investment and construction cost estimates (Circular 36/2026/TT-BXD)",
+  "Chi phí bảo trì công trình (TT 40/2026/TT-BXD)": "Work maintenance costs (Circular 40/2026/TT-BXD)",
+  "Dự toán, quyết toán thu chi quản lý dự án (TT 79/2026/TT-BTC)": "Project management revenue and expenditure estimates and final settlement (Circular 79/2026/TT-BTC)"
+ }
+}

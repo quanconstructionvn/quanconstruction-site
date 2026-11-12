@@ -1,0 +1,415 @@
+{
+ "title": "Construction Project Sequence Handbook 2026: 3 Stages, Step by Step",
+ "ngan": "Project sequence handbook",
+ "desc": "Construction investment project sequence under the 2025 Construction Law and Decree 217/2026: preparation, implementation, closeout; tasks, files, approvers, legal basis.",
+ "summary": "A map of the entire project life cycle under the Construction Law 2025: from investment policy, survey and Feasibility Study Report to design, permit, construction, acceptance, final settlement and warranty.",
+ "lead": "A quick-reference table for the PMU, consultants and contractors: what to do at each step, who does it, who approves it and which article is the legal basis.",
+ "body": [
+  [
+   "p",
+   "From 1 July 2026, construction investment projects are managed under <a href=\"/phap-ly/135-2025-qh15.html#d16\">Construction Law No. 135/2025/QH15</a> and its guiding decrees: <a href=\"/phap-ly/217-2026-nd-cp.html#d4\">Decree 217/2026/ND-CP</a> (management of construction activities), <a href=\"/phap-ly/207-2026-nd-cp.html#d4\">Decree 207/2026/ND-CP</a> (quality, construction, maintenance), <a href=\"/phap-ly/206-2026-nd-cp.html#d3\">Decree 206/2026/ND-CP</a> (costs) and <a href=\"/phap-ly/210-2026-nd-cp.html#d4\">Decree 210/2026/ND-CP</a> (contracts). This handbook arranges the tasks in the order prescribed by law so that project practitioners can look them up quickly."
+  ],
+  [
+   "h2",
+   "1. The three stages and project classification"
+  ],
+  [
+   "p",
+   "Under <a href=\"/phap-ly/135-2025-qh15.html#d16\">Clause 1, Article 16 of the Construction Law 2025</a>, the construction investment sequence has 3 stages: <b>project preparation</b>, <b>project implementation</b> and <b>construction closeout</b>. A project may be phased, or split into component projects or independent compensation, support and resettlement projects (Clause 2)."
+  ],
+  [
+   "p",
+   "Before going through each step, you need to determine which type of project it is, because procedures differ by funding source (<a href=\"/phap-ly/135-2025-qh15.html#d17\">Article 17</a>):"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Project type (by investment form)",
+     "Points to note"
+    ],
+    "dong": [
+     [
+      "Public investment project",
+      "Most strictly managed: appraisal at the specialized construction agency, cost management under Decree 206/2026, contracts under Decree 210/2026, capital final settlement under Decree 193/2026."
+     ],
+     [
+      "PPP project",
+      "Appraised and adjusted under the law on investment in the form of public-private partnership; many construction matters are still governed by the Construction Law."
+     ],
+     [
+      "Projects using recurrent expenditure or other State budget funds outside public investment",
+      "Follow the provisions on public investment projects in the Construction Law (Point c, Clause 1, Article 17)."
+     ],
+     [
+      "Business investment project (other funds)",
+      "The investment decision-maker organizes the appraisal itself; appraisal at the specialized agency is required only for large-scale projects or those with works that significantly affect safety or community interests."
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "Classification by scale (nationally important, Group A, B, C) follows the criteria of the law on public investment; classification by purpose and function follows Appendix III of <a href=\"/phap-ly/217-2026-nd-cp.html#d5\">Decree 217/2026/ND-CP</a>."
+  ],
+  [
+   "h2",
+   "2. Project preparation stage"
+  ],
+  [
+   "p",
+   "The tasks of this stage are listed in <a href=\"/phap-ly/217-2026-nd-cp.html#d4\">Point a, Clause 1, Article 4 of Decree 217/2026/ND-CP</a>:"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Step",
+     "Main task / file",
+     "Who prepares – who approves",
+     "Legal basis"
+    ],
+    "dong": [
+     [
+      "1",
+      "Pre-Feasibility Study Report or Investment Policy Proposal Report (if applicable)",
+      "Prepared by the project preparation agency; the competent authority decides on or approves the investment policy under the laws on public investment, investment and PPP",
+      "<a href=\"/phap-ly/217-2026-nd-cp.html#d4\">Art. 4, Decree 217</a>"
+     ],
+     [
+      "2",
+      "Prepare, appraise and approve the planning used as the basis for preparing the project (if any)",
+      "Under the law on planning",
+      "<a href=\"/phap-ly/217-2026-nd-cp.html#d26\">Art. 26, Decree 217</a>"
+     ],
+     [
+      "3",
+      "Construction survey for project preparation: survey task, technical plan, results report",
+      "Carried out by the survey contractor; the investor approves the task, plan and report",
+      "<a href=\"/phap-ly/217-2026-nd-cp.html#d10\">Art. 10–15, Decree 217</a>"
+     ],
+     [
+      "4",
+      "Prepare the Feasibility Study Report (basic design or FEED, total investment) or the Economic-Technical Report",
+      "The investor / project preparation agency hires a consultant to prepare it",
+      "<a href=\"/phap-ly/135-2025-qh15.html#d23\">Art. 23–25, Construction Law</a>; <a href=\"/phap-ly/217-2026-nd-cp.html#d27\">Art. 27, 29, 30, Decree 217</a>"
+     ],
+     [
+      "5",
+      "Appraise the Report (by the investment decision-maker and, where applicable, by the specialized construction agency); fire prevention and fighting design appraisal is integrated",
+      "Lead appraisal agency; specialized construction agency",
+      "<a href=\"/phap-ly/135-2025-qh15.html#d26\">Art. 26, 27, Construction Law</a>; <a href=\"/phap-ly/217-2026-nd-cp.html#d31\">Art. 31–38, Decree 217</a>"
+     ],
+     [
+      "6",
+      "Approve the project and decide on construction investment",
+      "Investment decision-maker (Form No. 09, 10, Appendix I of Decree 217)",
+      "<a href=\"/phap-ly/135-2025-qh15.html#d28\">Art. 28, Construction Law</a>; <a href=\"/phap-ly/217-2026-nd-cp.html#d39\">Art. 39, Decree 217</a>"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "<b>When is only an Economic-Technical Report needed?</b> Under <a href=\"/phap-ly/217-2026-nd-cp.html#d27\">Clause 2, Article 27 of Decree 217/2026/ND-CP</a>, these are: projects for religious purposes; projects with total investment <b>not exceeding VND 40 billion</b> (excluding compensation, site clearance and land use fees); repair projects for maintenance purposes of Group C scale; dredging for maintenance of public maritime channels and inland waterways; projects that mainly involve equipment procurement and installation with construction costs below 10% of total investment and not exceeding VND 20 billion (except nationally important, Group A and PPP projects). A project that requires only an Economic-Technical Report does not need appraisal at the specialized construction agency (<a href=\"/phap-ly/135-2025-qh15.html#d27\">Clause 2, Article 27 of the Construction Law</a>)."
+  ],
+  [
+   "p",
+   "<b>Which projects must be appraised at the specialized construction agency?</b> Public investment projects, PPP projects, large-scale business investment projects (those whose investment policy is approved by the National Assembly or the Prime Minister, or that meet the nationally important criteria) and business investment projects with works listed in Appendix IV (<a href=\"/phap-ly/217-2026-nd-cp.html#d32\">Clause 1, Article 32 of Decree 217/2026/ND-CP</a>)."
+  ],
+  [
+   "h3",
+   "Appraisal time for the Feasibility Study Report at the specialized agency"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Project group",
+     "With Grade I works or higher",
+     "Others"
+    ],
+    "dong": [
+     [
+      "Nationally important",
+      "Not more than 60 days",
+      "Not more than 60 days"
+     ],
+     [
+      "Group A",
+      "Not more than 25 working days",
+      "Not more than 20 working days"
+     ],
+     [
+      "Group B",
+      "Not more than 20 working days",
+      "Not more than 16 working days"
+     ],
+     [
+      "Group C",
+      "Not more than 15 working days",
+      "Not more than 12 working days"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "Counted from the date a complete and valid file is received; the appraisal agency may extend only once, for no longer than the corresponding appraisal period (<a href=\"/phap-ly/217-2026-nd-cp.html#d37\">Article 37 of Decree 217/2026/ND-CP</a>). The file submitted for appraisal consists of a Submission under Form No. 01 of Appendix I, the Report file and the accompanying legal documents (<a href=\"/phap-ly/217-2026-nd-cp.html#d35\">Article 35</a>) – see details on the page <a href=\"/so-tay-xay-dung/ho-so-thu-tuc-du-an.html\">Files and legal procedures</a>."
+  ],
+  [
+   "h2",
+   "3. Project implementation stage"
+  ],
+  [
+   "p",
+   "The tasks under <a href=\"/phap-ly/217-2026-nd-cp.html#d4\">Point b, Clause 1, Article 4 of Decree 217/2026/ND-CP</a>:"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Step",
+     "Main task / file",
+     "Who prepares – who approves",
+     "Legal basis"
+    ],
+    "dong": [
+     [
+      "7",
+      "Prepare the construction site, clear bombs and mines (if any)",
+      "Investor",
+      "<a href=\"/phap-ly/217-2026-nd-cp.html#d4\">Art. 4, Decree 217</a>"
+     ],
+     [
+      "8",
+      "Survey for detailed design after the project is approved",
+      "Survey contractor; the investor approves the report",
+      "<a href=\"/phap-ly/217-2026-nd-cp.html#d15\">Art. 15, Decree 217</a>"
+     ],
+     [
+      "9",
+      "Prepare, verify (if applicable), appraise and approve the detailed design after project approval, and the construction cost estimate",
+      "Prepared by the design consultant; the investor appraises and approves (may delegate to the PMU unless a project management consultant is hired)",
+      "<a href=\"/phap-ly/135-2025-qh15.html#d29\">Art. 29, Construction Law</a>; <a href=\"/phap-ly/217-2026-nd-cp.html#d41\">Art. 41, 42, Decree 217</a>; <a href=\"/phap-ly/206-2026-nd-cp.html#d16\">Art. 16, 17, Decree 206</a>"
+     ],
+     [
+      "10",
+      "Appraise the fire prevention and fighting design (if applicable)",
+      "Investor / Police authority as decentralized",
+      "<a href=\"/phap-ly/55-2024-qh15.html#d17\">Art. 17, Fire Prevention Law</a>; <a href=\"/phap-ly/105-2025-nd-cp.html#d9\">Art. 9, Decree 105</a>"
+     ],
+     [
+      "11",
+      "Issue the building permit (unless exempt)",
+      "Submitted by the investor; commune-level People's Committee, Department of Construction or zone management board",
+      "<a href=\"/phap-ly/135-2025-qh15.html#d43\">Art. 43, 44, Construction Law</a>; <a href=\"/phap-ly/217-2026-nd-cp.html#d53\">Art. 53–65, Decree 217</a>"
+     ],
+     [
+      "12",
+      "Select contractors and sign construction contracts",
+      "Investor (under the law on bidding where applicable)",
+      "<a href=\"/phap-ly/135-2025-qh15.html#d80\">Art. 80–82, Construction Law</a>; <a href=\"/phap-ly/210-2026-nd-cp.html#d5\">Art. 5–7, Decree 210</a>"
+     ],
+     [
+      "13",
+      "Commencement: meet the conditions and send the commencement notice (Appendix V of Decree 207)",
+      "Investor",
+      "<a href=\"/phap-ly/135-2025-qh15.html#d48\">Art. 48, Construction Law</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d12\">Art. 12, Decree 207</a>"
+     ],
+     [
+      "14",
+      "Construction, construction supervision, author supervision; manage quantities, schedule and safety",
+      "Construction contractor; supervision consultant / investor; design contractor",
+      "<a href=\"/phap-ly/135-2025-qh15.html#d56\">Art. 56, Construction Law</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d18\">Art. 18–21, Decree 207</a>"
+     ],
+     [
+      "15",
+      "Advance payment and payment for completed quantities",
+      "Employer and contractor under the contract",
+      "<a href=\"/phap-ly/210-2026-nd-cp.html#d12\">Art. 12, 28, 29, Decree 210</a>"
+     ],
+     [
+      "16",
+      "Acceptance of work items, stages and completion; trial operation; inspection of acceptance work (if applicable)",
+      "Organized by the investor; inspected by the specialized agency or the State Inspection Council",
+      "<a href=\"/phap-ly/135-2025-qh15.html#d57\">Art. 57, Construction Law</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Art. 22–27, Decree 207</a>"
+     ],
+     [
+      "17",
+      "Hand over the works for use (with as-built drawings, operation and maintenance procedures)",
+      "Contractor hands over to the investor; the investor hands over to the owner / managing entity",
+      "<a href=\"/phap-ly/135-2025-qh15.html#d58\">Art. 58, Construction Law</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d30\">Art. 30, Decree 207</a>"
+     ],
+     [
+      "18",
+      "Final settlement of the construction contract",
+      "Prepared by the contractor; confirmed by the employer",
+      "<a href=\"/phap-ly/210-2026-nd-cp.html#d30\">Art. 30, Decree 210</a>"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "Not every project is carried out strictly step by step. For projects not covered by Clauses 2, 3 and 4 of Article 4, the investment decision-maker may decide to carry out the tasks of the implementation and closeout stages sequentially or concurrently, in line with the project approval decision (<a href=\"/phap-ly/217-2026-nd-cp.html#d4\">Clause 5, Article 4 of Decree 217/2026/ND-CP</a>)."
+  ],
+  [
+   "h3",
+   "Commencement conditions – checklist"
+  ],
+  [
+   "ol",
+   [
+    "A construction site is available for handover, in whole or in part.",
+    "A building permit has been issued (unless exempt under Article 43).",
+    "Approved construction drawings are available for the part or item of the works to be commenced.",
+    "A contract has been signed with the contractors carrying out the relevant construction activities according to the schedule.",
+    "A commencement notice has been sent, in writing or online, to the local state management agency for construction (except for individual houses of households and individuals)."
+   ]
+  ],
+  [
+   "p",
+   "Basis: <a href=\"/phap-ly/135-2025-qh15.html#d48\">Clause 1, Article 48 of the Construction Law 2025</a>; the commencement notice form is in Appendix V and the update to the national database is under <a href=\"/phap-ly/207-2026-nd-cp.html#d12\">Article 12 of Decree 207/2026/ND-CP</a>. Emergency and urgent works, special public investment projects and works that must start early on the Prime Minister's direction need only have a construction site (Clause 2, Article 48)."
+  ],
+  [
+   "h2",
+   "4. Construction closeout stage"
+  ],
+  [
+   "p",
+   "Under <a href=\"/phap-ly/217-2026-nd-cp.html#d4\">Point c, Clause 1, Article 4 of Decree 217/2026/ND-CP</a>, this includes: final settlement of the construction contract (if any), <b>final settlement of construction investment capital</b>, <b>works warranty</b> and handover of related documents."
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Task",
+     "Key timeline",
+     "Legal basis"
+    ],
+    "dong": [
+     [
+      "Contract final settlement (public investment, PPP projects)",
+      "Maximum 60 days from when all work is completed and accepted; maximum 120 days for large-scale, complex contracts",
+      "<a href=\"/phap-ly/210-2026-nd-cp.html#d30\">Clause 3, Art. 30, Decree 210</a>"
+     ],
+     [
+      "Contract liquidation (public investment, PPP projects)",
+      "Maximum 45 days from completion of obligations or contract termination; maximum 90 days for large-scale, complex contracts",
+      "<a href=\"/phap-ly/210-2026-nd-cp.html#d31\">Clause 3, Art. 31, Decree 210</a>"
+     ],
+     [
+      "Investment capital final settlement (public investment capital, recurrent expenditure, other State budget funds)",
+      "The investor prepares the file: 9 months (nationally important, Group A), 6 months (Group B), 4 months (Group C); verification 4 / 4 / 2.5 / 2 months; approval 15 / 15 / 10 / 7 days",
+      "<a href=\"/phap-ly/193-2026-nd-cp.html#d21\">Art. 21, Decree 193</a>"
+     ],
+     [
+      "Works warranty",
+      "According to the warranty period and level prescribed and the contract",
+      "<a href=\"/phap-ly/135-2025-qh15.html#d64\">Art. 64, Construction Law</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d32\">Art. 32, 33, Decree 207</a>"
+     ],
+     [
+      "Record keeping",
+      "The investor keeps the appraisal files, documents of competent authorities and completion files; contractors keep the files for their own work",
+      "<a href=\"/phap-ly/135-2025-qh15.html#d42\">Art. 42, Construction Law</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d28\">Art. 28, Decree 207</a>"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "The time for preparing the capital final settlement file is counted from the date the project or works is handed over for operation and use (or the effective date of the document permitting suspension of implementation) to the date the complete file is submitted to the agency leading the verification (<a href=\"/phap-ly/193-2026-nd-cp.html#d21\">Clause 1, Article 21 of Decree 193/2026/ND-CP</a>). Decree 193/2026/ND-CP applies only to projects using public investment capital, recurrent State budget expenditure and other State budget funds (<a href=\"/phap-ly/193-2026-nd-cp.html#d1\">Article 1</a>); projects with other funding are settled under agreements and enterprise regulations."
+  ],
+  [
+   "h2",
+   "5. Project management: which form to choose?"
+  ],
+  [
+   "p",
+   "Project management organization forms are prescribed in <a href=\"/phap-ly/135-2025-qh15.html#d32\">Article 32 of the Construction Law 2025</a> and detailed in <a href=\"/phap-ly/217-2026-nd-cp.html#d44\">Articles 44–48 of Decree 217/2026/ND-CP</a>:"
+  ],
+  [
+   "ul",
+   [
+    "<b>Specialized or regional construction investment project management board</b> (<a href=\"/phap-ly/217-2026-nd-cp.html#d45\">Article 45</a>).",
+    "<b>Hiring a project management consultant</b> (<a href=\"/phap-ly/217-2026-nd-cp.html#d46\">Article 46</a>).",
+    "<b>Project management board under the investor</b> (<a href=\"/phap-ly/217-2026-nd-cp.html#d47\">Article 47</a>).",
+    "<b>Investor self-performs</b> project management (<a href=\"/phap-ly/217-2026-nd-cp.html#d48\">Article 48</a>)."
+   ]
+  ],
+  [
+   "p",
+   "Project management content covers scope, work plan, quantities, quality, schedule, cost, safety, environment, contractor selection, contracts, risk and information (<a href=\"/phap-ly/135-2025-qh15.html#d33\">Article 33</a>; schedule: <a href=\"/phap-ly/135-2025-qh15.html#d34\">Article 34</a>)."
+  ],
+  [
+   "h2",
+   "6. Summary of roles by stage"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Role",
+     "Project preparation",
+     "Project implementation",
+     "Closeout"
+    ],
+    "dong": [
+     [
+      "Investor / PMU",
+      "Prepare, submit for appraisal, manage surveys",
+      "Appraise and approve design and cost estimate; obtain permits; select contractors; organize acceptance",
+      "Capital final settlement, handover, record keeping"
+     ],
+     [
+      "Design and survey consultants",
+      "Survey, prepare the Feasibility Study / Economic-Technical Report",
+      "Detailed design, author supervision",
+      "Support completion files"
+     ],
+     [
+      "Supervision consultant (QA/QC)",
+      "–",
+      "Supervise quality, quantities, schedule and safety; acceptance",
+      "Confirm completion files"
+     ],
+     [
+      "Construction contractor (CCM, QS, QA/QC)",
+      "–",
+      "Construction, quality self-inspection, payment files",
+      "Employer–contractor final settlement, warranty, as-built drawings"
+     ],
+     [
+      "State agencies",
+      "Appraisal (if applicable)",
+      "Permits; fire prevention and fighting design appraisal; inspection of acceptance work",
+      "Verify and approve capital final settlement (State funds)"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "See details by role: <a href=\"/so-tay-xay-dung/qa-qc-quan-ly-chat-luong.html\">QA/QC</a>, <a href=\"/so-tay-xay-dung/giam-sat-thi-cong.html\">Construction supervision</a>, <a href=\"/so-tay-xay-dung/qs-du-toan-thanh-quyet-toan.html\">QS – payment and final settlement</a>, <a href=\"/so-tay-xay-dung/ccm-quan-ly-thi-cong.html\">CCM – construction management</a>."
+  ],
+  [
+   "h2",
+   "7. Common sequencing errors"
+  ],
+  [
+   "ul",
+   [
+    "Commencing when the construction drawings have not been approved or the commencement notice has not been sent.",
+    "Building a part of the works not covered by the permit, or adjusting the design in a way that changes the permit content without adjusting the permit – see <a href=\"/tin-tuc/dieu-chinh-gia-han-giay-phep-xay-dung-2026.html\">adjusting and extending building permits</a>.",
+    "Not verifying the design for works that must be verified under <a href=\"/phap-ly/135-2025-qh15.html#d26\">Clause 5, Article 26 of the Construction Law</a>.",
+    "Putting works into use before completion acceptance, or without a document approving the acceptance results for works subject to inspection (<a href=\"/phap-ly/207-2026-nd-cp.html#d29\">Art. 29, Decree 207</a>).",
+    "Late preparation of the capital final settlement file beyond the period in Article 21 of Decree 193/2026."
+   ]
+  ],
+  [
+   "note",
+   "This is a summary for reference and does not replace legal documents. Documents on public investment, bidding and PPP are not yet in the Quan Construction library, so they are only named. The Fire Prevention Law 55/2024/QH15 and Decree 105/2025/ND-CP are partly no longer in force (amended by Law 118/2025/QH15, the Construction Law 2025 and Decree 347/2026/ND-CP). Transitional projects follow the transitional provisions of each document."
+  ]
+ ]
+}

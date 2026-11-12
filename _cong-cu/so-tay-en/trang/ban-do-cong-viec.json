@@ -1,0 +1,37 @@
+{
+ "title": "Construction project task map 2026: steps, dossiers, legal basis",
+ "ngan": "Task map",
+ "desc": "Interactive map of 21 tasks from project preparation to maintenance: filter by funding source, step checklists, dossiers, legal basis; save progress, export to Excel.",
+ "summary": "A “What do I need to do today?” tool for investors, PMUs and contractors: 21 tasks across 5 phases, each with steps, dossiers and legal provisions.",
+ "lead": "Choose the project type and open each task to see steps, dossiers, forms and legal provisions - tick off progress, assign a person in charge and set deadlines.",
+ "body": [
+  [
+   "p",
+   "The map divides the project life cycle into 5 phases with 21 main tasks, from project preparation, appraisal, permitting and construction to final settlement, warranty and maintenance. Choose the project type (public investment capital, State capital outside public investment, other capital, or detached house) to show only the applicable tasks. Each task has 4 parts: steps in sequence, required dossiers, forms and guidance, and the legal provisions relied on, together with fields for status, person in charge and completion deadline."
+  ],
+  [
+   "st",
+   [
+    "ban-do",
+    "ban-do.json"
+   ]
+  ],
+  [
+   "h2",
+   "How to use"
+  ],
+  [
+   "ul",
+   [
+    "Choose the <b>project type</b> and <b>phase</b> to filter; type a keyword (for example “guarantee”, “fire safety”) to search quickly.",
+    "Open each task, tick the steps completed, choose a status of <b>In progress / Blocked / Completed / Not applicable</b>, and record the person in charge and the deadline.",
+    "Progress is <b>saved in the browser of the device you are using</b> (it is not sent to a server); changing devices or clearing browser data will lose it - click <b>Export Excel (CSV)</b> to save a copy.",
+    "Click <b>Print</b> to print the whole map as a tracking sheet for coordination meetings."
+   ]
+  ],
+  [
+   "note",
+   "The map summarizes the sequence under the Construction Law 2025 and the 2026 decrees for reference and does not replace legal documents. The levels of advance payment, security, warranty and the deadlines for capital final settlement are mandatory only for State-funded/PPP projects within the scope of each article. Procedures for investment policy and capital plans under the Public Investment Law, and decrees guiding the Bidding Law, are not yet in our library. The Bidding Law 2023, the Fire Prevention Law 2024 and Decree 105/2025 are partially no longer in force."
+  ]
+ ]
+}

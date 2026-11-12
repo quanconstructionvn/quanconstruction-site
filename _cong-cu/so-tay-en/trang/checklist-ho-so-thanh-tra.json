@@ -1,0 +1,42 @@
+{
+ "title": "Document checklist for inspections of construction works 2026",
+ "ngan": "Inspection document checklist",
+ "desc": "Documents needed during inspections of construction works: legal, design, contract, capacity, safety, acceptance, settlement. Tick off, print, export to Excel.",
+ "summary": "An interactive checklist of 180+ documents in 10 groups, each stating the preparing party and the legal provision; mark Yes/Missing, print or export to Excel.",
+ "lead": "Review your documents before inspectors or auditors arrive - every line links to the exact legal provision.",
+ "body": [
+  [
+   "p",
+   "The checklist below gathers the documents and records that current construction law requires investors, contractors and consultants to prepare and retain - the items that inspection and audit teams most often ask to be provided. Each line states the preparing party and the legal provision. Mark each item <b>Yes / Missing / Not applicable</b>, add notes, then print or export to Excel; the data is stored only in the browser of the device you are using."
+  ],
+  [
+   "st",
+   [
+    "checklist",
+    "checklist-thanh-tra.json"
+   ]
+  ],
+  [
+   "h2",
+   "How to use it when preparing for an inspection"
+  ],
+  [
+   "ul",
+   [
+    "Filter quickly with the search box, or choose “show only missing/unmarked documents” to see what still needs to be supplemented.",
+    "Mark <b>Not applicable</b> for documents that do not apply to the project (for example, if the project does not use State capital, lines marked “State-funded or PPP projects” on the composition of payment and final settlement dossiers are for reference only).",
+    "Arrange the actual documents in the order of the 10 groups so the inspection team can look things up easily; keep originals separate and certified copies ready for submission.",
+    "Quality management records must match the actual timeline on site - do not “back-fill” records after being asked for them.",
+    "Export to Excel to assign supplementary work to each unit (PMU, supervision, contractor) and track it until complete."
+   ]
+  ],
+  [
+   "p",
+   "See also: <a href=\"/so-tay-xay-dung/ho-so-chat-luong-nghiem-thu.html\">quality and acceptance records</a>, <a href=\"/so-tay-xay-dung/bieu-mau.html\">downloadable forms</a>."
+  ],
+  [
+   "note",
+   "The list is for reference, compiled from the Construction Law 2025 and the implementing decrees and circulars in our library; it does not replace the specific requirements of an inspection team or other sector-specific rules (public investment, bidding, occupational safety and health, environmental protection). Appendices II, IV, V, VI, VII and X of Decree 207/2026/ND-CP (diaries, reports, lists of completion documents) are not yet available in full in our library, so only their names are given. Some documents are partially no longer in force (Fire Prevention and Rescue Law 2024, Decree 105/2025/ND-CP) - see the status of each document."
+  ]
+ ]
+}

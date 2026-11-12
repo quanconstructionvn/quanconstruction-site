@@ -52,7 +52,7 @@ def check(root):
         assert file.is_file(), f'URL sitemap không có file: {url}'
         assert path.split('/')[0] not in {'admin', 'hr', 'du-an', 'khach-hang'}, url
     services = ['xay-nha-tron-goi.html', 'du-toan-boc-khoi-luong.html']
-    for name in ['index.html', 'dich-vu.html', 'tin-tuc.html', *services]:
+    for name in ['index.html', 'dich-vu.html', 'tin-tuc.html', 'so-do-trang.html', *services]:
         file = root / name
         text = file.read_text(encoding='utf-8')
         page = Page()
@@ -73,6 +73,10 @@ def check(root):
     for name in ['index.html', 'dich-vu.html']:
         text = (root / name).read_text(encoding='utf-8')
         assert all('/' + path in text for path in services), name
+    directory = Page()
+    directory.feed((root / 'so-do-trang.html').read_text(encoding='utf-8'))
+    linked = {SITE + link for link in directory.links if link.startswith('/')}
+    assert set(urls).issubset(linked), 'Có URL sitemap chưa được liên kết từ sơ đồ HTML'
     for name in ['.git', '.github', '_cong-cu', 'tests', 'docs']:
         assert not (root / name).exists(), name
     assert (root / 'CNAME').read_text().strip() == urlsplit(SITE).netloc

@@ -104,6 +104,24 @@ class BuildTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             self.run_build()
 
+    def test_directory_links_all_public_canonical_pages_without_hidden_pages(self):
+        self.page('phap-ly/van-ban.html','/phap-ly/van-ban.html')
+        self.page('en/example.html','/en/example.html')
+        self.page('admin/index.html','/admin/')
+        self.page('private.html','/private.html','')
+        hidden=self.root/'private.html'
+        hidden.write_text(hidden.read_text().replace('</head>','<meta name="robots" content="noindex"></head>'))
+        self.run_build()
+        directory=self.out/'so-do-trang.html'
+        self.assertTrue(directory.exists(),'Thiếu danh mục HTML để tìm toàn bộ trang công khai')
+        text=directory.read_text()
+        for url in ['/tin-tuc/du-toan.html','/phap-ly/van-ban.html','/en/example.html']:
+            self.assertIn('href="'+url+'"',text)
+        for url in ['/admin/','/private.html']:
+            self.assertNotIn('href="'+url+'"',text)
+        self.assertIn('href="/so-do-trang.html"',(self.out/'index.html').read_text())
+        self.assertIn('/so-do-trang.html',(self.out/'sitemap.xml').read_text())
+
 
 if __name__ == '__main__':
     unittest.main()

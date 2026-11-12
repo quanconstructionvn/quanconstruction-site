@@ -18,6 +18,9 @@ fmt = lambda x: "/".join(reversed(x.split("-")))
 
 spec = importlib.util.spec_from_file_location("bai_viet", P("_cong-cu", "bai-viet.py"))
 bv = importlib.util.module_from_spec(spec); spec.loader.exec_module(bv)
+# Người tạo: Quang Mai Phú – nội dung chuyên môn bổ trợ hai dịch vụ.
+with open(P("_cong-cu", "bai-viet-dich-vu.json"), encoding="utf-8") as service_content:
+    bv.BAI.extend(json.load(service_content)["articles"])
 HOM_NAY = os.environ.get("NGAY_DANG") or datetime.now(timezone(timedelta(hours=7))).strftime("%Y-%m-%d")
 XEM_TRUOC = os.environ.get("XEM_TRUOC") == "1"
 DA_DANG = [b for b in bv.BAI if XEM_TRUOC or b["date"] <= HOM_NAY]
@@ -26,7 +29,8 @@ CHO_DANG = [b for b in bv.BAI if b not in DA_DANG]
 EN_DIR = P("_cong-cu", "bai-viet-en")
 def _en(b):
     f = os.path.join(EN_DIR, b["slug"] + ".json")
-    return json.load(open(f, encoding="utf-8")) if os.path.exists(f) else None
+    if not os.path.exists(f): return None
+    with open(f, encoding="utf-8") as stream: return json.load(stream)
 EN = {b["slug"]: _en(b) for b in DA_DANG if _en(b)}
 
 CSS = """<style>
@@ -55,6 +59,13 @@ def render(blocks):
     return "".join(out)
 
 
+def merge_news_items(existing, generated, owned_links):
+    """Người tạo: Quang Mai Phú – không làm mất bài CMS khi chạy lịch đăng."""
+    kept = [item for item in existing if item.get('link') not in owned_links or str(item.get('body') or '').strip()]
+    overrides = {item.get('link') for item in kept if item.get('link')}
+    return kept + [item for item in generated if item.get('link') not in overrides]
+
+
 def main():
     tpl = open(P("_cong-cu", "mau-trang-van-ban.html"), encoding="utf-8").read()
     tpl = re.sub(r"<style>\n\.vb-ph.*?</style>", lambda m: CSS, tpl, flags=re.S)
@@ -67,8 +78,9 @@ def main():
     for b in DA_DANG:
         url = f'{SITE}/tin-tuc/{b["slug"]}.html'
         others = "".join(f'<a href="/tin-tuc/{x["slug"]}.html">{esc(x["title"])}</a>' for x in [y for y in reversed(DA_DANG) if y["slug"] != b["slug"]][:12])  # 12 bài mới nhất
-        body = (f'<div class="ph bv-ph"><div class="w"><div class="bv-crumb"><a href="/index.html">Trang chủ</a> › <a href="/tin-tuc.html">Tin tức</a> › Hướng dẫn pháp lý</div>'
-                f'<span class="eyebrow">Hướng dẫn pháp lý</span><h1>{esc(b["title"])}</h1></div></div>\n'
+        category = esc(b.get('category', 'Hướng dẫn pháp lý'))
+        body = (f'<div class="ph bv-ph"><div class="w"><div class="bv-crumb"><a href="/index.html">Trang chủ</a> › <a href="/tin-tuc.html">Tin tức</a> › {category}</div>'
+                f'<span class="eyebrow">{category}</span><h1>{esc(b["title"])}</h1></div></div>\n'
                 f'<div class="w bv-wrap"><article class="bv-tx"><div class="bv-meta">Quan Construction · {fmt(b["date"])}</div>{render(b["body"])}'
                 f'<p style="margin-top:26px"><a class="btn p" href="/phap-ly.html" style="color:#fff">Tra cứu toàn văn pháp luật miễn phí →</a></p></article>'
                 f'<aside class="bv-side"><div class="bv-cta"><b style="font-size:17px">Cần hỗ trợ thủ tục, thiết kế, thi công?</b><p>Quan Construction đồng hành từ xin phép đến khi vào ở.</p><a class="btn p" href="/lien-he.html">Liên hệ tư vấn</a></div>'
@@ -76,7 +88,7 @@ def main():
                 f'<div class="bv-box"><h3>Tra cứu nhanh</h3><a href="/phap-ly/135-2025-qh15.html">Luật Xây dựng 2025</a><a href="/phap-ly/217-2026-nd-cp.html">Nghị định 217/2026 (giấy phép xây dựng)</a><a href="/phap-ly/31-2024-qh15.html">Luật Đất đai 2024</a><a href="/phap-ly.html">Tất cả văn bản</a></div></aside></div>')
         ld = [{"@context": "https://schema.org", "@type": "Article", "headline": b["title"], "description": b["desc"], "datePublished": b["date"], "dateModified": b["date"],
                "inLanguage": "vi", "mainEntityOfPage": url, "image": SITE + "/favicon-512x512.png",
-               "author": {"@type": "Organization", "name": "Quan Construction", "url": SITE},
+               "author": ({"@type": "Person", "name": b["author"]} if b.get("author") else {"@type": "Organization", "name": "Quan Construction", "url": SITE}),
                "publisher": {"@type": "Organization", "name": "Công ty TNHH Đầu tư và Phát triển Quan Construction", "logo": {"@type": "ImageObject", "url": SITE + "/favicon-512x512.png"}}},
               {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
                   {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": SITE + "/"},
@@ -95,13 +107,13 @@ def main():
     tao_en()
     # Tin tức (content/tin-tuc.json): thêm/cập nhật bài theo link
     tt = json.load(open(P("content", "tin-tuc.json"), encoding="utf-8"))
-    items = [x for x in tt.get("items", []) if not str(x.get("link", "")).startswith("/tin-tuc/")]
+    items = []
     for b in sorted(DA_DANG, key=lambda x: x["date"]):
         it = {"date": fmt(b["date"]), "title": b["title"], "summary": b["summary"], "body": "", "image": "", "link": f'/tin-tuc/{b["slug"]}.html'}
         if b["slug"] in EN:
             it.update(title_en=EN[b["slug"]]["title"], summary_en=EN[b["slug"]]["summary"], link_en=f'/en/tin-tuc/{b["slug"]}.html')
         items.append(it)
-    tt["items"] = items
+    tt["items"] = merge_news_items(tt.get("items", []), items, {f'/tin-tuc/{b["slug"]}.html' for b in bv.BAI})
     json.dump(tt, open(P("content", "tin-tuc.json"), "w", encoding="utf-8"), ensure_ascii=False)
     # sitemap
     sm = open(P("sitemap.xml"), encoding="utf-8").read()
@@ -158,7 +170,7 @@ def tao_en():
                 f'<div class="bv-box"><h3>Quick reference (Vietnamese)</h3><a href="/phap-ly/135-2025-qh15.html">Construction Law 2025</a><a href="/phap-ly/217-2026-nd-cp.html">Decree 217/2026 (building permits)</a><a href="/phap-ly/31-2024-qh15.html">Land Law 2024</a></div></aside></div>')
         ld = [{"@context": "https://schema.org", "@type": "Article", "headline": e["title"], "description": e["desc"], "datePublished": b["date"], "dateModified": b["date"],
                "inLanguage": "en", "mainEntityOfPage": url, "image": SITE + "/favicon-512x512.png",
-               "author": {"@type": "Organization", "name": "Quan Construction", "url": SITE},
+               "author": ({"@type": "Person", "name": b["author"]} if b.get("author") else {"@type": "Organization", "name": "Quan Construction", "url": SITE}),
                "publisher": {"@type": "Organization", "name": "Quan Construction Investment and Development Company Limited", "logo": {"@type": "ImageObject", "url": SITE + "/favicon-512x512.png"}}},
               {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
                   {"@type": "ListItem", "position": 1, "name": "Home", "item": SITE + "/en/index.html"},

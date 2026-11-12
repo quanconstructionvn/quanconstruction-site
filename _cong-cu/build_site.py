@@ -126,17 +126,16 @@ def static_news(page, items, limit=0, en=False):
     raise ValueError('Khối danh sách tin chưa đóng thẻ div')
 
 
-def sitemap(root, output, changed_paths):
-    ns = 'http://www.sitemaps.org/schemas/sitemap/0.9'
-    ET.register_namespace('', ns)
-    tree = ET.Element(f'{{{ns}}}urlset')
-    entries = {}
+def public_pages(output):
+    """Canonical public pages, shared by XML sitemap and the HTML directory."""
+    entries = []
     for file in sorted(output.rglob('*.html')):
         relative = file.relative_to(output)
         if relative.parts[0] in INTERNAL:
             continue
         meta = Metadata()
-        meta.feed(file.read_text(encoding='utf-8'))
+        text = file.read_text(encoding='utf-8')
+        meta.feed(text)
         if not meta.canonical or meta.noindex:
             continue
         parsed = urlsplit(meta.canonical)
@@ -147,9 +146,59 @@ def sitemap(root, output, changed_paths):
         canonical_file = output / (canonical_path + 'index.html' if parsed.path.endswith('/') else canonical_path)
         if canonical_file.resolve() != file.resolve():
             continue
-        stamp = changed_paths.get(relative.as_posix()) or modified(root, relative.as_posix())
-        entries[meta.canonical] = stamp
-    for url, stamp in sorted(entries.items()):
+        title = re.search(r'<title>(.*?)</title>', text, re.S|re.I)
+        entries.append((meta.canonical, file, html.unescape(title[1]).split(' | Quan Construction')[0] if title else relative.as_posix()))
+    return entries
+
+
+def content_directory(root, output):
+    """Người tạo: Quang Mai Phú. Visible links to all published canonical content."""
+    groups = {'Dịch vụ và công ty':[], 'Hướng dẫn và tin tức':[], 'Sổ tay xây dựng':[],
+              'Thư viện pháp lý':[], 'English':[]}
+    pages = public_pages(output)
+    for url, file, title in pages:
+        path = file.relative_to(output).as_posix()
+        if path == 'so-do-trang.html':
+            continue
+        category = ('English' if path.startswith('en/') else 'Thư viện pháp lý' if path.startswith('phap-ly/')
+                    else 'Sổ tay xây dựng' if path.startswith('so-tay-xay-dung/') else
+                    'Hướng dẫn và tin tức' if path.startswith('tin-tuc/') else 'Dịch vụ và công ty')
+        groups[category].append(f'<li><a href="{esc(url[len(SITE):])}">{esc(title)}</a></li>')
+    body = ('<main><div class="ph"><div class="w"><h1>Sơ đồ nội dung website</h1>'
+            '<p>Tìm dịch vụ, hướng dẫn và tài liệu đang công khai trên website Quan Construction.</p></div></div>'
+            '<section><div class="w seo-article">' + ''.join(f'<h2>{esc(name)}</h2><ul>'+''.join(links)+'</ul>'
+                for name,links in groups.items() if links) + '</div></section></main>')
+    template = root/'_cong-cu/mau-trang-van-ban.html'
+    frame = (template.read_text(encoding='utf-8') if template.exists() else
+             '<!doctype html><html lang="vi"><head><title>{{TITLE}}</title><link rel="canonical" href="{{URL}}">{{JSONLD}}</head><body>{{BODY}}</body></html>')
+    frame = frame.replace('content="article"','content="website"').replace(' class=on>Pháp lý','>Pháp lý')
+    values = {'TITLE':'Sơ đồ nội dung | Quan Construction','DESC':'Danh mục dịch vụ, hướng dẫn xây dựng, dự toán và thư viện pháp lý Quan Construction.',
+              'URL':SITE+'/so-do-trang.html','BODY':body,'JSONLD':jsonld({'@context':'https://schema.org','@type':'CollectionPage','name':'Sơ đồ nội dung Quan Construction','url':SITE+'/so-do-trang.html'})}
+    text = re.sub(r'\{\{(TITLE|DESC|URL|JSONLD|BODY)\}\}',lambda m: values[m[1]],frame)
+    (output/'so-do-trang.html').write_text(text,encoding='utf-8')
+    for _, file, _ in public_pages(output):
+        page = file.read_text(encoding='utf-8')
+        if 'id="qc-content-navigation"' in page:
+            continue
+        en = file.relative_to(output).parts[0] == 'en'
+        nav = ('<nav id="qc-content-navigation" class="w" aria-label="'+('Website navigation' if en else 'Dịch vụ và nội dung')+'" style="padding:20px 0;display:flex;gap:20px;flex-wrap:wrap">'
+               '<a href="/so-do-trang.html">'+('Website directory' if en else 'Sơ đồ nội dung')+'</a>'
+               '<a href="/xay-nha-tron-goi.html">'+('Turnkey construction (Vietnamese)' if en else 'Xây nhà trọn gói')+'</a>'
+               '<a href="/du-toan-boc-khoi-luong.html">'+('Estimating and BOQ (Vietnamese)' if en else 'Dự toán và bóc khối lượng')+'</a></nav>')
+        if '</footer>' in page:
+            page = page.replace('</footer>',nav+'</footer>',1)
+        else:
+            page = page.replace('</body>',nav+'</body>',1)
+        file.write_text(page,encoding='utf-8')
+
+
+def sitemap(root, output, changed_paths):
+    ns = 'http://www.sitemaps.org/schemas/sitemap/0.9'
+    ET.register_namespace('', ns)
+    tree = ET.Element(f'{{{ns}}}urlset')
+    for url, file, _ in sorted(public_pages(output)):
+        relative = file.relative_to(output).as_posix()
+        stamp = changed_paths.get(relative) or modified(root, relative)
         node = ET.SubElement(tree, f'{{{ns}}}url')
         ET.SubElement(node, f'{{{ns}}}loc').text = url
         if stamp:
@@ -204,6 +253,7 @@ def build(root, output):
         if file.exists():
             file.write_text(static_news(file.read_text(encoding='utf-8'), items, limit, path.startswith('en/')), encoding='utf-8')
             changed_paths[path] = max(filter(None, [changed, modified(root, path)]), default=None)
+    content_directory(root, output)
     sitemap(root, output, changed_paths)
     (output / '.nojekyll').touch()
     print(f'Build hoàn tất: {len(generated)} bài CMS, {output}')

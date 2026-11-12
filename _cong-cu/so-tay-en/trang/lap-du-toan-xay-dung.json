@@ -1,0 +1,232 @@
+{
+ "title": "Preparing Construction Cost Estimates 2026: Structure, Steps, Appraisal",
+ "ngan": "Construction cost estimates",
+ "desc": "How to prepare construction cost estimates under Decree 206/2026 and Circular 36/2026: total investment, work and package estimates, cost structure, steps, appraisal.",
+ "summary": "Distinguishes total investment, work estimate and package estimate; the 6-item cost structure; preparation steps; appraisal, approval and adjustment of estimates.",
+ "lead": "A standard framework for preparing and checking estimates under Decree 206/2026/ND-CP and Circular 36/2026/TT-BXD – mandatory for state capital, for reference on private projects.",
+ "body": [
+  [
+   "p",
+   "From 1 July 2026, construction investment costs are determined and managed under <a href=\"/phap-ly/206-2026-nd-cp.html#d1\">Decree 206/2026/ND-CP</a> and the methods in <a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d1\">Circular 36/2026/TT-BXD (consolidated text 89/2026/VBHN-TT-BXD)</a>. This page summarizes what estimators need to know, with links to the exact article for the original text."
+  ],
+  [
+   "h2",
+   "Scope of application: mandatory for state capital, for reference for other capital"
+  ],
+  [
+   "p",
+   "Decree 206/2026 applies to public investment projects, PPP projects, and projects using recurrent expenditure and other state budget capital. Organizations and individuals of other projects <b>may refer to it</b> to determine and manage costs and are responsible for their own decisions (<a href=\"/phap-ly/206-2026-nd-cp.html#d2\">Article 2</a>). Note that this Decree <b>does not govern</b> contract price, payment, contract final settlement and capital final settlement – those follow Decree 210/2026 and Decree 193/2026 (<a href=\"/phap-ly/206-2026-nd-cp.html#d1\">Clause 2, Article 1</a>)."
+  ],
+  [
+   "h2",
+   "The cost “levels”: from preliminary total investment to package price"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Type of cost",
+     "Prepared at stage",
+     "Main basis",
+     "Legal provision"
+    ],
+    "dong": [
+     [
+      "Preliminary total investment",
+      "Pre-feasibility study report",
+      "Scale, objectives, preliminary design option",
+      "<a href=\"/phap-ly/135-2025-qh15.html#d75\">Cl. 1, Art. 75 Construction Law</a>"
+     ],
+     [
+      "Total investment",
+      "Feasibility study report / economic-technical report",
+      "Basic design, FEED, technical design; is the <b>maximum cost level</b> the investor may use",
+      "<a href=\"/phap-ly/135-2025-qh15.html#d75\">Cl. 2, Art. 75</a>, <a href=\"/phap-ly/206-2026-nd-cp.html#d6\">Art. 6 Decree 206</a>"
+     ],
+     [
+      "Construction work cost estimate",
+      "After the project is approved",
+      "Quantities from the detailed design after project approval",
+      "<a href=\"/phap-ly/135-2025-qh15.html#d76\">Cl. 2, Art. 76</a>, <a href=\"/phap-ly/206-2026-nd-cp.html#d12\">Art. 12</a>"
+     ],
+     [
+      "Package estimate",
+      "Before contractor selection",
+      "From total investment, work estimate, design or terms of reference",
+      "<a href=\"/phap-ly/206-2026-nd-cp.html#d13\">Art. 13</a>"
+     ],
+     [
+      "Task estimate",
+      "When the task has no norm or guidance",
+      "Terms of reference, content, scope of work",
+      "<a href=\"/phap-ly/206-2026-nd-cp.html#d14\">Art. 14</a>"
+     ],
+     [
+      "Package price",
+      "Contractor selection plan",
+      "All costs of the package, including contingency, fees, charges and taxes",
+      "<a href=\"/phap-ly/206-2026-nd-cp.html#d15\">Art. 15</a>"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "Depending on specific conditions, the investor decides whether to prepare the estimate as a work estimate, package estimate or task estimate (<a href=\"/phap-ly/135-2025-qh15.html#d76\">Clause 5, Article 76 of the Construction Law 2025</a>)."
+  ],
+  [
+   "h2",
+   "Structure of the construction work estimate"
+  ],
+  [
+   "p",
+   "Under Appendix II of Circular 36/2026/TT-BXD (<a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d16\">see consolidated text</a>), the construction work estimate is determined by the formula and summarized in Table 2.1:"
+  ],
+  [
+   "p",
+   "<b>G<sub>XDCT</sub> = G<sub>XD</sub> + G<sub>TB</sub> + G<sub>QLDA</sub> + G<sub>TV</sub> + G<sub>K</sub> + G<sub>DP</sub></b>"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Symbol",
+     "Item",
+     "How determined (summary)"
+    ],
+    "dong": [
+     [
+      "G<sub>XD</sub>",
+      "Construction cost",
+      "Direct cost + indirect cost + pre-calculated taxable income + VAT + temporary housing and site management facilities (<a href=\"/phap-ly/206-2026-nd-cp.html#d12\">Cl. 2, Art. 12</a>)"
+     ],
+     [
+      "G<sub>TB</sub>",
+      "Equipment cost",
+      "Procurement, fabrication, procurement management, copyright, training and transfer, installation – testing – calibration, commissioning, transport, spare materials, other costs (<a href=\"/phap-ly/206-2026-nd-cp.html#d12\">Cl. 3, Art. 12</a>)"
+     ],
+     [
+      "G<sub>QLDA</sub>",
+      "Project management cost",
+      "Percentage norm or prepare an estimate (<a href=\"/phap-ly/206-2026-nd-cp.html#d25\">Art. 25</a>)"
+     ],
+     [
+      "G<sub>TV</sub>",
+      "Construction consulting cost",
+      "Percentage norm or prepare an estimate; excludes consulting calculated for the whole project (<a href=\"/phap-ly/206-2026-nd-cp.html#d26\">Art. 26</a>)"
+     ],
+     [
+      "G<sub>K</sub>",
+      "Other costs",
+      "Percentage norm, prepare an estimate, or per the signed contract (<a href=\"/phap-ly/36-2026-tt-bxd.html#d6\">Cl. 6, Art. 6 Circular 36</a>)"
+     ],
+     [
+      "G<sub>DP</sub>",
+      "Contingency cost",
+      "Contingency for additional quantities (% of the sum of the above costs) + contingency for price escalation (by construction time and price index) (<a href=\"/phap-ly/206-2026-nd-cp.html#d12\">Cl. 7, Art. 12</a>)"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "Other costs in the work estimate <b>do not include</b> items calculated for the whole project such as interest during construction, mine and ordnance clearance, audit, verification and approval of final settlement, initial working capital, on-load commissioning of a technological line, appraisal of the feasibility study report, etc. (<a href=\"/phap-ly/36-2026-tt-bxd.html#d6\">Point b, Clause 6, Article 6 of Circular 36/2026</a>)."
+  ],
+  [
+   "h2",
+   "Construction cost: the “backbone” of the estimate"
+  ],
+  [
+   "ul",
+   [
+    "<b>Direct cost</b> (materials – including materials supplied by the investor, labour, construction machinery and equipment): by quantities from the design and the corresponding construction price. For construction drawing design, use work prices, work group prices and structural element prices; for FEED or technical design, cost rates may also be used (<a href=\"/phap-ly/206-2026-nd-cp.html#d12\">Point a, Clause 2, Article 12</a>).",
+    "<b>Indirect cost</b> includes overheads and the cost of certain work whose quantities cannot be determined from the design; calculated by percentage norm or by preparing an estimate (<a href=\"/phap-ly/206-2026-nd-cp.html#d12\">Point b</a>). Overheads include allocated general management of the enterprise, site production management, occupational safety and hygiene, and amounts employers contribute (Appendix III of Circular 36).",
+    "<b>Pre-calculated taxable income</b>: percentage norm as prescribed; <b>VAT</b> as prescribed.",
+    "<b>Temporary housing and site management facilities</b>: percentage norm or prepare an estimate. The formula in Tables 3.8 and 3.9 of Appendix III has been corrected to G<sub>XDTT</sub> × Rate × (1 + T<sub>GTGT</sub>) (<a href=\"/phap-ly/1538-qd-bxd.html#d1\">Point i, Article 1 of Decision 1538/QD-BXD</a>)."
+   ]
+  ],
+  [
+   "p",
+   "Example overhead norm at the estimate preparation stage for <b>civil works</b> (Table 3.3 of Appendix III of Circular 36/2026, calculated on the pre-tax construction cost of each work in the approved total investment):"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Construction cost (VND billion)",
+     "≤ 40",
+     "≤ 60",
+     "≤ 100",
+     "≤ 300",
+     "≤ 500",
+     "≤ 750",
+     "≤ 1000",
+     "> 1000"
+    ],
+    "dong": [
+     [
+      "Rate (%)",
+      "7.3",
+      "7.1",
+      "6.7",
+      "6.5",
+      "6.2",
+      "6.1",
+      "6.0",
+      "5.8"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "Other types of works (industrial, transport, agriculture and environment, technical infrastructure, monument restoration, tunnels) have their own rates – see the table in <a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d16\">Appendix III</a>. The total investment preparation stage uses Table 3.2 (civil 7.3%)."
+  ],
+  [
+   "h2",
+   "Steps to prepare a work estimate (practical suggestion)"
+  ],
+  [
+   "ol",
+   [
+    "Gather documents: detailed design after project approval, technical specifications, indicative construction method, expected schedule, approved total investment.",
+    "Take off quantities in the unit of measure of the construction price (may be from BIM) – see the page <a href=\"/so-tay-xay-dung/qs-du-toan-thanh-quyet-toan.html\">QS – quantities, payment and final settlement</a>.",
+    "Select norms and prices: norms issued by state agencies; prices of materials, labour and machine shifts published by the Department of Construction; or quotations and data from similar works (<a href=\"/phap-ly/206-2026-nd-cp.html#d12\">Clauses 1 and 8, Article 12</a>).",
+    "Calculate direct cost → indirect cost → pre-calculated taxable income → VAT → temporary facilities; summarize G<sub>XD</sub> in Table 3.1.",
+    "Calculate equipment cost, project management, consulting and other costs.",
+    "Calculate contingency: additional quantities as a percentage; price escalation by construction time (quarter, year) and a price index suited to the type of work (<a href=\"/phap-ly/36-2026-tt-bxd.html#d6\">Clause 7, Article 6 of Circular 36</a>).",
+    "Summarize in Table 2.1, check it does not exceed total investment; explain the bases and price sources.",
+    "Verification (if the investor decides) → appraisal → approval → update the database."
+   ]
+  ],
+  [
+   "h2",
+   "Appraisal, approval and adjustment of the estimate"
+  ],
+  [
+   "ul",
+   [
+    "The estimate prepared by the investor is <b>appraised together with the detailed design</b> after the project is approved. The investor's appraisal covers: completeness of the file; consistency of principal quantities and the type and number of equipment items with the design; the estimate value being consistent with total investment, design, standards, methods, schedule and the market price level; analysis of the causes of increases or decreases compared with the consultant's value (<a href=\"/phap-ly/206-2026-nd-cp.html#d16\">Clauses 1 and 3, Article 16</a>).",
+    "<b>Verification</b> is decided by the investor according to the nature and necessity; for projects using FEED design or technical design in the feasibility study report that have selected an EPC, EC, EP or construction contractor, the estimate does not have to be appraised at the later step (<a href=\"/phap-ly/206-2026-nd-cp.html#d16\">Clauses 8 and 11, Article 16</a>).",
+    "The estimate is approved together with the design; after approval, the investor updates it in the database system; the approved package estimate replaces the package price in the contractor selection plan (<a href=\"/phap-ly/206-2026-nd-cp.html#d17\">Article 17</a>).",
+    "The estimate is adjusted when the project, total investment or design is adjusted, or when the cost item structure is adjusted without changing objectives or scale and without exceeding total investment. For a package whose bids have not been opened: recalculate at the price level and under the rules at the time of adjustment; for a package with a signed contract: follow the contract (<a href=\"/phap-ly/206-2026-nd-cp.html#d18\">Article 18</a>, <a href=\"/phap-ly/36-2026-tt-bxd.html#d6\">Clause 8, Article 6 of Circular 36</a>)."
+   ]
+  ],
+  [
+   "h2",
+   "Transition and notes for private projects"
+  ],
+  [
+   "ul",
+   [
+    "Total investment and estimates approved before 1 July 2026 do not need to be re-approved; the subsequent cost management steps not yet carried out follow Decree 206/2026. Packages with signed contracts proceed under the contract (<a href=\"/phap-ly/206-2026-nd-cp.html#d36\">Article 36</a>).",
+    "Norms, construction prices, labour prices and machine shift prices published before 1 July 2026 continue to apply, for reference, until reviewed and newly issued (<a href=\"/phap-ly/206-2026-nd-cp.html#d36\">Clause 7, Article 36</a>).",
+    "Private projects: this framework is not compulsory, but it is advisable to keep the 6-item structure and a contingency to control the budget and compare contractors' quotations. Norms and overhead rates are for reference only."
+   ]
+  ],
+  [
+   "note",
+   "This summary is for reference only and does not replace legal documents. Decree 206/2026/ND-CP is mandatory for public investment, PPP and other budget capital projects; other projects use it for reference. Circular 36/2026/TT-BXD is shown as “partially expired” on the National Legal Portal and has been corrected by Decision 1538/QD-BXD – use the consolidated text 89/2026/VBHN-TT-BXD. The full text of the appendices in the library may be incomplete (some tables of norms for pre-calculated taxable income and temporary facilities are not fully shown) – check the original when preparing an official estimate."
+  ]
+ ]
+}

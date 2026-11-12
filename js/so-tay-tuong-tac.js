@@ -3,6 +3,22 @@
    Dữ liệu nằm trong <script type="application/json" data-st="..."> trên từng trang; trạng thái người dùng lưu trên trình duyệt (localStorage). */
 (function () {
   'use strict';
+  var EN = document.documentElement.lang === 'en';
+  var EN_T = {
+    'Chưa thực hiện': 'Not started', 'Đang thực hiện': 'In progress', 'Đang vướng': 'Blocked', 'Đã hoàn thành': 'Completed', 'Không áp dụng': 'Not applicable',
+    'Loại dự án': 'Project type', 'Tất cả': 'All', 'Giai đoạn': 'Stage', 'Tìm công việc, hồ sơ…': 'Search tasks, documents…',
+    'Xuất Excel (CSV)': 'Export to Excel (CSV)', 'In': 'Print', 'Xóa dữ liệu đã lưu': 'Clear saved data',
+    ' công việc đã xong hoặc không áp dụng': ' tasks completed or not applicable', 'có việc đang vướng': 'some tasks blocked',
+    ' bước': ' steps', 'hạn ': 'due ', 'Trạng thái': 'Status', 'Người phụ trách': 'Person in charge', 'Hạn hoàn thành': 'Due date',
+    '01 · Làm theo trình tự': '01 · Follow these steps', '02 · Hồ sơ cần có': '02 · Required documents', '03 · Biểu mẫu, hướng dẫn': '03 · Forms and guidance', '04 · Quy định ở đâu?': '04 · Where is it regulated?',
+    'Không có công việc phù hợp bộ lọc.': 'No tasks match the filter.', 'Xóa toàn bộ trạng thái đã lưu trên máy này?': 'Clear all saved statuses on this device?',
+    'Công việc': 'Task', 'Hạn': 'Due date', 'Bước đã xong': 'Steps done', 'ban-do-cong-viec.csv': 'task-map.csv',
+    'Có': 'Available', 'Thiếu': 'Missing', 'Tìm hồ sơ…': 'Search documents…', ' Chỉ hiện hồ sơ thiếu/chưa đánh dấu': ' Show only missing/unmarked documents', 'Xóa đánh dấu': 'Clear marks',
+    'Ghi chú': 'Notes', 'STT': 'No.', 'Hồ sơ': 'Document', 'Đơn vị lập': 'Prepared by', 'Tình trạng': 'Status', 'Nhóm': 'Group', 'Căn cứ': 'Legal basis',
+    ' hồ sơ đã có hoặc không áp dụng': ' documents available or not applicable', 'Không có hồ sơ phù hợp.': 'No matching documents.', 'Xóa toàn bộ đánh dấu trên máy này?': 'Clear all marks on this device?',
+    'Tìm tiếng Anh hoặc tiếng Việt…': 'Search English or Vietnamese…', 'Mọi nhóm': 'All groups', ' thuật ngữ': ' terms'
+  };
+  var T = function (vi) { return EN && EN_T.hasOwnProperty(vi) ? EN_T[vi] : vi; };
   var esc = function (s) { return String(s == null ? '' : s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
   var store = {
     get: function (k, d) { try { var v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
@@ -35,10 +51,10 @@
   /* ---------- 1. Bản đồ công việc ---------- */
   function banDo(el, D) {
     var K = 'st-bando-v1', S = store.get(K, {}), host = document.createElement('div'); el.after(host);
-    var TT = [['', 'Chưa thực hiện'], ['1', 'Đang thực hiện'], ['2', 'Đang vướng'], ['3', 'Đã hoàn thành'], ['4', 'Không áp dụng']];
-    host.innerHTML = '<div class="st-bar"><label>Loại dự án <select data-f="loai"><option value="">Tất cả</option>' + D.loai.map(function (x) { return '<option value="' + x[0] + '">' + esc(x[1]) + '</option>'; }).join('') + '</select></label>' +
-      '<label>Giai đoạn <select data-f="gd"><option value="">Tất cả</option>' + D.giai_doan.map(function (x) { return '<option value="' + x[0] + '">' + esc(x[1]) + '</option>'; }).join('') + '</select></label>' +
-      '<input type="search" data-f="q" placeholder="Tìm công việc, hồ sơ…"><button class="st-btn" data-a="csv">Xuất Excel (CSV)</button><button class="st-btn" data-a="in">In</button><button class="st-btn" data-a="xoa">Xóa dữ liệu đã lưu</button></div>' +
+    var TT = [['', T('Chưa thực hiện')], ['1', T('Đang thực hiện')], ['2', T('Đang vướng')], ['3', T('Đã hoàn thành')], ['4', T('Không áp dụng')]];
+    host.innerHTML = '<div class="st-bar"><label>' + T('Loại dự án') + ' <select data-f="loai"><option value="">' + T('Tất cả') + '</option>' + D.loai.map(function (x) { return '<option value="' + x[0] + '">' + esc(x[1]) + '</option>'; }).join('') + '</select></label>' +
+      '<label>' + T('Giai đoạn') + ' <select data-f="gd"><option value="">' + T('Tất cả') + '</option>' + D.giai_doan.map(function (x) { return '<option value="' + x[0] + '">' + esc(x[1]) + '</option>'; }).join('') + '</select></label>' +
+      '<input type="search" data-f="q" placeholder="' + T('Tìm công việc, hồ sơ…') + '"><button class="st-btn" data-a="csv">' + T('Xuất Excel (CSV)') + '</button><button class="st-btn" data-a="in">' + T('In') + '</button><button class="st-btn" data-a="xoa">' + T('Xóa dữ liệu đã lưu') + '</button></div>' +
       '<div data-tong></div><div data-ds></div>';
     var f = { loai: (S._f || {}).loai || '', gd: '', q: '' };
     host.querySelector('[data-f=loai]').value = f.loai;
@@ -47,25 +63,25 @@
     function ve() {
       var ds = D.viec.filter(function (v) { return (!f.loai || v.ap_dung.indexOf(f.loai) >= 0) && (!f.gd || v.gd === f.gd) && (!f.q || (v.ten + ' ' + v.buoc.join(' ') + ' ' + (v.ho_so || []).join(' ')).toLowerCase().indexOf(f.q) >= 0); });
       var xong = ds.filter(function (v) { return st(v.id).tt === '3' || st(v.id).tt === '4'; }).length;
-      host.querySelector('[data-tong]').innerHTML = '<b>' + xong + '/' + ds.length + '</b> công việc đã xong hoặc không áp dụng' + (ds.some(function (v) { return st(v.id).tt === '2'; }) ? ' · <span class="st-tag s2">có việc đang vướng</span>' : '') + '<div class="st-prog"><i style="width:' + (ds.length ? 100 * xong / ds.length : 0) + '%"></i></div>';
+      host.querySelector('[data-tong]').innerHTML = '<b>' + xong + '/' + ds.length + '</b>' + T(' công việc đã xong hoặc không áp dụng') + (ds.some(function (v) { return st(v.id).tt === '2'; }) ? ' · <span class="st-tag s2">' + T('có việc đang vướng') + '</span>' : '') + '<div class="st-prog"><i style="width:' + (ds.length ? 100 * xong / ds.length : 0) + '%"></i></div>';
       var out = '';
       D.giai_doan.forEach(function (g) {
         var vg = ds.filter(function (v) { return v.gd === g[0]; }); if (!vg.length) return;
         out += '<div class="st-gd">' + esc(g[1]) + '</div>';
         vg.forEach(function (v) {
           var s = st(v.id), n = v.buoc.filter(function (b, i) { return s.ck[i]; }).length;
-          out += '<details class="st-card" data-id="' + v.id + '"' + (s._mo ? ' open' : '') + '><summary><b>' + esc(v.ten) + '</b><span class="st-tag s' + (s.tt || '0') + '">' + esc(TT.filter(function (t) { return t[0] === s.tt; })[0][1]) + '</span><span class="st-tag">' + n + '/' + v.buoc.length + ' bước</span>' + (s.han ? '<span class="st-tag">hạn ' + esc(s.han) + '</span>' : '') + '</summary><div class="st-body">' +
+          out += '<details class="st-card" data-id="' + v.id + '"' + (s._mo ? ' open' : '') + '><summary><b>' + esc(v.ten) + '</b><span class="st-tag s' + (s.tt || '0') + '">' + esc(TT.filter(function (t) { return t[0] === s.tt; })[0][1]) + '</span><span class="st-tag">' + n + '/' + v.buoc.length + T(' bước') + '</span>' + (s.han ? '<span class="st-tag">' + T('hạn ') + esc(s.han) + '</span>' : '') + '</summary><div class="st-body">' +
             (v.mo_ta ? '<p>' + v.mo_ta + '</p>' : '') +
-            '<div class="st-row"><label>Trạng thái<select data-k="tt">' + TT.map(function (t) { return '<option value="' + t[0] + '"' + (t[0] === s.tt ? ' selected' : '') + '>' + t[1] + '</option>'; }).join('') + '</select></label>' +
-            '<label>Người phụ trách<input data-k="ng" value="' + esc(s.ng) + '"></label><label>Hạn hoàn thành<input type="date" data-k="han" value="' + esc(s.han) + '"></label></div>' +
-            '<h4>01 · Làm theo trình tự</h4>' + v.buoc.map(function (b, i) { return '<label class="ck"><input type="checkbox" data-ck="' + i + '"' + (s.ck[i] ? ' checked' : '') + '><span>' + b + '</span></label>'; }).join('') +
-            (v.ho_so && v.ho_so.length ? '<h4>02 · Hồ sơ cần có</h4><ul>' + v.ho_so.map(function (h) { return '<li>' + h + '</li>'; }).join('') + '</ul>' : '') +
-            (v.lien_ket && v.lien_ket.length ? '<h4>03 · Biểu mẫu, hướng dẫn</h4><ul>' + v.lien_ket.map(function (h) { return '<li>' + h + '</li>'; }).join('') + '</ul>' : '') +
-            (v.can_cu && v.can_cu.length ? '<h4>04 · Quy định ở đâu?</h4><ul>' + v.can_cu.map(function (h) { return '<li>' + h + '</li>'; }).join('') + '</ul>' : '') +
+            '<div class="st-row"><label>' + T('Trạng thái') + '<select data-k="tt">' + TT.map(function (t) { return '<option value="' + t[0] + '"' + (t[0] === s.tt ? ' selected' : '') + '>' + t[1] + '</option>'; }).join('') + '</select></label>' +
+            '<label>' + T('Người phụ trách') + '<input data-k="ng" value="' + esc(s.ng) + '"></label><label>' + T('Hạn hoàn thành') + '<input type="date" data-k="han" value="' + esc(s.han) + '"></label></div>' +
+            '<h4>' + T('01 · Làm theo trình tự') + '</h4>' + v.buoc.map(function (b, i) { return '<label class="ck"><input type="checkbox" data-ck="' + i + '"' + (s.ck[i] ? ' checked' : '') + '><span>' + b + '</span></label>'; }).join('') +
+            (v.ho_so && v.ho_so.length ? '<h4>' + T('02 · Hồ sơ cần có') + '</h4><ul>' + v.ho_so.map(function (h) { return '<li>' + h + '</li>'; }).join('') + '</ul>' : '') +
+            (v.lien_ket && v.lien_ket.length ? '<h4>' + T('03 · Biểu mẫu, hướng dẫn') + '</h4><ul>' + v.lien_ket.map(function (h) { return '<li>' + h + '</li>'; }).join('') + '</ul>' : '') +
+            (v.can_cu && v.can_cu.length ? '<h4>' + T('04 · Quy định ở đâu?') + '</h4><ul>' + v.can_cu.map(function (h) { return '<li>' + h + '</li>'; }).join('') + '</ul>' : '') +
             (v.luu_y ? '<p class="cs-note" style="margin:10px 0 0">' + v.luu_y + '</p>' : '') + '</div></details>';
         });
       });
-      host.querySelector('[data-ds]').innerHTML = out || '<p>Không có công việc phù hợp bộ lọc.</p>';
+      host.querySelector('[data-ds]').innerHTML = out || '<p>' + T('Không có công việc phù hợp bộ lọc.') + '</p>';
     }
     host.addEventListener('change', function (e) {
       var t = e.target, c = t.closest('[data-id]');
@@ -79,10 +95,10 @@
     host.addEventListener('click', function (e) {
       var a = e.target.dataset.a; if (!a) return;
       if (a === 'in') { host.querySelectorAll('details').forEach(function (d) { d.open = true; }); window.print(); }
-      if (a === 'xoa' && confirm('Xóa toàn bộ trạng thái đã lưu trên máy này?')) { S = {}; save(); ve(); }
-      if (a === 'csv') csv([['Giai đoạn', 'Công việc', 'Trạng thái', 'Người phụ trách', 'Hạn', 'Bước đã xong']].concat(D.viec.map(function (v) {
+      if (a === 'xoa' && confirm(T('Xóa toàn bộ trạng thái đã lưu trên máy này?'))) { S = {}; save(); ve(); }
+      if (a === 'csv') csv([[T('Giai đoạn'), T('Công việc'), T('Trạng thái'), T('Người phụ trách'), T('Hạn'), T('Bước đã xong')]].concat(D.viec.map(function (v) {
         var s = st(v.id); return [D.giai_doan.filter(function (g) { return g[0] === v.gd; })[0][1], v.ten, TT.filter(function (t) { return t[0] === s.tt; })[0][1], s.ng, s.han, v.buoc.filter(function (b, i) { return s.ck[i]; }).length + '/' + v.buoc.length];
-      })), 'ban-do-cong-viec.csv');
+      })), T('ban-do-cong-viec.csv'));
     });
     ve();
   }
@@ -90,8 +106,8 @@
   /* ---------- 2. Checklist hồ sơ ---------- */
   function checklist(el, D) {
     var K = 'st-ck-' + (D.ma || 'ho-so'), S = store.get(K, {}), host = document.createElement('div'); el.after(host);
-    var OPT = [['', '—'], ['co', 'Có'], ['thieu', 'Thiếu'], ['kad', 'Không áp dụng']];
-    host.innerHTML = '<div class="st-bar"><input type="search" data-q placeholder="Tìm hồ sơ…"><label><input type="checkbox" data-thieu> Chỉ hiện hồ sơ thiếu/chưa đánh dấu</label><button class="st-btn" data-a="csv">Xuất Excel (CSV)</button><button class="st-btn" data-a="in">In</button><button class="st-btn" data-a="xoa">Xóa đánh dấu</button></div><div data-tong></div><div data-ds></div>';
+    var OPT = [['', '—'], ['co', T('Có')], ['thieu', T('Thiếu')], ['kad', T('Không áp dụng')]];
+    host.innerHTML = '<div class="st-bar"><input type="search" data-q placeholder="' + T('Tìm hồ sơ…') + '"><label><input type="checkbox" data-thieu>' + T(' Chỉ hiện hồ sơ thiếu/chưa đánh dấu') + '</label><button class="st-btn" data-a="csv">' + T('Xuất Excel (CSV)') + '</button><button class="st-btn" data-a="in">' + T('In') + '</button><button class="st-btn" data-a="xoa">' + T('Xóa đánh dấu') + '</button></div><div data-tong></div><div data-ds></div>';
     var q = '', thieu = false;
     function ve() {
       var tong = 0, co = 0, out = '', stt = 0;
@@ -101,12 +117,12 @@
           var id = gi + '.' + mi, s = S[id] || {}; tong++; stt++; if (s.v === 'co' || s.v === 'kad') co++;
           if (q && (m.ten + ' ' + (m.don_vi || '')).toLowerCase().indexOf(q) < 0) return;
           if (thieu && (s.v === 'co' || s.v === 'kad')) return;
-          rows += '<tr data-id="' + id + '"><td>' + stt + '</td><td>' + m.ten + (m.can_cu ? '<br><small>' + m.can_cu + '</small>' : '') + '</td><td>' + esc(m.don_vi || '') + '</td><td><select>' + OPT.map(function (o) { return '<option value="' + o[0] + '"' + (o[0] === (s.v || '') ? ' selected' : '') + '>' + o[1] + '</option>'; }).join('') + '</select></td><td><input type="text" value="' + esc(s.gc || '') + '" placeholder="Ghi chú"></td></tr>';
+          rows += '<tr data-id="' + id + '"><td>' + stt + '</td><td>' + m.ten + (m.can_cu ? '<br><small>' + m.can_cu + '</small>' : '') + '</td><td>' + esc(m.don_vi || '') + '</td><td><select>' + OPT.map(function (o) { return '<option value="' + o[0] + '"' + (o[0] === (s.v || '') ? ' selected' : '') + '>' + o[1] + '</option>'; }).join('') + '</select></td><td><input type="text" value="' + esc(s.gc || '') + '" placeholder="' + T('Ghi chú') + '"></td></tr>';
         });
-        if (rows) out += '<h3>' + esc(g.ten) + '</h3><div class="cs-tbl st-ck"><table><thead><tr><th>STT</th><th>Hồ sơ</th><th>Đơn vị lập</th><th>Tình trạng</th><th>Ghi chú</th></tr></thead><tbody>' + rows + '</tbody></table></div>';
+        if (rows) out += '<h3>' + esc(g.ten) + '</h3><div class="cs-tbl st-ck"><table><thead><tr><th>' + T('STT') + '</th><th>' + T('Hồ sơ') + '</th><th>' + T('Đơn vị lập') + '</th><th>' + T('Tình trạng') + '</th><th>' + T('Ghi chú') + '</th></tr></thead><tbody>' + rows + '</tbody></table></div>';
       });
-      host.querySelector('[data-tong]').innerHTML = '<b>' + co + '/' + tong + '</b> hồ sơ đã có hoặc không áp dụng<div class="st-prog"><i style="width:' + (tong ? 100 * co / tong : 0) + '%"></i></div>';
-      host.querySelector('[data-ds]').innerHTML = out || '<p>Không có hồ sơ phù hợp.</p>';
+      host.querySelector('[data-tong]').innerHTML = '<b>' + co + '/' + tong + '</b>' + T(' hồ sơ đã có hoặc không áp dụng') + '<div class="st-prog"><i style="width:' + (tong ? 100 * co / tong : 0) + '%"></i></div>';
+      host.querySelector('[data-ds]').innerHTML = out || '<p>' + T('Không có hồ sơ phù hợp.') + '</p>';
     }
     host.addEventListener('change', function (e) {
       var tr = e.target.closest('tr[data-id]');
@@ -118,8 +134,8 @@
     host.addEventListener('click', function (e) {
       var a = e.target.dataset.a; if (!a) return;
       if (a === 'in') window.print();
-      if (a === 'xoa' && confirm('Xóa toàn bộ đánh dấu trên máy này?')) { S = {}; store.set(K, S); ve(); }
-      if (a === 'csv') { var rows = [['STT', 'Nhóm', 'Hồ sơ', 'Đơn vị lập', 'Căn cứ', 'Tình trạng', 'Ghi chú']], n = 0;
+      if (a === 'xoa' && confirm(T('Xóa toàn bộ đánh dấu trên máy này?'))) { S = {}; store.set(K, S); ve(); }
+      if (a === 'csv') { var rows = [[T('STT'), T('Nhóm'), T('Hồ sơ'), T('Đơn vị lập'), T('Căn cứ'), T('Tình trạng'), T('Ghi chú')]], n = 0;
         D.nhom.forEach(function (g, gi) { g.muc.forEach(function (m, mi) { var s = S[gi + '.' + mi] || {}; n++; rows.push([n, g.ten, m.ten, m.don_vi, m.can_cu, (OPT.filter(function (o) { return o[0] === (s.v || ''); })[0] || OPT[0])[1], s.gc]); }); });
         csv(rows, (D.ma || 'checklist') + '.csv'); }
     });
@@ -130,11 +146,11 @@
   function thuatNgu(el, D) {
     var host = document.createElement('div'); el.after(host);
     var nhom = D.reduce(function (a, t) { if (a.indexOf(t.nhom) < 0) a.push(t.nhom); return a; }, []);
-    host.innerHTML = '<div class="st-bar"><input type="search" data-q placeholder="Tìm tiếng Anh hoặc tiếng Việt…" style="flex:1 1 260px"><select data-n><option value="">Mọi nhóm</option>' + nhom.map(function (n) { return '<option>' + esc(n) + '</option>'; }).join('') + '</select><span data-dem></span></div><dl class="st-gl" data-ds></dl>';
+    host.innerHTML = '<div class="st-bar"><input type="search" data-q placeholder="' + T('Tìm tiếng Anh hoặc tiếng Việt…') + '" style="flex:1 1 260px"><select data-n><option value="">' + T('Mọi nhóm') + '</option>' + nhom.map(function (n) { return '<option>' + esc(n) + '</option>'; }).join('') + '</select><span data-dem></span></div><dl class="st-gl" data-ds></dl>';
     var q = '', n = '';
     function ve() {
       var ds = D.filter(function (t) { return (!n || t.nhom === n) && (!q || (t.en + ' ' + t.vi + ' ' + (t.viet_tat || '')).toLowerCase().indexOf(q) >= 0); });
-      host.querySelector('[data-dem]').textContent = ds.length + ' thuật ngữ';
+      host.querySelector('[data-dem]').textContent = ds.length + T(' thuật ngữ');
       host.querySelector('[data-ds]').innerHTML = ds.map(function (t) { return '<dt><span class="en">' + esc(t.en) + (t.viet_tat ? ' (' + esc(t.viet_tat) + ')' : '') + '</span> – ' + esc(t.vi) + '</dt><dd>' + t.dn + '</dd>'; }).join('');
     }
     host.addEventListener('input', function (e) { if (e.target.matches('[data-q]')) { q = e.target.value.toLowerCase(); ve(); } });

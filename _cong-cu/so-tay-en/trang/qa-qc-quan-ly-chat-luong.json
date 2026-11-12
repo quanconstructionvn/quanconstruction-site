@@ -1,0 +1,310 @@
+{
+ "title": "QA/QC for Construction Works 2026: Systems, Materials, Acceptance",
+ "ngan": "QA/QC – Quality management",
+ "desc": "Site QA/QC guide under the Construction Law 2025 and Decree 207/2026: quality management system, compliant materials control, testing, internal acceptance, NCR.",
+ "summary": "The contractor QA/QC engineer's tasks under Decree 207/2026: setting up the quality management system, controlling materials and testing, internal acceptance, handling defects, and checklists by stage.",
+ "lead": "A practical guide for the construction contractor's QA/QC engineer: what to do, which files to prepare and which article applies – closely following the Construction Law 2025 and Decree 207/2026/ND-CP.",
+ "body": [
+  [
+   "p",
+   "QA (quality assurance) is building the system and procedures to do the work right from the start; QC (quality control) is inspecting, testing and accepting each product. The law does not use the terms QA/QC, but it obliges the construction contractor to \"have a suitable quality management system and establish the works quality management records\" (<a href=\"/phap-ly/135-2025-qh15.html#d61\">Point d, Clause 2, Article 61 of the Construction Law 2025</a>). This page turns those obligations into concrete tasks for the QA/QC team, applicable from 1 July 2026 under <a href=\"/phap-ly/207-2026-nd-cp.html#d52\">Decree 207/2026/ND-CP</a>."
+  ],
+  [
+   "h2",
+   "1. Construction management system – the backbone of QA"
+  ],
+  [
+   "p",
+   "Under <a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 2, Article 15 of Decree 207/2026/ND-CP</a>, the contractor must establish its construction management system and notify the investor and related parties. The system must suit the scale and nature of the works and clearly set out the organization chart and each individual's responsibilities, including:"
+  ],
+  [
+   "ul",
+   [
+    "The contractor's site manager (chief commander) or project director;",
+    "Individuals in charge of direct construction techniques;",
+    "The person carrying out quality and safety management in construction;",
+    "The person managing quantities and schedule, and the person managing construction records."
+   ]
+  ],
+  [
+   "p",
+   "Failing to establish the construction management system, or establishing it improperly, is fined <b>VND 60–80 million</b>; failing to notify the investor of this system is fined VND 10–20 million (<a href=\"/phap-ly/339-2026-nd-cp.html#d23\">Clauses 4 and 1, Article 23 of Decree 339/2026/ND-CP</a>; the amount for an individual is half under <a href=\"/phap-ly/339-2026-nd-cp.html#d5\">Clause 4, Article 5</a>)."
+  ],
+  [
+   "p",
+   "In a joint venture, each member must establish a construction management system and is responsible for the quality of its own work under the joint venture agreement (<a href=\"/phap-ly/207-2026-nd-cp.html#d5\">Clause 6, Article 5</a>)."
+  ],
+  [
+   "h2",
+   "2. QA/QC documents to submit for investor approval"
+  ],
+  [
+   "p",
+   "Before and during construction, the contractor prepares and submits for investor approval (<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 3, Article 15</a>):"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Document",
+     "Main content",
+     "Notes"
+    ],
+    "dong": [
+     [
+      "Plan for testing, inspection, assessment, trials, trial runs, monitoring and surveying",
+      "List of criteria, sampling frequency, laboratory, timing per design requirements and technical specifications",
+      "Preparation and adjustment of the plan follow the Minister of Construction's regulations (<a href=\"/phap-ly/207-2026-nd-cp.html#d6\">Clause 5, Article 6</a>)"
+     ],
+     [
+      "Measures for inspecting and controlling the quality of materials, products, components and equipment",
+      "How to receive, check documents, sample, store and handle non-conforming lots",
+      "Linked to Article 14 of Decree 207/2026"
+     ],
+     [
+      "Construction method statement (including safety measures)",
+      "Construction sequence, methods, safety",
+      "A separate safety method statement may be prepared in cases specified by law"
+     ],
+     [
+      "Construction schedule",
+      "Master and detailed schedules",
+      "Inspected and approved by the investor (<a href=\"/phap-ly/207-2026-nd-cp.html#d16\">Clause 4, Article 16</a>)"
+     ],
+     [
+      "Inspection and acceptance plan",
+      "Acceptance of work items, stages/parts and completion",
+      "The QC's on-site \"calendar\""
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "Failing to submit the testing plan or acceptance plan is fined VND 20–40 million; failing to submit the material quality control measures or the construction method statement is fined VND 40–60 million (<a href=\"/phap-ly/339-2026-nd-cp.html#d23\">Clauses 2 and 3, Article 23 of Decree 339/2026/ND-CP</a>)."
+  ],
+  [
+   "h2",
+   "3. Controlling materials, products, components and equipment"
+  ],
+  [
+   "h3",
+   "Classifying materials by risk and conformity"
+  ],
+  [
+   "p",
+   "Under <a href=\"/phap-ly/41-2026-tt-bxd.html#d3\">Article 3 of Circular 41/2026/TT-BXD</a>, construction materials fall into three groups: high risk (Appendix II), medium risk (Appendix III) and low risk (the rest). Medium- and high-risk products are <b>subject to mandatory declaration of regulatory conformity</b>; low-risk products may voluntarily declare standard conformity (<a href=\"/phap-ly/41-2026-tt-bxd.html#d5\">Article 5</a>). For the high-risk group, the declaration of regulatory conformity is based on certification results from an organization designated by the Ministry of Construction (<a href=\"/phap-ly/41-2026-tt-bxd.html#d12\">Clause 2, Article 12</a>). Materials used in works must meet the applicable regulations, standards, design and technical specifications (<a href=\"/phap-ly/209-2026-nd-cp.html#d13\">Clause 1, Article 13 of Decree 209/2026/ND-CP</a>)."
+  ],
+  [
+   "h3",
+   "Material quality records to collect"
+  ],
+  [
+   "p",
+   "Under <a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Clause 7, Article 14 of Decree 207/2026/ND-CP</a>, the quality management records for materials, products, components and equipment include:"
+  ],
+  [
+   "ol",
+   [
+    "The manufacturer's quality certification under the contract and the law on product and goods quality;",
+    "Documents proving origin (for imported goods, consistent with the materials list approved by the investor);",
+    "Certificate of regulatory conformity for materials required to be certified and declared as conforming;",
+    "Information and documents related to the construction contract;",
+    "Results of tests, trials and inspections during construction;",
+    "Acceptance minutes for materials, products, components and equipment;",
+    "Other documents under the contract."
+   ]
+  ],
+  [
+   "p",
+   "Materials must be <b>accepted by the investor's construction supervisor before being used</b>, with minutes recording the name, type, quantity and serial number (if any) of each lot (<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Clause 6, Article 14</a>). A change of type or origin must satisfy the design and regulations and be approved by the investor (<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Clause 8, Article 14</a>)."
+  ],
+  [
+   "h3",
+   "Testing"
+  ],
+  [
+   "ul",
+   [
+    "Specialized testing must be carried out by competent organizations or individuals; data must be honest and objective (<a href=\"/phap-ly/207-2026-nd-cp.html#d6\">Article 6</a>).",
+    "Sampling and testing must be supervised according to the approved testing plan (<a href=\"/phap-ly/207-2026-nd-cp.html#d6\">Clause 4, Article 6</a>).",
+    "The contractor's own or hired laboratory must meet the capacity conditions and carry out the tests directly (<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 7, Article 15</a>). Using a laboratory without sufficient capacity or one that does not conduct the tests directly is fined VND 40–60 million (<a href=\"/phap-ly/339-2026-nd-cp.html#d23\">Point d, Clause 3, Article 23 of Decree 339/2026</a>).",
+    "Counter-testing is carried out when required by the technical specifications, design or contract, or when materials or products show signs of non-conformity (<a href=\"/phap-ly/207-2026-nd-cp.html#d8\">Clause 1, Article 8</a>). The contractor bears the cost of assessment if the results prove the contractor's fault (<a href=\"/phap-ly/207-2026-nd-cp.html#d8\">Clause 4, Article 8</a>)."
+   ]
+  ],
+  [
+   "h2",
+   "4. Internal inspection and acceptance before inviting the supervisor"
+  ],
+  [
+   "p",
+   "The law does not name \"internal acceptance\", but the contractor must \"control the quality of the construction it carries out\" and the main contractor must inspect the work of subcontractors (<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clauses 8 and 11, Article 15</a>). Good practice is for QC to self-inspect 100% before issuing the acceptance request:"
+  ],
+  [
+   "ol",
+   [
+    "Check against the construction drawings, technical specifications and applicable standards for the work;",
+    "Check dimensions, levels and positions; surveying results (if any);",
+    "Check that the materials passed incoming acceptance and the test results are satisfactory;",
+    "Prepare an internal inspection sheet, take site photos and record the construction diary;",
+    "Send the acceptance request to the supervisor. The supervisor must accept within <b>not more than 24 hours</b> of receiving the request; if not agreeing, the supervisor must give written reasons (<a href=\"/phap-ly/207-2026-nd-cp.html#d22\">Clause 3, Article 22</a>)."
+   ]
+  ],
+  [
+   "p",
+   "Note: <b>quality management records must match the actual time of execution at the site</b> (<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 8, Article 15</a>). \"Back-filled\" records with signing dates that differ from reality are fined <b>VND 60–80 million</b> (<a href=\"/phap-ly/339-2026-nd-cp.html#d23\">Point dd, Clause 4, Article 23 of Decree 339/2026</a>)."
+  ],
+  [
+   "h2",
+   "5. Managing defects (NCR) and stopping work"
+  ],
+  [
+   "p",
+   "A Non-Conformance Report (NCR) is an internal management tool, not a mandatory form. The legal obligation behind it is: the contractor must <b>stop construction</b> of the work, part or item when it finds quality errors or defects or when an incident occurs, and remedy them (<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 9, Article 15</a>); and promptly notify the investor on finding discrepancies between the design, the contract and reality (<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 8, Article 15</a>). Not stopping construction when a works incident occurs is fined VND 60–80 million (<a href=\"/phap-ly/339-2026-nd-cp.html#d23\">Point b, Clause 4, Article 23</a>)."
+  ],
+  [
+   "p",
+   "A concise NCR process may consist of:"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Step",
+     "Action",
+     "Responsible person"
+    ],
+    "dong": [
+     [
+      "1. Detect",
+      "Record the defect, photos, location and the criterion violated",
+      "Site QC / supervisor"
+     ],
+     [
+      "2. Isolate",
+      "Stop the related work, mark the area, quarantine non-conforming materials",
+      "Construction engineer"
+     ],
+     [
+      "3. Analyze",
+      "Identify the cause (materials, workmanship, method, design)",
+      "QA/QC + site manager"
+     ],
+     [
+      "4. Propose treatment",
+      "Repair, redo or replace; if design-related, report to the investor for the designer to resolve",
+      "Proposed by the contractor, approved by the investor/supervisor"
+     ],
+     [
+      "5. Re-inspect",
+      "Re-accept after remediation and close the NCR",
+      "Supervisor + QC"
+     ],
+     [
+      "6. Prevent",
+      "Update methods and train work crews",
+      "QA"
+     ]
+    ]
+   }
+  ],
+  [
+   "h2",
+   "6. Responsibilities of each party – who bears what for quality"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Party",
+     "Main quality responsibilities",
+     "Legal basis"
+    ],
+    "dong": [
+     [
+      "Construction contractor",
+      "Build per design and regulations; have a quality management system; responsible for quality including subcontractors' work; responsible for materials it supplies; prepare as-built drawings",
+      "<a href=\"/phap-ly/135-2025-qh15.html#d61\">Art. 61, Construction Law 2025</a>; <a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Art. 15, Decree 207</a>"
+     ],
+     [
+      "Material suppliers and manufacturers",
+      "Responsible for the quality of products supplied; acceptance by the employer does not reduce this responsibility",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d14\">Clause 3, Art. 14, Decree 207</a>"
+     ],
+     [
+      "Investor",
+      "Organize supervision, acceptance and counter-testing; prepare completion files; suspend construction when quality is not assured",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d16\">Art. 16, Decree 207</a>"
+     ],
+     [
+      "Construction supervisor",
+      "Inspect and approve materials; inspect the laboratory and test results; accept work; refuse acceptance when non-conforming",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Art. 20, Decree 207</a>; <a href=\"/phap-ly/135-2025-qh15.html#d63\">Art. 63, Construction Law</a>"
+     ],
+     [
+      "Design contractor",
+      "Author supervision, explain the design, resolve design issues",
+      "<a href=\"/phap-ly/207-2026-nd-cp.html#d21\">Art. 21, Decree 207</a>"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "The allocation of responsibility where there is a project management board, project management consultant, EPC contract or joint venture must be set out in the construction contract (<a href=\"/phap-ly/207-2026-nd-cp.html#d5\">Art. 5, Decree 207</a>)."
+  ],
+  [
+   "h2",
+   "7. QA/QC checklist by stage"
+  ],
+  [
+   "h3",
+   "Before commencement"
+  ],
+  [
+   "ul",
+   [
+    "Organization chart and decisions assigning QA/QC and safety; notification to the investor.",
+    "Approved testing plan, acceptance plan, material control measures and construction method statement.",
+    "Laboratory contract/capacity; approved materials list and suppliers.",
+    "Set of construction drawings, technical specifications and the latest versions of applicable standards.",
+    "Construction diary and acceptance minute templates agreed with the supervisor."
+   ]
+  ],
+  [
+   "h3",
+   "During construction"
+  ],
+  [
+   "ul",
+   [
+    "Accept incoming materials lot by lot; keep certificates, conformity declarations and test results.",
+    "Sample under the supervisor's witness; monitor sampling frequency against the plan.",
+    "Self-inspect before inviting acceptance; keep the daily diary; use date-stamped photos.",
+    "Open, track and close NCRs; report quality periodically to the investor (<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 15, Article 15</a>).",
+    "Survey and monitor per design; run individual and interlocked trial runs before requesting acceptance (<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 10, Article 15</a>)."
+   ]
+  ],
+  [
+   "h3",
+   "Completion"
+  ],
+  [
+   "ul",
+   [
+    "Complete acceptance minutes for work items and stages; satisfactory test, inspection and trial-run results.",
+    "As-built drawings checked and confirmed by the supervisor (<a href=\"/phap-ly/207-2026-nd-cp.html#d20\">Point l, Clause 1, Article 20</a>).",
+    "Handover documents: operation procedures, maintenance procedures, list of equipment and spare parts (<a href=\"/phap-ly/207-2026-nd-cp.html#d30\">Clause 2, Article 30</a>).",
+    "Keep the records for the work it carried out (<a href=\"/phap-ly/207-2026-nd-cp.html#d15\">Clause 17, Article 15</a>)."
+   ]
+  ],
+  [
+   "p",
+   "See also: <a href=\"/so-tay-xay-dung/ho-so-chat-luong-nghiem-thu.html\">Quality &amp; acceptance files</a>, <a href=\"/so-tay-xay-dung/giam-sat-thi-cong.html\">Construction supervision</a>, <a href=\"/so-tay-xay-dung/bieu-mau.html\">File forms</a>."
+  ],
+  [
+   "note",
+   "This is a summary for reference and does not replace legal documents, or the contract and technical specifications of each project. The fines above are the amounts for organizations under Decree 339/2026/ND-CP (effective from 26 August 2026); for individuals the amount is half. The appendices of Decree 207/2026/ND-CP and the lists in Appendices I–III of Circular 41/2026/TT-BXD should be checked against the original documents."
+  ]
+ ]
+}

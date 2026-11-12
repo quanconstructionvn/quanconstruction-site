@@ -74,3 +74,9 @@ Dữ liệu đã được chép vào repo tại `_cong-cu/so-tay-du-lieu/` (khi 
 - Mỗi bài trong `_cong-cu/bai-viet.py` có bản dịch `_cong-cu/bai-viet-en/<slug>.json` ({title, desc, summary, body} – cùng số khối, cùng liên kết với bản Việt). Đã dịch đủ 117 bài.
 - `tao-bai-viet.py` tạo `/en/tin-tuc/<slug>.html` cho bài đã tới ngày đăng và có bản dịch; thêm hreflang vi/en, nút đổi ngôn ngữ trỏ đúng bài; thêm title_en/summary_en/link_en vào `content/tin-tuc.json`. `build_site.py` dựng sẵn danh sách tin cho `en/tin-tuc.html`, `en/index.html`.
 - BÀI MỚI SAU NÀY: viết bản Việt xong phải dịch luôn sang tiếng Anh (cùng slug). Kiểm tra bằng script so khối/liên kết (mẫu ở `_cong-cu/kiem-dich.py`).
+
+## 10. Sổ tay xây dựng tiếng Anh (12/11/2026, anh Phú duyệt "Dịch toàn bộ")
+- Dữ liệu dịch: `_cong-cu/so-tay-en/chung.json`, `so-tay-en/trang/<slug>.json` (16 trang), `so-tay-en/bieu-mau.json` (tên, công dụng, nguồn 104 mẫu + tên nhóm), `so-tay-du-lieu/*.en.json` (bản đồ công việc, checklist, thuật ngữ). Biểu mẫu tải về giữ tiếng Việt.
+- `tao-so-tay-xay-dung.py` → hàm `tao_en()` tạo `/en/so-tay-xay-dung.html` + `/en/so-tay-xay-dung/<slug>.html`, thêm hreflang + nút đổi ngôn ngữ ở trang Việt, thêm vào sitemap. `js/so-tay-tuong-tac.js` song ngữ theo `<html lang>`.
+- Menu tiếng Anh có mục "Handbook". Kiểm tra bản dịch: `python3 _cong-cu/kiem-so-tay-en.py`.
+- KHI SỬA/THÊM TRANG SỔ TAY: sửa luôn bản tiếng Anh tương ứng (cùng số khối, cùng liên kết). Biểu mẫu mới: thêm tên tiếng Anh vào `so-tay-en/bieu-mau.json` (thiếu thì trang Anh hiện tên tiếng Việt).

@@ -1,0 +1,24 @@
+{
+ "title": "English-Vietnamese construction project management glossary",
+ "ngan": "English-Vietnamese glossary",
+ "desc": "Look up 170+ English-Vietnamese terms: project management, cost estimating, FIDIC, tendering, QA/QC, safety, programme, BIM, with links to Vietnamese legal definitions.",
+ "summary": "An English-Vietnamese glossary for engineers, QS, QA/QC and supervision staff, with a search box and links to legal definitions where available.",
+ "lead": "Type in English or Vietnamese to look up a term; terms defined in law link to the exact article.",
+ "body": [
+  [
+   "p",
+   "Project records, FIDIC contracts and reports from foreign consultants use many English terms. This page gathers commonly encountered terms, grouped into 10 categories: project management, cost - QS, contracts, tendering, design - documentation, quality - QA/QC, safety - environment, programme, BIM, and operation - maintenance. Type the term you want into the search box or choose a category to filter."
+  ],
+  [
+   "st",
+   [
+    "thuat-ngu",
+    "thuat-ngu.json"
+   ]
+  ],
+  [
+   "note",
+   "The definitions were compiled by Quan Construction for reference. Terms marked “According to …” have been checked against definitions in legal documents (Construction Law 2025, Bidding Law 2023 - partially no longer in force, Decrees 207, 210, 212 and 217/2026); where there is a difference, apply the legal document itself. International contract terminology (FIDIC) is used as agreed in each contract."
+  ]
+ ]
+}

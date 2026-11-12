@@ -1,0 +1,257 @@
+{
+ "title": "QS in Construction: Quantity Take-off, Payment and Final Settlement 2026",
+ "ngan": "QS: quantities, payment",
+ "desc": "QS guide under Decrees 210/2026, 206/2026 and 193/2026: quantity take-off, variations, interim payment files, final settlement and contract liquidation.",
+ "summary": "The QS's work from quantity take-off and change/variation management to payment files, A-B final settlement, contract liquidation and project capital settlement.",
+ "lead": "For QS on the investor, consultant and contractor sides: prepare the right files so payment is full and on time and final settlement is not disallowed.",
+ "body": [
+  [
+   "p",
+   "The QS (Quantity Surveyor, the engineer responsible for quantities and costs) is the person who “guards the money” on a project: on the investor side, controlling to avoid overpayment; on the contractor side, preparing files so the contractor is not underpaid or paid late. From 1 July 2026, this work rests on three main documents: <a href=\"/phap-ly/210-2026-nd-cp.html#d28\">Decree 210/2026/ND-CP on construction contracts</a>, <a href=\"/phap-ly/206-2026-nd-cp.html#d12\">Decree 206/2026/ND-CP on cost management</a> and <a href=\"/phap-ly/193-2026-nd-cp.html#d1\">Decree 193/2026/ND-CP on final settlement of project investment capital</a>."
+  ],
+  [
+   "note",
+   "<b>Identify the funding source before applying:</b> most of the deadlines, rates and file components below are <b>mandatory for contracts of public investment projects and PPP projects</b>. For projects with other funding (private, enterprise), the parties agree in the contract and may use these rules as a reference."
+  ],
+  [
+   "h2",
+   "What the QS does: investor side and contractor side"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Stage",
+     "QS on the investor / consultant side",
+     "QS on the contractor side"
+    ],
+    "dong": [
+     [
+      "Before tendering",
+      "Takes off quantities from the design, prepares and checks the package estimate, comments on pricing and payment clauses in the contract",
+      "Re-measures quantities, analyses unit prices, prepares the bid price, reviews quantity and price risks"
+     ],
+     [
+      "Contract signing",
+      "Fixes the contract price type, price adjustment principles, payment file components and forms",
+      "Negotiates unit prices, advance payment conditions, retention and payment period"
+     ],
+     [
+      "Construction",
+      "Checks accepted quantities, unit prices for variations and adjustment amounts; tracks the advance payment still to be recovered",
+      "Prepares interim payment files, variation files and price adjustment requests"
+     ],
+     [
+      "Completion",
+      "Checks A-B final settlement and contract liquidation; prepares the project capital final settlement report (state capital)",
+      "Prepares the contract final settlement file, reconciles balances and prepares liquidation files"
+     ]
+    ]
+   }
+  ],
+  [
+   "h2",
+   "Quantity take-off: principles to know"
+  ],
+  [
+   "p",
+   "Under the guidance in Appendix III of Circular 36/2026/TT-BXD (see <a href=\"/phap-ly/89-2026-vbhn-nd-bxd.html#d16\">consolidated text 89/2026/VBHN-TT-BXD</a>), quantities in the cost estimate are determined <b>from the detailed construction design after the project is approved</b>, consistent with the unit of measure of the construction price; quantities may be determined from a <b>building information model (BIM)</b>, software, digital tools, or a combination with design documents. Items without sufficient basis are costed on an estimated basis and the investor must prepare an estimate at a later step for management."
+  ],
+  [
+   "ul",
+   [
+    "Measure in the same unit of measure and code as the norm or work price to be applied – avoid unit mismatches (m², m³, tonnes, 100 m, etc.).",
+    "State the source clearly: drawing number, grid line, level, exception notes; keep the calculation sheet so the verifier can re-check.",
+    "Separate firm quantities from estimated quantities (design not yet sufficient) so they are not “locked” into a lump-sum price.",
+    "The Ministry of Construction has Decision 1041/QD-BXD guiding quantity determination; the full text is not yet on the National Legal Portal and is therefore not in the library – check the original from the Ministry of Construction."
+   ]
+  ],
+  [
+   "p",
+   "For how quantities are used to calculate estimates, norms and prices, see <a href=\"/so-tay-xay-dung/lap-du-toan-xay-dung.html\">Preparing construction cost estimates</a> and <a href=\"/so-tay-xay-dung/dinh-muc-don-gia-chi-so-gia.html\">Norms, unit prices and price indices</a>."
+  ],
+  [
+   "h2",
+   "Managing changes and quantity variations"
+  ],
+  [
+   "p",
+   "General principle: the parties agree in the contract on the cases in which quantities and work may be adjusted, and on the adjustment procedure (<a href=\"/phap-ly/210-2026-nd-cp.html#d23\">Clause 1, Article 23 of Decree 210/2026</a>). For <b>reasonable additional quantities</b>, the parties must agree the unit price (or the principles and method for determining it) as the basis for amending the contract <b>before carrying out</b> the additional work (<a href=\"/phap-ly/210-2026-nd-cp.html#d23\">Clause 3, Article 23</a>)."
+  ],
+  [
+   "p",
+   "Specifically for contracts of public investment projects and PPP projects (<a href=\"/phap-ly/210-2026-nd-cp.html#d23\">Clause 2, Article 23</a>, <a href=\"/phap-ly/210-2026-nd-cp.html#d24\">Clause 2, Article 24</a>):"
+  ],
+  [
+   "ul",
+   [
+    "<b>Lump-sum contracts:</b> quantities are adjusted only for reasonable additions arising from a change of scope of work at the request (or with the approval) of the employer, or in cases of force majeure or fundamental change of circumstances.",
+    "<b>Fixed unit price and adjustable unit price contracts:</b> quantities that already have a unit price are paid by the actual completed and accepted quantity (increase or decrease). For work without a unit price, the parties agree a contract supplement; if they cannot agree, the contractor is selected under the bidding law.",
+    "<b>20% threshold:</b> when the actual quantity increases or decreases by <b>more than 20%</b> of the corresponding contract quantity, and this changes <b>more than 0.25% of the contract price and 1% of the unit price</b> of that work, a new unit price is determined under the agreed principles. The new unit price applies to the portion exceeding 120%; if the quantity decreases by more than 20%, the new unit price applies to the entire actual accepted quantity. Increases or decreases within 20% continue to use the contract unit price.",
+    "Method of adjusting unit prices and contract price: direct offsetting or a price adjustment coefficient (Pn) under the Appendix to Decree 210/2026 (the full text of this appendix is not yet in the library)."
+   ]
+  ],
+  [
+   "p",
+   "Practical tip: every variation should have a “set of three” documents – a written request/approval of the change, a record confirming the actual quantity, and a unit price calculation signed by both parties <b>before construction</b>. If any one of the three is missing, the variation is very likely to be rejected at final settlement."
+  ],
+  [
+   "h2",
+   "Interim payment files"
+  ],
+  [
+   "p",
+   "The employer must pay in full and on time after deducting the advance payment and the retention amounts agreed (<a href=\"/phap-ly/135-2025-qh15.html#d87\">Point b, Clause 2, Article 87 of the Construction Law 2025</a>). The file is prepared by the contractor and confirmed by the employer's representative (or the consultant) and the contractor; its components are agreed by the parties according to the contract type. For public investment and PPP projects, the main components are as follows (<a href=\"/phap-ly/210-2026-nd-cp.html#d29\">Article 29 of Decree 210/2026</a>):"
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Contract type",
+     "Main components of the payment file"
+    ],
+    "dong": [
+     [
+      "Lump sum",
+      "Acceptance record of the quantities and work completed in the period (<b>detailed quantity confirmation not required</b>); calculation of the value of work outside the scope (if any); payment request (completed value, variations, advance payment deduction, amount requested)"
+     ],
+     [
+      "Fixed unit price",
+      "Acceptance record of the actual completed quantity (increase/decrease); calculation of the value of work without a unit price (showing quantity and unit price); payment request"
+     ],
+     [
+      "Adjustable unit price",
+      "As for fixed unit price, together with a <b>calculation of the adjusted unit prices and prices</b> in line with the contract agreement; payment request including all deductions"
+     ],
+     [
+      "Time-based",
+      "Acceptance record of actual working time or timesheet; calculation of variations (if any); payment request"
+     ],
+     [
+      "Cost plus fee",
+      "Acceptance record; statement of actual direct costs and the management costs, overheads and profit as agreed; payment request"
+     ],
+     [
+      "Equipment supply",
+      "Completed quantity may be based on invoices, documents, bills of lading, and acceptance and handover records of the equipment"
+     ]
+    ]
+   }
+  ],
+  [
+   "ul",
+   [
+    "Lump-sum contracts are paid as a percentage of the contract price or of the item price corresponding to the agreed period; unit price contracts are paid by the actual accepted quantity multiplied by the unit price (<a href=\"/phap-ly/210-2026-nd-cp.html#d28\">Points c and d, Clause 4, Article 28</a>).",
+    "Where there is not enough basis to determine the value (insufficient data for price adjustment, insufficient time to determine quality), <b>provisional payment</b> may be made at the unit price at the time of signing (<a href=\"/phap-ly/210-2026-nd-cp.html#d28\">Point b, Clause 4, Article 28</a>).",
+    "The payment period is <b>at most 14 working days</b> from when the employer receives a complete and valid file (public investment and PPP projects; except ODA and foreign loan capital under treaties) (<a href=\"/phap-ly/210-2026-nd-cp.html#d28\">Points l and m, Clause 4, Article 28</a>).",
+    "Late payment bears interest on the overdue amount; the interest rate is agreed by the parties and, failing agreement, follows the overdue interest rate published by the commercial bank where the contractor holds its account (<a href=\"/phap-ly/210-2026-nd-cp.html#d28\">Clause 5, Article 28</a>).",
+    "The employer and related agencies <b>must not add file requirements</b> contrary to the contract agreement and the Decree in order to obstruct payment (<a href=\"/phap-ly/210-2026-nd-cp.html#d29\">Clause 14, Article 29</a>)."
+   ]
+  ],
+  [
+   "h2",
+   "Final settlement and liquidation of the contract"
+  ],
+  [
+   "p",
+   "The contractor is responsible for the contract final settlement; if one party does not carry out the final settlement or liquidation as agreed, the other party <b>has the right to carry out the final settlement and liquidation itself</b> (<a href=\"/phap-ly/135-2025-qh15.html#d87\">Clauses 3 and 5, Article 87 of the Construction Law</a>). For public investment and PPP projects (<a href=\"/phap-ly/210-2026-nd-cp.html#d30\">Article 30</a>, <a href=\"/phap-ly/210-2026-nd-cp.html#d31\">Article 31 of Decree 210/2026</a>):"
+  ],
+  [
+   "ol",
+   [
+    "Main final settlement file: acceptance record for completion of all work (including variations); <b>A-B final settlement calculation</b> (completed value, variations, amounts paid/provisionally paid, balance payable); as-built records and the construction diary (for contracts including construction); other documents under the contract.",
+    "The contract final settlement period is <b>at most 60 days</b> from when all work is completed and accepted; large, complex contracts may be extended but to <b>at most 120 days</b>.",
+    "Liquidation takes place when the parties have fulfilled their obligations or the contract is terminated; the parties may agree that the contract expires automatically or prepare a liquidation record (prepared by the contractor). The liquidation period is <b>at most 45 days</b>, and <b>at most 90 days</b> for large, complex contracts."
+   ]
+  ],
+  [
+   "h2",
+   "Project investment capital final settlement (state capital)"
+  ],
+  [
+   "p",
+   "This is a step for the investor after the project is completed, applying to projects using public investment capital, recurrent budget expenditure and other budget capital; other projects may apply it as a reference (<a href=\"/phap-ly/193-2026-nd-cp.html#d1\">Article 1 of Decree 193/2026</a>). The capital settled is all lawful costs incurred and must be within the approved or adjusted total investment (<a href=\"/phap-ly/193-2026-nd-cp.html#d4\">Article 4</a>)."
+  ],
+  [
+   "ul",
+   [
+    "The file submitted for verification and approval (projects with construction work) comprises: the submission; the settlement report forms; legal documents; the final settlement file of each contract (contract, appendices, acceptance records for each stage and for the whole, A-B final settlement on <b>Form No. 01/QTDA</b>, liquidation document); the completion acceptance record and handover documents; the independent audit report (if any); inspection and audit conclusions (if any) (<a href=\"/phap-ly/193-2026-nd-cp.html#d7\">Clause 1, Article 7</a>).",
+    "Report forms: Forms No. 01–07/QTDA for completed projects with construction work; Forms No. 03, 07 and 08/QTDA for planning and investment preparation projects and suspended projects without construction work (<a href=\"/phap-ly/73-2026-tt-btc.html#d3\">Article 3</a>, <a href=\"/phap-ly/73-2026-tt-btc.html#d4\">Article 4 of Circular 73/2026/TT-BTC</a>)."
+   ]
+  ],
+  [
+   "table",
+   {
+    "cot": [
+     "Maximum time",
+     "National importance",
+     "Group A",
+     "Group B",
+     "Group C"
+    ],
+    "dong": [
+     [
+      "Investor prepares the file for approval",
+      "09 months",
+      "09 months",
+      "06 months",
+      "04 months"
+     ],
+     [
+      "Settlement verification",
+      "04 months",
+      "04 months",
+      "2.5 months",
+      "02 months"
+     ],
+     [
+      "Settlement approval",
+      "15 days",
+      "15 days",
+      "10 days",
+      "07 days"
+     ]
+    ]
+   }
+  ],
+  [
+   "p",
+   "Source: <a href=\"/phap-ly/193-2026-nd-cp.html#d21\">Article 21 of Decree 193/2026</a>. The file preparation time runs from the date the work is handed over for operation (or the date the document permitting the project to be suspended takes effect) to the date the complete file is submitted to the agency leading the verification."
+  ],
+  [
+   "h2",
+   "Which rules apply to contracts signed before 1 July 2026?"
+  ],
+  [
+   "p",
+   "For public investment and PPP projects: contracts concluded and being performed before the date Decree 210/2026 takes effect continue under the previous rules on construction contracts and the bidding law (except for the case in Clause 7, Article 95 of the Construction Law). For other projects, the parties may consider agreeing to apply Decree 210/2026 (<a href=\"/phap-ly/210-2026-nd-cp.html#d33\">Article 33 of Decree 210/2026</a>). The QS must therefore check the contract signing date before applying the 14-day, 60-day and 45-day deadlines above."
+  ],
+  [
+   "h2",
+   "QS checklist for each payment"
+  ],
+  [
+   "ol",
+   [
+    "Correct contract price type and correct file components under the contract (forms, signatures, dates).",
+    "Quantities match the acceptance records; variations have a written approval and an approved unit price before the work was done.",
+    "Adjusted unit prices are calculated with the correct formula, price index source and time point agreed.",
+    "The advance payment to be recovered in this payment and the retention (if any) are fully deducted.",
+    "Cumulative value paid does not exceed the contract price (except lawful adjustments and variations).",
+    "Keep electronic and signed copies; number payments consecutively so the A-B final settlement is quick."
+   ]
+  ],
+  [
+   "p",
+   "For quick calculation of advance payment, late payment interest and retention, use the <a href=\"/so-tay-xay-dung/cong-cu-tinh-nhanh.html\">Quick calculation tools</a>; for payment request forms, see <a href=\"/so-tay-xay-dung/bieu-mau.html\">Document forms</a>."
+  ],
+  [
+   "p",
+   "For public investment capital projects, the investor's file sent to the Treasury for advance payment and payment is covered in <a href=\"/so-tay-xay-dung/ho-so-thanh-toan-von-dau-tu-cong.html\">Advance payment and payment files for public investment capital (Decree 254/2025)</a>."
+  ],
+  [
+   "note",
+   "This summary is for reference only and does not replace legal documents or the specific contract. The deadlines and rates in Decree 210/2026 and Decree 193/2026 are mandatory for projects using state capital and PPP; for projects with other funding, the parties agree. The price adjustment coefficient (Pn) appendix of Decree 210/2026 and Decision 1041/QD-BXD are not yet available in full text in the library. Circular 36/2026/TT-BXD has been corrected by <a href=\"/phap-ly/1538-qd-bxd.html#d1\">Decision 1538/QD-BXD</a> – read the consolidated text 89/2026/VBHN-TT-BXD."
+  ]
+ ]
+}

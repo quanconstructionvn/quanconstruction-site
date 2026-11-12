@@ -1,0 +1,55 @@
+{
+ "TIEU_DE": "Construction Handbook: QA/QC, QS, CCM, Supervision, Estimating",
+ "MO_TA": "Handbook on project management, legal files, QA/QC, supervision, estimating and norms, payment and settlement, forms, Q&A and quick calculators under 2026 law.",
+ "LEAD": "A handbook for engineers, site managers, supervisors, QA/QC, QS and project office staff – closely following the Construction Law 2025 and the 2026 decrees.",
+ "GIOI_THIEU": "The Construction Handbook gathers practical knowledge for professionals: the sequence of a construction investment project, the files and procedures to prepare, quality management and supervision, cost estimating and norms, contract payment and final settlement, together with forms, scenario Q&A and quick calculators. Each item links to the exact article of law in Quan Construction's free legal library.",
+ "NHOM": [
+  [
+   "so-tay",
+   "Project handbook"
+  ],
+  [
+   "vai-tro",
+   "By role"
+  ],
+  [
+   "du-toan",
+   "Estimating and norms"
+  ],
+  [
+   "ho-so",
+   "Files and forms"
+  ],
+  [
+   "cong-cu",
+   "Q&A and tools"
+  ]
+ ],
+ "VAI_TRO": [
+  [
+   "QA/QC",
+   "Quality management, materials inspection, acceptance",
+   "qa-qc-quan-ly-chat-luong"
+  ],
+  [
+   "Supervision",
+   "Construction supervision by the investor and supervision consultants",
+   "giam-sat-thi-cong"
+  ],
+  [
+   "QS",
+   "Quantities, estimating, payment, final settlement",
+   "qs-du-toan-thanh-quyet-toan"
+  ],
+  [
+   "CCM",
+   "Site manager, construction site management",
+   "ccm-quan-ly-thi-cong"
+  ],
+  [
+   "Project office",
+   "Files, legal procedures, record keeping",
+   "ho-so-thu-tuc-du-an"
+  ]
+ ]
+}

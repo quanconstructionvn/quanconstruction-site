@@ -1,0 +1,29 @@
+# Người tạo: Quang Mai Phú – đọc hiệu suất một lần theo yêu cầu, không xuất dữ liệu thô công khai.
+name: Read Search Console performance
+on:
+  push:
+    branches: [seo/doc-hieu-suat]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  performance:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r _cong-cu/seo-requirements.txt cryptography
+      - name: Test report calculations and encryption
+        run: python -m unittest discover -s tests -p test_search_performance.py -v
+      - name: Read finalized Google Search data
+        env:
+          GSC_CREDENTIALS_JSON: ${{ secrets.GSC_CREDENTIALS_JSON }}
+        run: python _cong-cu/search_performance.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: encrypted-search-performance
+          path: _search_report/performance.enc
+          retention-days: 1

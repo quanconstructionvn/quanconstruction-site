@@ -1,0 +1,68 @@
+# Người tạo: Quang Mai Phú – gửi sitemap theo yêu cầu của chủ website.
+name: Submit updated sitemap to Google
+on:
+  push:
+    branches: [seo/gui-sitemap-google]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r _cong-cu/seo-requirements.txt
+      - name: Submit and verify Google sitemap receipt
+        env:
+          GSC_CREDENTIALS_JSON: ${{ secrets.GSC_CREDENTIALS_JSON }}
+        run: |
+          python - <<'PY'
+          import os, sys, json, time
+          import urllib.request, urllib.parse
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+          sys.path.insert(0, '_cong-cu')
+          from seo_audit import gsc_session
+          from google.auth.transport.requests import AuthorizedSession
+          site = 'https://quanconstruction.biz.vn/'
+          feed = site + 'sitemap.xml'
+          with urllib.request.urlopen(feed, timeout=30) as r:
+              assert r.status == 200
+              urls = [n.text for n in ET.fromstring(r.read()).findall('.//{*}loc')]
+          assert urls and all(u.startswith(site) for u in urls)
+          original = gsc_session(os.environ['GSC_CREDENTIALS_JSON'])
+          credentials = original.credentials.with_scopes(['https://www.googleapis.com/auth/webmasters'])
+          original.close()
+          session = AuthorizedSession(credentials, refresh_timeout=30)
+          endpoint = 'https://www.googleapis.com/webmasters/v3/sites/' + urllib.parse.quote(site, safe='') + '/sitemaps/' + urllib.parse.quote(feed, safe='')
+          try:
+              response = None
+              for attempt in range(3):
+                  try:
+                      response = session.put(endpoint, timeout=30)
+                  except Exception:
+                      response = None
+                  if response is not None and response.status_code in (200, 204):
+                      break
+                  if response is not None and response.status_code in (401, 403, 429):
+                      raise RuntimeError('Google sitemap submission HTTP ' + str(response.status_code))
+                  if attempt < 2:
+                      time.sleep(2 ** (attempt + 1))
+              if response is None or response.status_code not in (200, 204):
+                  raise RuntimeError('Google did not accept the sitemap submission.')
+              print('Sitemap submission accepted. HTTP ' + str(response.status_code))
+              print('Public URLs in live sitemap: ' + str(len(urls)))
+              receipt = session.get(endpoint, timeout=30)
+              if receipt.status_code != 200:
+                  raise RuntimeError('Submission accepted but receipt could not be verified.')
+              data = receipt.json()
+              safe = {key: data.get(key) for key in ('path', 'lastSubmitted', 'lastDownloaded', 'isPending', 'errors', 'warnings')}
+              print('Google receipt: ' + json.dumps(safe, ensure_ascii=False))
+              Path(os.environ['GITHUB_STEP_SUMMARY']).write_text('# Sitemap đã gửi tới Google\nNgười thực hiện: Quang Mai Phú\n\nSố URL công khai: ' + str(len(urls)) + '\n\n' + json.dumps(safe, ensure_ascii=False, indent=2) + '\n\nGoogle tiếp nhận sitemap không có nghĩa toàn bộ URL đã được lập chỉ mục.', encoding='utf-8')
+          finally:
+              session.close()
+          PY

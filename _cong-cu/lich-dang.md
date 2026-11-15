@@ -1,14 +1,10 @@
-# Lịch đăng bài viết – cập nhật 11/11/2026
+# Lịch đăng bài viết – cập nhật 15/11/2026
 <!-- Người tạo: Quang Mai Phú. File tạo tự động bởi _cong-cu/lich-dang.py, không sửa tay. -->
 
-Đã đăng: 15 bài · Hẹn đăng: 102 bài (bài cuối 27/12/2027)
+Đã đăng: 19 bài · Hẹn đăng: 98 bài (bài cuối 27/12/2027)
 
 ## Sắp đăng
 
-- 12/11/2026 – [Tạm ứng hợp đồng xây dựng 2026: mức tạm ứng, bảo lãnh, thu hồi](/tin-tuc/tam-ung-hop-dong-xay-dung-2026.html)
-- 13/11/2026 – [Phí, lệ phí xây dựng giảm 50% đến hết 31/12/2026: khoản nào được giảm?](/tin-tuc/phi-le-phi-xay-dung-giam-50-den-het-2026.html)
-- 14/11/2026 – [Hợp đồng thi công xây nhà ở 2026: những nội dung cần có](/tin-tuc/hop-dong-thi-cong-xay-nha-o-noi-dung-bat-buoc-2026.html)
-- 15/11/2026 – [Nghiệm thu công trình nhà ở 2026: các bước, biên bản, hồ sơ](/tin-tuc/nghiem-thu-cong-trinh-nha-o-2026.html)
 - 16/11/2026 – [Xây nhà ở có bắt buộc thuê giám sát thi công không? (2026)](/tin-tuc/xay-nha-o-co-bat-buoc-thue-giam-sat-thi-cong-2026.html)
 - 17/11/2026 – [Giấy phép xây dựng có thời hạn 2026: điều kiện, hồ sơ, lưu ý](/tin-tuc/giay-phep-xay-dung-co-thoi-han-2026.html)
 - 18/11/2026 – [Những trường hợp không được cấp sổ đỏ theo Luật Đất đai 2024](/tin-tuc/truong-hop-khong-duoc-cap-so-do-2026.html)
@@ -110,6 +106,10 @@
 
 ## Đã đăng (mới nhất trước)
 
+- 15/11/2026 – [Nghiệm thu công trình nhà ở 2026: các bước, biên bản, hồ sơ](/tin-tuc/nghiem-thu-cong-trinh-nha-o-2026.html)
+- 14/11/2026 – [Hợp đồng thi công xây nhà ở 2026: những nội dung cần có](/tin-tuc/hop-dong-thi-cong-xay-nha-o-noi-dung-bat-buoc-2026.html)
+- 13/11/2026 – [Phí, lệ phí xây dựng giảm 50% đến hết 31/12/2026: khoản nào được giảm?](/tin-tuc/phi-le-phi-xay-dung-giam-50-den-het-2026.html)
+- 12/11/2026 – [Tạm ứng hợp đồng xây dựng 2026: mức tạm ứng, bảo lãnh, thu hồi](/tin-tuc/tam-ung-hop-dong-xay-dung-2026.html)
 - 11/11/2026 – [Thuế thu nhập cá nhân khi bán nhà đất 2026: 2% và trường hợp miễn](/tin-tuc/thue-thu-nhap-ca-nhan-khi-ban-nha-dat-2026.html)
 - 10/11/2026 – [Mua nhà hình thành trong tương lai 2026: điều kiện, cọc, bảo lãnh](/tin-tuc/mua-nha-hinh-thanh-trong-tuong-lai-2026.html)
 - 10/11/2026 – [Thẩm định thiết kế PCCC 2026: công trình nào phải làm?](/tin-tuc/tham-dinh-thiet-ke-pccc-cong-trinh-nao-phai-lam-2026.html)

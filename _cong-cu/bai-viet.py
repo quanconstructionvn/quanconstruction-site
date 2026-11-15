@@ -1368,7 +1368,7 @@ BAI = [
                 "Nộp hồ sơ đăng ký biến động tại cơ quan đăng ký đất đai <b>trong 30 ngày</b> kể từ ngày hợp đồng có hiệu lực.",
                 "Giữ biên nhận hồ sơ để chứng minh đã đăng ký đúng hạn.",
             ]),
-            ("note", "Bài viết chỉ tóm tắt để tham khảo, không thay thế văn bản pháp luật. Hồ sơ và thời gian giải quyết đăng ký biến động thực hiện theo nghị định về đăng ký đất đai và văn bản phân định thẩm quyền chính quyền 2 cấp (thư viện của chúng tôi chưa cập nhật đủ). " + 'Nghị định 123/2024/NĐ-CP đang ở trạng thái <b>hết hiệu lực một phần</b> trên Cổng Pháp luật quốc gia; các điều trích dẫn chưa thấy bị sửa đổi trong thư viện của chúng tôi. Sau khi bỏ cấp huyện, thẩm quyền xử phạt và tên gọi đơn vị hành chính (phường, thị trấn) có thể đã được điều chỉnh bởi văn bản về chính quyền địa phương 2 cấp chưa có trong thư viện – nên hỏi UBND xã, phường nơi có đất.'),
+            ("note", "Bài viết chỉ tóm tắt để tham khảo, không thay thế văn bản pháp luật. Hồ sơ và thời gian giải quyết đăng ký biến động thực hiện theo nghị định về đăng ký đất đai và văn bản phân định thẩm quyền chính quyền 2 cấp (thư viện của chúng tôi chưa cập nhật đủ). " + 'Nghị định 123/2024/NĐ-CP đã được sửa đổi, bổ sung bởi Nghị định 281/2026/NĐ-CP (hiệu lực từ 31/08/2026), trong đó có khoản 2 Điều 16 về không đăng ký biến động. Theo thông tin công bố, mức phạt 2.000.000 – 3.000.000 đồng không đổi, đồng thời bổ sung trường hợp không xử phạt khi nhận quyền sử dụng đất để thực hiện dự án đầu tư thông qua thỏa thuận. Thư viện của chúng tôi chưa có toàn văn Nghị định 281/2026/NĐ-CP – nên đối chiếu văn bản này trước khi áp dụng. Sau khi bỏ cấp huyện, thẩm quyền xử phạt và tên gọi đơn vị hành chính (phường, thị trấn) có thể đã được điều chỉnh bởi văn bản về chính quyền địa phương 2 cấp chưa có trong thư viện – nên hỏi UBND xã, phường nơi có đất.'),
         ],
     },
     {
@@ -1687,7 +1687,7 @@ BAI = [
                 "Xây đúng giấy phép – xem " + '<a href="/tin-tuc/xay-nha-khong-phep-sai-phep-bi-phat-the-nao-2026.html">Xây nhà không phép, sai phép bị phạt bao nhiêu?</a>' + " (phạt theo pháp luật xây dựng là khoản riêng).",
                 "Có tranh chấp ranh giới thì hòa giải tại UBND xã, phường trước khi làm tiếp.",
             ]),
-            ("note", "Bài viết chỉ tóm tắt để tham khảo, không thay thế văn bản pháp luật. Thời hiệu xử phạt vi phạm đất đai là 02 năm (" + L("123-2024-nd-cp", "3", "Điều 3") + "). " + 'Nghị định 123/2024/NĐ-CP đang ở trạng thái <b>hết hiệu lực một phần</b> trên Cổng Pháp luật quốc gia; các điều trích dẫn chưa thấy bị sửa đổi trong thư viện của chúng tôi. Sau khi bỏ cấp huyện, thẩm quyền xử phạt và tên gọi đơn vị hành chính (phường, thị trấn) có thể đã được điều chỉnh bởi văn bản về chính quyền địa phương 2 cấp chưa có trong thư viện – nên hỏi UBND xã, phường nơi có đất.'),
+            ("note", "Bài viết chỉ tóm tắt để tham khảo, không thay thế văn bản pháp luật. Thời hiệu xử phạt vi phạm đất đai là 02 năm (" + L("123-2024-nd-cp", "3", "Điều 3") + "). " + 'Nghị định 123/2024/NĐ-CP đã được sửa đổi, bổ sung bởi Nghị định 281/2026/NĐ-CP (hiệu lực từ 31/08/2026), trong đó có quy định về xác định số lợi bất hợp pháp và thẩm quyền xử phạt của Chủ tịch UBND cấp xã. Thư viện của chúng tôi chưa có toàn văn Nghị định 281/2026/NĐ-CP – nên đối chiếu văn bản này trước khi áp dụng. Sau khi bỏ cấp huyện, thẩm quyền xử phạt và tên gọi đơn vị hành chính (phường, thị trấn) có thể đã được điều chỉnh bởi văn bản về chính quyền địa phương 2 cấp chưa có trong thư viện – nên hỏi UBND xã, phường nơi có đất.'),
         ],
     },
     {
@@ -2016,7 +2016,7 @@ BAI = [
                 "Đăng ký biến động mục đích sử dụng đất (" + L("31-2024-qh15", "133", "điểm e khoản 1 Điều 133 Luật Đất đai") + ").",
                 "Sau đó mới xin giấy phép xây dựng và khởi công.",
             ]),
-            ("note", "Bài viết chỉ tóm tắt để tham khảo, không thay thế văn bản pháp luật. Mức phạt nêu trên là khung tiền; mức cụ thể tùy tình tiết. Thủ tục và cơ quan cho phép chuyển mục đích sử dụng đất thực hiện theo văn bản hiện hành về chính quyền địa phương 2 cấp. " + 'Nghị định 123/2024/NĐ-CP đang ở trạng thái <b>hết hiệu lực một phần</b> trên Cổng Pháp luật quốc gia; các điều trích dẫn chưa thấy bị sửa đổi trong thư viện của chúng tôi. Sau khi bỏ cấp huyện, thẩm quyền xử phạt và tên gọi đơn vị hành chính (phường, thị trấn) có thể đã được điều chỉnh bởi văn bản về chính quyền địa phương 2 cấp chưa có trong thư viện – nên hỏi UBND xã, phường nơi có đất.'),
+            ("note", "Bài viết chỉ tóm tắt để tham khảo, không thay thế văn bản pháp luật. Mức phạt nêu trên là khung tiền; mức cụ thể tùy tình tiết. Thủ tục và cơ quan cho phép chuyển mục đích sử dụng đất thực hiện theo văn bản hiện hành về chính quyền địa phương 2 cấp. " + 'Nghị định 123/2024/NĐ-CP đã được sửa đổi, bổ sung bởi Nghị định 281/2026/NĐ-CP (hiệu lực từ 31/08/2026), trong đó có quy định về xác định số lợi bất hợp pháp và thẩm quyền xử phạt của Chủ tịch UBND cấp xã. Thư viện của chúng tôi chưa có toàn văn Nghị định 281/2026/NĐ-CP – nên đối chiếu văn bản này trước khi áp dụng. Sau khi bỏ cấp huyện, thẩm quyền xử phạt và tên gọi đơn vị hành chính (phường, thị trấn) có thể đã được điều chỉnh bởi văn bản về chính quyền địa phương 2 cấp chưa có trong thư viện – nên hỏi UBND xã, phường nơi có đất.'),
         ],
     },
     {

@@ -483,7 +483,7 @@ BAI = [
                 "Một bên nộp hồ sơ đề nghị cấp Giấy chứng nhận (sang tên); nếu nhận nhà cùng quyền sử dụng đất ở thì cơ quan có thẩm quyền đồng thời công nhận quyền sở hữu nhà và quyền sử dụng đất cho bên nhận (" + L("27-2023-qh15", "162", "khoản 2, 3 Điều 162") + ").",
                 "Kê khai, nộp thuế và lệ phí trước bạ theo quy định. Xem thêm bài " + '<a href="/tin-tuc/le-phi-truoc-ba-nha-dat-2026.html">Lệ phí trước bạ nhà đất 2026</a>' + ".",
             ]),
-            ("note", "Bài viết chỉ tóm tắt để tham khảo, không thay thế văn bản pháp luật. Luật Nhà ở 2023, Nghị định 95/2024/NĐ-CP và Luật Đất đai 2024 đã được sửa đổi một số điều; Luật sửa đổi Luật Công chứng số 04/2026/QH16 chưa có hiệu lực (từ 01/01/2027). Khi giao dịch nên đối chiếu văn bản hiện hành và hỏi tổ chức công chứng, UBND xã, phường nơi có nhà."),
+            ("note", "Bài viết chỉ tóm tắt để tham khảo, không thay thế văn bản pháp luật. Luật Nhà ở 2023, Nghị định 95/2024/NĐ-CP và Luật Đất đai 2024 đã được sửa đổi một số điều; Luật sửa đổi Luật Công chứng số 04/2026/QH16 có hiệu lực từ 01/01/2027. Khi giao dịch nên đối chiếu văn bản hiện hành và hỏi tổ chức công chứng, UBND xã, phường nơi có nhà."),
         ],
     },
     {
@@ -530,7 +530,7 @@ BAI = [
             ("h2", "6. Muốn sửa, hủy hợp đồng đã công chứng"),
             ("p", "Sửa đổi, bổ sung, chấm dứt hợp đồng đã công chứng phải có <b>thỏa thuận bằng văn bản của tất cả những người đã ký</b>, và làm tại tổ chức hành nghề công chứng nơi đã công chứng, trừ trường hợp luật quy định khác (" + L("46-2024-qh15", "53", "Điều 53") + ")."),
             ("h2", "7. Điểm mới từ 01/01/2027"),
-            ("p", L("04-2026-qh16", "1", "Luật số 04/2026/QH16 sửa đổi Luật Công chứng") + " <b>chưa có hiệu lực</b> (hiệu lực từ 01/01/2027). Khi có hiệu lực, giấy tờ trong hồ sơ có thể là bản sao điện tử, bản chính điện tử; Chính phủ sẽ quy định lộ trình công chứng giao dịch bất động sản trong phạm vi toàn quốc. Hiện nay vẫn áp dụng các quy định nêu trên."),
+            ("p", L("04-2026-qh16", "1", "Luật số 04/2026/QH16 sửa đổi Luật Công chứng") + " <b>có hiệu lực từ 01/01/2027</b>. Theo Luật này, giấy tờ trong hồ sơ có thể là bản sao điện tử, bản chính điện tử; Chính phủ quy định lộ trình công chứng giao dịch bất động sản trong phạm vi toàn quốc. Khi áp dụng các quy định nêu trên cần đối chiếu cả những điểm đã được Luật này sửa đổi."),
             ("note", "Bài viết chỉ tóm tắt để tham khảo, không thay thế văn bản pháp luật. Luật Công chứng 2024 đã được sửa đổi một số điều theo Luật số 106/2025/QH15 (chưa có trong thư viện của chúng tôi); Luật Nhà ở 2023 và Luật Đất đai 2024 đã được sửa đổi một số điều. Khi giao dịch nên đối chiếu văn bản hiện hành và hỏi trực tiếp tổ chức hành nghề công chứng, UBND xã, phường nơi có nhà đất."),
         ],
     },
@@ -2699,7 +2699,7 @@ BAI = [
         "desc": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng có hiệu lực từ 01/01/2027: hồ sơ điện tử, khai thác dữ liệu thay giấy tờ, công chứng nhà đất, ủy quyền ở hai nơi.",
         "summary": "Tóm tắt các điểm mới của Luật số 04/2026/QH16 sửa đổi Luật Công chứng (hiệu lực từ 01/01/2027) mà người mua bán, tặng cho, ủy quyền nhà đất nên biết.",
         "body": [
-            ("p", "Ngày 23/04/2026, Quốc hội thông qua " + L("04-2026-qh16", "1", "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng") + ". Luật <b>chưa có hiệu lực</b>, sẽ áp dụng từ <b>01/01/2027</b> (" + L("04-2026-qh16", "2", "Điều 2") + "). Đến hết năm 2026 vẫn áp dụng Luật Công chứng 2024. Dưới đây là những thay đổi liên quan trực tiếp đến giao dịch nhà đất."),
+            ("p", "Ngày 23/04/2026, Quốc hội thông qua " + L("04-2026-qh16", "1", "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng") + ". Luật <b>có hiệu lực từ 01/01/2027</b> (" + L("04-2026-qh16", "2", "Điều 2") + "); trước ngày này áp dụng Luật Công chứng 2024. Dưới đây là những thay đổi liên quan trực tiếp đến giao dịch nhà đất."),
             ("h2", "1. Công chứng là “dịch vụ công”"),
             ("p", "Từ 01/01/2027, Luật sửa đổi định nghĩa công chứng là <b>dịch vụ công</b> do công chứng viên thực hiện để chứng nhận tính xác thực, hợp pháp của giao dịch bằng văn bản phải công chứng hoặc do cá nhân, tổ chức tự nguyện yêu cầu. Công chứng viên do <b>Chủ tịch UBND cấp tỉnh</b> bổ nhiệm (" + L("04-2026-qh16", "1", "khoản 1 Điều 1") + ")."),
             ("h2", "2. Giao dịch nào phải công chứng?"),
@@ -2718,7 +2718,7 @@ BAI = [
             ("h2", "6. Cơ sở dữ liệu công chứng thống nhất"),
             ("p", "Cơ sở dữ liệu công chứng gồm thông tin về công chứng viên, giao dịch đã công chứng, <b>tình trạng giao dịch của tài sản</b>, biện pháp ngăn chặn và cảnh báo rủi ro, văn bản công chứng; do Bộ Tư pháp xây dựng thống nhất từ trung ương đến địa phương (" + L("04-2026-qh16", "1", "khoản 16 Điều 1") + "). UBND cấp tỉnh có thể chuyển thẩm quyền chứng thực giao dịch của Chủ tịch UBND cấp xã sang tổ chức hành nghề công chứng tại những xã đã có tổ chức công chứng đáp ứng nhu cầu (" + L("04-2026-qh16", "1", "khoản 7 Điều 1") + ")."),
             ("p", "Thủ tục công chứng hợp đồng mua bán hiện hành xem tại bài " + '<a href="/tin-tuc/cong-chung-hop-dong-mua-ban-nha-dat-2026.html">Công chứng hợp đồng mua bán nhà đất 2026</a>' + "."),
-            ("note", "Bài viết chỉ tóm tắt để tham khảo, không thay thế văn bản pháp luật. Luật số 04/2026/QH16 chưa có hiệu lực (từ 01/01/2027). Luật Công chứng 2024 đã được sửa đổi theo Luật số 106/2025/QH15 (chưa có trong thư viện của chúng tôi), nên phần so sánh dựa trên bản Luật 2024 trong thư viện. Các nghị định hướng dẫn mới có thể bổ sung chi tiết."),
+            ("note", "Bài viết chỉ tóm tắt để tham khảo, không thay thế văn bản pháp luật. Luật số 04/2026/QH16 có hiệu lực từ 01/01/2027. Luật Công chứng 2024 đã được sửa đổi theo Luật số 106/2025/QH15 (chưa có trong thư viện của chúng tôi), nên phần so sánh dựa trên bản Luật 2024 trong thư viện. Các nghị định hướng dẫn mới có thể bổ sung chi tiết."),
         ],
     },
     { "slug": "mat-do-xay-dung-khoang-lui-nha-o-qcvn-01-2026",
@@ -2727,7 +2727,7 @@ BAI = [
         "desc": "QCVN 01:2026/BXD áp dụng từ 01/01/2027: mật độ xây dựng tối đa nhà ở riêng lẻ theo diện tích lô đất, bảng khoảng lùi theo bề rộng đường, lưu ý khu hiện hữu.",
         "summary": "Tóm tắt các chỉ tiêu mật độ xây dựng, khoảng lùi, kích thước lô đất nhà ở riêng lẻ trong QCVN 01:2026/BXD – quy chuẩn quy hoạch mới có hiệu lực từ 01/01/2027.",
         "body": [
-            ("p", "Bộ Xây dựng đã ban hành QCVN 01:2026/BXD – Quy chuẩn kỹ thuật quốc gia về quy hoạch đô thị và nông thôn, kèm " + L("46-2026-tt-bxd", "2", "Thông tư 46/2026/TT-BXD") + ". Quy chuẩn <b>có hiệu lực từ 01/01/2027</b> và thay thế QCVN 01:2021/BXD. Đến hết năm 2026, quy chuẩn mới <b>chưa có hiệu lực</b>; bài viết giúp chủ nhà chuẩn bị trước."),
+            ("p", "Bộ Xây dựng đã ban hành QCVN 01:2026/BXD – Quy chuẩn kỹ thuật quốc gia về quy hoạch đô thị và nông thôn, kèm " + L("46-2026-tt-bxd", "2", "Thông tư 46/2026/TT-BXD") + ". Quy chuẩn <b>có hiệu lực từ 01/01/2027</b> và thay thế QCVN 01:2021/BXD. Bài viết tóm tắt những điểm chủ nhà cần nắm khi áp dụng quy chuẩn mới."),
             ("h2", "1. Hiểu đúng các khái niệm"),
             ("p", "Theo " + L("46-2026-tt-bxd", "1.4", "mục 1.4 QCVN 01:2026") + ":"),
             ("ul", [
@@ -2760,7 +2760,7 @@ BAI = [
             ("p", "Chi tiết kiến trúc nhô ra khỏi chỉ giới xây dựng không được vượt chỉ giới đường đỏ (khi có khoảng lùi), không cản trở giao thông, đi bộ trên vỉa hè và xe chữa cháy. Phần tiếp giáp nhà bên cạnh <b>không vượt ranh giới thửa đất</b> và không ảnh hưởng xấu đến sinh hoạt của công trình bên cạnh (" + L("46-2026-tt-bxd", "2.5", "mục 2.5.7, 2.5.8") + ")."),
             ("h2", "6. Quy hoạch cũ có phải làm lại?"),
             ("p", "Quy hoạch đã phê duyệt trước 01/01/2027 <b>tiếp tục thực hiện</b> đến hết thời hạn; nếu điều chỉnh sau ngày đó thì phải theo quy chuẩn mới (" + L("46-2026-tt-bxd", "5.4", "mục 5.4") + "). Quy chuẩn là công cụ để cơ quan nhà nước kiểm soát quy hoạch; chỉ tiêu áp dụng cho lô đất của anh chị nằm trong quy hoạch chi tiết, thiết kế đô thị và giấy phép xây dựng – xem " + '<a href="/tin-tuc/thu-tuc-xin-giay-phep-xay-dung-nha-o-rieng-le-2026.html">Thủ tục xin giấy phép xây dựng nhà ở riêng lẻ 2026</a>' + "."),
-            ("note", "Bài viết chỉ tóm tắt để tham khảo, không thay thế văn bản pháp luật. QCVN 01:2026/BXD (Thông tư 46/2026/TT-BXD) <b>chưa có hiệu lực</b>, áp dụng từ 01/01/2027; trước thời điểm này vẫn áp dụng QCVN 01:2021/BXD (toàn văn chưa có trong thư viện của chúng tôi). Chỉ tiêu cụ thể của từng lô đất do quy hoạch được duyệt quyết định."),
+            ("note", "Bài viết chỉ tóm tắt để tham khảo, không thay thế văn bản pháp luật. QCVN 01:2026/BXD (Thông tư 46/2026/TT-BXD) có hiệu lực từ 01/01/2027, thay thế QCVN 01:2021/BXD. Chỉ tiêu cụ thể của từng lô đất do quy hoạch được duyệt quyết định."),
         ],
     },
     {

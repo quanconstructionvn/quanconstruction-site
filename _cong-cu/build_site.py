@@ -181,10 +181,10 @@ def content_directory(root, output):
         if 'id="qc-content-navigation"' in page:
             continue
         en = file.relative_to(output).parts[0] == 'en'
-        nav = ('<nav id="qc-content-navigation" class="w" aria-label="'+('Website navigation' if en else 'Dịch vụ và nội dung')+'" style="padding:20px 0;display:flex;gap:20px;flex-wrap:wrap">'
+        nav = ('<div role="navigation" id="qc-content-navigation" class="w" aria-label="'+('Website navigation' if en else 'Dịch vụ và nội dung')+'" style="padding:20px 0;display:flex;gap:20px;flex-wrap:wrap">'
                '<a href="/so-do-trang.html">'+('Website directory' if en else 'Sơ đồ nội dung')+'</a>'
                '<a href="/xay-nha-tron-goi.html">'+('Turnkey construction (Vietnamese)' if en else 'Xây nhà trọn gói')+'</a>'
-               '<a href="/du-toan-boc-khoi-luong.html">'+('Estimating and BOQ (Vietnamese)' if en else 'Dự toán và bóc khối lượng')+'</a></nav>')
+               '<a href="/du-toan-boc-khoi-luong.html">'+('Estimating and BOQ (Vietnamese)' if en else 'Dự toán và bóc khối lượng')+'</a></div>')
         if '</footer>' in page:
             page = page.replace('</footer>',nav+'</footer>',1)
         else:
